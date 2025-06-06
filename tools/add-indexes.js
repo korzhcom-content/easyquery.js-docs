@@ -117,7 +117,7 @@ function processFolder(folderPath) {
 
     let captionIndex = lines.findIndex(line => line.startsWith('# '));
     if (captionIndex !== -1) {
-        let caption = lines[captionIndex].replace(/^#+\s*/, ''); // Remove '#' and spaces
+        let caption = lines[captionIndex].replace("@", "").replace(/^#+\s*/, ''); // Remove '#' and spaces
         lines.splice(captionIndex, 1); // Remove the heading from content
 
         const frontMatter = `---\ntitle: ${caption}\n---\n\n`;

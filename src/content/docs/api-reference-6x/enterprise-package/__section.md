@@ -1,0 +1,2 @@
+# @easyquery/enterprise package
+

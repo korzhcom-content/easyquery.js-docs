@@ -1,0 +1,22 @@
+# Redierects for old articles placed in the wrong sections
+/easyquery/javascript/docs/api-reference-4-x	/easyquery/javascript/docs/api-reference-old/api-reference-4-x
+/easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package	/easyquery/javascript/docs/api-reference-7x/ui-package
+/easyquery/javascript/docs/replacing-datepicker-widget	/easyquery/javascript/docs/tutorials/replacing-datepicker-widget
+/easyquery/javascript/docs/api-reference-6x	/easyquery/javascript/docs/api-reference-old/api-reference-6x
+/easyquery/javascript/docs/api-reference-7x/@easyquery/core-package	/easyquery/javascript/docs/api-reference-7x/core-package
+/easyquery/javascript/docs/api-reference-6x/@easyquery/core-package	/easyquery/javascript/docs/api-reference-6x/core-package
+/easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package	/easyquery/javascript/docs/api-reference-6x/enterprise-package
+/easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package	/easyquery/javascript/docs/api-reference-5-x/ui-package
+/easyquery/javascript/docs/api-reference-6x/@easyquery/locales-package	/easyquery/javascript/docs/api-reference-6x/locales-package
+/easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package	/easyquery/javascript/docs/api-reference-6x/ui-package
+/easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package	/easyquery/javascript/docs/api-reference-7x/enterprise-package
+/easyquery/javascript/docs/api-reference-7x/@easydata/core-package	/easyquery/javascript/docs/api-reference-7x/core-package
+/easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package	/easyquery/javascript/docs/api-reference-5-x/broker-eqs-package
+/easyquery/javascript/docs/api-reference-5-x	/easyquery/javascript/docs/api-reference-old/api-reference-5-x
+/easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package	/easyquery/javascript/docs/api-reference-7x/odata-package
+/easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package	/easyquery/javascript/docs/api-reference-5-x/core-package
+/easyquery/javascript/docs/api-reference-6x/-easyquery/core-package/variables	/easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/variables
+/easyquery/javascript/docs/api-reference-7x/@easydata/ui-package	/easyquery/javascript/docs/api-reference-7x/ui-package
+/easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package	/easyquery/javascript/docs/api-reference-5-x/ui-jquery-package
+/easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package	/easyquery/javascript/docs/api-reference-6x/odata-package
+/easyquery/javascript/docs/api-reference-7x/@easyquery/locales-package	/easyquery/javascript/docs/api-reference-7x/locales-package

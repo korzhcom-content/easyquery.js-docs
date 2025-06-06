@@ -7,9 +7,9 @@ import { rehypeLinks } from './plugins/rehype-links';
 import { updateFrontmatter } from './plugins/update-frontmatter';
 import getSidebar from "./tools/get-sidebar.js"
 
-const base = 'component/docs';
+const base = 'easyquery/javascript/docs';
 const site = 'https://korzh.com';
-const outDir = './dist/component/docs';
+const outDir = './dist/easyquery/javascript/docs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,7 +19,7 @@ export default defineConfig({
 	trailingSlash: "never",
 	integrations: [
 		starlight({
-			title: 'Component.Name',
+			title: 'EasyQuery.JS Documentation',
 			logo: {
 				dark : './src/assets/korzh-docs-white.png',
 				light: './src/assets/korzh-docs-black.png',
@@ -27,9 +27,14 @@ export default defineConfig({
 			favicon: '/favicon.ico',
 			social: [],
 			sidebar: [
-				// { label: "Introduction", slug: "introduction" },
-				...getSidebar("./src/content/docs/getting-started", true),
-				...getSidebar("./src/content/docs/sorting", false),
+				{ label: "Introduction", slug: "introduction" },
+				{ label: "EasyQuery Web Service API", slug: "easyquery-web-service-api" },
+				{ label: "Changelog", slug: "changelog" },
+				...getSidebar("./src/content/docs/tutorials", true),
+				...getSidebar("./src/content/docs/api-reference-7x", true),
+				// ...getSidebar("./src/content/docs/api-reference-6x", true),
+				// ...getSidebar("./src/content/docs/api-reference-5-x", true),
+				// ...getSidebar("./src/content/docs/api-reference-4-x", true),
 			],
 			customCss: [
 				'./src/styles/index.css',

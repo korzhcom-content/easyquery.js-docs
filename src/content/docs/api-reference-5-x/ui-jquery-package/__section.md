@@ -1,0 +1,2 @@
+# @easyquery/ui-jquery package
+

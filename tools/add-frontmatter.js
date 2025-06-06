@@ -33,13 +33,17 @@ function frontmatter(path, options = {}) {
     
     for (const file of files) {
         progressBar.process()
+        const name = basename(file)
+        const dir = dirname(file)
 
+        if (name === 'index.md' || name === 'index.mdx') {
+            // skip index files
+            continue;
+        }
         let fileContent = readFileSync(file, 'utf-8').trim()
         let { data: frontmatter, content } = matter(fileContent)
         const frontMatterPresent = isEmpty(frontmatter) === false
 
-        const name = basename(file)
-        const dir = dirname(file)
     
         if (currDir !== dir) {
             currDir = dir
@@ -63,7 +67,11 @@ function frontmatter(path, options = {}) {
             lines.shift()
             content = lines.join('\n')
         }
-        slug = file.replace('src\\content\\docs\\', '').replace('.md', '').replaceAll('\\', '/')
+        slug = file
+            .replace('src\\content\\docs\\', '')
+            .replace('src/content/docs/', '')
+            .replace('.md', '')
+            .replaceAll('\\', '/')
 
         frontmatter.title = title
         frontmatter.slug = slug        

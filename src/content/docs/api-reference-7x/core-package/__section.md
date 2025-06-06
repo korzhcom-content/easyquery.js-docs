@@ -1,0 +1,2 @@
+# @easydata/core package
+
