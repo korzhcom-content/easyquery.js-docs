@@ -1,0 +1,2 @@
+# eqconsts namespace
+

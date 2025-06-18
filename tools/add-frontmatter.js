@@ -27,26 +27,30 @@ function frontmatter(path, options = {}) {
     const progressBar = new Progress({
         total: files.length,
     })
-    
+
     let index = 1
     let currDir = ''
-    
+
     for (const file of files) {
         progressBar.process()
+        const name = basename(file)
+        const dir = dirname(file)
 
+        if (name === 'index.md' || name === 'index.mdx') {
+            // skip index files
+            continue;
+        }
         let fileContent = readFileSync(file, 'utf-8').trim()
         let { data: frontmatter, content } = matter(fileContent)
         const frontMatterPresent = isEmpty(frontmatter) === false
 
-        const name = basename(file)
-        const dir = dirname(file)
-    
+
         if (currDir !== dir) {
             currDir = dir
             index = 1
-        } 
-        
-        let slug = '' 
+        }
+
+        let slug = ''
         let title = !frontMatterPresent ? name.replace('.md', '').replace('.mdx', '') : frontmatter.title
 
         if (skipUnderLineFiles && name.startsWith('_') || skip.includes(name)) {
@@ -55,19 +59,23 @@ function frontmatter(path, options = {}) {
         }
 
         const lines = content.trim().split('\n')
-        
+
         if (!frontMatterPresent && lines[0].startsWith('# ')) {
             title = lines[0]
-              .replace('# ', '')
-              .replace(":", '')
+                .replace('# ', '')
+                .replace(":", '')
             lines.shift()
             content = lines.join('\n')
         }
-        slug = file.replace('src\\content\\docs\\', '').replace('.md', '').replaceAll('\\', '/')
+        slug = file
+            .replace('src\\content\\docs\\', '')
+            .replace('src/content/docs/', '')
+            .replace('.md', '')
+            .replaceAll('\\', '/')
 
         frontmatter.title = title
-        frontmatter.slug = slug        
-        
+        frontmatter.slug = slug
+
         if (!frontmatter.sidebar) {
             frontmatter.sidebar = {
                 order: 100,
@@ -79,9 +87,9 @@ function frontmatter(path, options = {}) {
             .replaceAll('/http', 'http')
             .replaceAll('https://korzh.com/easyquery/docs', '')
             .replaceAll('https://files.aistant.com/korzh/easyquery-dotnet/images/', '/easyquery/docs/images/')
-        
+
         writeFileSync(file, matter.stringify(newContent, frontmatter), 'utf-8')
-        
+
         index++
     }
 

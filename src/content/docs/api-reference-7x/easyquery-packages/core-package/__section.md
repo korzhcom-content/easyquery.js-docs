@@ -1,0 +1,2 @@
+# @easyquery/core package
+

@@ -1,0 +1,2 @@
+# @easyquery/locales package
+
