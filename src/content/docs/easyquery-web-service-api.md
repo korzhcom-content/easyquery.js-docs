@@ -1,5 +1,5 @@
 ---
-title: '"EasyQuery Web Service API"'
+title: EasyQuery Web Service API
 slug: easyquery-web-service-api
 sidebar:
   order: 100
@@ -33,12 +33,12 @@ Returns the query by model's ID and query ID
 Saves the query defined by `modelId` and `queryId` to the storage on the server. 
 The content of the request is a JSON object which contains the query definition:
 
-```
+```json
 {
-  "query": {
-	    "id": "MyQueryID",
-			.   .   .   .  .
-	}
+    "query": {
+        "id": "MyQueryID",
+        ...    
+    }
 }
 ```
 
@@ -50,7 +50,7 @@ Creates a new query for the model defined in `modelId` and returns it back to th
 The content of the request is a JSON object which might contain the query definition  (including the preferable ID and name of the new query).
 If there is no `query` property in the request content - a default query with some randome ID will be created. 
 
-```
+```json
 {
   "query": {
 	    "id": "MyQueryID",
@@ -71,17 +71,17 @@ If there is no `query` property in the request content - a default query with so
 Returns the list of the queries for specified model (`modelId`) available for the current user.
 The response is a JSON object with the list of query definitions:
 
-```
+```json
 [
-  {
-	   "id":"Query1ID",
-		  .   .   .   .  
-	},
-	{
-	  "id":"Query2ID",
-		  .   .   .   . 
-  },
-	  .   .   .   .   .
+    {
+        "id":"Query1ID",
+        ...  
+    },
+    {
+        "id":"Query2ID",
+        ... 
+    },
+    ...
 ]
 ```
 
@@ -92,12 +92,12 @@ The response is a JSON object with the list of query definitions:
 Synchronizes the changes made in the query on the client-side with the server.
 The content of the request is a JSON object which contains the query definition.
 
-```
+```json
 {
-  "query": {
-	    "id": "MyQueryID",
-			.   .   .   .  .
-	}
+    "query": {
+        "id": "MyQueryID",
+        ...
+    }
 }
 ```
 
@@ -111,28 +111,28 @@ Here `modelId` defines the model this query belongs to and can be used on the se
 The content of the request, as usual, is a JSON object which contains the query definition and chunk (a piece of data) we would like to get. 
 Here is an example:
 
-```
+```json
 {
-  "chunk": {
-      "offset": 0,
-      "limit": 1000,
-      "needTotal": true //defines if we need to get the total number of recrods as well
-  },
-  "query": {
-	    "id": "MyQueryID",
-			.   .   .   .  .
-	},
-	"options": {
-	  "sqlOptions": {
-		  "SelectDistinct": true
-		}, 
-	}
+    "chunk": {
+        "offset": 0,
+        "limit": 1000,
+        "needTotal": true //defines if we need to get the total number of recrods as well
+    },
+    "query": {
+        "id": "MyQueryID",
+        ...
+    },
+    "options": {
+        "sqlOptions": {
+          "SelectDistinct": true
+        } 
+    }
 }
 ```
 
 The response contains the result set itself (`resultSet` property) and some meta information (`meta`) field about the returned data. Here is an example:
 
-```
+```json
 {
   "resultSet": {
     "cols": [
@@ -177,7 +177,7 @@ The response contains the result set itself (`resultSet` property) and some meta
 Get the list of values by the model specified via `modelId` parameter and the value editor specified via `editorId`.
 The response is a JSON object that contains the list of object with `id` and `text` properties each. Example:
 
-```
+```json
 {
   "result":"ok",
 	"values":[
@@ -203,7 +203,7 @@ As you can see the result list can be hirerachical (so, each item can include su
 This operation exports the result of the query with indicated `modelId`  to the specified `format` (e.g. "csv" or "pdf").
 
 The content of the request is a JSON object that contains the query definition:
-```
+```json
 {
   "query": {
 	    "id": "MyQueryID",

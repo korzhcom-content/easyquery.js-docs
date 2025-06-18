@@ -128,6 +128,12 @@ table {
 }
 
 code {
+    --ecIndent: 1.5rem;
     border-radius: 4px;
     white-space: nowrap;
+    
+    .indent {
+        display: inline-block;
+        width: 1em;
+    }
 }

@@ -1,0 +1,134 @@
+---
+title: HttpClient class
+slug: api-reference-old/api-reference-6x/core-package/classes/httpclient-class
+sidebar:
+  order: 100
+---
+
+## Index
+### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#constructors-1)
+- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#constructor)
+
+### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#public-properties-1)
+- [beforeEachRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#beforeeachrequest)
+- [customPayload](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#custompayload)
+- [defaultHeaders](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#defaultheaders)
+
+### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#public-methods-1)
+- [delete](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#delete)
+- [get](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#get)
+- [post](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#post)
+- [put](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#put)
+- [send](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#send)
+
+### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#protected-methods-1)
+- [getEqJsVersionHeader](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class/#geteqjsversionheader)
+
+
+## Constructors
+
+---
+#### constructor
+
+⊕ new HttpClient(): [HttpClient](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpclient-class)
+
+
+---
+
+## Public Properties
+
+---
+### beforeEachRequest
+
+● beforeEachRequest?: (request: [HttpRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class)) => `void`
+
+---
+### customPayload
+
+● customPayload: ``
+
+---
+### defaultHeaders
+
+● defaultHeaders: [HttpHeaders](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttpheaders-interface)
+
+---
+## Public Methods
+
+---
+### delete
+▸ delete(url: `string`,data?: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+#### Parameters:
+- url: `string`
+- data: `any`, *Optional* 
+- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface), *Optional* 
+
+
+**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+
+---
+### get
+▸ get(url: `string`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+#### Parameters:
+- url: `string`
+- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface), *Optional* 
+
+
+**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+
+---
+### post
+▸ post(url: `string`,data: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+#### Parameters:
+- url: `string`
+- data: `any`
+- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface), *Optional* 
+
+
+**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+
+---
+### put
+▸ put(url: `string`,data: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+#### Parameters:
+- url: `string`
+- data: `any`
+- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface), *Optional* 
+
+
+**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+
+---
+### send
+▸ send(method: [HttpMethod](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerationshttpmethod-enum),url: `string`,data?: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+#### Parameters:
+- method: [HttpMethod](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerationshttpmethod-enum)
+- url: `string`
+- data: `any`, *Optional* 
+- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface), *Optional* 
+
+
+**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+
+
+---
+## Protected Methods
+
+---
+### getEqJsVersionHeader
+▸ getEqJsVersionHeader(): `any`
+
+
+**Returns** `any`
+
+
+---

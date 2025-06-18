@@ -1,11 +1,11 @@
 ---
-title: '"Changelog"'
+title: Changelog
 slug: changelog
 sidebar:
   order: 100
 ---
 
-> The .NET version changelog is available by [this link](//////easyquery/javascript/docs/easyquery/javascript/docs/).
+> The .NET version changelog is available by [this link](//easyquery/javascript/docs/easyquery/javascript/docs/).
 
 
 <div id="changelog-start"></div>
@@ -724,4 +724,4 @@ Despite of the version number this is an initial release of EasyQuery.JS with th
 
 EasyQuery.JS is a separate product now with two main editions now: Community and Enterprise. Its UI part was totally rewritten and now does not depend on JQuery.
 
-For more information please read the [Release Notes for version 6.0.0](//////easyquery/javascript/docs/easyquery/javascript/docs/)
+For more information please read the [Release Notes for version 6.0.0](//easyquery/javascript/docs/easyquery/javascript/docs/)

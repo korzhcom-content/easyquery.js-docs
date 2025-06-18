@@ -19,7 +19,7 @@ export default defineConfig({
 	trailingSlash: "never",
 	integrations: [
 		starlight({
-			title: 'EasyQuery.JS Documentation',
+			title: 'EasyQuery.JS',
 			logo: {
 				dark : './src/assets/korzh-docs-white.png',
 				light: './src/assets/korzh-docs-black.png',
@@ -32,9 +32,7 @@ export default defineConfig({
 				{ label: "Changelog", slug: "changelog" },
 				...getSidebar("./src/content/docs/tutorials", true),
 				...getSidebar("./src/content/docs/api-reference-7x", true),
-				// ...getSidebar("./src/content/docs/api-reference-6x", true),
-				// ...getSidebar("./src/content/docs/api-reference-5-x", true),
-				// ...getSidebar("./src/content/docs/api-reference-4-x", true),
+				...getSidebar("./src/content/docs/api-reference-old", true),
 			],
 			customCss: [
 				'./src/styles/index.css',
@@ -49,6 +47,9 @@ export default defineConfig({
 				starlightThemeRapide(),
 				starlightImageZoom(),
 			],
+			expressiveCode: {
+				themes: ['dark-plus', 'github-light']
+			},
 			tableOfContents: {
 				minHeadingLevel: 2,
 				maxHeadingLevel: 4,
