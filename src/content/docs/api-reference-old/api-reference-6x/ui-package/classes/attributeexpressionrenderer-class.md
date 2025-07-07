@@ -7,53 +7,53 @@ sidebar:
 ---
 
 ## Extends
-[ListExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/listexpressionrenderer-class)
+[ListExpressionRenderer](api-reference-old/api-reference-6x/ui-package/classes/listexpressionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#protected-properties-1)
-- [displayedTextElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#displayedtextelement)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#element)
-- [expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#expression)
-- [menu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#menu)
-- [menuItemsList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#menuitemslist)
-- [panel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#panel)
-- [showWhenReady](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#showwhenready)
-- [valueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#valueeditor)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#protected-properties-1)
+- [displayedTextElement](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#displayedtextelement)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#element)
+- [expression](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#expression)
+- [menu](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#menu)
+- [menuItemsList](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#menuitemslist)
+- [panel](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#panel)
+- [showWhenReady](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#showwhenready)
+- [valueEditor](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#valueeditor)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#public-methods-1)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#protected-methods-1)
-- [adjustNewValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#adjustnewvalue)
-- [appear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#appear)
-- [disappear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#disappear)
-- [fillMenuItemsList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#fillmenuitemslist)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getclassestoadd)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getcontext)
-- [getDisplayedElementText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getdisplayedelementtext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getemptytext)
-- [getListName](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getlistname)
-- [getValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getvalue)
-- [getValueText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getvaluetext)
-- [getValuesAsArray](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#getvaluesasarray)
-- [hideLoader](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#hideloader)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#iseditable)
-- [isEmptyValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#isemptyvalue)
-- [renderDisplayedText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#renderdisplayedtext)
-- [renderEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#rendereditor)
-- [renderMenuBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#rendermenublock)
-- [setValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#setvalue)
-- [showLoader](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#showloader)
-- [showValidationError](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#showvalidationerror)
-- [takeDefaultValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#takedefaultvalue)
-- [validateInput](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class/#validateinput)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#protected-methods-1)
+- [adjustNewValue](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#adjustnewvalue)
+- [appear](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#appear)
+- [disappear](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#disappear)
+- [fillMenuItemsList](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#fillmenuitemslist)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getclassestoadd)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getcontext)
+- [getDisplayedElementText](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getdisplayedelementtext)
+- [getEmptyText](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getemptytext)
+- [getListName](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getlistname)
+- [getValue](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getvalue)
+- [getValueText](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getvaluetext)
+- [getValuesAsArray](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#getvaluesasarray)
+- [hideLoader](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#hideloader)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#iseditable)
+- [isEmptyValue](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#isemptyvalue)
+- [renderDisplayedText](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#renderdisplayedtext)
+- [renderEditor](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#rendereditor)
+- [renderMenuBlock](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#rendermenublock)
+- [setValue](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#setvalue)
+- [showLoader](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#showloader)
+- [showValidationError](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#showvalidationerror)
+- [takeDefaultValue](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#takedefaultvalue)
+- [validateInput](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class#validateinput)
 
 
 ## Constructors
@@ -61,12 +61,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new AttributeExpressionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class),expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class),entitiesMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [AttributeExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/attributeexpressionrenderer-class)
+⊕ new AttributeExpressionRenderer(panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class),expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class),entitiesMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [AttributeExpressionRenderer](api-reference-old/api-reference-6x/ui-package/classes/attributeexpressionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
-- expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
-- entitiesMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+- panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
+- expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
+- entitiesMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -87,22 +87,22 @@ sidebar:
 ---
 ### expression
 
-● expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
+● expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
 
 ---
 ### menu
 
-● menu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class) | `null`
+● menu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class) | `null`
 
 ---
 ### menuItemsList
 
-● menuItemsList: [MenuItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/menuitem-interface)[] = ` []`
+● menuItemsList: [MenuItem](api-reference-old/api-reference-6x/ui-package/interfaces/menuitem-interface)[] = ` []`
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
 
 ---
 ### showWhenReady
@@ -112,7 +112,7 @@ sidebar:
 ---
 ### valueEditor
 
-● valueEditor: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)
+● valueEditor: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)
 
 ---
 ## Protected Accessors
@@ -198,10 +198,10 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -345,13 +345,13 @@ sidebar:
 
 ---
 ### validateInput
-▸ validateInput(value: `string`): [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+▸ validateInput(value: `string`): [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 #### Parameters:
 - value: `string`
 
 
-**Returns** [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+**Returns** [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 
 ---

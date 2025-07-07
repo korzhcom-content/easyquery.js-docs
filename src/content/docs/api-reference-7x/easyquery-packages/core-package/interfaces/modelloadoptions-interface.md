@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelloadoptions-interface/#properties-1)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelloadoptions-interface/#modelid)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/modelloadoptions-interface#properties-1)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/modelloadoptions-interface#modelid)
 
 
 

@@ -8,45 +8,45 @@ sidebar:
 Represents a data model
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/metadata-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/metadata-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#public-properties-1)
-- [editors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#editors)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#name)
-- [rootEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#rootentity)
-- [version](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#version)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classes/metadata-class#public-properties-1)
+- [editors](api-reference-7x/easydata-packages/core-package/classes/metadata-class#editors)
+- [id](api-reference-7x/easydata-packages/core-package/classes/metadata-class#id)
+- [name](api-reference-7x/easydata-packages/core-package/classes/metadata-class#name)
+- [rootEntity](api-reference-7x/easydata-packages/core-package/classes/metadata-class#rootentity)
+- [version](api-reference-7x/easydata-packages/core-package/classes/metadata-class#version)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#protected-properties-1)
-- [mainEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#mainentity)
+### [Protected Properties](api-reference-7x/easydata-packages/core-package/classes/metadata-class#protected-properties-1)
+- [mainEntity](api-reference-7x/easydata-packages/core-package/classes/metadata-class#mainentity)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#public-methods-1)
-- [addDefaultValueEditors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#adddefaultvalueeditors)
-- [addOrUpdateValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#addorupdatevalueeditor)
-- [checkAttrProperty](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#checkattrproperty)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#clear)
-- [createEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#createentity)
-- [createEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#createentityattr)
-- [createValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#createvalueeditor)
-- [getAttributeById](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getattributebyid)
-- [getAttributeText](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getattributetext)
-- [getEditorById](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#geteditorbyid)
-- [getEntitiesTree](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getentitiestree)
-- [getEntitiesTreeWithFilter](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getentitiestreewithfilter)
-- [getEntityAttrById](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getentityattrbyid)
-- [getEntityPathByAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getentitypathbyattr)
-- [getFirstAttributeByFilter](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getfirstattributebyfilter)
-- [getFullEntityPathByAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getfullentitypathbyattr)
-- [getId](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getid)
-- [getMainEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getmainentity)
-- [getName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getname)
-- [getRootEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#getrootentity)
-- [isEmpty](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#isempty)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#loadfromdata)
-- [loadFromJSON](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#loadfromjson)
-- [runThroughEntities](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#runthroughentities)
-- [setData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class/#setdata)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classes/metadata-class#public-methods-1)
+- [addDefaultValueEditors](api-reference-7x/easydata-packages/core-package/classes/metadata-class#adddefaultvalueeditors)
+- [addOrUpdateValueEditor](api-reference-7x/easydata-packages/core-package/classes/metadata-class#addorupdatevalueeditor)
+- [checkAttrProperty](api-reference-7x/easydata-packages/core-package/classes/metadata-class#checkattrproperty)
+- [clear](api-reference-7x/easydata-packages/core-package/classes/metadata-class#clear)
+- [createEntity](api-reference-7x/easydata-packages/core-package/classes/metadata-class#createentity)
+- [createEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metadata-class#createentityattr)
+- [createValueEditor](api-reference-7x/easydata-packages/core-package/classes/metadata-class#createvalueeditor)
+- [getAttributeById](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getattributebyid)
+- [getAttributeText](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getattributetext)
+- [getEditorById](api-reference-7x/easydata-packages/core-package/classes/metadata-class#geteditorbyid)
+- [getEntitiesTree](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getentitiestree)
+- [getEntitiesTreeWithFilter](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getentitiestreewithfilter)
+- [getEntityAttrById](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getentityattrbyid)
+- [getEntityPathByAttr](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getentitypathbyattr)
+- [getFirstAttributeByFilter](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getfirstattributebyfilter)
+- [getFullEntityPathByAttr](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getfullentitypathbyattr)
+- [getId](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getid)
+- [getMainEntity](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getmainentity)
+- [getName](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getname)
+- [getRootEntity](api-reference-7x/easydata-packages/core-package/classes/metadata-class#getrootentity)
+- [isEmpty](api-reference-7x/easydata-packages/core-package/classes/metadata-class#isempty)
+- [loadFromData](api-reference-7x/easydata-packages/core-package/classes/metadata-class#loadfromdata)
+- [loadFromJSON](api-reference-7x/easydata-packages/core-package/classes/metadata-class#loadfromjson)
+- [runThroughEntities](api-reference-7x/easydata-packages/core-package/classes/metadata-class#runthroughentities)
+- [setData](api-reference-7x/easydata-packages/core-package/classes/metadata-class#setdata)
 
 
 ## Constructors
@@ -55,7 +55,7 @@ Represents a data model
 #### constructor
 
 The default constructor.
-⊕ new MetaData(): [MetaData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class)
+⊕ new MetaData(): [MetaData](api-reference-7x/easydata-packages/core-package/classes/metadata-class)
 
 
 ---
@@ -67,7 +67,7 @@ The default constructor.
 
 The list of value editors.
 
-● editors: [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class)[]
+● editors: [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class)[]
 
 ---
 ### id
@@ -88,7 +88,7 @@ The name of the data model.
 
 The root entity.
 
-● rootEntity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+● rootEntity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 ---
 ### version
@@ -103,7 +103,7 @@ The version of the data model.
 ---
 ### mainEntity
 
-● mainEntity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class) | `null` = ` null`
+● mainEntity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class) | `null` = ` null`
 
 ---
 ## Public Methods
@@ -122,15 +122,15 @@ Add default value editors.
 ### addOrUpdateValueEditor
 Add or update a value editor.
 
-▸ addOrUpdateValueEditor(id: `string`,tag: `EditorTag`,resType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class)
+▸ addOrUpdateValueEditor(id: `string`,tag: `EditorTag`,resType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class)
 
 #### Parameters:
 - id: `string` - The id.
 - tag: `EditorTag` - The tag.
-- resType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum) - The result type.
+- resType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum) - The result type.
 
 
-**Returns** [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class) - The value editor.
+**Returns** [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class) - The value editor.
 
 
 
@@ -161,32 +161,32 @@ Clears data model.
 
 ---
 ### createEntity
-▸ createEntity(parent?: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)): [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+▸ createEntity(parent?: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)): [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 #### Parameters:
-- parent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), *Optional* 
+- parent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), *Optional* 
 
 
-**Returns** [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+**Returns** [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 
 ---
 ### createEntityAttr
-▸ createEntityAttr(parent?: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)): [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)
+▸ createEntityAttr(parent?: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)): [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)
 
 #### Parameters:
-- parent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), *Optional* 
+- parent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), *Optional* 
 
 
-**Returns** [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)
+**Returns** [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)
 
 
 ---
 ### createValueEditor
-▸ createValueEditor(): [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class)
+▸ createValueEditor(): [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class)
 
 
-**Returns** [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class)
+**Returns** [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class)
 
 
 ---
@@ -194,13 +194,13 @@ Clears data model.
 Gets entity attribute by its ID.
 This function runs through all attributes inside specified model (it's root entity and all its sub-entities).
 
-▸ getAttributeById(attrId: `string`): [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class) | `null`
+▸ getAttributeById(attrId: `string`): [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class) | `null`
 
 #### Parameters:
 - attrId: `string` - The attribute ID.
 
 
-**Returns** [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class) | `null` - The attribute or `null`.
+**Returns** [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class) | `null` - The attribute or `null`.
 
 
 
@@ -208,10 +208,10 @@ This function runs through all attributes inside specified model (it's root enti
 ### getAttributeText
 Gets the attribute text.
 
-▸ getAttributeText(attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class),format: `string`): `string`
+▸ getAttributeText(attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class),format: `string`): `string`
 
 #### Parameters:
-- attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class) - The attribute.
+- attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class) - The attribute.
 - format: `string` - The format.
 
 
@@ -223,13 +223,13 @@ Gets the attribute text.
 ### getEditorById
 Finds editor by its ID.
 
-▸ getEditorById(editorId: `string`): [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class) | `null`
+▸ getEditorById(editorId: `string`): [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class) | `null`
 
 #### Parameters:
 - editorId: `string` - The editor ID.
 
 
-**Returns** [ValueEditor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/valueeditor-class) | `null` - The value editor or `null`.
+**Returns** [ValueEditor](api-reference-7x/easydata-packages/core-package/classes/valueeditor-class) | `null` - The value editor or `null`.
 
 
 
@@ -237,11 +237,11 @@ Finds editor by its ID.
 ### getEntitiesTree
 Gets entities tree.
 
-▸ getEntitiesTree(opts: `any`,filterFunc?: (ent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean`): `any`
+▸ getEntitiesTree(opts: `any`,filterFunc?: (ent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean`): `any`
 
 #### Parameters:
 - opts: `any` - The options.
-- filterFunc: (ent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean`, *Optional*  - The filter function.
+- filterFunc: (ent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean`, *Optional*  - The filter function.
 Takes two parameters, Entity and EntityAttr (second parameter will be null for entities), and returns boolean (true if the corresponding entity or attribute).
 
 
@@ -253,14 +253,14 @@ Takes two parameters, Entity and EntityAttr (second parameter will be null for e
 ### getEntitiesTreeWithFilter
 Gets entities tree due to filter.
 
-▸ getEntitiesTreeWithFilter(filterFunc: (ent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean`): [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)[]
+▸ getEntitiesTreeWithFilter(filterFunc: (ent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean`): [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)[]
 
 #### Parameters:
-- filterFunc: (ent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean` - The filter function.
+- filterFunc: (ent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean` - The filter function.
 Takes two parameters, Entity and EntityAttr (second parameter will be null for entities), and returns boolean (true if the corresponding entity or attribute).
 
 
-**Returns** [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)[] - The tree of the entities and their attributes according to the filter function
+**Returns** [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)[] - The tree of the entities and their attributes according to the filter function
 
 
 
@@ -269,14 +269,14 @@ Takes two parameters, Entity and EntityAttr (second parameter will be null for e
 Gets entity attribute by its ID.
 This function runs through all attributes inside specified entity and all its sub-entities.
 
-▸ getEntityAttrById(entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class),attrId: `string`): [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class) | `null`
+▸ getEntityAttrById(entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class),attrId: `string`): [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class) | `null`
 
 #### Parameters:
-- entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+- entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 - attrId: `string`
 
 
-**Returns** [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class) | `null` - The attribute or `null`.
+**Returns** [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class) | `null` - The attribute or `null`.
 
 
 
@@ -284,10 +284,10 @@ This function runs through all attributes inside specified entity and all its su
 ### getEntityPathByAttr
 Finds entity path by attribute
 
-▸ getEntityPathByAttr(entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class),attrId: `string`,sep: `string`,root: `boolean`): `string`
+▸ getEntityPathByAttr(entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class),attrId: `string`,sep: `string`,root: `boolean`): `string`
 
 #### Parameters:
-- entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class) - The entity.
+- entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class) - The entity.
 - attrId: `string` - The attribute id.
 - sep: `string` - The separator.
 - root: `boolean` - The root option.
@@ -301,14 +301,14 @@ Finds entity path by attribute
 ### getFirstAttributeByFilter
 Finds first attribute by filter.
 
-▸ getFirstAttributeByFilter(filterFunc: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean`): [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)
+▸ getFirstAttributeByFilter(filterFunc: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean`): [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)
 
 #### Parameters:
-- filterFunc: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)) => `boolean` - The filter function. Takes EntityAttr object in parameter and returns boolean
+- filterFunc: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)) => `boolean` - The filter function. Takes EntityAttr object in parameter and returns boolean
 
 
 
-**Returns** [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)
+**Returns** [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)
 
 
 ---
@@ -341,10 +341,10 @@ Gets ID of the data model.
 ### getMainEntity
 Gets the main entity of model
 
-▸ getMainEntity(): [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+▸ getMainEntity(): [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 
-**Returns** [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class) - The main entity.
+**Returns** [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class) - The main entity.
 
 
 
@@ -363,10 +363,10 @@ Gets name of the data model.
 ### getRootEntity
 Gets root entity of the data model.
 
-▸ getRootEntity(): [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+▸ getRootEntity(): [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 
-**Returns** [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class) - The root entity.
+**Returns** [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class) - The root entity.
 
 
 
@@ -385,10 +385,10 @@ Checks wether the data model is empty.
 ### loadFromData
 Loads data model from its JSON representation object.
 
-▸ loadFromData(data: [MetaDataDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metadatadto-interface)): `void`
+▸ loadFromData(data: [MetaDataDTO](api-reference-7x/easydata-packages/core-package/interfaces/metadatadto-interface)): `void`
 
 #### Parameters:
-- data: [MetaDataDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metadatadto-interface) - The JSON representation object.
+- data: [MetaDataDTO](api-reference-7x/easydata-packages/core-package/interfaces/metadatadto-interface) - The JSON representation object.
 
 
 
@@ -413,12 +413,12 @@ Loads data model from JSON.
 ### runThroughEntities
 Scans model's entity tree and calls the callback functions for each attribute and entity.
 
-▸ runThroughEntities(processAttribute?: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class), opts: `any`) => `void`,processEntity?: (entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), opts: `any`) => `void`): `void`
+▸ runThroughEntities(processAttribute?: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class), opts: `any`) => `void`,processEntity?: (entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), opts: `any`) => `void`): `void`
 
 #### Parameters:
-- processAttribute: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class), opts: `any`) => `void`, *Optional*  - The callback function which is called for each attribute in model's entity tree.
+- processAttribute: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class), opts: `any`) => `void`, *Optional*  - The callback function which is called for each attribute in model's entity tree.
 The processed attribute is passed in the first function parameter.
-- processEntity: (entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), opts: `any`) => `void`, *Optional*  - The callback function which is called for each entity in tree.
+- processEntity: (entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), opts: `any`) => `void`, *Optional*  - The callback function which is called for each entity in tree.
 The processed entity is passed in the first function parameter.
 
 
@@ -430,10 +430,10 @@ The processed entity is passed in the first function parameter.
 ### setData
 Sets data to data model.
 
-▸ setData(model: [MetaDataDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metadatadto-interface) | `string`): `void`
+▸ setData(model: [MetaDataDTO](api-reference-7x/easydata-packages/core-package/interfaces/metadatadto-interface) | `string`): `void`
 
 #### Parameters:
-- model: [MetaDataDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metadatadto-interface) | `string` - Its JSON representation object or JSON string.
+- model: [MetaDataDTO](api-reference-7x/easydata-packages/core-package/interfaces/metadatadto-interface) | `string` - Its JSON representation object or JSON string.
 
 
 

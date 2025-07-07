@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/timepickeroptions-interface/#properties-1)
-- [onTimeChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/timepickeroptions-interface/#ontimechanged)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/timepickeroptions-interface#properties-1)
+- [onTimeChanged](api-reference-7x/easydata-packages/ui-package/interfaces/timepickeroptions-interface#ontimechanged)
 
 
 

@@ -9,11 +9,11 @@ sidebar:
 Aggregate function JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#properties-1)
-- [cptn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#cptn)
-- [expr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#expr)
-- [fmt](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#fmt)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#id)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/aggrfuncdata-interface#properties-1)
+- [cptn](api-reference-old/api-reference-5-x/core-package/interfaces/aggrfuncdata-interface#cptn)
+- [expr](api-reference-old/api-reference-5-x/core-package/interfaces/aggrfuncdata-interface#expr)
+- [fmt](api-reference-old/api-reference-5-x/core-package/interfaces/aggrfuncdata-interface#fmt)
+- [id](api-reference-old/api-reference-5-x/core-package/interfaces/aggrfuncdata-interface#id)
 
 
 

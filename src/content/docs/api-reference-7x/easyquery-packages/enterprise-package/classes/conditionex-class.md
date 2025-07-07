@@ -7,57 +7,57 @@ sidebar:
 ---
 
 ## Implements
-[ExpressionParent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface)
+[ExpressionParent](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface)
 
 ## Extends
-[Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+[Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#public-properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#blockid)
-- [enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#enabled)
-- [expressions](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#expressions)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#id)
-- [justAdded](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#justadded)
-- [linkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#linktype)
-- [tag](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#tag)
+### [Public Properties](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#public-properties-1)
+- [blockId](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#blockid)
+- [enabled](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#enabled)
+- [expressions](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#expressions)
+- [id](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#id)
+- [justAdded](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#justadded)
+- [linkType](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#linktype)
+- [tag](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#tag)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#protected-properties-1)
-- [_enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#_enabled)
-- [_id](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#_id)
-- [conditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#conditions)
-- [parent](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#parent)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#query)
+### [Protected Properties](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#protected-properties-1)
+- [_enabled](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#_enabled)
+- [_id](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#_id)
+- [conditions](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#conditions)
+- [parent](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#parent)
+- [query](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#query)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#public-methods-1)
-- [addCondition](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#addcondition)
-- [addExpressionByOperand](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#addexpressionbyoperand)
-- [clearConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#clearconditions)
-- [expressionChanged](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#expressionchanged)
-- [fireChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#firechangedevent)
-- [getConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getconditions)
-- [getExpressionIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getexpressionindex)
-- [getLevel](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getlevel)
-- [getModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getmodel)
-- [getOperatorId](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getoperatorid)
-- [getParent](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getparent)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#getquery)
-- [isEmpty](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#isempty)
-- [isGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#isgroup)
-- [isInJoin](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#isinjoin)
-- [isParameterized](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#isparameterized)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#isreadonly)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#loadfromdata)
-- [removeConditionAt](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#removeconditionat)
-- [saveToData](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#savetodata)
-- [setInJoin](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#setinjoin)
-- [setOperatorId](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#setoperatorid)
-- [setParameterized](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#setparameterized)
-- [setParent](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#setparent)
-- [setReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class/#setreadonly)
+### [Public Methods](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#public-methods-1)
+- [addCondition](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#addcondition)
+- [addExpressionByOperand](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#addexpressionbyoperand)
+- [clearConditions](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#clearconditions)
+- [expressionChanged](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#expressionchanged)
+- [fireChangedEvent](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#firechangedevent)
+- [getConditions](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getconditions)
+- [getExpressionIndex](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getexpressionindex)
+- [getLevel](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getlevel)
+- [getModel](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getmodel)
+- [getOperatorId](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getoperatorid)
+- [getParent](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getparent)
+- [getQuery](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#getquery)
+- [isEmpty](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#isempty)
+- [isGroup](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#isgroup)
+- [isInJoin](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#isinjoin)
+- [isParameterized](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#isparameterized)
+- [isReadOnly](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#isreadonly)
+- [loadFromData](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#loadfromdata)
+- [removeConditionAt](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#removeconditionat)
+- [saveToData](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#savetodata)
+- [setInJoin](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#setinjoin)
+- [setOperatorId](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#setoperatorid)
+- [setParameterized](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#setparameterized)
+- [setParent](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#setparent)
+- [setReadOnly](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class#setreadonly)
 
 
 ## Constructors
@@ -66,11 +66,11 @@ sidebar:
 #### constructor
 
 The default constructor.
-⊕ new ConditionEx(query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class),tag?: [CondTag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/condtag-enum)): [ConditionEx](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/conditionex-class)
+⊕ new ConditionEx(query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class),tag?: [CondTag](api-reference-7x/easyquery-packages/core-package/enumerations/condtag-enum)): [ConditionEx](api-reference-7x/easyquery-packages/enterprise-package/classes/conditionex-class)
 
 #### Parameters:
-- query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
-- tag: [CondTag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/condtag-enum), *Optional*  - The condition tag
+- query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
+- tag: [CondTag](api-reference-7x/easyquery-packages/core-package/enumerations/condtag-enum), *Optional*  - The condition tag
 
 
 
@@ -95,7 +95,7 @@ The block id.
 
 The list of expression.
 
-● expressions: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)[]
+● expressions: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)[]
 
 ---
 ### id
@@ -114,14 +114,14 @@ Condition enabled option.
 
  The linking type.
 
-● linkType: [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum)
+● linkType: [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum)
 
 ---
 ### tag
 
 The condition tag.
 
-● tag: [CondTag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/condtag-enum)
+● tag: [CondTag](api-reference-7x/easyquery-packages/core-package/enumerations/condtag-enum)
 
 ---
 ## Protected Properties
@@ -143,27 +143,27 @@ The value indicating whether this Condition is enabled.
 
 The list of conditions.
 
-● conditions: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)[]
+● conditions: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)[]
 
 ---
 ### parent
 
-● parent: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+● parent: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ---
 ### query
 
-● query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ## Public Methods
 
 ---
 ### addCondition
-▸ addCondition(cond: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)): `number`
+▸ addCondition(cond: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)): `number`
 
 #### Parameters:
-- cond: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- cond: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 
 **Returns** `number`
@@ -171,14 +171,14 @@ The list of conditions.
 
 ---
 ### addExpressionByOperand
-▸ addExpressionByOperand(operand: [Operand](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/operand-class),val?: `string`): [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+▸ addExpressionByOperand(operand: [Operand](api-reference-7x/easyquery-packages/core-package/classes/operand-class),val?: `string`): [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 #### Parameters:
-- operand: [Operand](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/operand-class)
+- operand: [Operand](api-reference-7x/easyquery-packages/core-package/classes/operand-class)
 - val: `string`, *Optional* 
 
 
-**Returns** [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+**Returns** [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 
 ---
@@ -191,10 +191,10 @@ The list of conditions.
 
 ---
 ### expressionChanged
-▸ expressionChanged(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),oldValue: `string`): `void`
+▸ expressionChanged(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),oldValue: `string`): `void`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 - oldValue: `string`
 
 
@@ -203,10 +203,10 @@ The list of conditions.
 
 ---
 ### fireChangedEvent
-▸ fireChangedEvent(condPart?: [ConditionPart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/conditionpart-enum)): `void`
+▸ fireChangedEvent(condPart?: [ConditionPart](api-reference-7x/easyquery-packages/core-package/enumerations/conditionpart-enum)): `void`
 
 #### Parameters:
-- condPart: [ConditionPart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/conditionpart-enum), *Optional* 
+- condPart: [ConditionPart](api-reference-7x/easyquery-packages/core-package/enumerations/conditionpart-enum), *Optional* 
 
 
 **Returns** `void`
@@ -214,18 +214,18 @@ The list of conditions.
 
 ---
 ### getConditions
-▸ getConditions(): [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)[]
+▸ getConditions(): [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)[]
 
 
-**Returns** [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)[]
+**Returns** [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)[]
 
 
 ---
 ### getExpressionIndex
-▸ getExpressionIndex(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)): `number`
+▸ getExpressionIndex(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)): `number`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 
 **Returns** `number`
@@ -241,10 +241,10 @@ The list of conditions.
 
 ---
 ### getModel
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 ---
@@ -257,18 +257,18 @@ The list of conditions.
 
 ---
 ### getParent
-▸ getParent(): [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+▸ getParent(): [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 
-**Returns** [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+**Returns** [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -313,10 +313,10 @@ The list of conditions.
 
 ---
 ### loadFromData
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class),data: `any`): `void`
+▸ loadFromData(model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class),data: `any`): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+- model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 - data: `any`
 
 
@@ -378,10 +378,10 @@ The list of conditions.
 
 ---
 ### setParent
-▸ setParent(parent: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)): `void`
+▸ setParent(parent: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)): `void`
 
 #### Parameters:
-- parent: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- parent: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 
 **Returns** `void`

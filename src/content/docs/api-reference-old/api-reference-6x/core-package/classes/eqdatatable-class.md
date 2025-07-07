@@ -8,27 +8,27 @@ sidebar:
 Represents Google data table class
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#public-methods-1)
-- [addColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#addcolumn)
-- [addRows](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#addrows)
-- [getColumnId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getcolumnid)
-- [getColumnLabel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getcolumnlabel)
-- [getColumnObject](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getcolumnobject)
-- [getColumnProperties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getcolumnproperties)
-- [getColumnType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getcolumntype)
-- [getFormattedValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getformattedvalue)
-- [getNumberOfColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getnumberofcolumns)
-- [getNumberOfRows](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getnumberofrows)
-- [getObject](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getobject)
-- [getValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#getvalue)
-- [isEmpty](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#isempty)
-- [loadFromJSON](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#loadfromjson)
-- [setCell](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#setcell)
-- [setDisplayFormats](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#setdisplayformats)
-- [toJSON](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class/#tojson)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#public-methods-1)
+- [addColumn](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#addcolumn)
+- [addRows](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#addrows)
+- [getColumnId](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getcolumnid)
+- [getColumnLabel](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getcolumnlabel)
+- [getColumnObject](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getcolumnobject)
+- [getColumnProperties](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getcolumnproperties)
+- [getColumnType](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getcolumntype)
+- [getFormattedValue](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getformattedvalue)
+- [getNumberOfColumns](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getnumberofcolumns)
+- [getNumberOfRows](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getnumberofrows)
+- [getObject](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getobject)
+- [getValue](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#getvalue)
+- [isEmpty](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#isempty)
+- [loadFromJSON](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#loadfromjson)
+- [setCell](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#setcell)
+- [setDisplayFormats](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#setdisplayformats)
+- [toJSON](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class#tojson)
 
 
 ## Constructors
@@ -37,7 +37,7 @@ Represents Google data table class
 #### constructor
 
 The default constructor.
-⊕ new EqDataTable(data?: `any`): [EqDataTable](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class)
+⊕ new EqDataTable(data?: `any`): [EqDataTable](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class)
 
 #### Parameters:
 - data: `any`, *Optional*  - The table instance or its JSON representation.
@@ -253,10 +253,10 @@ Sets value to the cell.
 
 ---
 ### setDisplayFormats
-▸ setDisplayFormats(options?: [DataDisplayFormatterOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/datadisplayformatteroptions-interface)): `void`
+▸ setDisplayFormats(options?: [DataDisplayFormatterOptions](api-reference-old/api-reference-6x/core-package/interfaces/datadisplayformatteroptions-interface)): `void`
 
 #### Parameters:
-- options: [DataDisplayFormatterOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/datadisplayformatteroptions-interface), *Optional* 
+- options: [DataDisplayFormatterOptions](api-reference-old/api-reference-6x/core-package/interfaces/datadisplayformatteroptions-interface), *Optional* 
 
 
 **Returns** `void`

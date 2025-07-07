@@ -6,18 +6,18 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#public-methods-1)
-- [show](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#show)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#public-methods-1)
+- [show](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#show)
 
-### [Static Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#static-methods-1)
-- [getSelectedSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#getselectedsettings)
-- [renderFields](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class/#renderfields)
+### [Static Methods](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#static-methods-1)
+- [getSelectedSettings](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#getselectedsettings)
+- [renderFields](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class#renderfields)
 
 
 ## Constructors
@@ -25,10 +25,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new TotalsDialog(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [TotalsDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/totalsdialog-class)
+⊕ new TotalsDialog(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [TotalsDialog](api-reference-7x/easyquery-packages/ui-package/classes/totalsdialog-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -38,7 +38,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods
@@ -67,11 +67,11 @@ sidebar:
 
 ---
 ### renderFields
-▸ renderFields(settings: `any`,context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),parent: `HTMLElement`): `void`
+▸ renderFields(settings: `any`,context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),parent: `HTMLElement`): `void`
 
 #### Parameters:
 - settings: `any`
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 - parent: `HTMLElement`
 
 

@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Extends
-[LoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface)
+[LoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#properties-1)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#modelid)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#queryid)
-- [silent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#silent)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#properties-1)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#modelid)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#queryid)
+- [silent](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#silent)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface#success)
 
 
 
@@ -44,6 +44,6 @@ sidebar:
 ---
 ### success
 
-● success?: (query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)) => `void`
+● success?: (query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)) => `void`
 
 ---

@@ -6,42 +6,42 @@ sidebar:
 ---
 
 ## Index
-- [getAllDataTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#getalldatatypes)
-- [getDateDataTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#getdatedatatypes)
-- [getStringDataTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#getstringdatatypes)
-- [loadModelJson](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#loadmodeljson)
-- [loadNewQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#loadnewquery)
-- [loadQueryJson](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#loadqueryjson)
-- [repeatString](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#repeatstring)
-- [reverseString](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#reversestring)
-- [strEndsWith](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/functions/#strendswith)
+- [getAllDataTypes](api-reference-old/api-reference-6x/core-package/functions#getalldatatypes)
+- [getDateDataTypes](api-reference-old/api-reference-6x/core-package/functions#getdatedatatypes)
+- [getStringDataTypes](api-reference-old/api-reference-6x/core-package/functions#getstringdatatypes)
+- [loadModelJson](api-reference-old/api-reference-6x/core-package/functions#loadmodeljson)
+- [loadNewQuery](api-reference-old/api-reference-6x/core-package/functions#loadnewquery)
+- [loadQueryJson](api-reference-old/api-reference-6x/core-package/functions#loadqueryjson)
+- [repeatString](api-reference-old/api-reference-6x/core-package/functions#repeatstring)
+- [reverseString](api-reference-old/api-reference-6x/core-package/functions#reversestring)
+- [strEndsWith](api-reference-old/api-reference-6x/core-package/functions#strendswith)
 
 #### getAllDataTypes
 
-▸ getAllDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+▸ getAllDataTypes(): [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
 
 ---
 #### getDateDataTypes
 
-▸ getDateDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+▸ getDateDataTypes(): [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
 
 ---
 #### getStringDataTypes
 
-▸ getStringDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+▸ getStringDataTypes(): [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)[]
 
 
 

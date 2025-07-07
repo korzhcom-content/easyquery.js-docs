@@ -7,57 +7,57 @@ sidebar:
 ---
 
 ## Extends
-[AdvancedSearchView](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchview-class)
+[AdvancedSearchView](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchview-class)
 
 ## Index
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#public-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#context)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#public-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#context)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#protected-properties-1)
-- [clearQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#clearquerybutton)
-- [copyQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#copyquerybutton)
-- [disabledClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#disabledclass)
-- [dropdownButtonClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#dropdownbuttonclass)
-- [dropdownContainerClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#dropdowncontainerclass)
-- [dropdownContentClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#dropdowncontentclass)
-- [dropdownShowClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#dropdownshowclass)
-- [executeQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#executequerybutton)
-- [loadQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#loadquerybutton)
-- [newQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#newquerybutton)
-- [queryListSelector](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#querylistselector)
-- [queryNameLabel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#querynamelabel)
-- [removeQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#removequerybutton)
-- [saveQueryButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#savequerybutton)
-- [storageDropButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#storagedropbutton)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#protected-properties-1)
+- [clearQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#clearquerybutton)
+- [copyQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#copyquerybutton)
+- [disabledClass](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#disabledclass)
+- [dropdownButtonClass](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#dropdownbuttonclass)
+- [dropdownContainerClass](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#dropdowncontainerclass)
+- [dropdownContentClass](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#dropdowncontentclass)
+- [dropdownShowClass](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#dropdownshowclass)
+- [executeQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#executequerybutton)
+- [loadQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#loadquerybutton)
+- [newQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#newquerybutton)
+- [queryListSelector](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#querylistselector)
+- [queryNameLabel](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#querynamelabel)
+- [removeQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#removequerybutton)
+- [saveQueryButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#savequerybutton)
+- [storageDropButton](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#storagedropbutton)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#public-methods-1)
-- [executeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#executequery)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#init)
-- [loadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#loadquery)
-- [setDialogService](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#setdialogservice)
-- [syncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#syncquery)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#public-methods-1)
+- [executeQuery](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#executequery)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#getcontext)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#init)
+- [loadQuery](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#loadquery)
+- [setDialogService](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#setdialogservice)
+- [syncQuery](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#syncquery)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#protected-methods-1)
-- [checkIfQueryModified](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#checkifquerymodified)
-- [createChartWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createchartwidget)
-- [createColumnsPanelWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createcolumnspanelwidget)
-- [createEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createentitiespanelwidget)
-- [createLocaleWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createlocalewidget)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createquerypanelwidget)
-- [createResultGridWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#createresultgridwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#enableexportbuttons)
-- [fillLoadQueryButtonMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#fillloadquerybuttonmenu)
-- [hideExportButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#hideexportbuttons)
-- [initDone](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#initdone)
-- [saveCurrentQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#savecurrentquery)
-- [showNewQueryDialog](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#shownewquerydialog)
-- [showQueryChangedDialog](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#showquerychangeddialog)
-- [showRemoveQueryDialog](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#showremovequerydialog)
-- [showSaveQueryDialog](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#showsavequerydialog)
-- [updateQuerySelector](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/advancedsearchviewjquery-class/#updatequeryselector)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#protected-methods-1)
+- [checkIfQueryModified](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#checkifquerymodified)
+- [createChartWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createchartwidget)
+- [createColumnsPanelWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createcolumnspanelwidget)
+- [createEntitiesPanelWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createentitiespanelwidget)
+- [createLocaleWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createlocalewidget)
+- [createQueryPanelWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createquerypanelwidget)
+- [createResultGridWidget](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#createresultgridwidget)
+- [disableExportButtons](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#displayrecordscount)
+- [enableExportButtons](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#enableexportbuttons)
+- [fillLoadQueryButtonMenu](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#fillloadquerybuttonmenu)
+- [hideExportButtons](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#hideexportbuttons)
+- [initDone](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#initdone)
+- [saveCurrentQuery](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#savecurrentquery)
+- [showNewQueryDialog](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#shownewquerydialog)
+- [showQueryChangedDialog](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#showquerychangeddialog)
+- [showRemoveQueryDialog](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#showremovequerydialog)
+- [showSaveQueryDialog](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#showsavequerydialog)
+- [updateQuerySelector](api-reference-old/api-reference-6x/ui-package/classes/advancedsearchviewjquery-class#updatequeryselector)
 
 
 
@@ -66,7 +66,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) = ` new EqContext()`
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) = ` new EqContext()`
 
 ---
 ## Protected Properties
@@ -169,10 +169,10 @@ Builds and executes current query.
 ### getContext
 Returns the context.
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) - [[EqContext]] object.
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) - [[EqContext]] object.
 
 
 
@@ -180,10 +180,10 @@ Returns the context.
 ### init
 Initializes the view.
 
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
+- options: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
 
 
 
@@ -205,10 +205,10 @@ Initializes the view.
 ### setDialogService
 Sets dialog service for the view
 
-▸ setDialogService(dialogService: [DialogService](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface)): `void`
+▸ setDialogService(dialogService: [DialogService](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface)): `void`
 
 #### Parameters:
-- dialogService: [DialogService](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface) - The dialog service.
+- dialogService: [DialogService](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface) - The dialog service.
 
 
 
@@ -241,26 +241,26 @@ Sends current query to back-end.
 
 ---
 ### createChartWidget
-▸ createChartWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createChartWidget(slotElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 
 ---
 ### createColumnsPanelWidget
 Creates the widget that represents Columns Panel.
 
-▸ createColumnsPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 
@@ -268,50 +268,50 @@ Creates the widget that represents Columns Panel.
 ### createEntitiesPanelWidget
 Creates the widget that represents Entity Panel.
 
-▸ createEntitiesPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createEntitiesPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 
 ---
 ### createLocaleWidget
-▸ createLocaleWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createLocaleWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 
 ---
 ### createQueryPanelWidget
 Creates the widget that represents Query Panel.
 
-▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 
 ---
 ### createResultGridWidget
-▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 
 ---

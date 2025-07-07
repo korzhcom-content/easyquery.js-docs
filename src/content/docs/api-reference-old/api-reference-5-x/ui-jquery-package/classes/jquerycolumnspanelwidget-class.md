@@ -7,31 +7,31 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#group)
+### [Protected Properties](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#protected-properties-1)
+- [context](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#context)
+- [group](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#group)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#belongstogroup)
-- [getContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#belongstogroup)
+- [getContext](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#getcontext)
+- [init](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#init)
+- [onProcessEnd](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#protected-methods-1)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#protected-methods-1)
+- [onProcessEndCore](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class#refreshcore)
 
 
 ## Constructors
@@ -39,7 +39,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new JQueryColumnsPanelWidget(slot: `HTMLElement`): [JQueryColumnsPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/jquerycolumnspanelwidget-class)
+⊕ new JQueryColumnsPanelWidget(slot: `HTMLElement`): [JQueryColumnsPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/classes/jquerycolumnspanelwidget-class)
 
 #### Parameters:
 - slot: `HTMLElement`
@@ -60,12 +60,12 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ## Public Methods
@@ -74,10 +74,10 @@ sidebar:
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -87,17 +87,17 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 ---
 ### init
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 - options: `any`, *Optional* 
 
 

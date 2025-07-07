@@ -7,27 +7,27 @@ sidebar:
 ---
 
 ## Extends
-[EqModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqmodelloader-class)
+[EqModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqmodelloader-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#context)
-- [modelLoadingRejectFunc](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#modelloadingrejectfunc)
-- [modelLoadingResolveFunc](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#modelloadingresolvefunc)
-- [modelPromise](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#modelpromise)
+### [Protected Properties](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#context)
+- [modelLoadingRejectFunc](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#modelloadingrejectfunc)
+- [modelLoadingResolveFunc](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#modelloadingresolvefunc)
+- [modelPromise](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#modelpromise)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#public-methods-1)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#getcontext)
-- [getModelPromise](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#getmodelpromise)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#init)
-- [startModelLoading](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#startmodelloading)
+### [Public Methods](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#public-methods-1)
+- [getContext](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#getcontext)
+- [getModelPromise](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#getmodelpromise)
+- [init](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#init)
+- [startModelLoading](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#startmodelloading)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#protected-methods-1)
-- [createModelLoadingPromise](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#createmodelloadingpromise)
-- [sendLoadModelRequest](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class/#sendloadmodelrequest)
+### [Protected Methods](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#protected-methods-1)
+- [createModelLoadingPromise](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#createmodelloadingpromise)
+- [sendLoadModelRequest](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class#sendloadmodelrequest)
 
 
 ## Constructors
@@ -35,10 +35,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataModelLoader(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): [ODataModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odatamodelloader-class)
+⊕ new ODataModelLoader(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: `any`): [ODataModelLoader](api-reference-7x/easyquery-packages/odata-package/classes/odatamodelloader-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 - options: `any`, *Optional* 
 
 
@@ -49,7 +49,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### modelLoadingRejectFunc
@@ -59,32 +59,32 @@ sidebar:
 ---
 ### modelLoadingResolveFunc
 
-● modelLoadingResolveFunc: (value?: [ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface) | `PromiseLike`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt;) => `void`
+● modelLoadingResolveFunc: (value?: [ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface) | `PromiseLike`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt;) => `void`
 
 ---
 ### modelPromise
 
-● modelPromise: `Promise`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt; | `null`
+● modelPromise: `Promise`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt; | `null`
 
 ---
 ## Public Methods
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getModelPromise
 Returns the `Promise` of the model loading process
 
-▸ getModelPromise(): `Promise`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt;
+▸ getModelPromise(): `Promise`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt;
 
 
-**Returns** `Promise`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt;
+**Returns** `Promise`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt;
 
 
 ---
@@ -100,13 +100,13 @@ Returns the `Promise` of the model loading process
 
 ---
 ### startModelLoading
-▸ startModelLoading(options: [ModelLoadOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelloadoptions-interface)): `Promise`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt;
+▸ startModelLoading(options: [ModelLoadOptions](api-reference-7x/easyquery-packages/core-package/interfaces/modelloadoptions-interface)): `Promise`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt;
 
 #### Parameters:
-- options: [ModelLoadOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelloadoptions-interface)
+- options: [ModelLoadOptions](api-reference-7x/easyquery-packages/core-package/interfaces/modelloadoptions-interface)
 
 
-**Returns** `Promise`&lt;[ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)&gt;
+**Returns** `Promise`&lt;[ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)&gt;
 
 
 ---

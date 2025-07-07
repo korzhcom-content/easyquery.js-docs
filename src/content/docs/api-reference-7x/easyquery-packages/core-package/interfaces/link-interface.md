@@ -6,11 +6,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/link-interface/#properties-1)
-- [attrFrom](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/link-interface/#attrfrom)
-- [attrTo](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/link-interface/#attrto)
-- [entityFrom](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/link-interface/#entityfrom)
-- [entityTo](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/link-interface/#entityto)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/link-interface#properties-1)
+- [attrFrom](api-reference-7x/easyquery-packages/core-package/interfaces/link-interface#attrfrom)
+- [attrTo](api-reference-7x/easyquery-packages/core-package/interfaces/link-interface#attrto)
+- [entityFrom](api-reference-7x/easyquery-packages/core-package/interfaces/link-interface#entityfrom)
+- [entityTo](api-reference-7x/easyquery-packages/core-package/interfaces/link-interface#entityto)
 
 
 
@@ -19,21 +19,21 @@ sidebar:
 ---
 ### attrFrom
 
-● attrFrom: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+● attrFrom: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 ---
 ### attrTo
 
-● attrTo: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+● attrTo: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 ---
 ### entityFrom
 
-● entityFrom: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)
+● entityFrom: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)
 
 ---
 ### entityTo
 
-● entityTo: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)
+● entityTo: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)
 
 ---

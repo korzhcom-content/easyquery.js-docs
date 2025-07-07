@@ -8,52 +8,52 @@ sidebar:
 The query panel wiget, implemented without JQuery.
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#destroy)
-- [getAddRowRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getaddrowrenderer)
-- [getConditionGroupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getconditiongroupmenu)
-- [getConditionMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getconditionmenu)
-- [getConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getconditionrenderer)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getcontext)
-- [getEntitiesMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getentitiesmenu)
-- [getExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getexpressionrenderer)
-- [getLinkTypeMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getlinktypemenu)
-- [getOperatorRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getoperatorrenderer)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getquery)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#refresh)
-- [showEntitiesMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#showentitiesmenu)
-- [toggleConditionPicked](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#toggleconditionpicked)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#public-methods-1)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#belongstogroup)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#destroy)
+- [getAddRowRenderer](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getaddrowrenderer)
+- [getConditionGroupMenu](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getconditiongroupmenu)
+- [getConditionMenu](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getconditionmenu)
+- [getConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getconditionrenderer)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getcontext)
+- [getEntitiesMenu](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getentitiesmenu)
+- [getExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getexpressionrenderer)
+- [getLinkTypeMenu](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getlinktypemenu)
+- [getOperatorRenderer](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getoperatorrenderer)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getquery)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#refresh)
+- [showEntitiesMenu](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#showentitiesmenu)
+- [toggleConditionPicked](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#toggleconditionpicked)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#protected-methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#clear)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#refreshcore)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#render)
-- [setOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class/#setoptions)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#protected-methods-1)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#clear)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#destroycore)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#refreshcore)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#render)
+- [setOptions](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class#setoptions)
 
 
 ## Constructors
@@ -62,12 +62,12 @@ The query panel wiget, implemented without JQuery.
 #### constructor
 
 The default constructor.
-⊕ new QueryPanel(slot: `HTMLElement`,customQuery?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)): [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+⊕ new QueryPanel(slot: `HTMLElement`,customQuery?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)): [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
 
-- customQuery: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class), *Optional* 
+- customQuery: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class), *Optional* 
 
 
 ---
@@ -85,12 +85,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -115,10 +115,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -135,103 +135,103 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 
 ---
 ### getAddRowRenderer
-▸ getAddRowRenderer(slot?: `HTMLDivElement`): [BaseElementRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+▸ getAddRowRenderer(slot?: `HTMLDivElement`): [BaseElementRenderer](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class) | `null`
 
 #### Parameters:
 - slot: `HTMLDivElement`, *Optional* 
 
 
-**Returns** [BaseElementRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+**Returns** [BaseElementRenderer](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class) | `null`
 
 
 ---
 ### getConditionGroupMenu
-▸ getConditionGroupMenu(isRoot?: `boolean`): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getConditionGroupMenu(isRoot?: `boolean`): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 #### Parameters:
 - isRoot: `boolean`, *Default value* = `false`
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---
 ### getConditionMenu
-▸ getConditionMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getConditionMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---
 ### getConditionRenderer
-▸ getConditionRenderer(condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),slot?: `HTMLDivElement`): [ConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditionrenderer-class) | `null`
+▸ getConditionRenderer(condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),slot?: `HTMLDivElement`): [ConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/conditionrenderer-class) | `null`
 
 #### Parameters:
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
-**Returns** [ConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditionrenderer-class) | `null`
+**Returns** [ConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/conditionrenderer-class) | `null`
 
 
 ---
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getEntitiesMenu
-▸ getEntitiesMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getEntitiesMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---
 ### getExpressionRenderer
-▸ getExpressionRenderer(expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),slot?: `HTMLDivElement`): [ExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/expressionrenderer-class) | `null`
+▸ getExpressionRenderer(expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),slot?: `HTMLDivElement`): [ExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/expressionrenderer-class) | `null`
 
 #### Parameters:
-- expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
-**Returns** [ExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/expressionrenderer-class) | `null`
+**Returns** [ExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/expressionrenderer-class) | `null`
 
 
 ---
 ### getLinkTypeMenu
-▸ getLinkTypeMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getLinkTypeMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---
 ### getOperatorRenderer
-▸ getOperatorRenderer(condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),text: `string`,slot?: `HTMLDivElement`): [BaseElementRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+▸ getOperatorRenderer(condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),text: `string`,slot?: `HTMLDivElement`): [BaseElementRenderer](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class) | `null`
 
 #### Parameters:
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - text: `string`
 - slot: `HTMLDivElement`, *Optional* 
 
 
-**Returns** [BaseElementRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+**Returns** [BaseElementRenderer](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class) | `null`
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -246,11 +246,11 @@ Returns current context (the one this widget belongs to)
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class) - The context.
+- options: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface), *Optional*  - The options.
 
 
 
@@ -293,10 +293,10 @@ Refreshes the widget's content
 
 ---
 ### showEntitiesMenu
-▸ showEntitiesMenu(options: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)): `void`
+▸ showEntitiesMenu(options: [PopupMenuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface)): `void`
 
 #### Parameters:
-- options: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)
+- options: [PopupMenuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface)
 
 
 **Returns** `void`
@@ -304,10 +304,10 @@ Refreshes the widget's content
 
 ---
 ### toggleConditionPicked
-▸ toggleConditionPicked(condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),force?: `boolean`): `void`
+▸ toggleConditionPicked(condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),force?: `boolean`): `void`
 
 #### Parameters:
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - force: `boolean`, *Default value* = ` undefined`
 
 
@@ -377,10 +377,10 @@ to implement the functionality specific for a particular widget.
 
 ---
 ### setOptions
-▸ setOptions(options?: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface)): `void`
+▸ setOptions(options?: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface)): `void`
 
 #### Parameters:
-- options: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface), *Optional* 
+- options: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface), *Optional* 
 
 
 **Returns** `void`

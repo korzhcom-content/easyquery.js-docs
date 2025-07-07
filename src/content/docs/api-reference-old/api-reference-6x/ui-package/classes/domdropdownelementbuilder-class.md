@@ -7,43 +7,43 @@ sidebar:
 ---
 
 ## Extends
-[DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
+[DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#protected-properties-1)
-- [_onGetMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#_ongetmenu)
-- [_onItemSelected](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#_onitemselected)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#element)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#protected-properties-1)
+- [_onGetMenu](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#_ongetmenu)
+- [_onItemSelected](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#_onitemselected)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#element)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#public-methods-1)
-- [addChild](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addchild)
-- [addChildElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addchildelement)
-- [addClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addclass)
-- [addHtml](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addhtml)
-- [addText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addtext)
-- [appendTo](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#appendto)
-- [attr](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#attr)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#clear)
-- [data](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#data)
-- [hide](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#hide)
-- [html](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#html)
-- [id](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#id)
-- [isVisible](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#isvisible)
-- [off](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#off)
-- [on](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#on)
-- [onGetMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#ongetmenu)
-- [onItemSelected](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#onitemselected)
-- [removeClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#removeclass)
-- [removeStyle](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#removestyle)
-- [setStyle](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#setstyle)
-- [show](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#show)
-- [text](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#text)
-- [title](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#title)
-- [toDOM](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#todom)
-- [toggleClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#toggleclass)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#public-methods-1)
+- [addChild](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#addchild)
+- [addChildElement](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#addchildelement)
+- [addClass](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#addclass)
+- [addHtml](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#addhtml)
+- [addText](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#addtext)
+- [appendTo](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#appendto)
+- [attr](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#attr)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#clear)
+- [data](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#data)
+- [hide](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#hide)
+- [html](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#html)
+- [id](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#id)
+- [isVisible](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#isvisible)
+- [off](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#off)
+- [on](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#on)
+- [onGetMenu](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#ongetmenu)
+- [onItemSelected](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#onitemselected)
+- [removeClass](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#removeclass)
+- [removeStyle](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#removestyle)
+- [setStyle](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#setstyle)
+- [show](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#show)
+- [text](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#text)
+- [title](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#title)
+- [toDOM](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#todom)
+- [toggleClass](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class#toggleclass)
 
 
 ## Constructors
@@ -51,7 +51,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DomDropDownElementBuilder(parent?: `HTMLElement`): [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
+⊕ new DomDropDownElementBuilder(parent?: `HTMLElement`): [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)
 
 #### Parameters:
 - parent: `HTMLElement`, *Optional* 
@@ -64,7 +64,7 @@ sidebar:
 ---
 ### _onGetMenu
 
-● _onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+● _onGetMenu: () => [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### _onItemSelected
@@ -82,7 +82,7 @@ sidebar:
 ---
 ### _onGetMenu
 
-● _onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+● _onGetMenu: () => [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### _onItemSelected
@@ -99,65 +99,65 @@ sidebar:
 
 ---
 ### addChild
-▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"div"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"button"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"a"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"img"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"input"`
-- childBuilder: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"dropdown"`,childBuilder?: (builder: [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"dropdown"`,childBuilder?: (builder: [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"dropdown"`
-- childBuilder: (builder: [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
+▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `string`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
@@ -318,10 +318,10 @@ sidebar:
 
 ---
 ### onGetMenu
-▸ onGetMenu(onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)): `this`
+▸ onGetMenu(onGetMenu: () => [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)): `this`
 
 #### Parameters:
-- onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+- onGetMenu: () => [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 
 **Returns** `this`

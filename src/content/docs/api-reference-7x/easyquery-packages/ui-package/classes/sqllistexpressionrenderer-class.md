@@ -7,58 +7,58 @@ sidebar:
 ---
 
 ## Extends
-[CustomListExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/customlistexpressionrenderer-class)
+[CustomListExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/customlistexpressionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#public-properties-1)
-- [loaderElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#loaderelement)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#public-properties-1)
+- [loaderElement](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#loaderelement)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#element)
-- [expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#expression)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#labelelement)
-- [menu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#menu)
-- [menuItemsList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#menuitemslist)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#panel)
-- [showWhenReady](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#showwhenready)
-- [valueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#valueeditor)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#protected-properties-1)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#element)
+- [expression](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#expression)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#labelelement)
+- [menu](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#menu)
+- [menuItemsList](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#menuitemslist)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#panel)
+- [showWhenReady](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#showwhenready)
+- [valueEditor](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#valueeditor)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#public-methods-1)
-- [adjustWidth](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#adjustwidth)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#public-methods-1)
+- [adjustWidth](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#adjustwidth)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#protected-methods-1)
-- [adjustNewValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#adjustnewvalue)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#closeeditor)
-- [fillMenuItemsList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#fillmenuitemslist)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getclassestoadd)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getcontext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getlabeltext)
-- [getListName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getlistname)
-- [getValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getvalue)
-- [getValueText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getvaluetext)
-- [getValuesAsArray](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#getvaluesasarray)
-- [hideLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#hideloader)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#iseditable)
-- [isEmptyValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#isemptyvalue)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#isreadonly)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#renderlabelelement)
-- [renderMenuBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#rendermenublock)
-- [setValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#setvalue)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#showeditor)
-- [showLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#showloader)
-- [showValidationError](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#showvalidationerror)
-- [takeDefaultValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#takedefaultvalue)
-- [validateInput](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class/#validateinput)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#protected-methods-1)
+- [adjustNewValue](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#adjustnewvalue)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#closeeditor)
+- [fillMenuItemsList](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#fillmenuitemslist)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getclassestoadd)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getcontext)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getlabeltext)
+- [getListName](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getlistname)
+- [getValue](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getvalue)
+- [getValueText](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getvaluetext)
+- [getValuesAsArray](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#getvaluesasarray)
+- [hideLoader](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#hideloader)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#iseditable)
+- [isEmptyValue](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#isemptyvalue)
+- [isReadOnly](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#isreadonly)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#renderlabelelement)
+- [renderMenuBlock](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#rendermenublock)
+- [setValue](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#setvalue)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#showeditor)
+- [showLoader](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#showloader)
+- [showValidationError](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#showvalidationerror)
+- [takeDefaultValue](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#takedefaultvalue)
+- [validateInput](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class#validateinput)
 
 
 ## Constructors
@@ -66,12 +66,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new SqlListExpressionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [SqlListExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sqllistexpressionrenderer-class)
+⊕ new SqlListExpressionRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [SqlListExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/sqllistexpressionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
-- valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
+- valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -95,7 +95,7 @@ sidebar:
 ---
 ### expression
 
-● expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+● expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 ---
 ### labelElement
@@ -105,17 +105,17 @@ sidebar:
 ---
 ### menu
 
-● menu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class) | `null`
+● menu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class) | `null`
 
 ---
 ### menuItemsList
 
-● menuItemsList: [MenuItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface)[] = ` []`
+● menuItemsList: [MenuItem](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface)[] = ` []`
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ### showWhenReady
@@ -125,7 +125,7 @@ sidebar:
 ---
 ### valueEditor
 
-● valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+● valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 
 ---
 ## Protected Accessors
@@ -211,10 +211,10 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -374,13 +374,13 @@ sidebar:
 
 ---
 ### validateInput
-▸ validateInput(value: `string`): [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+▸ validateInput(value: `string`): [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 #### Parameters:
 - value: `string`
 
 
-**Returns** [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+**Returns** [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 
 ---

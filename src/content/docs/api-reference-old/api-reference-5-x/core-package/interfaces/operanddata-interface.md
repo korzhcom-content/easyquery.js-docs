@@ -9,12 +9,12 @@ sidebar:
 Operand JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#properties-1)
-- [dtype](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#dtype)
-- [editor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#editor)
-- [kind](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#kind)
-- [txt](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#txt)
-- [val](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operanddata-interface/#val)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#properties-1)
+- [dtype](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#dtype)
+- [editor](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#editor)
+- [kind](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#kind)
+- [txt](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#txt)
+- [val](api-reference-old/api-reference-5-x/core-package/interfaces/operanddata-interface#val)
 
 
 
@@ -25,7 +25,7 @@ Operand JSON representation object.
 
 The data type.
 
-● dtype: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum)
+● dtype: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum)
 
 ---
 ### editor
@@ -39,7 +39,7 @@ The editor id.
 
 The data kind.
 
-● kind: [DataKind](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datakind-enum)
+● kind: [DataKind](api-reference-old/api-reference-5-x/core-package/enumerations/datakind-enum)
 
 ---
 ### txt

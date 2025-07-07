@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/dataloader-interface/#properties-1)
-- [loadChunk](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/dataloader-interface/#loadchunk)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/dataloader-interface#properties-1)
+- [loadChunk](api-reference-7x/easydata-packages/core-package/interfaces/dataloader-interface#loadchunk)
 
 
 
@@ -17,6 +17,6 @@ sidebar:
 ---
 ### loadChunk
 
-● loadChunk: (params?: [DataChunkDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunkdescriptor-interface)) => `Promise`&lt;[DataChunk](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunk-interface)&gt;
+● loadChunk: (params?: [DataChunkDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datachunkdescriptor-interface)) => `Promise`&lt;[DataChunk](api-reference-7x/easydata-packages/core-package/interfaces/datachunk-interface)&gt;
 
 ---

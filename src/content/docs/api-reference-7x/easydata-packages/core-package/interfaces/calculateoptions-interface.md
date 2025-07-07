@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface/#properties-1)
-- [maxLevel](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface/#maxlevel)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface#properties-1)
+- [maxLevel](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface#maxlevel)
 
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface/#methods-1)
-- [resultsObtained](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface/#resultsobtained)
+### [Methods](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface#methods-1)
+- [resultsObtained](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface#resultsobtained)
 
 
 

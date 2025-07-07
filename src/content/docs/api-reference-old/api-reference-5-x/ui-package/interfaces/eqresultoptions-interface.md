@@ -9,11 +9,11 @@ sidebar:
 Options that define how to display the query execution results
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#properties-1)
-- [chartProviderResolver](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#chartproviderresolver)
-- [clearResultOnQueryChange](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#clearresultonquerychange)
-- [paging](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#paging)
-- [showChart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#showchart)
+### [Properties](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface#properties-1)
+- [chartProviderResolver](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface#chartproviderresolver)
+- [clearResultOnQueryChange](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface#clearresultonquerychange)
+- [paging](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface#paging)
+- [showChart](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface#showchart)
 
 
 
@@ -22,7 +22,7 @@ Options that define how to display the query execution results
 ---
 ### chartProviderResolver
 
-● chartProviderResolver?: () => [ChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface)
+● chartProviderResolver?: () => [ChartProvider](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface)
 
 ---
 ### clearResultOnQueryChange
@@ -32,7 +32,7 @@ Options that define how to display the query execution results
 ---
 ### paging
 
-● paging?: [EqPagingOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface)
+● paging?: [EqPagingOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface)
 
 ---
 ### showChart

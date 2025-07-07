@@ -7,19 +7,19 @@ sidebar:
 ---
 
 ## Implements
-[QueryStorage](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface)
+[QueryStorage](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#public-methods-1)
-- [getQueryList](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#getquerylist)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#init)
-- [loadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#loadquery)
-- [newQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#newquery)
-- [removeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#removequery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class/#savequery)
+### [Public Methods](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#public-methods-1)
+- [getQueryList](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#getquerylist)
+- [init](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#init)
+- [loadQuery](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#loadquery)
+- [newQuery](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#newquery)
+- [removeQuery](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#removequery)
+- [saveQuery](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class#savequery)
 
 
 ## Constructors
@@ -27,10 +27,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerQueryStorage(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [EqServerQueryStorage](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/eqserverquerystorage-class)
+⊕ new EqServerQueryStorage(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [EqServerQueryStorage](api-reference-old/api-reference-6x/enterprise-package/classes/eqserverquerystorage-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -39,13 +39,13 @@ sidebar:
 
 ---
 ### getQueryList
-▸ getQueryList(options?: `any`): `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+▸ getQueryList(options?: `any`): `Promise`&lt;[QueryListItem](api-reference-old/api-reference-6x/core-package/interfaces/querylistitem-interface)[]&gt;
 
 #### Parameters:
 - options: `any`, *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+**Returns** `Promise`&lt;[QueryListItem](api-reference-old/api-reference-6x/core-package/interfaces/querylistitem-interface)[]&gt;
 
 
 ---

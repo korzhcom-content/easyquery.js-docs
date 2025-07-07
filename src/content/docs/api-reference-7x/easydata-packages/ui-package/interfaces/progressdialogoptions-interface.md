@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#properties-1)
-- [beforeOpen](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#beforeopen)
-- [content](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#content)
-- [determinated](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#determinated)
-- [height](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#height)
-- [onSubmit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#onsubmit)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#title)
-- [width](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface/#width)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#properties-1)
+- [beforeOpen](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#beforeopen)
+- [content](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#content)
+- [determinated](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#determinated)
+- [height](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#height)
+- [onSubmit](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#onsubmit)
+- [title](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#title)
+- [width](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface#width)
 
 
 

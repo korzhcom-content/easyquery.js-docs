@@ -8,10 +8,10 @@ sidebar:
 Represents EasyQuery event type
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface/#data)
-- [source](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface/#source)
-- [type](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface/#type)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface#properties-1)
+- [data](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface#data)
+- [source](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface#source)
+- [type](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface#type)
 
 
 

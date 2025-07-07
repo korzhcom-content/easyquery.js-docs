@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartpaneloptions-interface/#properties-1)
-- [chartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartpaneloptions-interface/#chartprovider)
-- [chartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartpaneloptions-interface/#charttype)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/chartpaneloptions-interface#properties-1)
+- [chartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartpaneloptions-interface#chartprovider)
+- [chartType](api-reference-old/api-reference-6x/ui-package/interfaces/chartpaneloptions-interface#charttype)
 
 
 
@@ -20,7 +20,7 @@ sidebar:
 
 The cart provider.
 
-● chartProvider: [ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface)
+● chartProvider: [ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface)
 
 ---
 ### chartType

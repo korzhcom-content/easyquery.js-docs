@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface/#methods-1)
-- [loadValueList](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface/#loadvaluelist)
+### [Methods](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface#methods-1)
+- [loadValueList](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface#loadvaluelist)
 
 
 
@@ -16,13 +16,13 @@ sidebar:
 
 ---
 ### loadValueList
-▸ loadValueList(options?: [LoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistoptions-interface)): `Promise`&lt;[ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]&gt;
+▸ loadValueList(options?: [LoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistoptions-interface)): `Promise`&lt;[ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]&gt;
 
 #### Parameters:
-- options: [LoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistoptions-interface), *Optional* 
+- options: [LoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]&gt;
+**Returns** `Promise`&lt;[ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]&gt;
 
 
 ---

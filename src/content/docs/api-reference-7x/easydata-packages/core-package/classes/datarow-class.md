@@ -6,14 +6,14 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/datarow-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/datarow-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#public-methods-1)
-- [getValue](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#getvalue)
-- [setValue](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#setvalue)
-- [size](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#size)
-- [toArray](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class/#toarray)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classes/datarow-class#public-methods-1)
+- [getValue](api-reference-7x/easydata-packages/core-package/classes/datarow-class#getvalue)
+- [setValue](api-reference-7x/easydata-packages/core-package/classes/datarow-class#setvalue)
+- [size](api-reference-7x/easydata-packages/core-package/classes/datarow-class#size)
+- [toArray](api-reference-7x/easydata-packages/core-package/classes/datarow-class#toarray)
 
 
 ## Constructors
@@ -21,10 +21,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DataRow(columns: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class),values: `any`[]): [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+⊕ new DataRow(columns: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class),values: `any`[]): [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 #### Parameters:
-- columns: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
+- columns: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
 - values: `any`[]
 
 

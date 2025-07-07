@@ -9,70 +9,70 @@ sidebar:
 The EasyQuery client-side view that represents the UI for data filtering page
 
 ## Extends
-[DataFilterView](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datafilterview-class)
+[DataFilterView](api-reference-7x/easyquery-packages/ui-package/classes/datafilterview-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#protected-properties-1)
-- [chartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#chartwidget)
-- [columnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#columnsbarwidget)
-- [columnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#columnspanelwidget)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#context)
-- [domRoots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#domroots)
-- [enableExport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#enableexport)
-- [entitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#entitiespanelwidget)
-- [exportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#exportwidget)
-- [filterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#filterbarwidget)
-- [localeWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#localewidget)
-- [processWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#processwidget)
-- [queryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#querynamewidget)
-- [queryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#querypanelwidget)
-- [resultCountSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resultcountslot)
-- [resultFacetPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resultfacetpanelwidget)
-- [resultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resultgridwidget)
-- [resultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resultoptions)
-- [resultPanelSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resultpanelslot)
-- [sortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#sortingbarwidget)
-- [statementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#statementpanelwidget)
-- [statementWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#statementwidget)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#protected-properties-1)
+- [chartWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#chartwidget)
+- [columnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#columnsbarwidget)
+- [columnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#columnspanelwidget)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#context)
+- [domRoots](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#domroots)
+- [enableExport](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#enableexport)
+- [entitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#entitiespanelwidget)
+- [exportWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#exportwidget)
+- [filterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#filterbarwidget)
+- [localeWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#localewidget)
+- [processWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#processwidget)
+- [queryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#querynamewidget)
+- [queryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#querypanelwidget)
+- [resultCountSlot](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resultcountslot)
+- [resultFacetPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resultfacetpanelwidget)
+- [resultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resultgridwidget)
+- [resultOptions](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resultoptions)
+- [resultPanelSlot](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resultpanelslot)
+- [sortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#sortingbarwidget)
+- [statementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#statementpanelwidget)
+- [statementWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#statementwidget)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#public-methods-1)
-- [applyQueryFilter](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#applyqueryfilter)
-- [detach](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#detach)
-- [executeQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#executequery)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#fetchdata)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#init)
-- [setDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#setdialogservice)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#public-methods-1)
+- [applyQueryFilter](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#applyqueryfilter)
+- [detach](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#detach)
+- [executeQuery](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#executequery)
+- [fetchData](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#fetchdata)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#getcontext)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#init)
+- [setDialogService](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#setdialogservice)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#protected-methods-1)
-- [createChartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createchartwidget)
-- [createColumnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createcolumnsbarwidget)
-- [createColumnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createcolumnspanelwidget)
-- [createEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createentitiespanelwidget)
-- [createExportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createexportwidget)
-- [createFilterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createfilterbarwidget)
-- [createLocaleWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createlocalewidget)
-- [createProcessWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createprocesswidget)
-- [createQueryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createquerynamewidget)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createquerypanelwidget)
-- [createResultFacetsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createresultfacetspanel)
-- [createResultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createresultgridwidget)
-- [createSortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createsortingbarwidget)
-- [createStatementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#createstatementpanelwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#enableexportbuttons)
-- [hideResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#hideresultspinner)
-- [initDone](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#initdone)
-- [initOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#initoptions)
-- [initWidgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#initwidgets)
-- [resolveElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resolveelement)
-- [resolveElementsByClassName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#resolveelementsbyclassname)
-- [showResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#showresultspinner)
-- [toggleExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class/#toggleexportbuttons)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#protected-methods-1)
+- [createChartWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createchartwidget)
+- [createColumnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createcolumnsbarwidget)
+- [createColumnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createcolumnspanelwidget)
+- [createEntitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createentitiespanelwidget)
+- [createExportWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createexportwidget)
+- [createFilterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createfilterbarwidget)
+- [createLocaleWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createlocalewidget)
+- [createProcessWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createprocesswidget)
+- [createQueryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createquerynamewidget)
+- [createQueryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createquerypanelwidget)
+- [createResultFacetsPanel](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createresultfacetspanel)
+- [createResultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createresultgridwidget)
+- [createSortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createsortingbarwidget)
+- [createStatementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#createstatementpanelwidget)
+- [disableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#displayrecordscount)
+- [enableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#enableexportbuttons)
+- [hideResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#hideresultspinner)
+- [initDone](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#initdone)
+- [initOptions](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#initoptions)
+- [initWidgets](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#initwidgets)
+- [resolveElement](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resolveelement)
+- [resolveElementsByClassName](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#resolveelementsbyclassname)
+- [showResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#showresultspinner)
+- [toggleExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class#toggleexportbuttons)
 
 
 ## Constructors
@@ -80,7 +80,7 @@ The EasyQuery client-side view that represents the UI for data filtering page
 ---
 #### constructor
 
-⊕ new HtmlDataFilterView(): [HtmlDataFilterView](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/htmldatafilterview-class)
+⊕ new HtmlDataFilterView(): [HtmlDataFilterView](api-reference-7x/easyquery-packages/ui-package/classes/htmldatafilterview-class)
 
 
 ---
@@ -90,22 +90,22 @@ The EasyQuery client-side view that represents the UI for data filtering page
 ---
 ### chartWidget
 
-● chartWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● chartWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### columnsBarWidget
 
-● columnsBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### columnsPanelWidget
 
-● columnsPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### domRoots
@@ -120,37 +120,37 @@ The EasyQuery client-side view that represents the UI for data filtering page
 ---
 ### entitiesPanelWidget
 
-● entitiesPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● entitiesPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### exportWidget
 
-● exportWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● exportWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### filterBarWidget
 
-● filterBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● filterBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### localeWidget
 
-● localeWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● localeWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### processWidget
 
-● processWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● processWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryNameWidget
 
-● queryNameWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryNameWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryPanelWidget
 
-● queryPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultCountSlot
@@ -160,17 +160,17 @@ The EasyQuery client-side view that represents the UI for data filtering page
 ---
 ### resultFacetPanelWidget
 
-● resultFacetPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultFacetPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultGridWidget
 
-● resultGridWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultGridWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultOptions
 
-● resultOptions: [EqResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● resultOptions: [EqResultOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### resultPanelSlot
@@ -180,17 +180,17 @@ The EasyQuery client-side view that represents the UI for data filtering page
 ---
 ### sortingBarWidget
 
-● sortingBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● sortingBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementPanelWidget
 
-● statementPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementWidget
 
-● statementWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ## Public Methods
@@ -235,18 +235,18 @@ Use fetchData() instead
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### init
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -273,13 +273,13 @@ Sets dialog service for the view
 ### createChartWidget
 Creates the widget that represents Chart Widget.
 
-▸ createChartWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createChartWidget(slotElement: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -287,13 +287,13 @@ Creates the widget that represents Chart Widget.
 ### createColumnsBarWidget
 Creates the widget that represents Columns Bar.
 
-▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -301,13 +301,13 @@ Creates the widget that represents Columns Bar.
 ### createColumnsPanelWidget
 Creates the widget that represents Columns Panel.
 
-▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -315,13 +315,13 @@ Creates the widget that represents Columns Panel.
 ### createEntitiesPanelWidget
 Creates the widget that represents Entity Panel.
 
-▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -329,27 +329,27 @@ Creates the widget that represents Entity Panel.
 ### createExportWidget
 Creates the widget that represents Export funcionality.
 
-▸ createExportWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createExportWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createFilterBarWidget
 Creates the widget that represents Filter Bar.
 
-▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -357,13 +357,13 @@ Creates the widget that represents Filter Bar.
 ### createLocaleWidget
 Creates the widget that represents Locale Widget.
 
-▸ createLocaleWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createLocaleWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -371,13 +371,13 @@ Creates the widget that represents Locale Widget.
 ### createProcessWidget
 Creates the widget that represents Process Widget.
 
-▸ createProcessWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createProcessWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -385,13 +385,13 @@ Creates the widget that represents Process Widget.
 ### createQueryNameWidget
 Creates the widget that represents Query Name Widget.
 
-▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -399,13 +399,13 @@ Creates the widget that represents Query Name Widget.
 ### createQueryPanelWidget
 Creates the widget that represents Query Panel.
 
-▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -413,27 +413,27 @@ Creates the widget that represents Query Panel.
 ### createResultFacetsPanel
 Creates the widget that represents Result Facets Panel Widget.
 
-▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createResultGridWidget
 Creates the widget that represents Grid Widget.
 
-▸ createResultGridWidget(element: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultGridWidget(element: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - element: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -441,13 +441,13 @@ Creates the widget that represents Grid Widget.
 ### createSortingBarWidget
 Creates the widget that represents Sorting Bar.
 
-▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -455,14 +455,14 @@ Creates the widget that represents Sorting Bar.
 ### createStatementPanelWidget
 Creates the widget that represents Statement Panel Widget.
 
-▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
@@ -513,21 +513,21 @@ Shows records count.
 
 ---
 ### initOptions
-▸ initOptions(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+▸ initOptions(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
-**Returns** [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+**Returns** [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)
 
 
 ---
 ### initWidgets
-▸ initWidgets(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ initWidgets(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
 **Returns** `void`

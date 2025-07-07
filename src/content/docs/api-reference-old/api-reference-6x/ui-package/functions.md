@@ -6,24 +6,24 @@ sidebar:
 ---
 
 ## Index
-- [addCssClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#addcssclass)
-- [addElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#addelement)
-- [convertOldOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#convertoldoptions)
-- [createBrowserEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#createbrowserevent)
-- [domel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#domel)
-- [getDocSize](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#getdocsize)
-- [getElementAbsolutePos](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#getelementabsolutepos)
-- [getScrollPos](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#getscrollpos)
-- [getViewportSize](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#getviewportsize)
-- [getWinSize](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#getwinsize)
-- [hideElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#hideelement)
-- [isVisible](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#isvisible)
-- [renderPageNavigator](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#renderpagenavigator)
-- [showElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#showelement)
-- [slideDown](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#slidedown)
-- [slideUp](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#slideup)
-- [toggleVisibility](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#togglevisibility)
-- [wrapInner](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/functions/#wrapinner)
+- [addCssClass](api-reference-old/api-reference-6x/ui-package/functions#addcssclass)
+- [addElement](api-reference-old/api-reference-6x/ui-package/functions#addelement)
+- [convertOldOptions](api-reference-old/api-reference-6x/ui-package/functions#convertoldoptions)
+- [createBrowserEvent](api-reference-old/api-reference-6x/ui-package/functions#createbrowserevent)
+- [domel](api-reference-old/api-reference-6x/ui-package/functions#domel)
+- [getDocSize](api-reference-old/api-reference-6x/ui-package/functions#getdocsize)
+- [getElementAbsolutePos](api-reference-old/api-reference-6x/ui-package/functions#getelementabsolutepos)
+- [getScrollPos](api-reference-old/api-reference-6x/ui-package/functions#getscrollpos)
+- [getViewportSize](api-reference-old/api-reference-6x/ui-package/functions#getviewportsize)
+- [getWinSize](api-reference-old/api-reference-6x/ui-package/functions#getwinsize)
+- [hideElement](api-reference-old/api-reference-6x/ui-package/functions#hideelement)
+- [isVisible](api-reference-old/api-reference-6x/ui-package/functions#isvisible)
+- [renderPageNavigator](api-reference-old/api-reference-6x/ui-package/functions#renderpagenavigator)
+- [showElement](api-reference-old/api-reference-6x/ui-package/functions#showelement)
+- [slideDown](api-reference-old/api-reference-6x/ui-package/functions#slidedown)
+- [slideUp](api-reference-old/api-reference-6x/ui-package/functions#slideup)
+- [toggleVisibility](api-reference-old/api-reference-6x/ui-package/functions#togglevisibility)
+- [wrapInner](api-reference-old/api-reference-6x/ui-package/functions#wrapinner)
 
 #### addCssClass
 
@@ -62,13 +62,13 @@ Creates ands adds a new [[HTMLElement]] to "parent"
 
 Converts options from old 4.x format to [[EqViewOptions]]
 
-▸ convertOldOptions(defaultOptions: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+▸ convertOldOptions(defaultOptions: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface)
 
 #### Parameters:
-- defaultOptions: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface) - The default [[EqViewOptions]] object to be extended by old options.
+- defaultOptions: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface) - The default [[EqViewOptions]] object to be extended by old options.
 
 
-**Returns** [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface) - Converted [[EqViewOptions]] object.
+**Returns** [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface) - Converted [[EqViewOptions]] object.
 
 
 
@@ -87,70 +87,70 @@ Converts options from old 4.x format to [[EqViewOptions]]
 ---
 #### domel
 
-▸ domel(tag: `"div"` | `HTMLDivElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
+▸ domel(tag: `"div"` | `HTMLDivElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
 
 #### Parameters:
 - tag: `"div"` | `HTMLDivElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
-▸ domel(tag: `"span"` | `HTMLSpanElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
+▸ domel(tag: `"span"` | `HTMLSpanElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
 
 #### Parameters:
 - tag: `"span"` | `HTMLSpanElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
-▸ domel(tag: `"a"` | `HTMLAnchorElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
+▸ domel(tag: `"a"` | `HTMLAnchorElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
 
 #### Parameters:
 - tag: `"a"` | `HTMLAnchorElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
-▸ domel(tag: `"button"` | `HTMLButtonElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
+▸ domel(tag: `"button"` | `HTMLButtonElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
 
 #### Parameters:
 - tag: `"button"` | `HTMLButtonElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
-▸ domel(tag: `"img"` | `HTMLImageElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
+▸ domel(tag: `"img"` | `HTMLImageElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
 
 #### Parameters:
 - tag: `"img"` | `HTMLImageElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
-▸ domel(tag: `"input"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
+▸ domel(tag: `"input"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)
 
 #### Parameters:
 - tag: `"input"` | `HTMLInputElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)
-▸ domel(tag: `"dropdown"`,parent?: `HTMLElement`): [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
+**Returns** [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)
+▸ domel(tag: `"dropdown"`,parent?: `HTMLElement`): [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)
 
 #### Parameters:
 - tag: `"dropdown"`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
-▸ domel(tag: `string`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
+**Returns** [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)
+▸ domel(tag: `string`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
 
 #### Parameters:
 - tag: `string`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
+**Returns** [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
 
 
 ---
@@ -236,10 +236,10 @@ Checks if element is visible
 
 Creates the paging navigation element.
 
-▸ renderPageNavigator(options: [EqPagingOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqpagingoptions-interface)): `HTMLElement`
+▸ renderPageNavigator(options: [EqPagingOptions](api-reference-old/api-reference-6x/core-package/interfaces/eqpagingoptions-interface)): `HTMLElement`
 
 #### Parameters:
-- options: [EqPagingOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqpagingoptions-interface) - The [[EqPagingOptions]] object.
+- options: [EqPagingOptions](api-reference-old/api-reference-6x/core-package/interfaces/eqpagingoptions-interface) - The [[EqPagingOptions]] object.
 
 
 **Returns** `HTMLElement` - Created [[HTMLElement]].

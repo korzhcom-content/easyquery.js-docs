@@ -6,15 +6,15 @@ sidebar:
 ---
 
 ## Implements
-[EqExporter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqexporter-interface)
+[EqExporter](api-reference-old/api-reference-6x/core-package/interfaces/eqexporter-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class/#public-methods-1)
-- [export](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class/#export)
-- [setFormat](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class/#setformat)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class#public-methods-1)
+- [export](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class#export)
+- [setFormat](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class#setformat)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerExporter(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [EqServerExporter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverexporter-class)
+⊕ new EqServerExporter(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [EqServerExporter](api-reference-old/api-reference-6x/core-package/classes/eqserverexporter-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -34,10 +34,10 @@ sidebar:
 
 ---
 ### export
-▸ export(options: [ExportOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/exportoptions-interface)): `Promise`&lt;`any`&gt;
+▸ export(options: [ExportOptions](api-reference-old/api-reference-6x/core-package/interfaces/exportoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [ExportOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/exportoptions-interface)
+- options: [ExportOptions](api-reference-old/api-reference-6x/core-package/interfaces/exportoptions-interface)
 
 
 **Returns** `Promise`&lt;`any`&gt;

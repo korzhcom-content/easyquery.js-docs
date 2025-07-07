@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[QueryExecutor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryexecutor-interface)
+[QueryExecutor](api-reference-old/api-reference-6x/core-package/interfaces/queryexecutor-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataqueryexecutor-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataqueryexecutor-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/odata-package/classes/odataqueryexecutor-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/odata-package/classes/odataqueryexecutor-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataqueryexecutor-class/#public-methods-1)
-- [executeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataqueryexecutor-class/#executequery)
+### [Public Methods](api-reference-old/api-reference-6x/odata-package/classes/odataqueryexecutor-class#public-methods-1)
+- [executeQuery](api-reference-old/api-reference-6x/odata-package/classes/odataqueryexecutor-class#executequery)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataQueryExecutor(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [ODataQueryExecutor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataqueryexecutor-class)
+⊕ new ODataQueryExecutor(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [ODataQueryExecutor](api-reference-old/api-reference-6x/odata-package/classes/odataqueryexecutor-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---

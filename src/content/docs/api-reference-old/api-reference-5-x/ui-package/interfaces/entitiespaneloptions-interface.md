@@ -9,26 +9,26 @@ sidebar:
 EntitiesPanel options
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#properties-1)
-- [attrPlacement](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#attrplacement)
-- [attributeRenderedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#attributerenderedcallback)
-- [autoClearSelection](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#autoclearselection)
-- [clickableAttributes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#clickableattributes)
-- [draggableAttributes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#draggableattributes)
-- [entityRenderedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#entityrenderedcallback)
-- [filterBoxMode](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#filterboxmode)
-- [showAddColumnButton](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showaddcolumnbutton)
-- [showAddConditionButton](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showaddconditionbutton)
-- [showAttributes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showattributes)
-- [showCheckboxes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showcheckboxes)
-- [showClearSelectionButton](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showclearselectionbutton)
-- [showFilterBox](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showfilterbox)
-- [showIndicatorOnLoad](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showindicatoronload)
-- [showSelectAllButton](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showselectallbutton)
-- [showToolbar](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showtoolbar)
-- [showTooltips](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#showtooltips)
-- [sortEntities](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#sortentities)
-- [syncWithColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface/#syncwithcolumns)
+### [Properties](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#properties-1)
+- [attrPlacement](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#attrplacement)
+- [attributeRenderedCallback](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#attributerenderedcallback)
+- [autoClearSelection](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#autoclearselection)
+- [clickableAttributes](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#clickableattributes)
+- [draggableAttributes](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#draggableattributes)
+- [entityRenderedCallback](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#entityrenderedcallback)
+- [filterBoxMode](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#filterboxmode)
+- [showAddColumnButton](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showaddcolumnbutton)
+- [showAddConditionButton](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showaddconditionbutton)
+- [showAttributes](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showattributes)
+- [showCheckboxes](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showcheckboxes)
+- [showClearSelectionButton](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showclearselectionbutton)
+- [showFilterBox](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showfilterbox)
+- [showIndicatorOnLoad](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showindicatoronload)
+- [showSelectAllButton](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showselectallbutton)
+- [showToolbar](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showtoolbar)
+- [showTooltips](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#showtooltips)
+- [sortEntities](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#sortentities)
+- [syncWithColumns](api-reference-old/api-reference-5-x/ui-package/interfaces/entitiespaneloptions-interface#syncwithcolumns)
 
 
 
@@ -124,7 +124,7 @@ Gets or sets a value defining how the search is performed in EntitiesPanel. Valu
 
 Gets or sets a value defining which attributes from the model should be shown in the tree. Each attribute in the model has `Use in conditions`, `Use in columns`, `Use in sorting` properties. This option allows to filter all the attributes by these properties values.
 
-● showAttributes?: [UsedInOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/usedinoptions-interface)
+● showAttributes?: [UsedInOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/usedinoptions-interface)
 
 ---
 ### showCheckboxes

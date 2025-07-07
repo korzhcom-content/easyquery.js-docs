@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumnstyle-interface/#properties-1)
-- [alignment](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumnstyle-interface/#alignment)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/datacolumnstyle-interface#properties-1)
+- [alignment](api-reference-7x/easydata-packages/core-package/interfaces/datacolumnstyle-interface#alignment)
 
 
 
@@ -17,6 +17,6 @@ sidebar:
 ---
 ### alignment
 
-● alignment?: [ColumnAlignment](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/columnalignment-enum)
+● alignment?: [ColumnAlignment](api-reference-7x/easydata-packages/core-package/enumerations/columnalignment-enum)
 
 ---

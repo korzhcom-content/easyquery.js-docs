@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/classes/textresources-class/#public-properties-1)
-- [AggregateFunctions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/classes/textresources-class/#aggregatefunctions)
-- [Attributes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/classes/textresources-class/#attributes)
-- [Entities](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/classes/textresources-class/#entities)
-- [Operators](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/classes/textresources-class/#operators)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/classes/textresources-class#public-properties-1)
+- [AggregateFunctions](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/classes/textresources-class#aggregatefunctions)
+- [Attributes](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/classes/textresources-class#attributes)
+- [Entities](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/classes/textresources-class#entities)
+- [Operators](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/classes/textresources-class#operators)
 
 
 

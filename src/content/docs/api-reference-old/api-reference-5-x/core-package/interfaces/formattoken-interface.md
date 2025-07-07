@@ -9,10 +9,10 @@ sidebar:
 Defines the structure of the token returned by `FormatParser`
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface/#properties-1)
-- [index](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface/#index)
-- [text](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface/#text)
-- [type](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface/#type)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface#properties-1)
+- [index](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface#index)
+- [text](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface#text)
+- [type](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface#type)
 
 
 

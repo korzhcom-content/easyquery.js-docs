@@ -6,44 +6,44 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#public-properties-1)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#title)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#public-properties-1)
+- [title](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#title)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#protected-properties-1)
-- [canDisplayFlag](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#candisplayflag)
-- [container](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#container)
-- [contentDiv](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#contentdiv)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#cssprefix)
-- [dialogTitle](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#dialogtitle)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#options)
-- [settings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#settings)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#protected-properties-1)
+- [canDisplayFlag](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#candisplayflag)
+- [container](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#container)
+- [contentDiv](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#contentdiv)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#cssprefix)
+- [dialogTitle](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#dialogtitle)
+- [options](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#options)
+- [settings](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#settings)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#public-methods-1)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#getcontext)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#getquery)
-- [getSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#getsettings)
-- [getType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#gettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#init)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#loadfromdata)
-- [onResize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#onresize)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#refresh)
-- [saveToData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#savetodata)
-- [showSettingsDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#showsettingsdialog)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#public-methods-1)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#getcontext)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#getquery)
+- [getSettings](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#getsettings)
+- [getType](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#gettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#init)
+- [loadFromData](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#loadfromdata)
+- [onResize](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#onresize)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#refresh)
+- [saveToData](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#savetodata)
+- [showSettingsDialog](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#showsettingsdialog)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#protected-methods-1)
-- [canDisplay](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#candisplay)
-- [getDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#getdialogservice)
-- [hideUnableDisplayMessage](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#hideunabledisplaymessage)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#refreshcore)
-- [renderDialogContent](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#renderdialogcontent)
-- [renderFormFields](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#renderformfields)
-- [showUnableDisplayMessage](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#showunabledisplaymessage)
-- [submitSettingsDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class/#submitsettingsdialog)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#protected-methods-1)
+- [canDisplay](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#candisplay)
+- [getDialogService](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#getdialogservice)
+- [hideUnableDisplayMessage](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#hideunabledisplaymessage)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#refreshcore)
+- [renderDialogContent](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#renderdialogcontent)
+- [renderFormFields](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#renderformfields)
+- [showUnableDisplayMessage](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#showunabledisplaymessage)
+- [submitSettingsDialog](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class#submitsettingsdialog)
 
 
 ## Constructors
@@ -51,10 +51,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ResultFacet(container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class),options?: `any`): [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+⊕ new ResultFacet(container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class),options?: `any`): [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 #### Parameters:
-- container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class)
+- container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class)
 - options: `any`, *Optional* 
 
 
@@ -78,7 +78,7 @@ sidebar:
 ---
 ### container
 
-● container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class)
+● container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class)
 
 ---
 ### contentDiv
@@ -123,18 +123,18 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -147,10 +147,10 @@ sidebar:
 
 ---
 ### getType
-▸ getType(): [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)
+▸ getType(): [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)
 
 
-**Returns** [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)
+**Returns** [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)
 
 
 ---

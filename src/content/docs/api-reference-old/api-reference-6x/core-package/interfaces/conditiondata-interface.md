@@ -9,17 +9,17 @@ sidebar:
 Condition JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#properties-1)
-- [conds](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#conds)
-- [disabled](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#disabled)
-- [enabled](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#enabled)
-- [exprs](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#exprs)
-- [inJoin](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#injoin)
-- [linking](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#linking)
-- [op](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#op)
-- [parameterized](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#parameterized)
-- [readOnly](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#readonly)
-- [tag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface/#tag)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#properties-1)
+- [conds](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#conds)
+- [disabled](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#disabled)
+- [enabled](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#enabled)
+- [exprs](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#exprs)
+- [inJoin](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#injoin)
+- [linking](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#linking)
+- [op](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#op)
+- [parameterized](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#parameterized)
+- [readOnly](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#readonly)
+- [tag](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface#tag)
 
 
 
@@ -30,7 +30,7 @@ Condition JSON representation object.
 
 The list of conditions.
 
-● conds?: [ConditionData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/conditiondata-interface)[]
+● conds?: [ConditionData](api-reference-old/api-reference-6x/core-package/interfaces/conditiondata-interface)[]
 
 ---
 ### disabled
@@ -51,7 +51,7 @@ The value indicating whether this Condition is enabled (left of backward compati
 
 The list of expressions.
 
-● exprs?: [ExpressionData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface)[]
+● exprs?: [ExpressionData](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface)[]
 
 ---
 ### inJoin
@@ -65,7 +65,7 @@ The value indicating whether this condition must be placed into `JOIN` clause in
 
 The linking.
 
-● linking: [LinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/linktype-enum)
+● linking: [LinkType](api-reference-old/api-reference-6x/core-package/enumerations/linktype-enum)
 
 ---
 ### op
@@ -93,6 +93,6 @@ The value indicating whether this condition is read-only.
 
 The condition tag.
 
-● tag?: [CondTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/condtag-enum)
+● tag?: [CondTag](api-reference-old/api-reference-6x/core-package/enumerations/condtag-enum)
 
 ---

@@ -10,17 +10,17 @@ sidebar:
 `Error`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#public-properties-1)
-- [message](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#message)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#name)
-- [stack](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#stack)
-- [status](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#status)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#public-properties-1)
+- [message](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#message)
+- [name](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#name)
+- [stack](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#stack)
+- [status](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#status)
 
-### [Static Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#static-properties-1)
-- [Error](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class/#error)
+### [Static Properties](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#static-properties-1)
+- [Error](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class#error)
 
 
 ## Constructors
@@ -28,7 +28,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new HttpResponseError(status: `number`,message: `string`): [HttpResponseError](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpresponseerror-class)
+⊕ new HttpResponseError(status: `number`,message: `string`): [HttpResponseError](api-reference-7x/easydata-packages/core-package/classeshttpresponseerror-class)
 
 #### Parameters:
 - status: `number`

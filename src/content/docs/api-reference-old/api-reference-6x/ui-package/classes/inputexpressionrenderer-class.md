@@ -7,40 +7,40 @@ sidebar:
 ---
 
 ## Extends
-[ExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/expressionrenderer-class)
+[ExpressionRenderer](api-reference-old/api-reference-6x/ui-package/classes/expressionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#protected-properties-1)
-- [displayedTextElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#displayedtextelement)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#element)
-- [expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#expression)
-- [panel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#panel)
-- [valueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#valueeditor)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#protected-properties-1)
+- [displayedTextElement](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#displayedtextelement)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#element)
+- [expression](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#expression)
+- [panel](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#panel)
+- [valueEditor](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#valueeditor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#public-methods-1)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#protected-methods-1)
-- [appear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#appear)
-- [disappear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#disappear)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#getclassestoadd)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#getcontext)
-- [getDisplayedElementText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#getdisplayedelementtext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#getemptytext)
-- [getValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#getvalue)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#iseditable)
-- [isEmptyValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#isemptyvalue)
-- [renderDisplayedText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#renderdisplayedtext)
-- [renderEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#rendereditor)
-- [setValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#setvalue)
-- [showValidationError](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#showvalidationerror)
-- [validateInput](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#validateinput)
-- [validateListInput](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#validatelistinput)
-- [validateScalarInput](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class/#validatescalarinput)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#protected-methods-1)
+- [appear](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#appear)
+- [disappear](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#disappear)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#getclassestoadd)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#getcontext)
+- [getDisplayedElementText](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#getdisplayedelementtext)
+- [getEmptyText](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#getemptytext)
+- [getValue](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#getvalue)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#iseditable)
+- [isEmptyValue](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#isemptyvalue)
+- [renderDisplayedText](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#renderdisplayedtext)
+- [renderEditor](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#rendereditor)
+- [setValue](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#setvalue)
+- [showValidationError](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#showvalidationerror)
+- [validateInput](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#validateinput)
+- [validateListInput](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#validatelistinput)
+- [validateScalarInput](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class#validatescalarinput)
 
 
 ## Constructors
@@ -48,12 +48,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new InputExpressionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class),expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class),valueEditor: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class),slot?: `HTMLDivElement`): [InputExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/inputexpressionrenderer-class)
+⊕ new InputExpressionRenderer(panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class),expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class),valueEditor: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class),slot?: `HTMLDivElement`): [InputExpressionRenderer](api-reference-old/api-reference-6x/ui-package/classes/inputexpressionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
-- expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
-- valueEditor: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)
+- panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
+- expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
+- valueEditor: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -74,17 +74,17 @@ sidebar:
 ---
 ### expression
 
-● expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
+● expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
 
 ---
 ### valueEditor
 
-● valueEditor: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)
+● valueEditor: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)
 
 ---
 ## Public Methods
@@ -132,10 +132,10 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### getDisplayedElementText
@@ -210,32 +210,32 @@ sidebar:
 
 ---
 ### validateInput
-▸ validateInput(inputValue: `string`): [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+▸ validateInput(inputValue: `string`): [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 #### Parameters:
 - inputValue: `string`
 
 
-**Returns** [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+**Returns** [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 ---
 ### validateListInput
-▸ validateListInput(inputValue: `string`,result: [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)): `void`
+▸ validateListInput(inputValue: `string`,result: [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)): `void`
 
 #### Parameters:
 - inputValue: `string`
-- result: [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+- result: [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 
 **Returns** `void`
 
 ---
 ### validateScalarInput
-▸ validateScalarInput(inputValue: `string`,result: [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)): `void`
+▸ validateScalarInput(inputValue: `string`,result: [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)): `void`
 
 #### Parameters:
 - inputValue: `string`
-- result: [ValidationResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/validationresult-interface)
+- result: [ValidationResult](api-reference-old/api-reference-6x/ui-package/interfaces/validationresult-interface)
 
 
 **Returns** `void`

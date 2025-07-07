@@ -7,47 +7,47 @@ sidebar:
 ---
 
 ## Extends
-[ConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditionrenderer-class)
+[ConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/conditionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#protected-properties-1)
-- [baseAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#baseattr)
-- [buttonsBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#buttonsblock)
-- [condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#condition)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#element)
-- [isMouseOverBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#ismouseoverblock)
-- [keepShowingButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#keepshowingbuttons)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#panel)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#protected-properties-1)
+- [baseAttr](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#baseattr)
+- [buttonsBlock](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#buttonsblock)
+- [condition](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#condition)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#element)
+- [isMouseOverBlock](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#ismouseoverblock)
+- [keepShowingButtons](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#keepshowingbuttons)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#panel)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#protected-methods-1)
-- [adjustButtonsVisibility](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#adjustbuttonsvisibility)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#clear)
-- [coreRender](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#corerender)
-- [enterButtonBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#enterbuttonblock)
-- [getButtonsToShow](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#getbuttonstoshow)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#getclassestoadd)
-- [getConditionMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#getconditionmenu)
-- [getConditionMenuSelectedItems](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#getconditionmenuselecteditems)
-- [hideButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#hidebuttons)
-- [isConditionActive](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#isconditionactive)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#iseditable)
-- [leaveButtonBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#leavebuttonblock)
-- [renderButtonsBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#renderbuttonsblock)
-- [renderCheckbox](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#rendercheckbox)
-- [renderConjunction](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#renderconjunction)
-- [setConditionInJoin](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#setconditioninjoin)
-- [setConditionParameterized](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#setconditionparameterized)
-- [showButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class/#showbuttons)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#protected-methods-1)
+- [adjustButtonsVisibility](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#adjustbuttonsvisibility)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#clear)
+- [coreRender](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#corerender)
+- [enterButtonBlock](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#enterbuttonblock)
+- [getButtonsToShow](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#getbuttonstoshow)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#getclassestoadd)
+- [getConditionMenu](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#getconditionmenu)
+- [getConditionMenuSelectedItems](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#getconditionmenuselecteditems)
+- [hideButtons](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#hidebuttons)
+- [isConditionActive](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#isconditionactive)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#iseditable)
+- [leaveButtonBlock](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#leavebuttonblock)
+- [renderButtonsBlock](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#renderbuttonsblock)
+- [renderCheckbox](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#rendercheckbox)
+- [renderConjunction](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#renderconjunction)
+- [setConditionInJoin](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#setconditioninjoin)
+- [setConditionParameterized](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#setconditionparameterized)
+- [showButtons](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class#showbuttons)
 
 
 ## Constructors
@@ -55,11 +55,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new SimpleConditionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),slot?: `HTMLDivElement`): [SimpleConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/simpleconditionrenderer-class)
+⊕ new SimpleConditionRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),slot?: `HTMLDivElement`): [SimpleConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/simpleconditionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -70,7 +70,7 @@ sidebar:
 ---
 ### baseAttr
 
-● baseAttr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+● baseAttr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 ---
 ### buttonsBlock
@@ -80,7 +80,7 @@ sidebar:
 ---
 ### condition
 
-● condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+● condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ---
 ### element
@@ -100,7 +100,7 @@ sidebar:
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ## Protected Accessors
@@ -191,10 +191,10 @@ sidebar:
 
 ---
 ### getConditionMenu
-▸ getConditionMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getConditionMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---

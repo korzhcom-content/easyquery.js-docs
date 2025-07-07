@@ -8,41 +8,41 @@ sidebar:
 The EasyQuery client-side view that represents the UI for ad-hoc reporting page
 
 ## Index
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#public-methods-1)
-- [buildAndExecute](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#buildandexecute)
-- [getContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#init)
-- [loadReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#loadreport)
-- [newReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#newreport)
-- [removeCurrentReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#removecurrentreport)
-- [renderCurrentReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#rendercurrentreport)
-- [renderReportList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#renderreportlist)
-- [saveCurrentReportAs](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#savecurrentreportas)
-- [setActiveReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#setactivereport)
-- [syncReport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#syncreport)
+### [Public Methods](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#public-methods-1)
+- [buildAndExecute](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#buildandexecute)
+- [getContext](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#getcontext)
+- [init](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#init)
+- [loadReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#loadreport)
+- [newReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#newreport)
+- [removeCurrentReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#removecurrentreport)
+- [renderCurrentReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#rendercurrentreport)
+- [renderReportList](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#renderreportlist)
+- [saveCurrentReportAs](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#savecurrentreportas)
+- [setActiveReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#setactivereport)
+- [syncReport](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#syncreport)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#protected-methods-1)
-- [clearErrors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#clearerrors)
-- [clearReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#clearreportbuttonclick)
-- [createColumnsBarWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#createcolumnsbarwidget)
-- [createDefaultBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#createdefaultbroker)
-- [createDefaultChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#createdefaultchartprovider)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#createquerypanelwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#enableexportbuttons)
-- [errorHandler](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#errorhandler)
-- [hideExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#hideexportbuttons)
-- [insertIntoReportList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#insertintoreportlist)
-- [loadReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#loadreportbuttonclick)
-- [newReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#newreportbuttonclick)
-- [removeFromReportList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#removefromreportlist)
-- [removeReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#removereportbuttonclick)
-- [renderReportItemInList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#renderreportiteminlist)
-- [renderReportPanels](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#renderreportpanels)
-- [saveReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#savereportbuttonclick)
-- [showExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#showexportbuttons)
-- [updateReportButtonClick](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/reportview-class/#updatereportbuttonclick)
+### [Protected Methods](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#protected-methods-1)
+- [clearErrors](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#clearerrors)
+- [clearReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#clearreportbuttonclick)
+- [createColumnsBarWidget](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#createcolumnsbarwidget)
+- [createDefaultBroker](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#createdefaultbroker)
+- [createDefaultChartProvider](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#createdefaultchartprovider)
+- [createQueryPanelWidget](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#createquerypanelwidget)
+- [disableExportButtons](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#displayrecordscount)
+- [enableExportButtons](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#enableexportbuttons)
+- [errorHandler](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#errorhandler)
+- [hideExportButtons](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#hideexportbuttons)
+- [insertIntoReportList](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#insertintoreportlist)
+- [loadReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#loadreportbuttonclick)
+- [newReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#newreportbuttonclick)
+- [removeFromReportList](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#removefromreportlist)
+- [removeReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#removereportbuttonclick)
+- [renderReportItemInList](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#renderreportiteminlist)
+- [renderReportPanels](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#renderreportpanels)
+- [saveReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#savereportbuttonclick)
+- [showExportButtons](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#showexportbuttons)
+- [updateReportButtonClick](api-reference-old/api-reference-5-x/ui-package/classes/reportview-class#updatereportbuttonclick)
 
 
 
@@ -65,20 +65,20 @@ Builds and executes current report's query.
 ### getContext
 Returns the context.
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class) - [[EqContext]] object.
+**Returns** [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class) - [[EqContext]] object.
 
 
 ---
 ### init
 Initializes the view.
 
-▸ init(options?: [ReportViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/reportviewoptions-interface)): `void`
+▸ init(options?: [ReportViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/reportviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [ReportViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/reportviewoptions-interface), *Optional*  - The [[ReportViewOptions]] object.
+- options: [ReportViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/reportviewoptions-interface), *Optional*  - The [[ReportViewOptions]] object.
 
 
 
@@ -193,49 +193,49 @@ The handler of the "Clear" button click.
 ### createColumnsBarWidget
 Creates the widget that represents Columns Bar.
 
-▸ createColumnsBarWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsBarWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 ---
 ### createDefaultBroker
 Creates the default broker for the view.
 
-▸ createDefaultBroker(context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)): [EqBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface)
+▸ createDefaultBroker(context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)): [EqBroker](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class) - The [[EqContext]] object.
+- context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class) - The [[EqContext]] object.
 
 
-**Returns** [EqBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface) - the created [[EqBroker]] object.
+**Returns** [EqBroker](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface) - the created [[EqBroker]] object.
 
 
 ---
 ### createDefaultChartProvider
 Creates the default chart provider for the view.
 
-▸ createDefaultChartProvider(): [ChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface)
+▸ createDefaultChartProvider(): [ChartProvider](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface)
 
 
-**Returns** [ChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface) - the created [[ChartProvider]] object.
+**Returns** [ChartProvider](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface) - the created [[ChartProvider]] object.
 
 
 ---
 ### createQueryPanelWidget
 Creates the widget that represents Query Panel.
 
-▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 ---
@@ -295,10 +295,10 @@ Hides export buttons.
 ### insertIntoReportList
 Inserts the report to the list of reports.
 
-▸ insertIntoReportList(report: [Report](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/report-interface)): `void`
+▸ insertIntoReportList(report: [Report](api-reference-old/api-reference-5-x/ui-package/interfaces/report-interface)): `void`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/report-interface) - The [[Report]] object to be inserted.
+- report: [Report](api-reference-old/api-reference-5-x/ui-package/interfaces/report-interface) - The [[Report]] object to be inserted.
 
 
 
@@ -348,10 +348,10 @@ The handler of the "Remove" button click.
 ### renderReportItemInList
 Renders a single item in the list of reports.
 
-▸ renderReportItemInList(report: [Report](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/report-interface),ul: `HTMLUListElement`): `void`
+▸ renderReportItemInList(report: [Report](api-reference-old/api-reference-5-x/ui-package/interfaces/report-interface),ul: `HTMLUListElement`): `void`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/report-interface) - The [[Report]] object to render.
+- report: [Report](api-reference-old/api-reference-5-x/ui-package/interfaces/report-interface) - The [[Report]] object to render.
 - ul: `HTMLUListElement` - The [[HTMLUListElement]] to add the item to.
 
 

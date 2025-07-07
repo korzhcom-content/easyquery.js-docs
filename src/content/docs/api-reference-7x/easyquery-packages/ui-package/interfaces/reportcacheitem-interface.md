@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportcacheitem-interface/#properties-1)
-- [content](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportcacheitem-interface/#content)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportcacheitem-interface/#id)
-- [lastUpdated](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportcacheitem-interface/#lastupdated)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/reportcacheitem-interface#properties-1)
+- [content](api-reference-7x/easyquery-packages/ui-package/interfaces/reportcacheitem-interface#content)
+- [id](api-reference-7x/easyquery-packages/ui-package/interfaces/reportcacheitem-interface#id)
+- [lastUpdated](api-reference-7x/easyquery-packages/ui-package/interfaces/reportcacheitem-interface#lastupdated)
 
 
 

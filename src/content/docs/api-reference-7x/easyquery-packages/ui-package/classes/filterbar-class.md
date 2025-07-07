@@ -6,41 +6,41 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#public-methods-1)
-- [applyFilter](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#applyfilter)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#belongstogroup)
-- [clearFilter](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#clearfilter)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#getcontext)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#refresh)
-- [textResize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#textresize)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#public-methods-1)
+- [applyFilter](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#applyfilter)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#belongstogroup)
+- [clearFilter](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#clearfilter)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#getcontext)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#refresh)
+- [textResize](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#textresize)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class/#refreshcore)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#protected-methods-1)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#destroycore)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class#refreshcore)
 
 
 ## Constructors
@@ -48,7 +48,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new FilterBar(slot: `HTMLElement`): [FilterBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/filterbar-class)
+⊕ new FilterBar(slot: `HTMLElement`): [FilterBar](api-reference-7x/easyquery-packages/ui-package/classes/filterbar-class)
 
 #### Parameters:
 - slot: `HTMLElement`
@@ -69,12 +69,12 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -107,10 +107,10 @@ sidebar:
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -137,10 +137,10 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -153,11 +153,11 @@ Returns current context (the one this widget belongs to)
 
 ---
 ### init
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [FilterBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [FilterBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
-- options: [FilterBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface), *Optional* 
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
+- options: [FilterBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface), *Optional* 
 
 
 **Returns** `void`

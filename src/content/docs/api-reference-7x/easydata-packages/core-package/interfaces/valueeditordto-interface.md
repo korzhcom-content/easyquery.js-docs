@@ -9,14 +9,14 @@ sidebar:
 Value editor JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#properties-1)
-- [defval](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#defval)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#name)
-- [rtype](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#rtype)
-- [subType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#subtype)
-- [tag](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#tag)
-- [values](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/valueeditordto-interface/#values)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#properties-1)
+- [defval](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#defval)
+- [id](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#id)
+- [name](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#name)
+- [rtype](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#rtype)
+- [subType](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#subtype)
+- [tag](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#tag)
+- [values](api-reference-7x/easydata-packages/core-package/interfaces/valueeditordto-interface#values)
 
 
 
@@ -48,14 +48,14 @@ The name.
 
 The result type.
 
-● rtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+● rtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 ---
 ### subType
 
 The sub type.
 
-● subType?: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+● subType?: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 ---
 ### tag

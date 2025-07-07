@@ -6,36 +6,36 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#protected-properties-1)
-- [bar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#bar)
-- [baseAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#baseattr)
-- [column](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#column)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#element)
-- [functionMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#functionmenu)
-- [isMouseOverBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#ismouseoverblock)
-- [keepShowingButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#keepshowingbuttons)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#protected-properties-1)
+- [bar](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#bar)
+- [baseAttr](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#baseattr)
+- [column](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#column)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#element)
+- [functionMenu](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#functionmenu)
+- [isMouseOverBlock](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#ismouseoverblock)
+- [keepShowingButtons](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#keepshowingbuttons)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#public-methods-1)
-- [buttonSortingClickHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#buttonsortingclickhandler)
-- [fireColumnChanged](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#firecolumnchanged)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#public-methods-1)
+- [buttonSortingClickHandler](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#buttonsortingclickhandler)
+- [fireColumnChanged](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#firecolumnchanged)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#protected-methods-1)
-- [getAttribute](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#getattribute)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#getclassestoadd)
-- [getDefaultCaption](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#getdefaultcaption)
-- [getDefaultTitleText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#getdefaulttitletext)
-- [getUIS](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#getuis)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#iseditable)
-- [renderCaptionBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#rendercaptionblock)
-- [renderSortingButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class/#rendersortingbutton)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#protected-methods-1)
+- [getAttribute](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#getattribute)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#getclassestoadd)
+- [getDefaultCaption](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#getdefaultcaption)
+- [getDefaultTitleText](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#getdefaulttitletext)
+- [getUIS](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#getuis)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#iseditable)
+- [renderCaptionBlock](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#rendercaptionblock)
+- [renderSortingButton](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class#rendersortingbutton)
 
 
 ## Constructors
@@ -43,11 +43,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ColumnRendererSB(bar: [SortingBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class),column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class),slot?: `HTMLDivElement`): [ColumnRendererSB](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/columnrenderersb-class)
+⊕ new ColumnRendererSB(bar: [SortingBar](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class),column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class),slot?: `HTMLDivElement`): [ColumnRendererSB](api-reference-7x/easyquery-packages/ui-package/classes/columnrenderersb-class)
 
 #### Parameters:
-- bar: [SortingBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class)
-- column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+- bar: [SortingBar](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class)
+- column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -58,17 +58,17 @@ sidebar:
 ---
 ### bar
 
-● bar: [SortingBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class)
+● bar: [SortingBar](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class)
 
 ---
 ### baseAttr
 
-● baseAttr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+● baseAttr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 ---
 ### column
 
-● column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+● column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 ---
 ### element
@@ -78,7 +78,7 @@ sidebar:
 ---
 ### functionMenu
 
-● functionMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class) = ` null`
+● functionMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class) = ` null`
 
 ---
 ### isMouseOverBlock
@@ -145,10 +145,10 @@ sidebar:
 
 ---
 ### getAttribute
-▸ getAttribute(): [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+▸ getAttribute(): [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 
 ---
@@ -169,10 +169,10 @@ sidebar:
 
 ---
 ### getDefaultTitleText
-▸ getDefaultTitleText(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getDefaultTitleText(attr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+- attr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 
 **Returns** `string`

@@ -6,8 +6,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface/#properties-1)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface/#type)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface#properties-1)
+- [type](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface#type)
 
 
 

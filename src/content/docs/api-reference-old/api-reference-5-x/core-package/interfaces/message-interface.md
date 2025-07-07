@@ -8,8 +8,8 @@ sidebar:
 Represents a "message" object which is used in different events within context
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/message-interface/#properties-1)
-- [text](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/message-interface/#text)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/message-interface#properties-1)
+- [text](api-reference-old/api-reference-5-x/core-package/interfaces/message-interface#text)
 
 
 

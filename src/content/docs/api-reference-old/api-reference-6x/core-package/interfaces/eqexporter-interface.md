@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqexporter-interface/#methods-1)
-- [export](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqexporter-interface/#export)
+### [Methods](api-reference-old/api-reference-6x/core-package/interfaces/eqexporter-interface#methods-1)
+- [export](api-reference-old/api-reference-6x/core-package/interfaces/eqexporter-interface#export)
 
 
 
@@ -16,10 +16,10 @@ sidebar:
 
 ---
 ### export
-▸ export(options?: [ExportOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/exportoptions-interface)): `Promise`&lt;`any`&gt;
+▸ export(options?: [ExportOptions](api-reference-old/api-reference-6x/core-package/interfaces/exportoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [ExportOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/exportoptions-interface), *Optional* 
+- options: [ExportOptions](api-reference-old/api-reference-6x/core-package/interfaces/exportoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`any`&gt;

@@ -6,21 +6,21 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#public-properties-1)
-- [beforeEachRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#beforeeachrequest)
-- [customPayload](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#custompayload)
-- [defaultHeaders](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#defaultheaders)
-- [onRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#onrequest)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#public-properties-1)
+- [beforeEachRequest](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#beforeeachrequest)
+- [customPayload](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#custompayload)
+- [defaultHeaders](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#defaultheaders)
+- [onRequest](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#onrequest)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#public-methods-1)
-- [delete](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#delete)
-- [get](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#get)
-- [post](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#post)
-- [put](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#put)
-- [send](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class/#send)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#public-methods-1)
+- [delete](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#delete)
+- [get](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#get)
+- [post](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#post)
+- [put](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#put)
+- [send](api-reference-7x/easydata-packages/core-package/classeshttpclient-class#send)
 
 
 ## Constructors
@@ -28,7 +28,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new HttpClient(): [HttpClient](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpclient-class)
+⊕ new HttpClient(): [HttpClient](api-reference-7x/easydata-packages/core-package/classeshttpclient-class)
 
 
 ---
@@ -41,7 +41,7 @@ sidebar:
 This option is deprecated and will be removed in future updates.
 Use 'onRequest' instead.
 
-● beforeEachRequest?: (request: [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)) => `void`
+● beforeEachRequest?: (request: [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)) => `void`
 
 ---
 ### customPayload
@@ -51,79 +51,79 @@ Use 'onRequest' instead.
 ---
 ### defaultHeaders
 
-● defaultHeaders: [HttpHeaders](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttpheaders-interface)
+● defaultHeaders: [HttpHeaders](api-reference-7x/easydata-packages/core-package/interfaceshttpheaders-interface)
 
 ---
 ### onRequest
 
-● onRequest?: (request: [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)) => `void`
+● onRequest?: (request: [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)) => `void`
 
 ---
 ## Public Methods
 
 ---
 ### delete
-▸ delete(url: `string`,data?: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+▸ delete(url: `string`,data?: `any`,options?: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 #### Parameters:
 - url: `string`
 - data: `any`, *Optional* 
-- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface), *Optional* 
+- options: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface), *Optional* 
 
 
-**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+**Returns** [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 
 ---
 ### get
-▸ get(url: `string`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+▸ get(url: `string`,options?: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 #### Parameters:
 - url: `string`
-- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface), *Optional* 
+- options: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface), *Optional* 
 
 
-**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+**Returns** [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 
 ---
 ### post
-▸ post(url: `string`,data: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+▸ post(url: `string`,data: `any`,options?: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 #### Parameters:
 - url: `string`
 - data: `any`
-- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface), *Optional* 
+- options: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface), *Optional* 
 
 
-**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+**Returns** [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 
 ---
 ### put
-▸ put(url: `string`,data: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+▸ put(url: `string`,data: `any`,options?: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 #### Parameters:
 - url: `string`
 - data: `any`
-- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface), *Optional* 
+- options: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface), *Optional* 
 
 
-**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+**Returns** [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 
 ---
 ### send
-▸ send(method: [HttpMethod](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerationshttpmethod-enum),url: `string`,data?: `any`,options?: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+▸ send(method: [HttpMethod](api-reference-7x/easydata-packages/core-package/enumerationshttpmethod-enum),url: `string`,data?: `any`,options?: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface)): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 #### Parameters:
-- method: [HttpMethod](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerationshttpmethod-enum)
+- method: [HttpMethod](api-reference-7x/easydata-packages/core-package/enumerationshttpmethod-enum)
 - url: `string`
 - data: `any`, *Optional* 
-- options: [HttpRequestOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestoptions-interface), *Optional* 
+- options: [HttpRequestOptions](api-reference-7x/easydata-packages/core-package/interfaceshttprequestoptions-interface), *Optional* 
 
 
-**Returns** [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)&lt;`T`&gt;
+**Returns** [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)&lt;`T`&gt;
 
 
 ---

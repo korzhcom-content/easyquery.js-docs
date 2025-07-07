@@ -9,24 +9,24 @@ sidebar:
 Options of the EasyQuery view
 
 ## Extends
-[EqContextOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface)
+[EqContextOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#attrclassname)
-- [broker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#broker)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#defaultqueryid)
-- [enableExport](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#enableexport)
-- [handlers](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#handlers)
-- [initialQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#initialquery)
-- [listCache](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#listcache)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#loadqueryonstart)
-- [locale](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#locale)
-- [result](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#result)
-- [slots](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#slots)
-- [widgets](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#widgets)
+### [Properties](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#properties-1)
+- [attrClassName](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#attrclassname)
+- [broker](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#broker)
+- [defaultModelId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#defaultmodelid)
+- [defaultQueryId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#defaultqueryid)
+- [enableExport](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#enableexport)
+- [handlers](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#handlers)
+- [initialQuery](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#initialquery)
+- [listCache](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#listcache)
+- [loadModelOnStart](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#loadmodelonstart)
+- [loadQueryOnStart](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#loadqueryonstart)
+- [locale](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#locale)
+- [result](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#result)
+- [slots](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#slots)
+- [widgets](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface#widgets)
 
 
 
@@ -40,7 +40,7 @@ Options of the EasyQuery view
 ---
 ### broker
 
-● broker?: [EqBrokerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbrokeroptions-interface)
+● broker?: [EqBrokerOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqbrokeroptions-interface)
 
 ---
 ### defaultModelId
@@ -60,17 +60,17 @@ Options of the EasyQuery view
 ---
 ### handlers
 
-● handlers?: [EqContextHandlerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface)
+● handlers?: [EqContextHandlerOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface)
 
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface)
 
 ---
 ### listCache
 
-● listCache?: [ExternalListCache](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/externallistcache-interface)
+● listCache?: [ExternalListCache](api-reference-old/api-reference-5-x/core-package/interfaces/externallistcache-interface)
 
 ---
 ### loadModelOnStart
@@ -90,12 +90,12 @@ Options of the EasyQuery view
 ---
 ### result
 
-● result?: [EqResultOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● result?: [EqResultOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### slots
 
-● slots?: [EqViewSlots](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface)
+● slots?: [EqViewSlots](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface)
 
 ---
 ### widgets

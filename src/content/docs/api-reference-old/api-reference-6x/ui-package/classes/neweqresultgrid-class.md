@@ -6,58 +6,58 @@ sidebar:
 ---
 
 ## Extends
-[Grid](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/grid-class)
+[Grid](api-reference-old/api-reference-6x/ui-package/classes/grid-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#group)
-- [menuList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#menulist)
-- [moveColumnActions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#movecolumnactions)
-- [options](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#options)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#slot)
-- [sortColumnActions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#sortcolumnactions)
-- [sortList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#sortlist)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#context)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#group)
+- [menuList](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#menulist)
+- [moveColumnActions](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#movecolumnactions)
+- [options](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#options)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#slot)
+- [sortColumnActions](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#sortcolumnactions)
+- [sortList](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#sortlist)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#public-methods-1)
-- [addColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#addcolumn)
-- [addNewColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#addnewcolumn)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#getcontext)
-- [getQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#getquery)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#public-methods-1)
+- [addColumn](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#addcolumn)
+- [addNewColumn](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#addnewcolumn)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#belongstogroup)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#destroy)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#getcontext)
+- [getQuery](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#getquery)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#init)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#protected-methods-1)
-- [applyDisplayFormats](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#applydisplayformats)
-- [attachQueryObserver](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#attachqueryobserver)
-- [checkColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#checkcolumn)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#clear)
-- [createColumnMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#createcolumnmenu)
-- [createEntitiesMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#createentitiesmenu)
-- [createFunctionList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#createfunctionlist)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#destroycore)
-- [getColumnAttribute](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#getcolumnattribute)
-- [getDefaultColumnCaption](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#getdefaultcolumncaption)
-- [moveColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#movecolumn)
-- [moveColumnCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#movecolumncore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#refreshcore)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#render)
-- [renderAddRowButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#renderaddrowbutton)
-- [renderColumnHeader](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#rendercolumnheader)
-- [renderPageNavigator](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#renderpagenavigator)
-- [sortColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class/#sortcolumn)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#protected-methods-1)
+- [applyDisplayFormats](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#applydisplayformats)
+- [attachQueryObserver](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#attachqueryobserver)
+- [checkColumn](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#checkcolumn)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#clear)
+- [createColumnMenu](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#createcolumnmenu)
+- [createEntitiesMenu](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#createentitiesmenu)
+- [createFunctionList](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#createfunctionlist)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#destroycore)
+- [getColumnAttribute](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#getcolumnattribute)
+- [getDefaultColumnCaption](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#getdefaultcolumncaption)
+- [moveColumn](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#movecolumn)
+- [moveColumnCore](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#movecolumncore)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#refreshcore)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#render)
+- [renderAddRowButton](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#renderaddrowbutton)
+- [renderColumnHeader](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#rendercolumnheader)
+- [renderPageNavigator](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#renderpagenavigator)
+- [sortColumn](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class#sortcolumn)
 
 
 ## Constructors
@@ -66,7 +66,7 @@ sidebar:
 #### constructor
 
 The default constructor.
-⊕ new NewEqResultGrid(slot: `HTMLElement`): [NewEqResultGrid](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/neweqresultgrid-class)
+⊕ new NewEqResultGrid(slot: `HTMLElement`): [NewEqResultGrid](api-reference-old/api-reference-6x/ui-package/classes/neweqresultgrid-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -88,12 +88,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### menuList
@@ -145,10 +145,10 @@ The html element.
 
 ---
 ### addColumn
-▸ addColumn(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),index?: `number`): `void`
+▸ addColumn(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),index?: `number`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - index: `number`, *Optional* 
 
 
@@ -156,23 +156,23 @@ The html element.
 
 ---
 ### addNewColumn
-▸ addNewColumn(attrId: `string`,index?: `number`): [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+▸ addNewColumn(attrId: `string`,index?: `number`): [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 #### Parameters:
 - attrId: `string`
 - index: `number`, *Optional* 
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+**Returns** [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 ---
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -189,27 +189,27 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 ---
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: [GridOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/gridoptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: [GridOptions](api-reference-old/api-reference-6x/ui-package/interfaces/gridoptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [GridOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/gridoptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) - The context.
+- options: [GridOptions](api-reference-old/api-reference-6x/ui-package/interfaces/gridoptions-interface), *Optional*  - The options.
 
 
 
@@ -265,13 +265,13 @@ Refreshes the widget's content
 
 ---
 ### checkColumn
-▸ checkColumn(col: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)): [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+▸ checkColumn(col: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)): [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 #### Parameters:
-- col: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- col: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+**Returns** [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 ---
 ### clear
@@ -284,13 +284,13 @@ Clears GRID.
 
 ---
 ### createColumnMenu
-▸ createColumnMenu(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)): [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+▸ createColumnMenu(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)): [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### createEntitiesMenu
@@ -301,10 +301,10 @@ Clears GRID.
 
 ---
 ### createFunctionList
-▸ createFunctionList(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)): `any`[]
+▸ createFunctionList(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)): `any`[]
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 
 **Returns** `any`[]
@@ -318,30 +318,30 @@ Clears GRID.
 
 ---
 ### getColumnAttribute
-▸ getColumnAttribute(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+▸ getColumnAttribute(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 ---
 ### getDefaultColumnCaption
-▸ getDefaultColumnCaption(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class) | [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getDefaultColumnCaption(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class) | [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class) | [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class) | [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 **Returns** `string`
 
 ---
 ### moveColumn
-▸ moveColumn(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),direction: `string`): `void`
+▸ moveColumn(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),direction: `string`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - direction: `string`
 
 
@@ -409,10 +409,10 @@ Renders widget
 
 ---
 ### renderColumnHeader
-▸ renderColumnHeader(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),index: `number`): `HTMLElement`
+▸ renderColumnHeader(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),index: `number`): `HTMLElement`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - index: `number`
 
 
@@ -429,10 +429,10 @@ Renders page navidator
 
 ---
 ### sortColumn
-▸ sortColumn(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),direction: `string`): `void`
+▸ sortColumn(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),direction: `string`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - direction: `string`
 
 

@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/exportoptions-interface/#properties-1)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/exportoptions-interface/#query)
-- [settings](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/exportoptions-interface/#settings)
-- [totals](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/exportoptions-interface/#totals)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/exportoptions-interface#properties-1)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/exportoptions-interface#query)
+- [settings](api-reference-7x/easyquery-packages/core-package/interfaces/exportoptions-interface#settings)
+- [totals](api-reference-7x/easyquery-packages/core-package/interfaces/exportoptions-interface#totals)
 
 
 
@@ -19,7 +19,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### settings

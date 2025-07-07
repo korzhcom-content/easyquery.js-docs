@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface/#properties-1)
-- [displayName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface/#displayname)
-- [englishName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface/#englishname)
-- [locale](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface/#locale)
+### [Properties](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface#properties-1)
+- [displayName](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface#displayname)
+- [englishName](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface#englishname)
+- [locale](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface#locale)
 
 
 

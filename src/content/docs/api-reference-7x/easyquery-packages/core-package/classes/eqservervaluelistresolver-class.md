@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[EqValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)
+[EqValueListResolver](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqservervaluelistresolver-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqservervaluelistresolver-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqservervaluelistresolver-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqservervaluelistresolver-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqservervaluelistresolver-class/#public-methods-1)
-- [loadValueList](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqservervaluelistresolver-class/#loadvaluelist)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqservervaluelistresolver-class#public-methods-1)
+- [loadValueList](api-reference-7x/easyquery-packages/core-package/classes/eqservervaluelistresolver-class#loadvaluelist)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerValueListResolver(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqServerValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqservervaluelistresolver-class)
+⊕ new EqServerValueListResolver(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqServerValueListResolver](api-reference-7x/easyquery-packages/core-package/classes/eqservervaluelistresolver-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -34,13 +34,13 @@ sidebar:
 
 ---
 ### loadValueList
-▸ loadValueList(options?: [LoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistoptions-interface)): `Promise`&lt;[ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]&gt;
+▸ loadValueList(options?: [LoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistoptions-interface)): `Promise`&lt;[ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]&gt;
 
 #### Parameters:
-- options: [LoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistoptions-interface), *Optional* 
+- options: [LoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]&gt;
+**Returns** `Promise`&lt;[ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]&gt;
 
 
 ---

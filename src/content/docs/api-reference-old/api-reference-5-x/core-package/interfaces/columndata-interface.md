@@ -9,12 +9,12 @@ sidebar:
 Column JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#blockid)
-- [cptn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#cptn)
-- [expr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#expr)
-- [srt](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#srt)
-- [srtidx](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface/#srtidx)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#properties-1)
+- [blockId](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#blockid)
+- [cptn](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#cptn)
+- [expr](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#expr)
+- [srt](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#srt)
+- [srtidx](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface#srtidx)
 
 
 
@@ -39,14 +39,14 @@ The caption
 
 The expression.
 
-● expr?: [ExpressionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/expressiondata-interface)
+● expr?: [ExpressionData](api-reference-old/api-reference-5-x/core-package/interfaces/expressiondata-interface)
 
 ---
 ### srt
 
 The sorting
 
-● srt?: [SortDirection](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/sortdirection-enum)
+● srt?: [SortDirection](api-reference-old/api-reference-5-x/core-package/enumerations/sortdirection-enum)
 
 ---
 ### srtidx

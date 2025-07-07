@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface/#data)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface/#element)
-- [scopes](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface/#scopes)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface#properties-1)
+- [data](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface#data)
+- [element](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface#element)
+- [scopes](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface#scopes)
 
 
 

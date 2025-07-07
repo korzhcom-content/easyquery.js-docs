@@ -6,23 +6,23 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#element)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#panel)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#text)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#protected-properties-1)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#element)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#panel)
+- [text](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#text)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#protected-methods-1)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class/#getclassestoadd)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#protected-methods-1)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class#getclassestoadd)
 
 
 ## Constructors
@@ -30,10 +30,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new TextRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),text: `string`,slot?: `HTMLDivElement`): [TextRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/textrenderer-class)
+⊕ new TextRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),text: `string`,slot?: `HTMLDivElement`): [TextRenderer](api-reference-7x/easyquery-packages/ui-package/classes/textrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 - text: `string`
 - slot: `HTMLDivElement`, *Optional* 
 
@@ -50,7 +50,7 @@ sidebar:
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ### text

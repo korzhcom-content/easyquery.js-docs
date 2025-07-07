@@ -14,82 +14,82 @@ Each context includes the following main components:
  - several UI widgets.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#public-properties-1)
-- [calcTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#calctotals)
-- [clientListRequestHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#clientlistrequesthandler)
-- [dataLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#dataloader)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#defaultqueryid)
-- [initialQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#initialquery)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadqueryonstart)
-- [resultContent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#resultcontent)
-- [resultStatement](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#resultstatement)
-- [resultTable](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#resulttable)
-- [useBootstrap](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#usebootstrap)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#public-properties-1)
+- [calcTotals](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#calctotals)
+- [clientListRequestHandler](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#clientlistrequesthandler)
+- [dataLoader](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#dataloader)
+- [defaultModelId](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#defaultmodelid)
+- [defaultQueryId](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#defaultqueryid)
+- [initialQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#initialquery)
+- [loadModelOnStart](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadmodelonstart)
+- [loadQueryOnStart](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadqueryonstart)
+- [resultContent](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#resultcontent)
+- [resultStatement](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#resultstatement)
+- [resultTable](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#resulttable)
+- [useBootstrap](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#usebootstrap)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#public-methods-1)
-- [addDefaultExporters](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#adddefaultexporters)
-- [addEventListener](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#addeventlistener)
-- [addLocale](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#addlocale)
-- [addQueryChangedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#addquerychangedcallback)
-- [addWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#addwidget)
-- [callWhenModelLoaded](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#callwhenmodelloaded)
-- [clearQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#clearquery)
-- [clearResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#clearresult)
-- [createQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#createquery)
-- [endProcess](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#endprocess)
-- [exportResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#exportresult)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#fetchdata)
-- [fetchDataChunk](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#fetchdatachunk)
-- [fetchDrillDownData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#fetchdrilldowndata)
-- [fireEvent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#fireevent)
-- [getAllWidgetsByType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getallwidgetsbytype)
-- [getBaseEndpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getbaseendpoint)
-- [getDefaultTotalsSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getdefaulttotalssettings)
-- [getExportFormats](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getexportformats)
-- [getExporter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getexporter)
-- [getListRequestHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getlistrequesthandler)
-- [getModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getmodel)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getquery)
-- [getQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getqueryfile)
-- [getServices](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getservices)
-- [getTotalsSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#gettotalssettings)
-- [getWidgetByType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#getwidgetbytype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#init)
-- [loadDefaultModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loaddefaultmodel)
-- [loadModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadmodel)
-- [loadModelFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadmodelfromdata)
-- [loadQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadquery)
-- [loadQueryList](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadquerylist)
-- [loadValueList](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#loadvaluelist)
-- [newQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#newquery)
-- [refreshWidgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#refreshwidgets)
-- [registerExporter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#registerexporter)
-- [registerServerExporter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#registerserverexporter)
-- [removeEventListener](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#removeeventlistener)
-- [removeQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#removequery)
-- [removeQueryChangedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#removequerychangedcallback)
-- [resetListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#resetlistcache)
-- [resolveEndpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#resolveendpoint)
-- [saveQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#savequery)
-- [setDefaultModelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#setdefaultmodelid)
-- [setEndpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#setendpoint)
-- [setEnpointIfNotExist](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#setenpointifnotexist)
-- [setExternalListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#setexternallistcache)
-- [setTotalsSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#settotalssettings)
-- [startProcess](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#startprocess)
-- [syncQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#syncquery)
-- [throwError](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#throwerror)
-- [uploadQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#uploadqueryfile)
-- [useEndpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#useendpoint)
-- [wereTotalsColumnsChanged](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#weretotalscolumnschanged)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#public-methods-1)
+- [addDefaultExporters](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#adddefaultexporters)
+- [addEventListener](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#addeventlistener)
+- [addLocale](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#addlocale)
+- [addQueryChangedCallback](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#addquerychangedcallback)
+- [addWidget](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#addwidget)
+- [callWhenModelLoaded](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#callwhenmodelloaded)
+- [clearQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#clearquery)
+- [clearResult](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#clearresult)
+- [createQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#createquery)
+- [endProcess](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#endprocess)
+- [exportResult](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#exportresult)
+- [fetchData](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#fetchdata)
+- [fetchDataChunk](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#fetchdatachunk)
+- [fetchDrillDownData](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#fetchdrilldowndata)
+- [fireEvent](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#fireevent)
+- [getAllWidgetsByType](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getallwidgetsbytype)
+- [getBaseEndpoint](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getbaseendpoint)
+- [getDefaultTotalsSettings](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getdefaulttotalssettings)
+- [getExportFormats](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getexportformats)
+- [getExporter](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getexporter)
+- [getListRequestHandler](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getlistrequesthandler)
+- [getModel](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getmodel)
+- [getQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getquery)
+- [getQueryFile](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getqueryfile)
+- [getServices](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getservices)
+- [getTotalsSettings](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#gettotalssettings)
+- [getWidgetByType](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#getwidgetbytype)
+- [init](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#init)
+- [loadDefaultModel](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loaddefaultmodel)
+- [loadModel](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadmodel)
+- [loadModelFromData](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadmodelfromdata)
+- [loadQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadquery)
+- [loadQueryList](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadquerylist)
+- [loadValueList](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#loadvaluelist)
+- [newQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#newquery)
+- [refreshWidgets](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#refreshwidgets)
+- [registerExporter](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#registerexporter)
+- [registerServerExporter](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#registerserverexporter)
+- [removeEventListener](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#removeeventlistener)
+- [removeQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#removequery)
+- [removeQueryChangedCallback](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#removequerychangedcallback)
+- [resetListCache](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#resetlistcache)
+- [resolveEndpoint](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#resolveendpoint)
+- [saveQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#savequery)
+- [setDefaultModelId](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#setdefaultmodelid)
+- [setEndpoint](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#setendpoint)
+- [setEnpointIfNotExist](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#setenpointifnotexist)
+- [setExternalListCache](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#setexternallistcache)
+- [setTotalsSettings](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#settotalssettings)
+- [startProcess](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#startprocess)
+- [syncQuery](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#syncquery)
+- [throwError](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#throwerror)
+- [uploadQueryFile](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#uploadqueryfile)
+- [useEndpoint](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#useendpoint)
+- [wereTotalsColumnsChanged](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#weretotalscolumnschanged)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#protected-methods-1)
-- [startQueryListLoading](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class/#startquerylistloading)
+### [Protected Methods](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#protected-methods-1)
+- [startQueryListLoading](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class#startquerylistloading)
 
 
 ## Constructors
@@ -97,7 +97,7 @@ Each context includes the following main components:
 ---
 #### constructor
 
-⊕ new EqContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+⊕ new EqContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -117,7 +117,7 @@ Each context includes the following main components:
 ---
 ### dataLoader
 
-● dataLoader: [EasyQueryDataLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class)
+● dataLoader: [EasyQueryDataLoader](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class)
 
 ---
 ### defaultModelId
@@ -132,7 +132,7 @@ Each context includes the following main components:
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)
 
 ---
 ### loadModelOnStart
@@ -179,30 +179,30 @@ Each context includes the following main components:
 ### addEventListener
 Adds event listener for event type.
 
-▸ addEventListener(eventType: `"ready"` | `"loadModel"` | `"initialModelLoad"` | `"loadQuery"` | `"syncQuery"` | `"fetchData"` | `"exportResult"`,handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`): `string`
+▸ addEventListener(eventType: `"ready"` | `"loadModel"` | `"initialModelLoad"` | `"loadQuery"` | `"syncQuery"` | `"fetchData"` | `"exportResult"`,handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"ready"` | `"loadModel"` | `"initialModelLoad"` | `"loadQuery"` | `"syncQuery"` | `"fetchData"` | `"exportResult"` - The event type
-- handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void` - The handler for event
+- handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void` - The handler for event
 
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"processStart"` | `"processEnd"`,handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"processStart"` | `"processEnd"`,handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"processStart"` | `"processEnd"`
-- handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`
+- handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"error"`,handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"error"`,handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"error"`
-- handler: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`
+- handler: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`
 
 
 **Returns** `string`
@@ -243,10 +243,10 @@ Register a new handler for 'query changed' event
 Add a new widget to the context.
 After that the widget will start to receive messages from other context components.
 
-▸ addWidget(widget: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)): `void`
+▸ addWidget(widget: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)): `void`
 
 #### Parameters:
-- widget: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - 
+- widget: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - 
 
 
 
@@ -288,21 +288,21 @@ Clears all query results (the data set and the statement, if any)
 ### createQuery
 Creates a new query object using the current instance of EqServices
 
-▸ createQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ createQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
 ### endProcess
 Notifies all context components about the finishing of some long process
 
-▸ endProcess(action: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface),groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `void`
+▸ endProcess(action: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface),groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `void`
 
 #### Parameters:
-- action: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- action: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -313,10 +313,10 @@ Notifies all context components about the finishing of some long process
 ### exportResult
 Fetches the data for defined by this context and exports them to the specified format.
 
-▸ exportResult(options?: [ContextExportResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface)): `void`
+▸ exportResult(options?: [ContextExportResultOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextExportResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface), *Optional*  - 
+- options: [ContextExportResultOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `EqExporter` implementation.
 Usually it contains `format` property which defines the format of the exported data (e.g. `csv`),
 and `success` and `error` callbacks
@@ -338,10 +338,10 @@ context.exportResult({
 ### fetchData
 Fetches the data (usuall by executing current query) and processes the result.
 
-▸ fetchData(options?: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface)): `void`
+▸ fetchData(options?: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface), *Optional*  - 
+- options: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface), *Optional*  - 
 The `options` parameter in addition to the options defined in ExecuteQueryOptions structure may also contain `success` and `error` callbacks.
 
 
@@ -359,10 +359,10 @@ context.fetchData({ success: function(result) {
 
 ---
 ### fetchDataChunk
-▸ fetchDataChunk(options?: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface)): `void`
+▸ fetchDataChunk(options?: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface), *Optional* 
+- options: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -372,10 +372,10 @@ context.fetchData({ success: function(result) {
 ### fetchDrillDownData
 Fetches the data for a drill-down query (if defined) and processes the result.
 
-▸ fetchDrillDownData(options: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface)): `void`
+▸ fetchDrillDownData(options: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface) - 
+- options: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface) - 
 
 
 
@@ -395,11 +395,11 @@ Fires event.
 
 **Returns** `any`
 
-▸ fireEvent(eventType: `"processStart"` | `"processEnd"`,data: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)): `any`
+▸ fireEvent(eventType: `"processStart"` | `"processEnd"`,data: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)): `any`
 
 #### Parameters:
 - eventType: `"processStart"` | `"processEnd"`
-- data: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)
+- data: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)
 
 
 **Returns** `any`
@@ -418,14 +418,14 @@ Fires event.
 ### getAllWidgetsByType
 Returns all widgets with current type.
 
-▸ getAllWidgetsByType(widgetType: `string`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)[]
+▸ getAllWidgetsByType(widgetType: `string`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)[]
 
 #### Parameters:
 - widgetType: `string` - The widget type
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)[]
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)[]
 
 
 ---
@@ -454,13 +454,13 @@ Returns all widgets with current type.
 
 ---
 ### getExporter
-▸ getExporter(format: `string`): [EqExporter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqexporter-interface) | `null`
+▸ getExporter(format: `string`): [EqExporter](api-reference-7x/easyquery-packages/core-package/interfaces/eqexporter-interface) | `null`
 
 #### Parameters:
 - format: `string`
 
 
-**Returns** [EqExporter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqexporter-interface) | `null`
+**Returns** [EqExporter](api-reference-7x/easyquery-packages/core-package/interfaces/eqexporter-interface) | `null`
 
 
 ---
@@ -477,28 +477,28 @@ Gets the handler for 'GetList' requests
 ### getModel
 Gets the current data model
 
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 ---
 ### getQuery
 Gets the current query
 
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
 ### getQueryFile
-▸ getQueryFile(options?: [ContextGetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextgetqueryfileoptions-interface)): `void`
+▸ getQueryFile(options?: [ContextGetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextgetqueryfileoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextGetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextgetqueryfileoptions-interface), *Optional* 
+- options: [ContextGetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextgetqueryfileoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -506,10 +506,10 @@ Gets the current query
 
 ---
 ### getServices
-▸ getServices(): [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)
+▸ getServices(): [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)
 
 
-**Returns** [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)
+**Returns** [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)
 
 
 ---
@@ -524,24 +524,24 @@ Gets the current query
 ### getWidgetByType
 Returns first registerd widget with current type
 
-▸ getWidgetByType(widgetType: `string`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) | `null`
+▸ getWidgetByType(widgetType: `string`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) | `null`
 
 #### Parameters:
 - widgetType: `string` - The widget type
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) | `null`
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) | `null`
 
 
 ---
 ### init
 Initializes the context
 
-▸ init(options?: [EqContextOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontextoptions-interface)): `void`
+▸ init(options?: [EqContextOptions](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontextoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqContextOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontextoptions-interface), *Optional*  - 
+- options: [EqContextOptions](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontextoptions-interface), *Optional*  - 
 
 
 
@@ -565,13 +565,13 @@ Starts the process of the model loading.
 This method can initiate a request to EasyQueryServer backend or get the model from OData or GraphQL endpoint
 The content of the `options` parameter depends on concrete loader implementation.
 
-▸ loadModel(options?: [ContextLoadModelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface)): `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)&gt;
+▸ loadModel(options?: [ContextLoadModelOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface)): `Promise`&lt;[DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)&gt;
 
 #### Parameters:
-- options: [ContextLoadModelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface), *Optional*  - A map of options to pass to `loadModel` function (can be ommited)
+- options: [ContextLoadModelOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface), *Optional*  - A map of options to pass to `loadModel` function (can be ommited)
 
 
-**Returns** `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)&gt;
+**Returns** `Promise`&lt;[DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)&gt;
 
 #### Example: 
 ```typescript
@@ -587,10 +587,10 @@ context.loadModel()
 ### loadModelFromData
 Sets the content of the current data model
 
-▸ loadModelFromData(modelPlainData: [ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)): `void`
+▸ loadModelFromData(modelPlainData: [ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)): `void`
 
 #### Parameters:
-- modelPlainData: [ModelPlainData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelplaindata-interface)
+- modelPlainData: [ModelPlainData](api-reference-7x/easyquery-packages/core-package/interfaces/modelplaindata-interface)
 
 
 **Returns** `void`
@@ -600,10 +600,10 @@ Sets the content of the current data model
 ### loadQuery
 Loads the query
 
-▸ loadQuery(options?: [ContextLoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface)): `void`
+▸ loadQuery(options?: [ContextLoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextLoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface), *Optional*  - 
+- options: [ContextLoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QueryStorage` implementation.
 Usually it contains `success`, `error` callbacks and `queryId` property of the query to load.
 
@@ -623,10 +623,10 @@ context.loadQuery({
 ### loadQueryList
 Loads the list of queries available for the current user.
 
-▸ loadQueryList(options?: [ContextLoadQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface)): `void`
+▸ loadQueryList(options?: [ContextLoadQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextLoadQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface), *Optional*  - 
+- options: [ContextLoadQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QueryStorage` implementation.
 Usually it contains `success`, `error` callbacks
 
@@ -639,10 +639,10 @@ Usually it contains `success`, `error` callbacks
 ### loadValueList
 Sends a `loadValueList` requesthe server and processes the response.
 
-▸ loadValueList(options?: [ContextLoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface)): `void`
+▸ loadValueList(options?: [ContextLoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextLoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface), *Optional*  - A map of options to pass to `loadValueList` function.
+- options: [ContextLoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface), *Optional*  - A map of options to pass to `loadValueList` function.
 
 
 
@@ -653,15 +653,15 @@ Sends a `loadValueList` requesthe server and processes the response.
 ### newQuery
 Creates a new query and returns its content back to the client-side.
 
-▸ newQuery(options?: [ContextNewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface)): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ newQuery(options?: [ContextNewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface)): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 #### Parameters:
-- options: [ContextNewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface), *Optional*  - 
+- options: [ContextNewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QueryStorage` implementation.
 Usually it contains `success`, `error` callbacks and `silent` option
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 #### Example: 
 ```typescript
@@ -676,10 +676,10 @@ context.newQuery({
 ### refreshWidgets
 This method is called automatically when some change was made either in context's data model or query
 
-▸ refreshWidgets(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `void`
+▸ refreshWidgets(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `void`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Default value* = ` WidgetGroup.All` - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Default value* = ` WidgetGroup.All` - 
 
 
 
@@ -729,10 +729,10 @@ Remove event handler for event type .
 ### removeQuery
 Removes the current query from some storage on the server-side.
 
-▸ removeQuery(options?: [ContextRemoveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface)): `void`
+▸ removeQuery(options?: [ContextRemoveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextRemoveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface), *Optional*  - 
+- options: [ContextRemoveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QueryStorage` implementation.
 Usually it contains `success` and `error` callbacks
 
@@ -781,10 +781,10 @@ Clears the current list cache.
 ### saveQuery
 Saves the current query to some storage on the server-side.
 
-▸ saveQuery(options?: [ContextSaveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface)): `void`
+▸ saveQuery(options?: [ContextSaveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextSaveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface), *Optional*  - 
+- options: [ContextSaveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QueryStorage` implementation.
 Usually it contains `success` and `error` callbacks
 
@@ -835,10 +835,10 @@ Sets the ID of the default model
 ### setExternalListCache
 Sets the external 'list cache' provider - an object which implements `ExternalListCache` inteface
 
-▸ setExternalListCache(cache: [ExternalListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface)): `void`
+▸ setExternalListCache(cache: [ExternalListCache](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface)): `void`
 
 #### Parameters:
-- cache: [ExternalListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface) - 
+- cache: [ExternalListCache](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface) - 
 
 
 
@@ -862,11 +862,11 @@ Sets the external 'list cache' provider - an object which implements `ExternalLi
 Notifies context components about starting of some long process (e.g. model loading)
 This method raises onProcessStart event in the context and all its widgets
 
-▸ startProcess(message: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface),groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `void`
+▸ startProcess(message: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface),groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `void`
 
 #### Parameters:
-- message: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- message: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -877,10 +877,10 @@ This method raises onProcessStart event in the context and all its widgets
 ### syncQuery
 Syncronizes the current query.
 
-▸ syncQuery(options?: [ContextSyncQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface)): `void`
+▸ syncQuery(options?: [ContextSyncQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextSyncQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface), *Optional*  - 
+- options: [ContextSyncQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface), *Optional*  - 
 The content of the `options` parameter depends on `QuerySyncronizer` implementation.
 Usually it contains `success` and `error` callbacks
 
@@ -895,10 +895,10 @@ Throws the error passed in the function parameter.
 If onError event handler is defined - we call that method.
 Otherwise - just place the error message to the browser console.
 
-▸ throwError(action: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)): `void`
+▸ throwError(action: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)): `void`
 
 #### Parameters:
-- action: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)
+- action: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)
 
 
 **Returns** `void`
@@ -906,10 +906,10 @@ Otherwise - just place the error message to the browser console.
 
 ---
 ### uploadQueryFile
-▸ uploadQueryFile(options?: [ContextUploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface)): `void`
+▸ uploadQueryFile(options?: [ContextUploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextUploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface), *Optional* 
+- options: [ContextUploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -920,13 +920,13 @@ Otherwise - just place the error message to the browser console.
 Sets endpoint for all EasyQuery actions. Should be called before `init` and
 `useEnterprise` methods
 
-▸ useEndpoint(endpoint: `string`): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ useEndpoint(endpoint: `string`): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 #### Parameters:
 - endpoint: `string`
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 #### Example: 
 ```typescript
@@ -957,10 +957,10 @@ view.getContext()
 
 ---
 ### startQueryListLoading
-▸ startQueryListLoading(options?: [ContextLoadQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface)): `void`
+▸ startQueryListLoading(options?: [ContextLoadQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface)): `void`
 
 #### Parameters:
-- options: [ContextLoadQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface), *Optional* 
+- options: [ContextLoadQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface), *Optional* 
 
 
 **Returns** `void`

@@ -7,20 +7,20 @@ sidebar:
 ---
 
 ## Extends
-[DataFilterView](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterview-class)
+[DataFilterView](api-reference-old/api-reference-6x/ui-package/classes/datafilterview-class)
 
 ## Index
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#public-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#context)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#public-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#public-methods-1)
-- [applyQueryFilter](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#applyqueryfilter)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#init)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#public-methods-1)
+- [applyQueryFilter](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#applyqueryfilter)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#getcontext)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#init)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#protected-methods-1)
-- [createFilterBarWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#createfilterbarwidget)
-- [createResultGridWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datafilterviewjquery-class/#createresultgridwidget)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#protected-methods-1)
+- [createFilterBarWidget](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#createfilterbarwidget)
+- [createResultGridWidget](api-reference-old/api-reference-6x/ui-package/classes/datafilterviewjquery-class#createresultgridwidget)
 
 
 
@@ -29,7 +29,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) = ` new EqContext()`
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) = ` new EqContext()`
 
 ---
 ## Public Methods
@@ -52,10 +52,10 @@ Executes the filter query and display results.
 ### getContext
 Returns the context.
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) - [[EqContext]] object.
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) - [[EqContext]] object.
 
 
 
@@ -63,10 +63,10 @@ Returns the context.
 ### init
 Initializes the view.
 
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
+- options: [EqViewOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
 
 
 
@@ -80,13 +80,13 @@ Initializes the view.
 ### createFilterBarWidget
 Creates the widget that represents Filter Bar.
 
-▸ createFilterBarWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createFilterBarWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 
@@ -94,13 +94,13 @@ Creates the widget that represents Filter Bar.
 ### createResultGridWidget
 Creates the widget that represents the result grid.
 
-▸ createResultGridWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+▸ createResultGridWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement` - The [[HTMLElement]] to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class) - the created [[Widget]] object.
+**Returns** [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class) - the created [[Widget]] object.
 
 
 

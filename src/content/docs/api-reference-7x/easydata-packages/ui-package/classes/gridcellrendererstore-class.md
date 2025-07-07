@@ -7,16 +7,16 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#public-methods-1)
-- [getCellType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#getcelltype)
-- [getDefaultRenderer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#getdefaultrenderer)
-- [getDefaultRendererByType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#getdefaultrendererbytype)
-- [getRenderer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#getrenderer)
-- [registerRenderer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#registerrenderer)
-- [setDefaultRenderer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class/#setdefaultrenderer)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#public-methods-1)
+- [getCellType](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#getcelltype)
+- [getDefaultRenderer](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#getdefaultrenderer)
+- [getDefaultRendererByType](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#getdefaultrendererbytype)
+- [getRenderer](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#getrenderer)
+- [registerRenderer](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#registerrenderer)
+- [setDefaultRenderer](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class#setdefaultrenderer)
 
 
 ## Constructors
@@ -24,10 +24,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new GridCellRendererStore(options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)): [GridCellRendererStore](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class)
+⊕ new GridCellRendererStore(options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)): [GridCellRendererStore](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class)
 
 #### Parameters:
-- options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)
+- options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)
 
 
 ---
@@ -36,21 +36,21 @@ sidebar:
 
 ---
 ### getCellType
-▸ getCellType(dataType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum)
+▸ getCellType(dataType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum)
 
 #### Parameters:
-- dataType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+- dataType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 
-**Returns** [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum)
+**Returns** [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum)
 
 
 ---
 ### getDefaultRenderer
-▸ getDefaultRenderer(columnType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): `GridCellRenderer`
+▸ getDefaultRenderer(columnType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): `GridCellRenderer`
 
 #### Parameters:
-- columnType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+- columnType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 
 **Returns** `GridCellRenderer`
@@ -58,10 +58,10 @@ sidebar:
 
 ---
 ### getDefaultRendererByType
-▸ getDefaultRendererByType(rendererType: [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum)): `GridCellRenderer`
+▸ getDefaultRendererByType(rendererType: [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum)): `GridCellRenderer`
 
 #### Parameters:
-- rendererType: [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum)
+- rendererType: [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum)
 
 
 **Returns** `GridCellRenderer`
@@ -69,13 +69,13 @@ sidebar:
 
 ---
 ### getRenderer
-▸ getRenderer(name: `string`): (value: `any`, column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class), cellElement: `HTMLElement`, rowElement: `HTMLElement`) => `void`
+▸ getRenderer(name: `string`): (value: `any`, column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class), cellElement: `HTMLElement`, rowElement: `HTMLElement`) => `void`
 
 #### Parameters:
 - name: `string`
 
 
-**Returns** (value: `any`, column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class), cellElement: `HTMLElement`, rowElement: `HTMLElement`) => `void`
+**Returns** (value: `any`, column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class), cellElement: `HTMLElement`, rowElement: `HTMLElement`) => `void`
 
 
 ---
@@ -92,10 +92,10 @@ sidebar:
 
 ---
 ### setDefaultRenderer
-▸ setDefaultRenderer(cellType: [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum),renderer: `GridCellRenderer`): `void`
+▸ setDefaultRenderer(cellType: [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum),renderer: `GridCellRenderer`): `void`
 
 #### Parameters:
-- cellType: [CellRendererType](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/enumerations/cellrenderertype-enum)
+- cellType: [CellRendererType](api-reference-7x/easydata-packages/ui-package/enumerations/cellrenderertype-enum)
 - renderer: `GridCellRenderer`
 
 

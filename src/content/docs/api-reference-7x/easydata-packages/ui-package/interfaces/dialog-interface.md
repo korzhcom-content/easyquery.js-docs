@@ -6,15 +6,15 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#methods-1)
-- [cancel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#cancel)
-- [clearAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#clearalert)
-- [close](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#close)
-- [disableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#disablebuttons)
-- [enableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#enablebuttons)
-- [getRootElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#getrootelement)
-- [showAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#showalert)
-- [submit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface/#submit)
+### [Methods](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#methods-1)
+- [cancel](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#cancel)
+- [clearAlert](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#clearalert)
+- [close](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#close)
+- [disableButtons](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#disablebuttons)
+- [enableButtons](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#enablebuttons)
+- [getRootElement](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#getrootelement)
+- [showAlert](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#showalert)
+- [submit](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface#submit)
 
 
 

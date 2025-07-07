@@ -8,21 +8,21 @@ sidebar:
 Represents a logical expression or predicate, like comparisions or `LIKE` predicate.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/operator-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/operator-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#public-properties-1)
-- [caption](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#caption)
-- [caseIns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#caseins)
-- [defaultOperand](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#defaultoperand)
-- [displayFormat](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#displayformat)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#id)
-- [isRange](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#isrange)
-- [operands](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#operands)
-- [paramCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#paramcount)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/operator-class#public-properties-1)
+- [caption](api-reference-old/api-reference-5-x/core-package/classes/operator-class#caption)
+- [caseIns](api-reference-old/api-reference-5-x/core-package/classes/operator-class#caseins)
+- [defaultOperand](api-reference-old/api-reference-5-x/core-package/classes/operator-class#defaultoperand)
+- [displayFormat](api-reference-old/api-reference-5-x/core-package/classes/operator-class#displayformat)
+- [id](api-reference-old/api-reference-5-x/core-package/classes/operator-class#id)
+- [isRange](api-reference-old/api-reference-5-x/core-package/classes/operator-class#isrange)
+- [operands](api-reference-old/api-reference-5-x/core-package/classes/operator-class#operands)
+- [paramCount](api-reference-old/api-reference-5-x/core-package/classes/operator-class#paramcount)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class/#loadfromdata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/operator-class#public-methods-1)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/operator-class#loadfromdata)
 
 
 ## Constructors
@@ -31,7 +31,7 @@ Represents a logical expression or predicate, like comparisions or `LIKE` predic
 #### constructor
 
 The default constructor.
-⊕ new Operator(): [Operator](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operator-class)
+⊕ new Operator(): [Operator](api-reference-old/api-reference-5-x/core-package/classes/operator-class)
 
 
 ---
@@ -55,7 +55,7 @@ The value indicating whether the operator is case insensative.
 ---
 ### defaultOperand
 
-● defaultOperand: [Operand](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operand-class)
+● defaultOperand: [Operand](api-reference-old/api-reference-5-x/core-package/classes/operand-class)
 
 ---
 ### displayFormat
@@ -83,7 +83,7 @@ The value indicating whether this operator requires range values so first value 
 
 The operands for this operator.
 
-● operands: [Operand](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/operand-class)[]
+● operands: [Operand](api-reference-old/api-reference-5-x/core-package/classes/operand-class)[]
 
 ---
 ### paramCount
@@ -99,11 +99,11 @@ The operands for this operator.
 ### loadFromData
 Loads operator from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class),data: [OperatorData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operatordata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class),data: [OperatorData](api-reference-old/api-reference-5-x/core-package/interfaces/operatordata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [OperatorData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/operatordata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class) - The Data Model.
+- data: [OperatorData](api-reference-old/api-reference-5-x/core-package/interfaces/operatordata-interface) - The JSON representation object.
 
 
 

@@ -6,9 +6,9 @@ sidebar:
 ---
 
 ## Index
-- [loadModelJson](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/functions/#loadmodeljson)
-- [loadNewQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/functions/#loadnewquery)
-- [loadQueryJson](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/functions/#loadqueryjson)
+- [loadModelJson](api-reference-7x/easyquery-packages/core-package/functions#loadmodeljson)
+- [loadNewQuery](api-reference-7x/easyquery-packages/core-package/functions#loadnewquery)
+- [loadQueryJson](api-reference-7x/easyquery-packages/core-package/functions#loadqueryjson)
 
 #### loadModelJson
 

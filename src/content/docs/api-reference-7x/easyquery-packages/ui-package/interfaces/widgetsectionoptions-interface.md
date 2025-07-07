@@ -9,17 +9,17 @@ sidebar:
 Options for widgets
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#properties-1)
-- [chartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#chartwidget)
-- [columnsBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#columnsbar)
-- [columnsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#columnspanel)
-- [easyGrid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#easygrid)
-- [entitiesPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#entitiespanel)
-- [facetsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#facetspanel)
-- [filterBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#filterbar)
-- [queryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#querypanel)
-- [resultGrid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#resultgrid)
-- [sortingBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface/#sortingbar)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#properties-1)
+- [chartWidget](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#chartwidget)
+- [columnsBar](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#columnsbar)
+- [columnsPanel](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#columnspanel)
+- [easyGrid](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#easygrid)
+- [entitiesPanel](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#entitiespanel)
+- [facetsPanel](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#facetspanel)
+- [filterBar](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#filterbar)
+- [queryPanel](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#querypanel)
+- [resultGrid](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#resultgrid)
+- [sortingBar](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface#sortingbar)
 
 
 
@@ -28,17 +28,17 @@ Options for widgets
 ---
 ### chartWidget
 
-● chartWidget?: [ChartWidgetOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface)
+● chartWidget?: [ChartWidgetOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/chartwidgetoptions-interface)
 
 ---
 ### columnsBar
 
-● columnsBar?: [ColumnsBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnsbaroptions-interface)
+● columnsBar?: [ColumnsBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/columnsbaroptions-interface)
 
 ---
 ### columnsPanel
 
-● columnsPanel?: [ColumnsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface)
+● columnsPanel?: [ColumnsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface)
 
 ---
 ### easyGrid
@@ -48,22 +48,22 @@ Options for widgets
 ---
 ### entitiesPanel
 
-● entitiesPanel?: [EntitiesPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface)
+● entitiesPanel?: [EntitiesPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/entitiespaneloptions-interface)
 
 ---
 ### facetsPanel
 
-● facetsPanel?: [ResultFacetsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface)
+● facetsPanel?: [ResultFacetsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface)
 
 ---
 ### filterBar
 
-● filterBar?: [FilterBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface)
+● filterBar?: [FilterBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface)
 
 ---
 ### queryPanel
 
-● queryPanel?: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface)
+● queryPanel?: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface)
 
 ---
 ### resultGrid
@@ -73,6 +73,6 @@ Options for widgets
 ---
 ### sortingBar
 
-● sortingBar?: [SortingBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface)
+● sortingBar?: [SortingBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface)
 
 ---

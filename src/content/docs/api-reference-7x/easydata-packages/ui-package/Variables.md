@@ -6,9 +6,9 @@ sidebar:
 ---
 
 ## Index
-- [eqCssMobile](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/variables/#eqcssmobile)
-- [eqCssPrefix](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/variables/#eqcssprefix)
-- [eqDragManager](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/variables/#eqdragmanager)
+- [eqCssMobile](api-reference-7x/easydata-packages/ui-package/variables#eqcssmobile)
+- [eqCssPrefix](api-reference-7x/easydata-packages/ui-package/variables#eqcssprefix)
+- [eqDragManager](api-reference-7x/easydata-packages/ui-package/variables#eqdragmanager)
 
 ### `const` eqCssMobile
 
@@ -24,7 +24,7 @@ sidebar:
 ---
 ### `const` eqDragManager
 
-● eqDragManager:[DragManager](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/dragmanager-class) = ` new DragManager()`
+● eqDragManager:[DragManager](api-reference-7x/easydata-packages/ui-package/classes/dragmanager-class) = ` new DragManager()`
 
 
 ---

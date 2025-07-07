@@ -8,12 +8,12 @@ sidebar:
 Represents license.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class/#public-methods-1)
-- [chkrgd](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class/#chkrgd)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class/#loadfromdata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class#public-methods-1)
+- [chkrgd](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class#chkrgd)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class#loadfromdata)
 
 
 ## Constructors
@@ -22,7 +22,7 @@ Represents license.
 #### constructor
 
 The default constructor.
-⊕ new EqLcns(): [EqLcns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqlcns-class)
+⊕ new EqLcns(): [EqLcns](api-reference-old/api-reference-5-x/core-package/classes/eqlcns-class)
 
 
 ---

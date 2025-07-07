@@ -9,14 +9,14 @@ sidebar:
 Operator descriptor.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#properties-1)
-- [appliedTypes](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#appliedtypes)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#caption)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#expr)
-- [format](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#format)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#id)
-- [kind](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#kind)
-- [paramCount](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordescriptor-interface/#paramcount)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#properties-1)
+- [appliedTypes](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#appliedtypes)
+- [caption](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#caption)
+- [expr](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#expr)
+- [format](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#format)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#id)
+- [kind](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#kind)
+- [paramCount](api-reference-7x/easyquery-packages/core-package/interfaces/operatordescriptor-interface#paramcount)
 
 
 
@@ -50,7 +50,7 @@ Operator descriptor.
 ---
 ### kind
 
-● kind?: [DataKind](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/datakind-enum)
+● kind?: [DataKind](api-reference-7x/easyquery-packages/core-package/enumerations/datakind-enum)
 
 ---
 ### paramCount

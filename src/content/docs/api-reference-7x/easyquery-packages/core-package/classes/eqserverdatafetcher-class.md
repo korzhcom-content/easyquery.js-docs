@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[DataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface)
+[DataFetcher](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserverdatafetcher-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserverdatafetcher-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqserverdatafetcher-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqserverdatafetcher-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserverdatafetcher-class/#public-methods-1)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserverdatafetcher-class/#fetchdata)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqserverdatafetcher-class#public-methods-1)
+- [fetchData](api-reference-7x/easyquery-packages/core-package/classes/eqserverdatafetcher-class#fetchdata)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerDataFetcher(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqServerDataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserverdatafetcher-class)
+⊕ new EqServerDataFetcher(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqServerDataFetcher](api-reference-7x/easyquery-packages/core-package/classes/eqserverdatafetcher-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -34,10 +34,10 @@ sidebar:
 
 ---
 ### fetchData
-▸ fetchData(options?: [FetchOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface)): `Promise`&lt;`any`&gt;
+▸ fetchData(options?: [FetchOptions](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [FetchOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface), *Optional* 
+- options: [FetchOptions](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`any`&gt;

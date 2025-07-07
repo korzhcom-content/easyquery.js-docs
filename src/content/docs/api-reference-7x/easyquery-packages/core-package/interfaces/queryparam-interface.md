@@ -9,12 +9,12 @@ sidebar:
 The Query Parameter type
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#properties-1)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#caption)
-- [editor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#editor)
-- [editorId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#editorid)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#id)
-- [value](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface/#value)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#properties-1)
+- [caption](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#caption)
+- [editor](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#editor)
+- [editorId](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#editorid)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#id)
+- [value](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface#value)
 
 
 

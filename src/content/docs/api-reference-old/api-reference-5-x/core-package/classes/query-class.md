@@ -8,55 +8,55 @@ sidebar:
 Represents Query.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/query-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/query-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#public-properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#attrclassname)
-- [clientListRequestHandler](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#clientlistrequesthandler)
-- [model](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#model)
-- [serverListRequestHandler](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#serverlistrequesthandler)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/query-class#public-properties-1)
+- [attrClassName](api-reference-old/api-reference-5-x/core-package/classes/query-class#attrclassname)
+- [clientListRequestHandler](api-reference-old/api-reference-5-x/core-package/classes/query-class#clientlistrequesthandler)
+- [model](api-reference-old/api-reference-5-x/core-package/classes/query-class#model)
+- [serverListRequestHandler](api-reference-old/api-reference-5-x/core-package/classes/query-class#serverlistrequesthandler)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#public-methods-1)
-- [addChangedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#addchangedcallback)
-- [addColumn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#addcolumn)
-- [addPredicate](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#addpredicate)
-- [addProcessCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#addprocesscallback)
-- [addSimpleCondition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#addsimplecondition)
-- [beginUpdate](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#beginupdate)
-- [clear](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#clear)
-- [clearColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#clearcolumns)
-- [clearConditions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#clearconditions)
-- [endUpdate](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#endupdate)
-- [fireChangedEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#firechangedevent)
-- [fireProcessEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#fireprocessevent)
-- [getColumnSortIndex](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getcolumnsortindex)
-- [getColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getcolumns)
-- [getConditionsText](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getconditionstext)
-- [getDescription](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getdescription)
-- [getId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getid)
-- [getModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getmodel)
-- [getName](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getname)
-- [getOneValueForAttr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getonevalueforattr)
-- [getRootPredicate](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getrootpredicate)
-- [getSortedColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#getsortedcolumns)
-- [isEmptyColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#isemptycolumns)
-- [isEmptyConditions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#isemptyconditions)
-- [loadFromJson](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#loadfromjson)
-- [loadModelData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#loadmodeldata)
-- [moveColumn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#movecolumn)
-- [removeChangedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#removechangedcallback)
-- [removeColumn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#removecolumn)
-- [removeColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#removecolumns)
-- [removeProcessCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#removeprocesscallback)
-- [runThroughConditions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#runthroughconditions)
-- [setData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#setdata)
-- [setDescription](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#setdescription)
-- [setId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#setid)
-- [setModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#setmodel)
-- [setName](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#setname)
-- [toJSON](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#tojson)
-- [toJSONData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class/#tojsondata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/query-class#public-methods-1)
+- [addChangedCallback](api-reference-old/api-reference-5-x/core-package/classes/query-class#addchangedcallback)
+- [addColumn](api-reference-old/api-reference-5-x/core-package/classes/query-class#addcolumn)
+- [addPredicate](api-reference-old/api-reference-5-x/core-package/classes/query-class#addpredicate)
+- [addProcessCallback](api-reference-old/api-reference-5-x/core-package/classes/query-class#addprocesscallback)
+- [addSimpleCondition](api-reference-old/api-reference-5-x/core-package/classes/query-class#addsimplecondition)
+- [beginUpdate](api-reference-old/api-reference-5-x/core-package/classes/query-class#beginupdate)
+- [clear](api-reference-old/api-reference-5-x/core-package/classes/query-class#clear)
+- [clearColumns](api-reference-old/api-reference-5-x/core-package/classes/query-class#clearcolumns)
+- [clearConditions](api-reference-old/api-reference-5-x/core-package/classes/query-class#clearconditions)
+- [endUpdate](api-reference-old/api-reference-5-x/core-package/classes/query-class#endupdate)
+- [fireChangedEvent](api-reference-old/api-reference-5-x/core-package/classes/query-class#firechangedevent)
+- [fireProcessEvent](api-reference-old/api-reference-5-x/core-package/classes/query-class#fireprocessevent)
+- [getColumnSortIndex](api-reference-old/api-reference-5-x/core-package/classes/query-class#getcolumnsortindex)
+- [getColumns](api-reference-old/api-reference-5-x/core-package/classes/query-class#getcolumns)
+- [getConditionsText](api-reference-old/api-reference-5-x/core-package/classes/query-class#getconditionstext)
+- [getDescription](api-reference-old/api-reference-5-x/core-package/classes/query-class#getdescription)
+- [getId](api-reference-old/api-reference-5-x/core-package/classes/query-class#getid)
+- [getModel](api-reference-old/api-reference-5-x/core-package/classes/query-class#getmodel)
+- [getName](api-reference-old/api-reference-5-x/core-package/classes/query-class#getname)
+- [getOneValueForAttr](api-reference-old/api-reference-5-x/core-package/classes/query-class#getonevalueforattr)
+- [getRootPredicate](api-reference-old/api-reference-5-x/core-package/classes/query-class#getrootpredicate)
+- [getSortedColumns](api-reference-old/api-reference-5-x/core-package/classes/query-class#getsortedcolumns)
+- [isEmptyColumns](api-reference-old/api-reference-5-x/core-package/classes/query-class#isemptycolumns)
+- [isEmptyConditions](api-reference-old/api-reference-5-x/core-package/classes/query-class#isemptyconditions)
+- [loadFromJson](api-reference-old/api-reference-5-x/core-package/classes/query-class#loadfromjson)
+- [loadModelData](api-reference-old/api-reference-5-x/core-package/classes/query-class#loadmodeldata)
+- [moveColumn](api-reference-old/api-reference-5-x/core-package/classes/query-class#movecolumn)
+- [removeChangedCallback](api-reference-old/api-reference-5-x/core-package/classes/query-class#removechangedcallback)
+- [removeColumn](api-reference-old/api-reference-5-x/core-package/classes/query-class#removecolumn)
+- [removeColumns](api-reference-old/api-reference-5-x/core-package/classes/query-class#removecolumns)
+- [removeProcessCallback](api-reference-old/api-reference-5-x/core-package/classes/query-class#removeprocesscallback)
+- [runThroughConditions](api-reference-old/api-reference-5-x/core-package/classes/query-class#runthroughconditions)
+- [setData](api-reference-old/api-reference-5-x/core-package/classes/query-class#setdata)
+- [setDescription](api-reference-old/api-reference-5-x/core-package/classes/query-class#setdescription)
+- [setId](api-reference-old/api-reference-5-x/core-package/classes/query-class#setid)
+- [setModel](api-reference-old/api-reference-5-x/core-package/classes/query-class#setmodel)
+- [setName](api-reference-old/api-reference-5-x/core-package/classes/query-class#setname)
+- [toJSON](api-reference-old/api-reference-5-x/core-package/classes/query-class#tojson)
+- [toJSONData](api-reference-old/api-reference-5-x/core-package/classes/query-class#tojsondata)
 
 
 ## Constructors
@@ -65,12 +65,12 @@ Represents Query.
 #### constructor
 
 The default constructor.
-⊕ new Query(model?: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class),data?: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface),options?: [QueryOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/queryoptions-interface)): [Query](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class)
+⊕ new Query(model?: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class),data?: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface),options?: [QueryOptions](api-reference-old/api-reference-5-x/core-package/interfaces/queryoptions-interface)): [Query](api-reference-old/api-reference-5-x/core-package/classes/query-class)
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class), *Optional*  - The data model.
-- data: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface), *Optional*  - JSON representation object.
-- options: [QueryOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/queryoptions-interface), *Optional*  - The options.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class), *Optional*  - The data model.
+- data: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface), *Optional*  - JSON representation object.
+- options: [QueryOptions](api-reference-old/api-reference-5-x/core-package/interfaces/queryoptions-interface), *Optional*  - The options.
 
 
 
@@ -83,7 +83,7 @@ The default constructor.
 
 The attributec class name (Tag).
 
-● attrClassName: [ExprTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/exprtag-enum)
+● attrClassName: [ExprTag](api-reference-old/api-reference-5-x/core-package/enumerations/exprtag-enum)
 
 ---
 ### clientListRequestHandler
@@ -95,7 +95,7 @@ The attributec class name (Tag).
 
 The Data Model associated with this query.
 
-● model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)
+● model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)
 
 ---
 ### serverListRequestHandler
@@ -109,10 +109,10 @@ The Data Model associated with this query.
 ### addChangedCallback
 Add changed callback
 
-▸ addChangedCallback(callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqevent-interface)) => `void`): `string`
+▸ addChangedCallback(callback: (event: [EqEvent](api-reference-old/api-reference-5-x/core-package/interfaces/eqevent-interface)) => `void`): `string`
 
 #### Parameters:
-- callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqevent-interface)) => `void` - The callback ID.
+- callback: (event: [EqEvent](api-reference-old/api-reference-5-x/core-package/interfaces/eqevent-interface)) => `void` - The callback ID.
 
 
 
@@ -122,10 +122,10 @@ Add changed callback
 ### addColumn
 Adds a new column with specified index.
 
-▸ addColumn(column: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class) | [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[],index: `any`,author: `any`): `void`
+▸ addColumn(column: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class) | [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[],index: `any`,author: `any`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class) | [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[] - The column or array of columns
+- column: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class) | [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[] - The column or array of columns
 - index: `any` - The index of new column
 - author: `any` - The author.
 
@@ -145,22 +145,22 @@ query.addColumn(column, 1)
 ### addPredicate
 Adds a new predicate.
 
-▸ addPredicate(params: `any`): [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+▸ addPredicate(params: `any`): [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 #### Parameters:
 - params: `any` - The options.
 
 
-**Returns** [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+**Returns** [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 ---
 ### addProcessCallback
 Add process callback
 
-▸ addProcessCallback(callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqevent-interface)) => `void`): `string`
+▸ addProcessCallback(callback: (event: [EqEvent](api-reference-old/api-reference-5-x/core-package/interfaces/eqevent-interface)) => `void`): `string`
 
 #### Parameters:
-- callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqevent-interface)) => `void` - The callback.
+- callback: (event: [EqEvent](api-reference-old/api-reference-5-x/core-package/interfaces/eqevent-interface)) => `void` - The callback.
 
 
 **Returns** `string`
@@ -169,13 +169,13 @@ Add process callback
 ### addSimpleCondition
  Adds a new simple condition.
 
-▸ addSimpleCondition(params: `any`): [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+▸ addSimpleCondition(params: `any`): [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 #### Parameters:
 - params: `any` - The options.
 
 
-**Returns** [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+**Returns** [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 ---
 ### beginUpdate
@@ -260,10 +260,10 @@ Fires process event.
 ### getColumnSortIndex
 Gets Colummn sorting index.
 
-▸ getColumnSortIndex(col: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)): `number`
+▸ getColumnSortIndex(col: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)): `number`
 
 #### Parameters:
-- col: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class) - The column.
+- col: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class) - The column.
 
 
 **Returns** `number`
@@ -272,10 +272,10 @@ Gets Colummn sorting index.
 ### getColumns
 Get array of columns.
 
-▸ getColumns(): [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[]
+▸ getColumns(): [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[]
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[]
+**Returns** [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[]
 
 ---
 ### getConditionsText
@@ -309,10 +309,10 @@ Gets query ID.
 ### getModel
 Gets DataModel object associated with this query.
 
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)
 
 ---
 ### getName
@@ -339,19 +339,19 @@ Gets one value for the attribute
 ### getRootPredicate
 Gets root predicate
 
-▸ getRootPredicate(): [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+▸ getRootPredicate(): [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 
-**Returns** [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+**Returns** [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 ---
 ### getSortedColumns
 Gets array of columns used in sorting
 
-▸ getSortedColumns(): [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[]
+▸ getSortedColumns(): [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[]
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[]
+**Returns** [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[]
 
 ---
 ### isEmptyColumns
@@ -388,10 +388,10 @@ Loads query from JSON.
 ### loadModelData
 Loads data model.
 
-▸ loadModelData(model: [DataModelData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/datamodeldata-interface) | `string`): `void`
+▸ loadModelData(model: [DataModelData](api-reference-old/api-reference-5-x/core-package/interfaces/datamodeldata-interface) | `string`): `void`
 
 #### Parameters:
-- model: [DataModelData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/datamodeldata-interface) | `string` - JSON representation object or JSON string.
+- model: [DataModelData](api-reference-old/api-reference-5-x/core-package/interfaces/datamodeldata-interface) | `string` - JSON representation object or JSON string.
 
 
 
@@ -429,10 +429,10 @@ Remove changed callback
 ### removeColumn
 Removes the column.
 
-▸ removeColumn(column: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class),author: `any`): `void`
+▸ removeColumn(column: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class),author: `any`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class) - The column to be removed.
+- column: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class) - The column to be removed.
 - author: `any` - The author
 
 
@@ -443,10 +443,10 @@ Removes the column.
 ### removeColumns
 Removes several columns passed as array.
 
-▸ removeColumns(columnsToRemove: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[],author: `any`): `void`
+▸ removeColumns(columnsToRemove: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[],author: `any`): `void`
 
 #### Parameters:
-- columnsToRemove: [Column](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/column-class)[] - The list of columns to be removed.
+- columnsToRemove: [Column](api-reference-old/api-reference-5-x/core-package/classes/column-class)[] - The list of columns to be removed.
 - author: `any` - The author.
 
 
@@ -470,10 +470,10 @@ Remove process callback
 ### runThroughConditions
 Runs through condition with this callback.
 
-▸ runThroughConditions(processCondition: (cond: [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)) => `void`): `void`
+▸ runThroughConditions(processCondition: (cond: [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)) => `void`): `void`
 
 #### Parameters:
-- processCondition: (cond: [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)) => `void` - The function to process condition.
+- processCondition: (cond: [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)) => `void` - The function to process condition.
 
 
 
@@ -483,10 +483,10 @@ Runs through condition with this callback.
 ### setData
 Sets data to the query.
 
-▸ setData(data: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface) | `string`,silent?: `boolean`): `void`
+▸ setData(data: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface) | `string`,silent?: `boolean`): `void`
 
 #### Parameters:
-- data: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface) | `string` - JSON representation object or JSON string
+- data: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface) | `string` - JSON representation object or JSON string
 - silent: `boolean`, *Default value* = `false` - Indicate wether to set data silent (without firing event)
 
 
@@ -523,10 +523,10 @@ Sets query ID.
 ### setModel
 Sets DataModel object associated with this query.
 
-▸ setModel(model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)): `void`
+▸ setModel(model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class) - The data model.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class) - The data model.
 
 
 
@@ -558,9 +558,9 @@ Returns JSON representation of this query.
 ### toJSONData
 Returns JSON representation of this query.
 
-▸ toJSONData(): [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface)
+▸ toJSONData(): [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface)
 
 
-**Returns** [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface)
+**Returns** [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface)
 
 ---

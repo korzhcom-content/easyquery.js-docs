@@ -6,10 +6,10 @@ sidebar:
 ---
 
 ## Index
-- [addLocale](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/functions/#addlocale)
-- [getLocale](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/functions/#getlocale)
-- [getText](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/functions/#gettext)
-- [setLocale](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqi18n-namespace/functions/#setlocale)
+- [addLocale](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/functions#addlocale)
+- [getLocale](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/functions#getlocale)
+- [getText](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/functions#gettext)
+- [setLocale](api-reference-old/api-reference-5-x/core-package/eqi18n-namespace/functions#setlocale)
 
 #### addLocale
 

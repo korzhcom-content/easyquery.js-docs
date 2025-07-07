@@ -7,13 +7,13 @@ sidebar:
 ---
 
 ## Extends
-[GetQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getquerylistoptions-interface)
+[GetQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getquerylistoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface/#properties-1)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface/#modelid)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadquerylistoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface#properties-1)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface#modelid)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadquerylistoptions-interface#success)
 
 
 
@@ -32,6 +32,6 @@ sidebar:
 ---
 ### success
 
-● success?: (queries: [QueryListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface)[]) => `void`
+● success?: (queries: [QueryListItem](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface)[]) => `void`
 
 ---

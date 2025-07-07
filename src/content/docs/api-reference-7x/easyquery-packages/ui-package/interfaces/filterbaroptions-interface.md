@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#properties-1)
-- [applyFilterCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#applyfiltercallback)
-- [applyOnClose](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#applyonclose)
-- [queryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#querypanel)
-- [showApplyButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#showapplybutton)
-- [showClearButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/filterbaroptions-interface/#showclearbutton)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#properties-1)
+- [applyFilterCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#applyfiltercallback)
+- [applyOnClose](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#applyonclose)
+- [queryPanel](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#querypanel)
+- [showApplyButton](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#showapplybutton)
+- [showClearButton](api-reference-7x/easyquery-packages/ui-package/interfaces/filterbaroptions-interface#showclearbutton)
 
 
 
@@ -31,7 +31,7 @@ sidebar:
 ---
 ### queryPanel
 
-● queryPanel?: [QueryPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/querypaneloptions-interface)
+● queryPanel?: [QueryPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/querypaneloptions-interface)
 
 ---
 ### showApplyButton

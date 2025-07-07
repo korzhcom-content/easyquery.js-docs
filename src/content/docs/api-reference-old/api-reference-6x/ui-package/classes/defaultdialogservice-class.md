@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Implements
-[DialogService](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface)
+[DialogService](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface)
 
 ## Index
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdialogservice-class/#public-methods-1)
-- [openConfirm](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdialogservice-class/#openconfirm)
-- [openPrompt](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdialogservice-class/#openprompt)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/defaultdialogservice-class#public-methods-1)
+- [openConfirm](api-reference-old/api-reference-6x/ui-package/classes/defaultdialogservice-class#openconfirm)
+- [openPrompt](api-reference-old/api-reference-6x/ui-package/classes/defaultdialogservice-class#openprompt)
 
 
 

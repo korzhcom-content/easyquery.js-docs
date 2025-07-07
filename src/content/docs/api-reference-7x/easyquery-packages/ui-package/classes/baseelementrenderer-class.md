@@ -7,26 +7,26 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#element)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#labelelement)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#protected-properties-1)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#element)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#labelelement)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#protected-methods-1)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#closeeditor)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#getclassestoadd)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#getlabeltext)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#iseditable)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#renderlabelelement)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class/#showeditor)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#protected-methods-1)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#closeeditor)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#getclassestoadd)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#getlabeltext)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#iseditable)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#renderlabelelement)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class#showeditor)
 
 
 ## Constructors
@@ -34,7 +34,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new BaseElementRenderer(slot?: `HTMLDivElement`): [BaseElementRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/baseelementrenderer-class)
+⊕ new BaseElementRenderer(slot?: `HTMLDivElement`): [BaseElementRenderer](api-reference-7x/easyquery-packages/ui-package/classes/baseelementrenderer-class)
 
 #### Parameters:
 - slot: `HTMLDivElement`, *Optional* 

@@ -8,15 +8,15 @@ sidebar:
 Represents a parser for format expressions in operators
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#public-methods-1)
-- [getToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#gettoken)
-- [next](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#next)
-- [parse](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#parse)
-- [skipSpaces](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#skipspaces)
-- [start](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class/#start)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#public-methods-1)
+- [getToken](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#gettoken)
+- [next](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#next)
+- [parse](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#parse)
+- [skipSpaces](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#skipspaces)
+- [start](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class#start)
 
 
 ## Constructors
@@ -24,7 +24,7 @@ Represents a parser for format expressions in operators
 ---
 #### constructor
 
-⊕ new FormatParser(format: `string`): [FormatParser](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/formatparser-class)
+⊕ new FormatParser(format: `string`): [FormatParser](api-reference-old/api-reference-5-x/core-package/classes/formatparser-class)
 
 #### Parameters:
 - format: `string`
@@ -38,10 +38,10 @@ Represents a parser for format expressions in operators
 ### getToken
 Returns current token
 
-▸ getToken(): [FormatToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface)
+▸ getToken(): [FormatToken](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface)
 
 
-**Returns** [FormatToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface)
+**Returns** [FormatToken](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface)
 
 ---
 ### next
@@ -56,10 +56,10 @@ Scans the source and gets the next token
 ### parse
 Parses all source string passed in constructor and returns the list of tokens
 
-▸ parse(): [FormatToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface)[]
+▸ parse(): [FormatToken](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface)[]
 
 
-**Returns** [FormatToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/formattoken-interface)[]
+**Returns** [FormatToken](api-reference-old/api-reference-5-x/core-package/interfaces/formattoken-interface)[]
 
 ---
 ### skipSpaces

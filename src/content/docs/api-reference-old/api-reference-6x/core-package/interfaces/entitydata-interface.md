@@ -9,14 +9,14 @@ sidebar:
 Entity JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#properties-1)
-- [attrs](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#attrs)
-- [desc](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#desc)
-- [ents](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#ents)
-- [name](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#name)
-- [uic](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#uic)
-- [uir](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#uir)
-- [uis](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface/#uis)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#properties-1)
+- [attrs](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#attrs)
+- [desc](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#desc)
+- [ents](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#ents)
+- [name](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#name)
+- [uic](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#uic)
+- [uir](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#uir)
+- [uis](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface#uis)
 
 
 
@@ -27,7 +27,7 @@ Entity JSON representation object.
 
 List of attributes.
 
-● attrs?: [EntityAttrData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entityattrdata-interface)[]
+● attrs?: [EntityAttrData](api-reference-old/api-reference-6x/core-package/interfaces/entityattrdata-interface)[]
 
 ---
 ### desc
@@ -41,7 +41,7 @@ The description.
 
 List of sub-entities.
 
-● ents?: [EntityData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/entitydata-interface)[]
+● ents?: [EntityData](api-reference-old/api-reference-6x/core-package/interfaces/entitydata-interface)[]
 
 ---
 ### name

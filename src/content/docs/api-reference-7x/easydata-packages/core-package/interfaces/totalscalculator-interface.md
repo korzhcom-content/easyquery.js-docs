@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscalculator-interface/#methods-1)
-- [calculate](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscalculator-interface/#calculate)
-- [getTotals](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscalculator-interface/#gettotals)
+### [Methods](api-reference-7x/easydata-packages/core-package/interfaces/totalscalculator-interface#methods-1)
+- [calculate](api-reference-7x/easydata-packages/core-package/interfaces/totalscalculator-interface#calculate)
+- [getTotals](api-reference-7x/easydata-packages/core-package/interfaces/totalscalculator-interface#gettotals)
 
 
 
@@ -17,10 +17,10 @@ sidebar:
 
 ---
 ### calculate
-▸ calculate(options?: [CalculateOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface)): `Promise`&lt;`void`&gt;
+▸ calculate(options?: [CalculateOptions](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface)): `Promise`&lt;`void`&gt;
 
 #### Parameters:
-- options: [CalculateOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/calculateoptions-interface), *Optional* 
+- options: [CalculateOptions](api-reference-7x/easydata-packages/core-package/interfaces/calculateoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`void`&gt;
@@ -28,10 +28,10 @@ sidebar:
 
 ---
 ### getTotals
-▸ getTotals(): [TotalsContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscontainer-interface)
+▸ getTotals(): [TotalsContainer](api-reference-7x/easydata-packages/core-package/interfaces/totalscontainer-interface)
 
 
-**Returns** [TotalsContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscontainer-interface)
+**Returns** [TotalsContainer](api-reference-7x/easydata-packages/core-package/interfaces/totalscontainer-interface)
 
 
 ---

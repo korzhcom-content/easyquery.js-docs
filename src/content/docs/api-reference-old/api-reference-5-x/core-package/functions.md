@@ -6,19 +6,19 @@ sidebar:
 ---
 
 ## Index
-- [ajax](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/functions/#ajax)
-- [loadModelJson](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/functions/#loadmodeljson)
-- [loadNewQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/functions/#loadnewquery)
-- [loadQueryJson](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/functions/#loadqueryjson)
+- [ajax](api-reference-old/api-reference-5-x/core-package/functions#ajax)
+- [loadModelJson](api-reference-old/api-reference-5-x/core-package/functions#loadmodeljson)
+- [loadNewQuery](api-reference-old/api-reference-5-x/core-package/functions#loadnewquery)
+- [loadQueryJson](api-reference-old/api-reference-5-x/core-package/functions#loadqueryjson)
 
 #### ajax
 
 Sends an AJAX request to the server
 
-▸ ajax(options: [AjaxOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface)): `any`
+▸ ajax(options: [AjaxOptions](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface)): `any`
 
 #### Parameters:
-- options: [AjaxOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface) - 
+- options: [AjaxOptions](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface) - 
 
 
 **Returns** `any`

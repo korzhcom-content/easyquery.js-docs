@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface/#properties-1)
-- [displayName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface/#displayname)
-- [englishName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface/#englishname)
-- [settings](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface/#settings)
-- [texts](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface/#texts)
+### [Properties](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface#properties-1)
+- [displayName](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface#displayname)
+- [englishName](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface#englishname)
+- [settings](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface#settings)
+- [texts](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface#texts)
 
 
 
@@ -30,11 +30,11 @@ sidebar:
 ---
 ### settings
 
-● settings?: [LocaleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localesettings-interface)
+● settings?: [LocaleSettings](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localesettings-interface)
 
 ---
 ### texts
 
-● texts?: [TextResources](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/textresources-interface)
+● texts?: [TextResources](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/textresources-interface)
 
 ---

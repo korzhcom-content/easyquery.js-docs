@@ -7,20 +7,20 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#properties-1)
-- [arrangeParents](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#arrangeparents)
-- [beforeOpen](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#beforeopen)
-- [body](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#body)
-- [cancelable](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#cancelable)
-- [closable](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#closable)
-- [height](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#height)
-- [onCancel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#oncancel)
-- [onDestroy](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#ondestroy)
-- [onSubmit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#onsubmit)
-- [submitOnEnter](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#submitonenter)
-- [submitable](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#submitable)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#title)
-- [width](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface/#width)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#properties-1)
+- [arrangeParents](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#arrangeparents)
+- [beforeOpen](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#beforeopen)
+- [body](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#body)
+- [cancelable](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#cancelable)
+- [closable](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#closable)
+- [height](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#height)
+- [onCancel](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#oncancel)
+- [onDestroy](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#ondestroy)
+- [onSubmit](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#onsubmit)
+- [submitOnEnter](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#submitonenter)
+- [submitable](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#submitable)
+- [title](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#title)
+- [width](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface#width)
 
 
 

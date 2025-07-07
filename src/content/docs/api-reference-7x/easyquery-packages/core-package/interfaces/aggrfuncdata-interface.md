@@ -9,12 +9,12 @@ sidebar:
 Aggregate function JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#properties-1)
-- [cptn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#cptn)
-- [dtypes](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#dtypes)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#expr)
-- [fmt](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#fmt)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface/#id)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#properties-1)
+- [cptn](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#cptn)
+- [dtypes](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#dtypes)
+- [expr](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#expr)
+- [fmt](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#fmt)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface#id)
 
 
 

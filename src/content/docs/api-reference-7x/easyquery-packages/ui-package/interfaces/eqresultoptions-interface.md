@@ -9,14 +9,14 @@ sidebar:
 Options that define how to display the query execution results
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#properties-1)
-- [chartWidgetResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#chartwidgetresolver)
-- [clearResultOnQueryChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#clearresultonquerychange)
-- [grid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#grid)
-- [paging](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#paging)
-- [resultGridResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#resultgridresolver)
-- [showChart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#showchart)
-- [showProcessIndicator](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface/#showprocessindicator)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#properties-1)
+- [chartWidgetResolver](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#chartwidgetresolver)
+- [clearResultOnQueryChange](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#clearresultonquerychange)
+- [grid](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#grid)
+- [paging](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#paging)
+- [resultGridResolver](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#resultgridresolver)
+- [showChart](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#showchart)
+- [showProcessIndicator](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface#showprocessindicator)
 
 
 
@@ -25,7 +25,7 @@ Options that define how to display the query execution results
 ---
 ### chartWidgetResolver
 
-● chartWidgetResolver?: (slot: `HTMLElement`, view?: `any`) => [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● chartWidgetResolver?: (slot: `HTMLElement`, view?: `any`) => [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### clearResultOnQueryChange
@@ -35,7 +35,7 @@ Options that define how to display the query execution results
 ---
 ### grid
 
-● grid?: [GridOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface)
+● grid?: [GridOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface)
 
 ---
 ### paging
@@ -45,7 +45,7 @@ Options that define how to display the query execution results
 ---
 ### resultGridResolver
 
-● resultGridResolver?: (slot: `HTMLElement`, view?: `any`) => [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultGridResolver?: (slot: `HTMLElement`, view?: `any`) => [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### showChart

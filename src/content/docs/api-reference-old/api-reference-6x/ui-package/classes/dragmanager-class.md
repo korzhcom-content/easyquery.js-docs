@@ -6,12 +6,12 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class/#public-methods-1)
-- [registerDraggableItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class/#registerdraggableitem)
-- [registerDropContainer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class/#registerdropcontainer)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class#public-methods-1)
+- [registerDraggableItem](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class#registerdraggableitem)
+- [registerDropContainer](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class#registerdropcontainer)
 
 
 ## Constructors
@@ -19,7 +19,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DragManager(): [DragManager](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dragmanager-class)
+⊕ new DragManager(): [DragManager](api-reference-old/api-reference-6x/ui-package/classes/dragmanager-class)
 
 
 ---
@@ -28,10 +28,10 @@ sidebar:
 
 ---
 ### registerDraggableItem
-▸ registerDraggableItem(descriptor: [DragItemDescriptor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface)): `void`
+▸ registerDraggableItem(descriptor: [DragItemDescriptor](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface)): `void`
 
 #### Parameters:
-- descriptor: [DragItemDescriptor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface)
+- descriptor: [DragItemDescriptor](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface)
 
 
 **Returns** `void`
@@ -39,10 +39,10 @@ sidebar:
 
 ---
 ### registerDropContainer
-▸ registerDropContainer(descriptor?: [DropContainerDescriptor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dropcontainerdescriptor-interface)): `void`
+▸ registerDropContainer(descriptor?: [DropContainerDescriptor](api-reference-old/api-reference-6x/ui-package/interfaces/dropcontainerdescriptor-interface)): `void`
 
 #### Parameters:
-- descriptor: [DropContainerDescriptor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dropcontainerdescriptor-interface), *Optional* 
+- descriptor: [DropContainerDescriptor](api-reference-old/api-reference-6x/ui-package/interfaces/dropcontainerdescriptor-interface), *Optional* 
 
 
 **Returns** `void`

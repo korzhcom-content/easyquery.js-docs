@@ -6,33 +6,33 @@ sidebar:
 ---
 
 ## Implements
-[Dialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface)
+[Dialog](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#protected-properties-1)
-- [alertElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#alertelement)
-- [bodyElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#bodyelement)
-- [footerElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#footerelement)
-- [headerElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#headerelement)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#slot)
-- [windowElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#windowelement)
+### [Protected Properties](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#protected-properties-1)
+- [alertElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#alertelement)
+- [bodyElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#bodyelement)
+- [footerElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#footerelement)
+- [headerElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#headerelement)
+- [slot](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#slot)
+- [windowElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#windowelement)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#public-methods-1)
-- [cancel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#cancel)
-- [clearAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#clearalert)
-- [close](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#close)
-- [disableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#disablebuttons)
-- [enableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#enablebuttons)
-- [getRootElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#getrootelement)
-- [open](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#open)
-- [showAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#showalert)
-- [submit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#submit)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#public-methods-1)
+- [cancel](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#cancel)
+- [clearAlert](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#clearalert)
+- [close](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#close)
+- [disableButtons](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#disablebuttons)
+- [enableButtons](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#enablebuttons)
+- [getRootElement](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#getrootelement)
+- [open](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#open)
+- [showAlert](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#showalert)
+- [submit](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#submit)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#protected-methods-1)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class/#destroy)
+### [Protected Methods](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#protected-methods-1)
+- [destroy](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class#destroy)
 
 
 ## Constructors
@@ -40,10 +40,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DefaultDialog(options: [DialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface)): [DefaultDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class)
+⊕ new DefaultDialog(options: [DialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface)): [DefaultDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class)
 
 #### Parameters:
-- options: [DialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface)
+- options: [DialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface)
 
 
 ---

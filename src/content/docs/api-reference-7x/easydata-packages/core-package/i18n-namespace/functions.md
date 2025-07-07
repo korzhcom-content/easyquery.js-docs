@@ -6,38 +6,38 @@ sidebar:
 ---
 
 ## Index
-- [addLocale](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#addlocale)
-- [addMapper](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#addmapper)
-- [booleanToStr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#booleantostr)
-- [dateTimeToStr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#datetimetostr)
-- [getCurrentLocale](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getcurrentlocale)
-- [getLocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getlocalesettings)
-- [getLocales](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getlocales)
-- [getLongMonthName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getlongmonthname)
-- [getLongWeekDayName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getlongweekdayname)
-- [getOneLocaleSetting](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getonelocalesetting)
-- [getShortMonthName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getshortmonthname)
-- [getShortWeekDayName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#getshortweekdayname)
-- [getText](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#gettext)
-- [numberToStr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#numbertostr)
-- [resetLocales](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#resetlocales)
-- [setCurrentLocale](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#setcurrentlocale)
-- [setLocale](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#setlocale)
-- [updateDefaultTexts](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#updatedefaulttexts)
-- [updateLocaleInfo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#updatelocaleinfo)
-- [updateLocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#updatelocalesettings)
-- [updateLocaleTexts](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/functions/#updatelocaletexts)
+- [addLocale](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#addlocale)
+- [addMapper](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#addmapper)
+- [booleanToStr](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#booleantostr)
+- [dateTimeToStr](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#datetimetostr)
+- [getCurrentLocale](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getcurrentlocale)
+- [getLocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getlocalesettings)
+- [getLocales](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getlocales)
+- [getLongMonthName](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getlongmonthname)
+- [getLongWeekDayName](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getlongweekdayname)
+- [getOneLocaleSetting](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getonelocalesetting)
+- [getShortMonthName](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getshortmonthname)
+- [getShortWeekDayName](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#getshortweekdayname)
+- [getText](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#gettext)
+- [numberToStr](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#numbertostr)
+- [resetLocales](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#resetlocales)
+- [setCurrentLocale](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#setcurrentlocale)
+- [setLocale](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#setlocale)
+- [updateDefaultTexts](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#updatedefaulttexts)
+- [updateLocaleInfo](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#updatelocaleinfo)
+- [updateLocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#updatelocalesettings)
+- [updateLocaleTexts](api-reference-7x/easydata-packages/core-package/i18n-namespace/functions#updatelocaletexts)
 
 #### addLocale
 
 Adds the locale.
 
-▸ addLocale(localeId: `string`,localeInfo: [LocaleInfo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
+▸ addLocale(localeId: `string`,localeInfo: [LocaleInfo](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
 
 #### Parameters:
 - localeId: `string` - The locale ID (like 'en', 'de', 'uk', etc).
 If the locale does exist yet - it will be created
-- localeInfo: [LocaleInfo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface) - a LocaleInfo object that contains the locale settings and textual resources
+- localeInfo: [LocaleInfo](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface) - a LocaleInfo object that contains the locale settings and textual resources
 
 
 
@@ -75,11 +75,11 @@ If the locale does exist yet - it will be created
 ---
 #### dateTimeToStr
 
-▸ dateTimeToStr(dateTime: `Date`,dataType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum),format?: `string`): `string`
+▸ dateTimeToStr(dateTime: `Date`,dataType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum),format?: `string`): `string`
 
 #### Parameters:
 - dateTime: `Date`
-- dataType: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+- dataType: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 - format: `string`, *Optional* 
 
 
@@ -103,10 +103,10 @@ Gets the current locale ID.
 ---
 #### getLocaleSettings
 
-▸ getLocaleSettings(): [LocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface)
+▸ getLocaleSettings(): [LocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface)
 
 
-**Returns** [LocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface)
+**Returns** [LocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface)
 
 
 
@@ -115,10 +115,10 @@ Gets the current locale ID.
 
 Gets added locales with their names.
 
-▸ getLocales(): [LocaleInfoItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[]
+▸ getLocales(): [LocaleInfoItem](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[]
 
 
-**Returns** [LocaleInfoItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[] - The locales.
+**Returns** [LocaleInfoItem](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[] - The locales.
 
 
 
@@ -265,10 +265,10 @@ Sets the curent locale.
 ---
 #### updateDefaultTexts
 
-▸ updateDefaultTexts(texts: [TextResources](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/textresources-interface)): `void`
+▸ updateDefaultTexts(texts: [TextResources](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/textresources-interface)): `void`
 
 #### Parameters:
-- texts: [TextResources](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/textresources-interface)
+- texts: [TextResources](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/textresources-interface)
 
 
 **Returns** `void`
@@ -280,12 +280,12 @@ Sets the curent locale.
 
 Updates the information for the specified locale.
 
-▸ updateLocaleInfo(localeId: `string`,localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
+▸ updateLocaleInfo(localeId: `string`,localeData: [LocaleInfo](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
 
 #### Parameters:
 - localeId: `string` - The locale ID (like 'en', 'de', 'uk', etc).
 If the locale does exist yet - it will be added
-- localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface)
+- localeData: [LocaleInfo](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface)
 
 
 **Returns** `void`
@@ -297,10 +297,10 @@ If the locale does exist yet - it will be added
 
 Updates the locale settings (date/time formats, separators, etc) for the specified locale.
 
-▸ updateLocaleSettings(settingsToUpdate: [LocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface)): `void`
+▸ updateLocaleSettings(settingsToUpdate: [LocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface)): `void`
 
 #### Parameters:
-- settingsToUpdate: [LocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface) - a LocaleSettings object
+- settingsToUpdate: [LocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface) - a LocaleSettings object
 
 
 **Returns** `void`
@@ -312,10 +312,10 @@ Updates the locale settings (date/time formats, separators, etc) for the specifi
 
 Updates the texts for the current locale
 
-▸ updateLocaleTexts(texts: [TextResources](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/textresources-interface)): `void`
+▸ updateLocaleTexts(texts: [TextResources](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/textresources-interface)): `void`
 
 #### Parameters:
-- texts: [TextResources](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/textresources-interface) - A plain JS object that contains textual resources
+- texts: [TextResources](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/textresources-interface) - A plain JS object that contains textual resources
 
 
 

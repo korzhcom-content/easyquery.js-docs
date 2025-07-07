@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querysynchronizer-interface/#methods-1)
-- [syncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querysynchronizer-interface/#syncquery)
+### [Methods](api-reference-old/api-reference-6x/core-package/interfaces/querysynchronizer-interface#methods-1)
+- [syncQuery](api-reference-old/api-reference-6x/core-package/interfaces/querysynchronizer-interface#syncquery)
 
 
 

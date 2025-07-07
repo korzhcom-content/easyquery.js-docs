@@ -7,54 +7,54 @@ sidebar:
 ---
 
 ## Extends
-[ExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/expressionrenderer-class)
+[ExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/expressionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#protected-properties-1)
-- [colEntitiesList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#colentitieslist)
-- [colEntitiesMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#colentitiesmenu)
-- [columnBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#columnblock)
-- [columnElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#columnelement)
-- [dialogBackground](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#dialogbackground)
-- [dialogBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#dialogblock)
-- [dialogBlockBody](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#dialogblockbody)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#element)
-- [expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#expression)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#labelelement)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#panel)
-- [queryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#querypanel)
-- [queryPanelBlock](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#querypanelblock)
-- [valueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#valueeditor)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#protected-properties-1)
+- [colEntitiesList](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#colentitieslist)
+- [colEntitiesMenu](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#colentitiesmenu)
+- [columnBlock](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#columnblock)
+- [columnElement](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#columnelement)
+- [dialogBackground](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#dialogbackground)
+- [dialogBlock](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#dialogblock)
+- [dialogBlockBody](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#dialogblockbody)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#element)
+- [expression](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#expression)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#labelelement)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#panel)
+- [queryPanel](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#querypanel)
+- [queryPanelBlock](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#querypanelblock)
+- [valueEditor](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#valueeditor)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#public-methods-1)
-- [adjustWidth](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#adjustwidth)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#public-methods-1)
+- [adjustWidth](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#adjustwidth)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#protected-methods-1)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#closeeditor)
-- [getAttributeText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getattributetext)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getclassestoadd)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getcontext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getlabeltext)
-- [getSubQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getsubquery)
-- [getValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#getvalue)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#iseditable)
-- [isEmptyValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#isemptyvalue)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#isreadonly)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#renderlabelelement)
-- [setValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#setvalue)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#showeditor)
-- [showValidationError](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#showvalidationerror)
-- [validateInput](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class/#validateinput)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#protected-methods-1)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#closeeditor)
+- [getAttributeText](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getattributetext)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getclassestoadd)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getcontext)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getlabeltext)
+- [getSubQuery](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getsubquery)
+- [getValue](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#getvalue)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#iseditable)
+- [isEmptyValue](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#isemptyvalue)
+- [isReadOnly](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#isreadonly)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#renderlabelelement)
+- [setValue](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#setvalue)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#showeditor)
+- [showValidationError](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#showvalidationerror)
+- [validateInput](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class#validateinput)
 
 
 ## Constructors
@@ -62,12 +62,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new SubQueryExpressionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [SubQueryExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/subqueryexpressionrenderer-class)
+⊕ new SubQueryExpressionRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [SubQueryExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/subqueryexpressionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
-- valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
+- valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -78,12 +78,12 @@ sidebar:
 ---
 ### colEntitiesList
 
-● colEntitiesList: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)[]
+● colEntitiesList: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)[]
 
 ---
 ### colEntitiesMenu
 
-● colEntitiesMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● colEntitiesMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ### columnBlock
@@ -118,7 +118,7 @@ sidebar:
 ---
 ### expression
 
-● expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+● expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 ---
 ### labelElement
@@ -128,12 +128,12 @@ sidebar:
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ### queryPanel
 
-● queryPanel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● queryPanel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ### queryPanelBlock
@@ -143,7 +143,7 @@ sidebar:
 ---
 ### valueEditor
 
-● valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+● valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 
 ---
 ## Protected Accessors
@@ -199,10 +199,10 @@ sidebar:
 
 ---
 ### getAttributeText
-▸ getAttributeText(attribute: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getAttributeText(attribute: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- attribute: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+- attribute: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 
 **Returns** `string`
@@ -218,10 +218,10 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -242,10 +242,10 @@ sidebar:
 
 ---
 ### getSubQuery
-▸ getSubQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getSubQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -298,10 +298,10 @@ sidebar:
 
 ---
 ### setValue
-▸ setValue(value: `string` | [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class),silent?: `boolean`): `void`
+▸ setValue(value: `string` | [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class),silent?: `boolean`): `void`
 
 #### Parameters:
-- value: `string` | [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+- value: `string` | [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 - silent: `boolean`, *Optional* 
 
 
@@ -330,13 +330,13 @@ sidebar:
 
 ---
 ### validateInput
-▸ validateInput(value: `string`): [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+▸ validateInput(value: `string`): [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 #### Parameters:
 - value: `string`
 
 
-**Returns** [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+**Returns** [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 
 ---

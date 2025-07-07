@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#data)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#element)
-- [onDragEnter](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#ondragenter)
-- [onDragLeave](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#ondragleave)
-- [onDragOver](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#ondragover)
-- [onDrop](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#ondrop)
-- [scopes](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dropcontainerdescriptor-interface/#scopes)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#properties-1)
+- [data](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#data)
+- [element](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#element)
+- [onDragEnter](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#ondragenter)
+- [onDragLeave](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#ondragleave)
+- [onDragOver](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#ondragover)
+- [onDrop](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#ondrop)
+- [scopes](api-reference-7x/easydata-packages/ui-package/interfaces/dropcontainerdescriptor-interface#scopes)
 
 
 
@@ -33,22 +33,22 @@ sidebar:
 ---
 ### onDragEnter
 
-● onDragEnter?: (container: [EqDropContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/eqdragevent-class)) => `void`
+● onDragEnter?: (container: [EqDropContainer](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](api-reference-7x/easydata-packages/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### onDragLeave
 
-● onDragLeave?: (container: [EqDropContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/eqdragevent-class)) => `void`
+● onDragLeave?: (container: [EqDropContainer](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](api-reference-7x/easydata-packages/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### onDragOver
 
-● onDragOver?: (container: [EqDropContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/eqdragevent-class)) => `void`
+● onDragOver?: (container: [EqDropContainer](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](api-reference-7x/easydata-packages/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### onDrop
 
-● onDrop?: (container: [EqDropContainer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/eqdragevent-class)) => `void`
+● onDrop?: (container: [EqDropContainer](api-reference-7x/easydata-packages/ui-package/interfaces/eqdropcontainer-interface), event: [EqDragEvent](api-reference-7x/easydata-packages/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### scopes

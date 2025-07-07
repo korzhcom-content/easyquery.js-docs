@@ -10,41 +10,41 @@ sidebar:
 `DomElementBuilder`&lt;`HTMLAnchorElement`&gt;
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#protected-properties-1)
-- [_onGetMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#_ongetmenu)
-- [_onItemSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#_onitemselected)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#element)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#protected-properties-1)
+- [_onGetMenu](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#_ongetmenu)
+- [_onItemSelected](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#_onitemselected)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#element)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#public-methods-1)
-- [addChild](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addchild)
-- [addChildElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addchildelement)
-- [addClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addclass)
-- [addHtml](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addhtml)
-- [addText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#addtext)
-- [appendTo](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#appendto)
-- [attr](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#attr)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#clear)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#data)
-- [hide](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#hide)
-- [html](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#html)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#id)
-- [isVisible](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#isvisible)
-- [off](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#off)
-- [on](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#on)
-- [onGetMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#ongetmenu)
-- [onItemSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#onitemselected)
-- [removeClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#removeclass)
-- [removeStyle](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#removestyle)
-- [setStyle](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#setstyle)
-- [show](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#show)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#text)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#title)
-- [toDOM](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#todom)
-- [toggleClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#toggleclass)
-- [visible](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class/#visible)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#public-methods-1)
+- [addChild](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#addchild)
+- [addChildElement](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#addchildelement)
+- [addClass](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#addclass)
+- [addHtml](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#addhtml)
+- [addText](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#addtext)
+- [appendTo](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#appendto)
+- [attr](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#attr)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#clear)
+- [data](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#data)
+- [hide](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#hide)
+- [html](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#html)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#id)
+- [isVisible](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#isvisible)
+- [off](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#off)
+- [on](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#on)
+- [onGetMenu](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#ongetmenu)
+- [onItemSelected](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#onitemselected)
+- [removeClass](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#removeclass)
+- [removeStyle](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#removestyle)
+- [setStyle](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#setstyle)
+- [show](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#show)
+- [text](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#text)
+- [title](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#title)
+- [toDOM](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#todom)
+- [toggleClass](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#toggleclass)
+- [visible](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class#visible)
 
 
 ## Constructors
@@ -52,7 +52,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DomDropDownElementBuilder(parent?: `HTMLElement`): [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
+⊕ new DomDropDownElementBuilder(parent?: `HTMLElement`): [DomDropDownElementBuilder](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class)
 
 #### Parameters:
 - parent: `HTMLElement`, *Optional* 
@@ -65,7 +65,7 @@ sidebar:
 ---
 ### _onGetMenu
 
-● _onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● _onGetMenu: () => [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ### _onItemSelected
@@ -301,10 +301,10 @@ sidebar:
 
 ---
 ### onGetMenu
-▸ onGetMenu(onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)): `this`
+▸ onGetMenu(onGetMenu: () => [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)): `this`
 
 #### Parameters:
-- onGetMenu: () => [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+- onGetMenu: () => [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 **Returns** `this`

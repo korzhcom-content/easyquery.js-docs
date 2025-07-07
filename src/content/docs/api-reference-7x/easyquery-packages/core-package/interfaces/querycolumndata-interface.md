@@ -9,16 +9,16 @@ sidebar:
 Column JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#blockid)
-- [cptn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#cptn)
-- [enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#enabled)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#expr)
-- [hidden](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#hidden)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#id)
-- [readOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#readonly)
-- [srt](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#srt)
-- [srtidx](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface/#srtidx)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#properties-1)
+- [blockId](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#blockid)
+- [cptn](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#cptn)
+- [enabled](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#enabled)
+- [expr](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#expr)
+- [hidden](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#hidden)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#id)
+- [readOnly](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#readonly)
+- [srt](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#srt)
+- [srtidx](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface#srtidx)
 
 
 
@@ -50,7 +50,7 @@ Column is enabled
 
 The expression.
 
-● expr?: [ExpressionData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressiondata-interface)
+● expr?: [ExpressionData](api-reference-7x/easyquery-packages/core-package/interfaces/expressiondata-interface)
 
 ---
 ### hidden
@@ -76,7 +76,7 @@ Indicates whether this column is read-only
 
 The sorting
 
-● srt?: [SortDirection](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/sortdirection-enum)
+● srt?: [SortDirection](api-reference-7x/easyquery-packages/core-package/enumerations/sortdirection-enum)
 
 ---
 ### srtidx

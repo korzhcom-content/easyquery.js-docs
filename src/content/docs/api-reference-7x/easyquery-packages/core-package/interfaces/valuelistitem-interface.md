@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface/#properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface/#id)
-- [items](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface/#items)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface/#text)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface#properties-1)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface#id)
+- [items](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface#items)
+- [text](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface#text)
 
 
 
@@ -24,7 +24,7 @@ sidebar:
 ---
 ### items
 
-● items?: [ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]
+● items?: [ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]
 
 ---
 ### text

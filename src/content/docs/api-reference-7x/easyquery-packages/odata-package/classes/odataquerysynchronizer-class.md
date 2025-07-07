@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[QuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+[QuerySynchronizer](api-reference-7x/easyquery-packages/core-package/interfaces/querysynchronizer-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/odata-package/classes/odataquerysynchronizer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/odata-package/classes/odataquerysynchronizer-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#public-methods-1)
-- [syncQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#syncquery)
+### [Public Methods](api-reference-7x/easyquery-packages/odata-package/classes/odataquerysynchronizer-class#public-methods-1)
+- [syncQuery](api-reference-7x/easyquery-packages/odata-package/classes/odataquerysynchronizer-class#syncquery)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataQuerySynchronizer(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [ODataQuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/classes/odataquerysynchronizer-class)
+⊕ new ODataQuerySynchronizer(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [ODataQuerySynchronizer](api-reference-7x/easyquery-packages/odata-package/classes/odataquerysynchronizer-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -34,10 +34,10 @@ sidebar:
 
 ---
 ### syncQuery
-▸ syncQuery(options?: [SyncOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface)): `Promise`&lt;`any`&gt;
+▸ syncQuery(options?: [SyncOptions](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [SyncOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface), *Optional* 
+- options: [SyncOptions](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`any`&gt;

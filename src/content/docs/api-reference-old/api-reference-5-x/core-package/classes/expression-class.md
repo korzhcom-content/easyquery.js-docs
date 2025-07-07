@@ -8,26 +8,26 @@ sidebar:
 Represents expression object.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/expression-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/expression-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#public-properties-1)
-- [args](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#args)
-- [baseAttrId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#baseattrid)
-- [dataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#datatype)
-- [distinct](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#distinct)
-- [func](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#func)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#id)
-- [kind](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#kind)
-- [query](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#query)
-- [sql](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#sql)
-- [tag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#tag)
-- [text](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#text)
-- [value](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#value)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/expression-class#public-properties-1)
+- [args](api-reference-old/api-reference-5-x/core-package/classes/expression-class#args)
+- [baseAttrId](api-reference-old/api-reference-5-x/core-package/classes/expression-class#baseattrid)
+- [dataType](api-reference-old/api-reference-5-x/core-package/classes/expression-class#datatype)
+- [distinct](api-reference-old/api-reference-5-x/core-package/classes/expression-class#distinct)
+- [func](api-reference-old/api-reference-5-x/core-package/classes/expression-class#func)
+- [id](api-reference-old/api-reference-5-x/core-package/classes/expression-class#id)
+- [kind](api-reference-old/api-reference-5-x/core-package/classes/expression-class#kind)
+- [query](api-reference-old/api-reference-5-x/core-package/classes/expression-class#query)
+- [sql](api-reference-old/api-reference-5-x/core-package/classes/expression-class#sql)
+- [tag](api-reference-old/api-reference-5-x/core-package/classes/expression-class#tag)
+- [text](api-reference-old/api-reference-5-x/core-package/classes/expression-class#text)
+- [value](api-reference-old/api-reference-5-x/core-package/classes/expression-class#value)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#loadfromdata)
-- [saveToData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class/#savetodata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/expression-class#public-methods-1)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/expression-class#loadfromdata)
+- [saveToData](api-reference-old/api-reference-5-x/core-package/classes/expression-class#savetodata)
 
 
 ## Constructors
@@ -36,7 +36,7 @@ Represents expression object.
 #### constructor
 
 The default constructor.
-⊕ new Expression(): [Expression](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class)
+⊕ new Expression(): [Expression](api-reference-old/api-reference-5-x/core-package/classes/expression-class)
 
 
 ---
@@ -48,7 +48,7 @@ The default constructor.
 
 The list of arguments.
 
-● args?: [Expression](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class)[]
+● args?: [Expression](api-reference-old/api-reference-5-x/core-package/classes/expression-class)[]
 
 ---
 ### baseAttrId
@@ -62,7 +62,7 @@ The base attribute id.
 
 The data type.
 
-● dataType: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum) = ` DataType.String`
+● dataType: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum) = ` DataType.String`
 
 ---
 ### distinct
@@ -90,14 +90,14 @@ The id.
 
 The data kind.
 
-● kind: [DataKind](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datakind-enum) = ` DataKind.Scalar`
+● kind: [DataKind](api-reference-old/api-reference-5-x/core-package/enumerations/datakind-enum) = ` DataKind.Scalar`
 
 ---
 ### query
 
 The query.
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-old/api-reference-5-x/core-package/classes/query-class)
 
 ---
 ### sql
@@ -111,7 +111,7 @@ The sql expression.
 
 The tag.
 
-● tag: [ExprTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/exprtag-enum) = ` ExprTag.Constant`
+● tag: [ExprTag](api-reference-old/api-reference-5-x/core-package/enumerations/exprtag-enum) = ` ExprTag.Constant`
 
 ---
 ### text
@@ -134,11 +134,11 @@ The value.
 ### loadFromData
 Loads expression from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class),data: [ExpressionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/expressiondata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class),data: [ExpressionData](api-reference-old/api-reference-5-x/core-package/interfaces/expressiondata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [ExpressionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/expressiondata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class) - The Data Model.
+- data: [ExpressionData](api-reference-old/api-reference-5-x/core-package/interfaces/expressiondata-interface) - The JSON representation object.
 
 
 
@@ -148,10 +148,10 @@ Loads expression from its JSON representation object.
 ### saveToData
 Saves expression from JSON representation object.
 
-▸ saveToData(): [ExpressionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/expressiondata-interface)
+▸ saveToData(): [ExpressionData](api-reference-old/api-reference-5-x/core-package/interfaces/expressiondata-interface)
 
 
-**Returns** [ExpressionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/expressiondata-interface) - The JSON representation object.
+**Returns** [ExpressionData](api-reference-old/api-reference-5-x/core-package/interfaces/expressiondata-interface) - The JSON representation object.
 
 
 ---

@@ -10,31 +10,31 @@ Some widgets just display some information from the context (like the generated 
 Others - allow user to interact with them to define query conditions or columns.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/widget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/widget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/core-package/classes/widget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/core-package/classes/widget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/core-package/classes/widget-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/core-package/classes/widget-class#context)
+- [group](api-reference-old/api-reference-6x/core-package/classes/widget-class#group)
+- [slot](api-reference-old/api-reference-6x/core-package/classes/widget-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/widget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-6x/core-package/classes/widget-class#belongstogroup)
+- [destroy](api-reference-old/api-reference-6x/core-package/classes/widget-class#destroy)
+- [getContext](api-reference-old/api-reference-6x/core-package/classes/widget-class#getcontext)
+- [init](api-reference-old/api-reference-6x/core-package/classes/widget-class#init)
+- [onProcessEnd](api-reference-old/api-reference-6x/core-package/classes/widget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/core-package/classes/widget-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-6x/core-package/classes/widget-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-6x/core-package/classes/widget-class#protected-methods-1)
+- [destroyCore](api-reference-old/api-reference-6x/core-package/classes/widget-class#destroycore)
+- [onProcessEndCore](api-reference-old/api-reference-6x/core-package/classes/widget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/core-package/classes/widget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/core-package/classes/widget-class#refreshcore)
 
 
 ## Constructors
@@ -43,7 +43,7 @@ Others - allow user to interact with them to define query conditions or columns.
 #### constructor
 
 Initializes a new instance of the `Widget` class
-⊕ new Widget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+⊕ new Widget(slot: `HTMLElement`): [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - an HTML element in which we should place our widget.
@@ -65,12 +65,12 @@ Initializes a new instance of the `Widget` class
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -84,10 +84,10 @@ Initializes a new instance of the `Widget` class
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -106,20 +106,20 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
 ### init
 Initializes the widget and assign it to some context
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 - options: `any`, *Optional*  - 
 
 

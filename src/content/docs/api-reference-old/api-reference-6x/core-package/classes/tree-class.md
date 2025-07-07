@@ -6,19 +6,19 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/tree-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/tree-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#public-properties-1)
-- [childs](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#childs)
-- [parent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#parent)
-- [value](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#value)
+### [Public Properties](api-reference-old/api-reference-6x/core-package/classes/tree-class#public-properties-1)
+- [childs](api-reference-old/api-reference-6x/core-package/classes/tree-class#childs)
+- [parent](api-reference-old/api-reference-6x/core-package/classes/tree-class#parent)
+- [value](api-reference-old/api-reference-6x/core-package/classes/tree-class#value)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#public-methods-1)
-- [addChild](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#addchild)
-- [contains](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#contains)
-- [findNode](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#findnode)
-- [setParents](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class/#setparents)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/tree-class#public-methods-1)
+- [addChild](api-reference-old/api-reference-6x/core-package/classes/tree-class#addchild)
+- [contains](api-reference-old/api-reference-6x/core-package/classes/tree-class#contains)
+- [findNode](api-reference-old/api-reference-6x/core-package/classes/tree-class#findnode)
+- [setParents](api-reference-old/api-reference-6x/core-package/classes/tree-class#setparents)
 
 
 ## Constructors
@@ -26,10 +26,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new Tree(value?: `T` | `T`[] | [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt;): [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)
+⊕ new Tree(value?: `T` | `T`[] | [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt;): [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)
 
 #### Parameters:
-- value: `T` | `T`[] | [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt;, *Default value* = ` null`
+- value: `T` | `T`[] | [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt;, *Default value* = ` null`
 
 
 ---
@@ -39,12 +39,12 @@ sidebar:
 ---
 ### childs
 
-● childs: [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt;[] = ` []`
+● childs: [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt;[] = ` []`
 
 ---
 ### parent
 
-● parent: [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt; = ` null`
+● parent: [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt; = ` null`
 
 ---
 ### value
@@ -56,10 +56,10 @@ sidebar:
 
 ---
 ### addChild
-▸ addChild(child: [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt;): `void`
+▸ addChild(child: [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt;): `void`
 
 #### Parameters:
-- child: [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt;
+- child: [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt;
 
 
 **Returns** `void`
@@ -78,13 +78,13 @@ sidebar:
 
 ---
 ### findNode
-▸ findNode(value: `T`): [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt; | `null`
+▸ findNode(value: `T`): [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt; | `null`
 
 #### Parameters:
 - value: `T`
 
 
-**Returns** [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;`T`&gt; | `null`
+**Returns** [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;`T`&gt; | `null`
 
 
 ---

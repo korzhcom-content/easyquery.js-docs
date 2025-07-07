@@ -7,17 +7,17 @@ sidebar:
 ---
 
 ## Extends
-[SaveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface)
+[SaveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#modelid)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#name)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#query)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#queryid)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsavequeryoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#modelid)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#name)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#query)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#queryid)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextsavequeryoptions-interface#success)
 
 
 
@@ -46,7 +46,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### queryId

@@ -8,93 +8,93 @@ sidebar:
 The view that represents the "ad-hoc reporting" scenario
 
 ## Extends
-[View](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/view-class)
+[View](api-reference-7x/easyquery-packages/ui-package/classes/view-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#protected-properties-1)
-- [chartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#chartwidget)
-- [columnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#columnsbarwidget)
-- [columnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#columnspanelwidget)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#context)
-- [domRoots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#domroots)
-- [enableExport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#enableexport)
-- [entitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#entitiespanelwidget)
-- [exportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#exportwidget)
-- [filterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#filterbarwidget)
-- [localeWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#localewidget)
-- [processWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#processwidget)
-- [queryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#querynamewidget)
-- [queryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#querypanelwidget)
-- [resultCountSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resultcountslot)
-- [resultFacetPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resultfacetpanelwidget)
-- [resultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resultgridwidget)
-- [resultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resultoptions)
-- [resultPanelSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resultpanelslot)
-- [sortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#sortingbarwidget)
-- [statementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#statementpanelwidget)
-- [statementWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#statementwidget)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#protected-properties-1)
+- [chartWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#chartwidget)
+- [columnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#columnsbarwidget)
+- [columnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#columnspanelwidget)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#context)
+- [domRoots](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#domroots)
+- [enableExport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#enableexport)
+- [entitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#entitiespanelwidget)
+- [exportWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#exportwidget)
+- [filterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#filterbarwidget)
+- [localeWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#localewidget)
+- [processWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#processwidget)
+- [queryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#querynamewidget)
+- [queryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#querypanelwidget)
+- [resultCountSlot](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resultcountslot)
+- [resultFacetPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resultfacetpanelwidget)
+- [resultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resultgridwidget)
+- [resultOptions](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resultoptions)
+- [resultPanelSlot](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resultpanelslot)
+- [sortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#sortingbarwidget)
+- [statementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#statementpanelwidget)
+- [statementWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#statementwidget)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#public-methods-1)
-- [detach](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#detach)
-- [executeQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#executequery)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#fetchdata)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#init)
-- [loadReport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#loadreport)
-- [newReport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#newreport)
-- [removeCurrentReport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#removecurrentreport)
-- [renderReportList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#renderreportlist)
-- [renderReportProps](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#renderreportprops)
-- [saveCurrentReportAs](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#savecurrentreportas)
-- [setActiveReport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#setactivereport)
-- [setDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#setdialogservice)
-- [syncReport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#syncreport)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#public-methods-1)
+- [detach](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#detach)
+- [executeQuery](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#executequery)
+- [fetchData](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#fetchdata)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#getcontext)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#init)
+- [loadReport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#loadreport)
+- [newReport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#newreport)
+- [removeCurrentReport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#removecurrentreport)
+- [renderReportList](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#renderreportlist)
+- [renderReportProps](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#renderreportprops)
+- [saveCurrentReportAs](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#savecurrentreportas)
+- [setActiveReport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#setactivereport)
+- [setDialogService](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#setdialogservice)
+- [syncReport](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#syncreport)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#protected-methods-1)
-- [clearErrors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#clearerrors)
-- [clearReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#clearreportbuttonclick)
-- [createChartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createchartwidget)
-- [createColumnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createcolumnsbarwidget)
-- [createColumnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createcolumnspanelwidget)
-- [createEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createentitiespanelwidget)
-- [createExportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createexportwidget)
-- [createFilterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createfilterbarwidget)
-- [createLocaleWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createlocalewidget)
-- [createProcessWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createprocesswidget)
-- [createQueryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createquerynamewidget)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createquerypanelwidget)
-- [createResultFacetsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createresultfacetspanel)
-- [createResultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createresultgridwidget)
-- [createSortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createsortingbarwidget)
-- [createStatementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#createstatementpanelwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#enableexportbuttons)
-- [errorHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#errorhandler)
-- [getReportContentFromCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#getreportcontentfromcache)
-- [hideExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#hideexportbuttons)
-- [hideResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#hideresultspinner)
-- [initDone](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#initdone)
-- [initOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#initoptions)
-- [initWidgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#initwidgets)
-- [insertIntoReportList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#insertintoreportlist)
-- [loadReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#loadreportbuttonclick)
-- [newReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#newreportbuttonclick)
-- [removeFromReportList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#removefromreportlist)
-- [removeReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#removereportbuttonclick)
-- [renderReportItemInList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#renderreportiteminlist)
-- [renderReportPanels](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#renderreportpanels)
-- [resolveElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resolveelement)
-- [resolveElementsByClassName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#resolveelementsbyclassname)
-- [saveReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#savereportbuttonclick)
-- [saveReportContentInCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#savereportcontentincache)
-- [showExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#showexportbuttons)
-- [showResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#showresultspinner)
-- [toggleExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#toggleexportbuttons)
-- [updateReportButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class/#updatereportbuttonclick)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#protected-methods-1)
+- [clearErrors](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#clearerrors)
+- [clearReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#clearreportbuttonclick)
+- [createChartWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createchartwidget)
+- [createColumnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createcolumnsbarwidget)
+- [createColumnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createcolumnspanelwidget)
+- [createEntitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createentitiespanelwidget)
+- [createExportWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createexportwidget)
+- [createFilterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createfilterbarwidget)
+- [createLocaleWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createlocalewidget)
+- [createProcessWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createprocesswidget)
+- [createQueryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createquerynamewidget)
+- [createQueryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createquerypanelwidget)
+- [createResultFacetsPanel](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createresultfacetspanel)
+- [createResultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createresultgridwidget)
+- [createSortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createsortingbarwidget)
+- [createStatementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#createstatementpanelwidget)
+- [disableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#displayrecordscount)
+- [enableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#enableexportbuttons)
+- [errorHandler](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#errorhandler)
+- [getReportContentFromCache](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#getreportcontentfromcache)
+- [hideExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#hideexportbuttons)
+- [hideResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#hideresultspinner)
+- [initDone](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#initdone)
+- [initOptions](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#initoptions)
+- [initWidgets](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#initwidgets)
+- [insertIntoReportList](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#insertintoreportlist)
+- [loadReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#loadreportbuttonclick)
+- [newReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#newreportbuttonclick)
+- [removeFromReportList](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#removefromreportlist)
+- [removeReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#removereportbuttonclick)
+- [renderReportItemInList](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#renderreportiteminlist)
+- [renderReportPanels](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#renderreportpanels)
+- [resolveElement](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resolveelement)
+- [resolveElementsByClassName](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#resolveelementsbyclassname)
+- [saveReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#savereportbuttonclick)
+- [saveReportContentInCache](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#savereportcontentincache)
+- [showExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#showexportbuttons)
+- [showResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#showresultspinner)
+- [toggleExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#toggleexportbuttons)
+- [updateReportButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class#updatereportbuttonclick)
 
 
 ## Constructors
@@ -102,7 +102,7 @@ The view that represents the "ad-hoc reporting" scenario
 ---
 #### constructor
 
-⊕ new ReportView(): [ReportView](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/reportview-class)
+⊕ new ReportView(): [ReportView](api-reference-7x/easyquery-packages/ui-package/classes/reportview-class)
 
 
 ---
@@ -112,22 +112,22 @@ The view that represents the "ad-hoc reporting" scenario
 ---
 ### chartWidget
 
-● chartWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● chartWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### columnsBarWidget
 
-● columnsBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### columnsPanelWidget
 
-● columnsPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### domRoots
@@ -142,37 +142,37 @@ The view that represents the "ad-hoc reporting" scenario
 ---
 ### entitiesPanelWidget
 
-● entitiesPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● entitiesPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### exportWidget
 
-● exportWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● exportWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### filterBarWidget
 
-● filterBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● filterBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### localeWidget
 
-● localeWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● localeWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### processWidget
 
-● processWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● processWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryNameWidget
 
-● queryNameWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryNameWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryPanelWidget
 
-● queryPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultCountSlot
@@ -182,17 +182,17 @@ The view that represents the "ad-hoc reporting" scenario
 ---
 ### resultFacetPanelWidget
 
-● resultFacetPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultFacetPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultGridWidget
 
-● resultGridWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultGridWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultOptions
 
-● resultOptions: [EqResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● resultOptions: [EqResultOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### resultPanelSlot
@@ -202,17 +202,17 @@ The view that represents the "ad-hoc reporting" scenario
 ---
 ### sortingBarWidget
 
-● sortingBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● sortingBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementPanelWidget
 
-● statementPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementWidget
 
-● statementWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ## Public Methods
@@ -252,18 +252,18 @@ Fetches the data according to the query and other options defined in the context
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### init
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -402,13 +402,13 @@ The handler of the "Clear" button click.
 ### createChartWidget
 Creates the widget that represents Chart Widget.
 
-▸ createChartWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createChartWidget(slotElement: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -416,13 +416,13 @@ Creates the widget that represents Chart Widget.
 ### createColumnsBarWidget
 Creates the widget that represents Columns Bar.
 
-▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -430,13 +430,13 @@ Creates the widget that represents Columns Bar.
 ### createColumnsPanelWidget
 Creates the widget that represents Columns Panel.
 
-▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -444,13 +444,13 @@ Creates the widget that represents Columns Panel.
 ### createEntitiesPanelWidget
 Creates the widget that represents Entity Panel.
 
-▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -458,27 +458,27 @@ Creates the widget that represents Entity Panel.
 ### createExportWidget
 Creates the widget that represents Export funcionality.
 
-▸ createExportWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createExportWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createFilterBarWidget
 Creates the widget that represents Filter Bar.
 
-▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -486,13 +486,13 @@ Creates the widget that represents Filter Bar.
 ### createLocaleWidget
 Creates the widget that represents Locale Widget.
 
-▸ createLocaleWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createLocaleWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -500,13 +500,13 @@ Creates the widget that represents Locale Widget.
 ### createProcessWidget
 Creates the widget that represents Process Widget.
 
-▸ createProcessWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createProcessWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -514,13 +514,13 @@ Creates the widget that represents Process Widget.
 ### createQueryNameWidget
 Creates the widget that represents Query Name Widget.
 
-▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -528,13 +528,13 @@ Creates the widget that represents Query Name Widget.
 ### createQueryPanelWidget
 Creates the widget that represents Query Panel.
 
-▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -542,27 +542,27 @@ Creates the widget that represents Query Panel.
 ### createResultFacetsPanel
 Creates the widget that represents Result Facets Panel Widget.
 
-▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createResultGridWidget
 Creates the widget that represents Grid Widget.
 
-▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -570,13 +570,13 @@ Creates the widget that represents Grid Widget.
 ### createSortingBarWidget
 Creates the widget that represents Sorting Bar.
 
-▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -584,14 +584,14 @@ Creates the widget that represents Sorting Bar.
 ### createStatementPanelWidget
 Creates the widget that represents Statement Panel Widget.
 
-▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
@@ -646,10 +646,10 @@ The handler of errors.
 ### getReportContentFromCache
 Gets the report content from cache.
 
-▸ getReportContentFromCache(report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface)): `string` | `null`
+▸ getReportContentFromCache(report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface)): `string` | `null`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface) - The report.
+- report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface) - The report.
 
 
 **Returns** `string` | `null` - Content of the report (Query in JSOn string)
@@ -684,21 +684,21 @@ Hides export buttons.
 
 ---
 ### initOptions
-▸ initOptions(options?: [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface)): [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface)
+▸ initOptions(options?: [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface)): [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface)
 
 #### Parameters:
-- options: [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface), *Optional* 
+- options: [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface), *Optional* 
 
 
-**Returns** [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface)
+**Returns** [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface)
 
 
 ---
 ### initWidgets
-▸ initWidgets(options?: [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface)): `void`
+▸ initWidgets(options?: [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [ReportViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface), *Optional* 
+- options: [ReportViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -708,10 +708,10 @@ Hides export buttons.
 ### insertIntoReportList
 Inserts the report to the list of reports.
 
-▸ insertIntoReportList(report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface)): `void`
+▸ insertIntoReportList(report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface)): `void`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface) - The [[Report]] object to be inserted.
+- report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface) - The [[Report]] object to be inserted.
 
 
 
@@ -766,10 +766,10 @@ The handler of the "Remove" button click.
 ### renderReportItemInList
 Renders a single item in the list of reports.
 
-▸ renderReportItemInList(report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface),ul: `HTMLUListElement`): `void`
+▸ renderReportItemInList(report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface),ul: `HTMLUListElement`): `void`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface) - The [[Report]] object to render.
+- report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface) - The [[Report]] object to render.
 - ul: `HTMLUListElement` - The [[HTMLUListElement]] to add the item to.
 
 
@@ -823,10 +823,10 @@ The handler of the "Save" button click.
 ### saveReportContentInCache
 Saves reports content to the cache.
 
-▸ saveReportContentInCache(report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface),content: `string`): `void`
+▸ saveReportContentInCache(report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface),content: `string`): `void`
 
 #### Parameters:
-- report: [Report](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/report-interface) - The report.
+- report: [Report](api-reference-7x/easyquery-packages/ui-package/interfaces/report-interface) - The report.
 - content: `string` - The content (Query serialized into JSON).
 
 

@@ -6,8 +6,8 @@ sidebar:
 ---
 
 ## Index
-- [constLists](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/eqconsts-namespace/variables/#constlists)
-- [predicateLinkTypeList](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/eqconsts-namespace/variables/#predicatelinktypelist)
+- [constLists](api-reference-old/api-reference-6x/core-package/eqconsts-namespace/variables#constlists)
+- [predicateLinkTypeList](api-reference-old/api-reference-6x/core-package/eqconsts-namespace/variables#predicatelinktypelist)
 
 ### `let` constLists
 
@@ -21,7 +21,7 @@ Contains some constants (macros) with special date/time and boolean values.
 
 Constants representing various types of relationships between conditions
 
-● predicateLinkTypeList:`Array`&lt;[ConstValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
+● predicateLinkTypeList:`Array`&lt;[ConstValue](api-reference-old/api-reference-6x/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
         { id: 'All', key: 'LinkTypeAll' },
         { id: 'Any', key: 'LinkTypeAny' },
         { id: 'None', key: 'LinkTypeNone' },

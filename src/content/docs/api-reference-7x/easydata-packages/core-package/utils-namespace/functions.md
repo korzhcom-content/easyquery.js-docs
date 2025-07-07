@@ -6,33 +6,33 @@ sidebar:
 ---
 
 ## Index
-- [IsDefinedAndNotNull](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#isdefinedandnotnull)
-- [areCompatibleDataTypes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#arecompatibledatatypes)
-- [assign](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#assign)
-- [assignDeep](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#assigndeep)
-- [copyArrayTo](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#copyarrayto)
-- [createArrayFrom](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#createarrayfrom)
-- [dateTimeToStr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#datetimetostr)
-- [fillArray](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#fillarray)
-- [findItemById](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#finditembyid)
-- [findItemIndexById](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#finditemindexbyid)
-- [generateId](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#generateid)
-- [getAllDataTypes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#getalldatatypes)
-- [getDateDataTypes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#getdatedatatypes)
-- [getIfDefined](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#getifdefined)
-- [getStringDataTypes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#getstringdatatypes)
-- [indexOfArrayItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#indexofarrayitem)
-- [insertArrayItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#insertarrayitem)
-- [isIntType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#isinttype)
-- [isNumeric](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#isnumeric)
-- [isNumericType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#isnumerictype)
-- [isObject](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#isobject)
-- [isPropSet](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#ispropset)
-- [moveArrayItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#movearrayitem)
-- [numberToStr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#numbertostr)
-- [removeArrayItem](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#removearrayitem)
-- [shiftToFitWindow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#shifttofitwindow)
-- [strToDateTime](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/functions/#strtodatetime)
+- [IsDefinedAndNotNull](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#isdefinedandnotnull)
+- [areCompatibleDataTypes](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#arecompatibledatatypes)
+- [assign](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#assign)
+- [assignDeep](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#assigndeep)
+- [copyArrayTo](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#copyarrayto)
+- [createArrayFrom](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#createarrayfrom)
+- [dateTimeToStr](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#datetimetostr)
+- [fillArray](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#fillarray)
+- [findItemById](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#finditembyid)
+- [findItemIndexById](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#finditemindexbyid)
+- [generateId](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#generateid)
+- [getAllDataTypes](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#getalldatatypes)
+- [getDateDataTypes](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#getdatedatatypes)
+- [getIfDefined](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#getifdefined)
+- [getStringDataTypes](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#getstringdatatypes)
+- [indexOfArrayItem](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#indexofarrayitem)
+- [insertArrayItem](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#insertarrayitem)
+- [isIntType](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#isinttype)
+- [isNumeric](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#isnumeric)
+- [isNumericType](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#isnumerictype)
+- [isObject](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#isobject)
+- [isPropSet](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#ispropset)
+- [moveArrayItem](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#movearrayitem)
+- [numberToStr](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#numbertostr)
+- [removeArrayItem](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#removearrayitem)
+- [shiftToFitWindow](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#shifttofitwindow)
+- [strToDateTime](api-reference-7x/easydata-packages/core-package/utils-namespace/functions#strtodatetime)
 
 #### IsDefinedAndNotNull
 
@@ -53,11 +53,11 @@ Returns `true` if two data types  passed in parameters
 are compatible - so it's safe to copy the values between
 two expressions with these two types
 
-▸ areCompatibleDataTypes(type1: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum),type2: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): `boolean`
+▸ areCompatibleDataTypes(type1: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum),type2: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- type1: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
-- type2: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum) - 
+- type1: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
+- type2: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum) - 
 
 
 
@@ -217,20 +217,20 @@ Generates an unique ID
 ---
 #### getAllDataTypes
 
-▸ getAllDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+▸ getAllDataTypes(): [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
 
 ---
 #### getDateDataTypes
 
-▸ getDateDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+▸ getDateDataTypes(): [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
 
@@ -251,10 +251,10 @@ Generates an unique ID
 ---
 #### getStringDataTypes
 
-▸ getStringDataTypes(): [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+▸ getStringDataTypes(): [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)[]
+**Returns** [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)[]
 
 
 
@@ -296,10 +296,10 @@ Returs the index of the found element, or -1 if nothing was found.
 Returns `true` if the `DataType` value passed in the parameter
 represents some numeric type
 
-▸ isIntType(dtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): `boolean`
+▸ isIntType(dtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- dtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum) - 
+- dtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum) - 
 
 
 
@@ -329,10 +329,10 @@ Returns `true` if the value passed in the parameter is an a numeric value
 Returns `true` if the `DataType` value passed in the parameter
 represents some numeric type
 
-▸ isNumericType(dtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)): `boolean`
+▸ isNumericType(dtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- dtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum) - 
+- dtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum) - 
 
 
 

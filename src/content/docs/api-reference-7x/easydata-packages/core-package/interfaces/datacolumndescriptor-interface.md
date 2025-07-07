@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#properties-1)
-- [dfmt](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#dfmt)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#id)
-- [isAggr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#isaggr)
-- [label](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#label)
-- [originAttrId](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#originattrid)
-- [style](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#style)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface/#type)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#properties-1)
+- [dfmt](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#dfmt)
+- [id](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#id)
+- [isAggr](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#isaggr)
+- [label](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#label)
+- [originAttrId](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#originattrid)
+- [style](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#style)
+- [type](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface#type)
 
 
 
@@ -48,11 +48,11 @@ sidebar:
 ---
 ### style
 
-● style?: [DataColumnStyle](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumnstyle-interface)
+● style?: [DataColumnStyle](api-reference-7x/easydata-packages/core-package/interfaces/datacolumnstyle-interface)
 
 ---
 ### type
 
-● type?: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+● type?: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 ---

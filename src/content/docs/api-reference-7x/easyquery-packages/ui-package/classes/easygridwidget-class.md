@@ -6,47 +6,47 @@ sidebar:
 ---
 
 ## Extends
-[Grid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/grid-class)
+[Grid](api-reference-7x/easyquery-packages/ui-package/classes/grid-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#public-methods-1)
-- [addColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#addcolumn)
-- [addNewColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#addnewcolumn)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#belongstogroup)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#clear)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#getcontext)
-- [getModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#getmodel)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#getquery)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#refresh)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#public-methods-1)
+- [addColumn](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#addcolumn)
+- [addNewColumn](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#addnewcolumn)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#belongstogroup)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#clear)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#getcontext)
+- [getModel](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#getmodel)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#getquery)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#protected-methods-1)
-- [addColumnClickHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#addcolumnclickhandler)
-- [applyDisplayFormats](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#applydisplayformats)
-- [attachQueryObserver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#attachqueryobserver)
-- [columnMovedHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#columnmovedhandler)
-- [createEntitiesMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#createentitiesmenu)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#refreshcore)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#render)
-- [updateTotalsSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class/#updatetotalssettings)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#protected-methods-1)
+- [addColumnClickHandler](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#addcolumnclickhandler)
+- [applyDisplayFormats](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#applydisplayformats)
+- [attachQueryObserver](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#attachqueryobserver)
+- [columnMovedHandler](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#columnmovedhandler)
+- [createEntitiesMenu](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#createentitiesmenu)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#destroycore)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#refreshcore)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#render)
+- [updateTotalsSettings](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class#updatetotalssettings)
 
 
 ## Constructors
@@ -55,7 +55,7 @@ sidebar:
 #### constructor
 
 The default constructor.
-⊕ new EasyGridWidget(slot: `HTMLElement`): [EasyGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/easygridwidget-class)
+⊕ new EasyGridWidget(slot: `HTMLElement`): [EasyGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/easygridwidget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -77,12 +77,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -96,34 +96,34 @@ The html element.
 
 ---
 ### addColumn
-▸ addColumn(column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)): [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+▸ addColumn(column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)): [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 #### Parameters:
-- column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+- column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
-**Returns** [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+**Returns** [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
 ---
 ### addNewColumn
-▸ addNewColumn(attrId: `string`): [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+▸ addNewColumn(attrId: `string`): [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 #### Parameters:
 - attrId: `string`
 
 
-**Returns** [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+**Returns** [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
 ---
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -150,26 +150,26 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getModel
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -184,10 +184,10 @@ Returns current context (the one this widget belongs to)
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class) - The context.
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class) - The context.
 - options: `any`, *Optional*  - The options.
 
 

@@ -11,19 +11,19 @@ which is responsible for the communication with the server-side:
 getting information about the model, generating SQL (or other type of queries), executing queries, etc.
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#methods-1)
-- [buildAndExecute](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#buildandexecute)
-- [exportResult](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#exportresult)
-- [getModelPromise](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#getmodelpromise)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#init)
-- [loadModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#loadmodel)
-- [loadQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#loadquery)
-- [loadQueryList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#loadquerylist)
-- [loadValueList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#loadvaluelist)
-- [newQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#newquery)
-- [removeQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#removequery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#savequery)
-- [syncQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface/#syncquery)
+### [Methods](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#methods-1)
+- [buildAndExecute](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#buildandexecute)
+- [exportResult](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#exportresult)
+- [getModelPromise](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#getmodelpromise)
+- [init](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#init)
+- [loadModel](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#loadmodel)
+- [loadQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#loadquery)
+- [loadQueryList](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#loadquerylist)
+- [loadValueList](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#loadvaluelist)
+- [newQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#newquery)
+- [removeQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#removequery)
+- [saveQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#savequery)
+- [syncQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface#syncquery)
 
 
 
@@ -66,10 +66,10 @@ and `format` property which defines the format of the exported data (e.g. `csv`)
 ### getModelPromise
 Returns the `Promise` of the model loading process
 
-▸ getModelPromise(): `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)&gt;
+▸ getModelPromise(): `Promise`&lt;[DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)&gt;
 
 
-**Returns** `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)&gt;
+**Returns** `Promise`&lt;[DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)&gt;
 
 ---
 ### init

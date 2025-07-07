@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Extends
-[UploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface)
+[UploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface/#error)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface/#query)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextuploadqueryfileoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface#error)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface#query)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextuploadqueryfileoptions-interface#success)
 
 
 
@@ -33,7 +33,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### success

@@ -6,16 +6,16 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#data)
-- [hidden](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#hidden)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#id)
-- [itemCheckbox](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#itemcheckbox)
-- [itemDiv](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#itemdiv)
-- [items](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#items)
-- [selected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#selected)
-- [subLevel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#sublevel)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface/#text)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#data)
+- [hidden](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#hidden)
+- [id](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#id)
+- [itemCheckbox](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#itemcheckbox)
+- [itemDiv](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#itemdiv)
+- [items](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#items)
+- [selected](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#selected)
+- [subLevel](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#sublevel)
+- [text](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface#text)
 
 
 
@@ -49,7 +49,7 @@ sidebar:
 ---
 ### items
 
-● items?: [MenuItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface)[]
+● items?: [MenuItem](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface)[]
 
 ---
 ### selected

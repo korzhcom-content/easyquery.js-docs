@@ -9,35 +9,35 @@ sidebar:
 Options of [[ReportView]]
 
 ## Extends
-[EqContextOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontextoptions-interface)
+[EqContextOptions](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontextoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#attrclassname)
-- [calcTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#calctotals)
-- [chunkSize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#chunksize)
-- [columnTitleFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#columntitleformat)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#defaultqueryid)
-- [defaultReportId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#defaultreportid)
-- [enableExport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#enableexport)
-- [endpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#endpoint)
-- [handlers](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#handlers)
-- [initialQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#initialquery)
-- [listCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#listcache)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#loadqueryonstart)
-- [locale](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#locale)
-- [localeSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#localesettings)
-- [result](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#result)
-- [serverExporters](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#serverexporters)
-- [shadowRoots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#shadowroots)
-- [slots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#slots)
-- [syncQueryOnChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#syncqueryonchange)
-- [syncReportOnChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#syncreportonchange)
-- [useDefaultExporters](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#usedefaultexporters)
-- [useReportCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#usereportcache)
-- [widgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#widgets)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#properties-1)
+- [attrClassName](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#attrclassname)
+- [calcTotals](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#calctotals)
+- [chunkSize](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#chunksize)
+- [columnTitleFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#columntitleformat)
+- [defaultModelId](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#defaultmodelid)
+- [defaultQueryId](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#defaultqueryid)
+- [defaultReportId](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#defaultreportid)
+- [enableExport](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#enableexport)
+- [endpoint](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#endpoint)
+- [handlers](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#handlers)
+- [initialQuery](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#initialquery)
+- [listCache](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#listcache)
+- [loadModelOnStart](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#loadmodelonstart)
+- [loadQueryOnStart](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#loadqueryonstart)
+- [locale](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#locale)
+- [localeSettings](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#localesettings)
+- [result](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#result)
+- [serverExporters](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#serverexporters)
+- [shadowRoots](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#shadowroots)
+- [slots](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#slots)
+- [syncQueryOnChange](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#syncqueryonchange)
+- [syncReportOnChange](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#syncreportonchange)
+- [useDefaultExporters](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#usedefaultexporters)
+- [useReportCache](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#usereportcache)
+- [widgets](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewoptions-interface#widgets)
 
 
 
@@ -91,17 +91,17 @@ Options of [[ReportView]]
 ---
 ### handlers
 
-● handlers?: [EqContextHandlers](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface)
+● handlers?: [EqContextHandlers](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface)
 
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)
 
 ---
 ### listCache
 
-● listCache?: [ExternalListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface)
+● listCache?: [ExternalListCache](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface)
 
 ---
 ### loadModelOnStart
@@ -126,7 +126,7 @@ Options of [[ReportView]]
 ---
 ### result
 
-● result?: [EqResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● result?: [EqResultOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### serverExporters
@@ -141,7 +141,7 @@ Options of [[ReportView]]
 ---
 ### slots
 
-● slots?: [ReportViewSlots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/reportviewslots-interface)
+● slots?: [ReportViewSlots](api-reference-7x/easyquery-packages/ui-package/interfaces/reportviewslots-interface)
 
 ---
 ### syncQueryOnChange
@@ -166,6 +166,6 @@ Options of [[ReportView]]
 ---
 ### widgets
 
-● widgets?: [WidgetSectionOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface)
+● widgets?: [WidgetSectionOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface)
 
 ---

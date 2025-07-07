@@ -6,13 +6,13 @@ sidebar:
 ---
 
 ## Index
-- [IsEdge](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#isedge)
-- [IsFirefox](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#isfirefox)
-- [IsIE](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#isie)
-- [getMobileCssClass](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#getmobilecssclass)
-- [isMobileMode](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#ismobilemode)
-- [onMobileModeChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#onmobilemodechanged)
-- [setIsMobileMode](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/browserutils-namespace/functions/#setismobilemode)
+- [IsEdge](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#isedge)
+- [IsFirefox](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#isfirefox)
+- [IsIE](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#isie)
+- [getMobileCssClass](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#getmobilecssclass)
+- [isMobileMode](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#ismobilemode)
+- [onMobileModeChanged](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#onmobilemodechanged)
+- [setIsMobileMode](api-reference-7x/easydata-packages/ui-package/browserutils-namespace/functions#setismobilemode)
 
 #### IsEdge
 

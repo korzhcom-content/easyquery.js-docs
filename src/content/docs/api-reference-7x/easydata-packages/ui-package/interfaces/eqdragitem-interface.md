@@ -6,10 +6,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdragitem-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdragitem-interface/#data)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdragitem-interface/#element)
-- [scope](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/eqdragitem-interface/#scope)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/eqdragitem-interface#properties-1)
+- [data](api-reference-7x/easydata-packages/ui-package/interfaces/eqdragitem-interface#data)
+- [element](api-reference-7x/easydata-packages/ui-package/interfaces/eqdragitem-interface#element)
+- [scope](api-reference-7x/easydata-packages/ui-package/interfaces/eqdragitem-interface#scope)
 
 
 

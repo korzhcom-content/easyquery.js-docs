@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface/#properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface/#name)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface/#text)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface#properties-1)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface#id)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface#name)
+- [text](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface#text)
 
 
 

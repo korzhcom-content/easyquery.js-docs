@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface/#methods-1)
-- [openConfirm](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface/#openconfirm)
-- [openPrompt](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dialogservice-interface/#openprompt)
+### [Methods](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface#methods-1)
+- [openConfirm](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface#openconfirm)
+- [openPrompt](api-reference-old/api-reference-6x/ui-package/interfaces/dialogservice-interface#openprompt)
 
 
 

@@ -6,21 +6,21 @@ sidebar:
 ---
 
 ## Index
-- [dropdown](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/functions/#dropdown)
-- [findHighestZIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/functions/#findhighestzindex)
-- [getViewportSize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/functions/#getviewportsize)
-- [makeElementMaximizable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/functions/#makeelementmaximizable)
-- [safeFocus](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/functions/#safefocus)
+- [dropdown](api-reference-7x/easyquery-packages/ui-package/functions#dropdown)
+- [findHighestZIndex](api-reference-7x/easyquery-packages/ui-package/functions#findhighestzindex)
+- [getViewportSize](api-reference-7x/easyquery-packages/ui-package/functions#getviewportsize)
+- [makeElementMaximizable](api-reference-7x/easyquery-packages/ui-package/functions#makeelementmaximizable)
+- [safeFocus](api-reference-7x/easyquery-packages/ui-package/functions#safefocus)
 
 #### dropdown
 
-▸ dropdown(parent?: `HTMLElement`): [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
+▸ dropdown(parent?: `HTMLElement`): [DomDropDownElementBuilder](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class)
 
 #### Parameters:
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)
+**Returns** [DomDropDownElementBuilder](api-reference-7x/easyquery-packages/ui-package/classes/domdropdownelementbuilder-class)
 
 
 

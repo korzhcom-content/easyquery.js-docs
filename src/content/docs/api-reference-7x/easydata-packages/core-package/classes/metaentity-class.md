@@ -8,22 +8,22 @@ sidebar:
 Represents one entity.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#public-properties-1)
-- [attributes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#attributes)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#caption)
-- [captionPlural](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#captionplural)
-- [description](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#description)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#name)
-- [parent](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#parent)
-- [subEntities](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#subentities)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#public-properties-1)
+- [attributes](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#attributes)
+- [caption](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#caption)
+- [captionPlural](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#captionplural)
+- [description](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#description)
+- [id](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#id)
+- [name](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#name)
+- [parent](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#parent)
+- [subEntities](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#subentities)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#loadfromdata)
-- [scan](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class/#scan)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#public-methods-1)
+- [loadFromData](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#loadfromdata)
+- [scan](api-reference-7x/easydata-packages/core-package/classes/metaentity-class#scan)
 
 
 ## Constructors
@@ -32,10 +32,10 @@ Represents one entity.
 #### constructor
 
 The default constructor.
-⊕ new MetaEntity(parent?: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)): [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+⊕ new MetaEntity(parent?: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)): [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 #### Parameters:
-- parent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), *Optional* 
+- parent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), *Optional* 
 
 
 ---
@@ -47,7 +47,7 @@ The default constructor.
 
 List of Attributes that belong to this entity.
 
-● attributes: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class)[]
+● attributes: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class)[]
 
 ---
 ### caption
@@ -89,14 +89,14 @@ The name of entity.
 
 The parent.
 
-● parent: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)
+● parent: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)
 
 ---
 ### subEntities
 
 List of sub entities that belong to this entity.
 
-● subEntities: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class)[]
+● subEntities: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class)[]
 
 ---
 ## Public Methods
@@ -105,11 +105,11 @@ List of sub entities that belong to this entity.
 ### loadFromData
 Loads entity from its JSON representation object.
 
-▸ loadFromData(model: [MetaData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class),dto: [MetaEntityDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface)): `void`
+▸ loadFromData(model: [MetaData](api-reference-7x/easydata-packages/core-package/classes/metadata-class),dto: [MetaEntityDTO](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface)): `void`
 
 #### Parameters:
-- model: [MetaData](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metadata-class) - The Data Model.
-- dto: [MetaEntityDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface) - The JSON representation object.
+- model: [MetaData](api-reference-7x/easydata-packages/core-package/classes/metadata-class) - The Data Model.
+- dto: [MetaEntityDTO](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface) - The JSON representation object.
 
 
 
@@ -118,11 +118,11 @@ Loads entity from its JSON representation object.
 
 ---
 ### scan
-▸ scan(processAttribute?: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class), opts: `any`) => `void`,processEntity?: (entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), opts: `any`) => `void`): `void`
+▸ scan(processAttribute?: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class), opts: `any`) => `void`,processEntity?: (entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), opts: `any`) => `void`): `void`
 
 #### Parameters:
-- processAttribute: (attr: [MetaEntityAttr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentityattr-class), opts: `any`) => `void`, *Optional* 
-- processEntity: (entity: [MetaEntity](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/metaentity-class), opts: `any`) => `void`, *Optional* 
+- processAttribute: (attr: [MetaEntityAttr](api-reference-7x/easydata-packages/core-package/classes/metaentityattr-class), opts: `any`) => `void`, *Optional* 
+- processEntity: (entity: [MetaEntity](api-reference-7x/easydata-packages/core-package/classes/metaentity-class), opts: `any`) => `void`, *Optional* 
 
 
 **Returns** `void`

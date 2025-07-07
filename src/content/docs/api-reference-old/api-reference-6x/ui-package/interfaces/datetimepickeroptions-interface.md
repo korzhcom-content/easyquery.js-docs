@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#properties-1)
-- [beforeShow](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#beforeshow)
-- [onApply](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#onapply)
-- [onCancel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#oncancel)
-- [onDateTimeChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#ondatetimechanged)
-- [oneClickDateSelection](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#oneclickdateselection)
-- [showCalendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#showcalendar)
-- [showTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#showtimepicker)
-- [yearRange](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface/#yearrange)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#properties-1)
+- [beforeShow](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#beforeshow)
+- [onApply](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#onapply)
+- [onCancel](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#oncancel)
+- [onDateTimeChanged](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#ondatetimechanged)
+- [oneClickDateSelection](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#oneclickdateselection)
+- [showCalendar](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#showcalendar)
+- [showTimePicker](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#showtimepicker)
+- [yearRange](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface#yearrange)
 
 
 

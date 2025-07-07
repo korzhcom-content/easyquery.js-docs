@@ -6,31 +6,31 @@ sidebar:
 ---
 
 ## Index
-- [addLocale](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#addlocale)
-- [getCurrentLocale](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getcurrentlocale)
-- [getLocaleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getlocalesettings)
-- [getLocales](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getlocales)
-- [getLongMonthName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getlongmonthname)
-- [getLongWeekDayName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getlongweekdayname)
-- [getOneLocaleSetting](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getonelocalesetting)
-- [getShortMonthName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getshortmonthname)
-- [getShortWeekDayName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#getshortweekdayname)
-- [getText](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#gettext)
-- [setCurrentLocale](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#setcurrentlocale)
-- [setLocale](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#setlocale)
-- [updateLocaleInfo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#updatelocaleinfo)
-- [updateLocaleTexts](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/functions/#updatelocaletexts)
+- [addLocale](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#addlocale)
+- [getCurrentLocale](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getcurrentlocale)
+- [getLocaleSettings](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getlocalesettings)
+- [getLocales](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getlocales)
+- [getLongMonthName](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getlongmonthname)
+- [getLongWeekDayName](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getlongweekdayname)
+- [getOneLocaleSetting](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getonelocalesetting)
+- [getShortMonthName](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getshortmonthname)
+- [getShortWeekDayName](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#getshortweekdayname)
+- [getText](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#gettext)
+- [setCurrentLocale](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#setcurrentlocale)
+- [setLocale](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#setlocale)
+- [updateLocaleInfo](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#updatelocaleinfo)
+- [updateLocaleTexts](api-reference-old/api-reference-6x/core-package/i18n-namespace/functions#updatelocaletexts)
 
 #### addLocale
 
 Deprecated! Use updateLocaleInfo instead
 Updates the locale information for the specified locale
 
-▸ addLocale(locale: `string`,localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
+▸ addLocale(locale: `string`,localeData: [LocaleInfo](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
 
 #### Parameters:
 - locale: `string`
-- localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface)
+- localeData: [LocaleInfo](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface)
 
 
 **Returns** `void`
@@ -68,10 +68,10 @@ Gets the current locale.
 
 Gets added locales with their names.
 
-▸ getLocales(): [LocaleInfoItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[]
+▸ getLocales(): [LocaleInfoItem](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[]
 
 
-**Returns** [LocaleInfoItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[] - The locales.
+**Returns** [LocaleInfoItem](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfoitem-interface)[] - The locales.
 
 
 
@@ -198,11 +198,11 @@ Sets the curent locale.
 Updates the locale information for the specified locale.
 If locale does not exist yet - it will added.
 
-▸ updateLocaleInfo(locale: `string`,localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
+▸ updateLocaleInfo(locale: `string`,localeData: [LocaleInfo](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface)): `void`
 
 #### Parameters:
 - locale: `string`
-- localeData: [LocaleInfo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localeinfo-interface)
+- localeData: [LocaleInfo](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localeinfo-interface)
 
 
 **Returns** `void`

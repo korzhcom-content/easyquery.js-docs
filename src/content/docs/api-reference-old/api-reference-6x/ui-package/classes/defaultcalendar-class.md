@@ -6,41 +6,41 @@ sidebar:
 ---
 
 ## Extends
-[Calendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/calendar-class)
+[Calendar](api-reference-old/api-reference-6x/ui-package/classes/calendar-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#protected-properties-1)
-- [calendarBody](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#calendarbody)
-- [currentDate](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#currentdate)
-- [daysOfWeek](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#daysofweek)
-- [headerTextElem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#headertextelem)
-- [months](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#months)
-- [options](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#options)
-- [selectMonthElem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#selectmonthelem)
-- [selectYearElem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#selectyearelem)
-- [selectedMonth](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#selectedmonth)
-- [selectedYear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#selectedyear)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#protected-properties-1)
+- [calendarBody](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#calendarbody)
+- [currentDate](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#currentdate)
+- [daysOfWeek](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#daysofweek)
+- [headerTextElem](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#headertextelem)
+- [months](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#months)
+- [options](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#options)
+- [selectMonthElem](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#selectmonthelem)
+- [selectYearElem](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#selectyearelem)
+- [selectedMonth](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#selectedmonth)
+- [selectedYear](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#selectedyear)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#public-methods-1)
-- [getDate](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#getdate)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#render)
-- [setDate](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#setdate)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#public-methods-1)
+- [getDate](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#getdate)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#render)
+- [setDate](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#setdate)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#protected-methods-1)
-- [dateChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#datechanged)
-- [jump](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#jump)
-- [next](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#next)
-- [prev](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#prev)
-- [renderCalendarButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#rendercalendarbuttons)
-- [rerenderMonth](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#rerendermonth)
-- [rerenderSelectYear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class/#rerenderselectyear)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#protected-methods-1)
+- [dateChanged](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#datechanged)
+- [jump](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#jump)
+- [next](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#next)
+- [prev](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#prev)
+- [renderCalendarButtons](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#rendercalendarbuttons)
+- [rerenderMonth](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#rerendermonth)
+- [rerenderSelectYear](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class#rerenderselectyear)
 
 
 ## Constructors
@@ -48,11 +48,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DefaultCalendar(slot: `HTMLElement`,options?: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface)): [DefaultCalendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class)
+⊕ new DefaultCalendar(slot: `HTMLElement`,options?: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface)): [DefaultCalendar](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class)
 
 #### Parameters:
 - slot: `HTMLElement`
-- options: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface), *Optional* 
+- options: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface), *Optional* 
 
 
 ---
@@ -87,7 +87,7 @@ sidebar:
 ---
 ### options
 
-● options: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface)
+● options: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface)
 
 ---
 ### selectMonthElem
@@ -145,7 +145,7 @@ sidebar:
 ---
 ### options
 
-● options: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface)
+● options: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface)
 
 ---
 ### selectMonthElem

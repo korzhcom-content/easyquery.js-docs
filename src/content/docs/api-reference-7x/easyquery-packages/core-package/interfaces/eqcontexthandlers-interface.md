@@ -9,22 +9,22 @@ sidebar:
 Defines interface for all context event handlers
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#properties-1)
-- [afterExportResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#afterexportresult)
-- [afterFetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#afterfetchdata)
-- [afterLoadModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#afterloadmodel)
-- [afterLoadQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#afterloadquery)
-- [afterSyncQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#aftersyncquery)
-- [beforeExportResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeexportresult)
-- [beforeFetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforefetchdata)
-- [beforeLoadModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeloadmodel)
-- [beforeLoadQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeloadquery)
-- [beforeSyncQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforesyncquery)
-- [onError](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onerror)
-- [onInit](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#oninit)
-- [onListRequest](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onlistrequest)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onprocessstart)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#properties-1)
+- [afterExportResult](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#afterexportresult)
+- [afterFetchData](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#afterfetchdata)
+- [afterLoadModel](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#afterloadmodel)
+- [afterLoadQuery](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#afterloadquery)
+- [afterSyncQuery](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#aftersyncquery)
+- [beforeExportResult](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#beforeexportresult)
+- [beforeFetchData](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#beforefetchdata)
+- [beforeLoadModel](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#beforeloadmodel)
+- [beforeLoadQuery](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#beforeloadquery)
+- [beforeSyncQuery](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#beforesyncquery)
+- [onError](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#onerror)
+- [onInit](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#oninit)
+- [onListRequest](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#onlistrequest)
+- [onProcessEnd](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface#onprocessstart)
 
 
 
@@ -33,37 +33,37 @@ Defines interface for all context event handlers
 ---
 ### afterExportResult
 
-● afterExportResult?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● afterExportResult?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### afterFetchData
 
-● afterFetchData?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● afterFetchData?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### afterLoadModel
 
-● afterLoadModel?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● afterLoadModel?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### afterLoadQuery
 
-● afterLoadQuery?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● afterLoadQuery?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### afterSyncQuery
 
-● afterSyncQuery?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● afterSyncQuery?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### beforeExportResult
 
-● beforeExportResult?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), options?: [ContextExportResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface)) => `void`
+● beforeExportResult?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), options?: [ContextExportResultOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface)) => `void`
 
 ---
 ### beforeFetchData
 
-● beforeFetchData?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), options?: [ContextFetchDataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface)) => `void`
+● beforeFetchData?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), options?: [ContextFetchDataOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface)) => `void`
 
 ---
 ### beforeLoadModel
@@ -71,27 +71,27 @@ Defines interface for all context event handlers
 Tuners.
 Each tuner is a function which are called before sending a request to the server
 
-● beforeLoadModel?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), options?: [ContextLoadModelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface)) => `void`
+● beforeLoadModel?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), options?: [ContextLoadModelOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface)) => `void`
 
 ---
 ### beforeLoadQuery
 
-● beforeLoadQuery?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), options?: [ContextLoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadqueryoptions-interface)) => `void`
+● beforeLoadQuery?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), options?: [ContextLoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadqueryoptions-interface)) => `void`
 
 ---
 ### beforeSyncQuery
 
-● beforeSyncQuery?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), options?: [ContextSyncQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface)) => `void`
+● beforeSyncQuery?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), options?: [ContextSyncQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface)) => `void`
 
 ---
 ### onError
 
-● onError?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`
+● onError?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`
 
 ---
 ### onInit
 
-● onInit?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `void`
+● onInit?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `void`
 
 ---
 ### onListRequest
@@ -101,11 +101,11 @@ Each tuner is a function which are called before sending a request to the server
 ---
 ### onProcessEnd
 
-● onProcessEnd?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`
+● onProcessEnd?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`
 
 ---
 ### onProcessStart
 
-● onProcessStart?: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class), status: [ActionStatus](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/actionstatus-interface)) => `void`
+● onProcessStart?: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class), status: [ActionStatus](api-reference-7x/easyquery-packages/core-package/interfaces/actionstatus-interface)) => `void`
 
 ---

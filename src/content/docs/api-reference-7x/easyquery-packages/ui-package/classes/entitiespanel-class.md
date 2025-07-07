@@ -8,38 +8,38 @@ sidebar:
 The entities panel wiget, implemented without JQuery.
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#getcontext)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#refresh)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#public-methods-1)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#belongstogroup)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#getcontext)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class/#refreshcore)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#protected-methods-1)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#destroycore)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class#refreshcore)
 
 
 ## Constructors
@@ -48,7 +48,7 @@ The entities panel wiget, implemented without JQuery.
 #### constructor
 
 The default constructor.
-⊕ new EntitiesPanel(slot: `HTMLElement`): [EntitiesPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/entitiespanel-class)
+⊕ new EntitiesPanel(slot: `HTMLElement`): [EntitiesPanel](api-reference-7x/easyquery-packages/ui-package/classes/entitiespanel-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -70,12 +70,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -100,10 +100,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -122,10 +122,10 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -140,11 +140,11 @@ Returns current context (the one this widget belongs to)
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [EntitiesPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [EntitiesPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/entitiespaneloptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [EntitiesPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/entitiespaneloptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class) - The context.
+- options: [EntitiesPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/entitiespaneloptions-interface), *Optional*  - The options.
 
 
 

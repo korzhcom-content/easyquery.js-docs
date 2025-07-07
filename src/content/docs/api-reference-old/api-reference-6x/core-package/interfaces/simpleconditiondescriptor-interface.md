@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#properties-1)
-- [attribute](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#attribute)
-- [attributeId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#attributeid)
-- [enabled](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#enabled)
-- [operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#operator)
-- [operatorId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#operatorid)
-- [parent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#parent)
-- [value](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/simpleconditiondescriptor-interface/#value)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#properties-1)
+- [attribute](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#attribute)
+- [attributeId](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#attributeid)
+- [enabled](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#enabled)
+- [operator](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#operator)
+- [operatorId](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#operatorid)
+- [parent](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#parent)
+- [value](api-reference-old/api-reference-6x/core-package/interfaces/simpleconditiondescriptor-interface#value)
 
 
 
@@ -23,7 +23,7 @@ sidebar:
 ---
 ### attribute
 
-● attribute?: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+● attribute?: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 ---
 ### attributeId
@@ -38,7 +38,7 @@ sidebar:
 ---
 ### operator
 
-● operator?: [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class)
+● operator?: [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class)
 
 ---
 ### operatorId
@@ -48,7 +48,7 @@ sidebar:
 ---
 ### parent
 
-● parent?: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class)
+● parent?: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class)
 
 ---
 ### value

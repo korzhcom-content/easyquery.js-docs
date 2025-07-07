@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#properties-1)
-- [beforeDragStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#beforedragstart)
-- [data](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#data)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#element)
-- [onDragEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#ondragend)
-- [onDragStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#ondragstart)
-- [renderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#renderer)
-- [scope](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/dragitemdescriptor-interface/#scope)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#properties-1)
+- [beforeDragStart](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#beforedragstart)
+- [data](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#data)
+- [element](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#element)
+- [onDragEnd](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#ondragend)
+- [onDragStart](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#ondragstart)
+- [renderer](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#renderer)
+- [scope](api-reference-old/api-reference-6x/ui-package/interfaces/dragitemdescriptor-interface#scope)
 
 
 
@@ -38,12 +38,12 @@ sidebar:
 ---
 ### onDragEnd
 
-● onDragEnd?: (event: [EqDragEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class)) => `void`
+● onDragEnd?: (event: [EqDragEvent](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### onDragStart
 
-● onDragStart?: (event: [EqDragEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class)) => `void`
+● onDragStart?: (event: [EqDragEvent](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class)) => `void`
 
 ---
 ### renderer

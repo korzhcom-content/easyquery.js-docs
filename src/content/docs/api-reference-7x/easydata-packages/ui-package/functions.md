@@ -6,23 +6,23 @@ sidebar:
 ---
 
 ## Index
-- [addCssClass](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#addcssclass)
-- [addElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#addelement)
-- [createBrowserEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#createbrowserevent)
-- [domel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#domel)
-- [getDocSize](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#getdocsize)
-- [getElementAbsolutePos](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#getelementabsolutepos)
-- [getScrollPos](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#getscrollpos)
-- [getViewportSize](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#getviewportsize)
-- [getWinSize](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#getwinsize)
-- [hideElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#hideelement)
-- [isVisible](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#isvisible)
-- [mask](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#mask)
-- [showElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#showelement)
-- [slideDown](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#slidedown)
-- [slideUp](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#slideup)
-- [toggleVisibility](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#togglevisibility)
-- [wrapInner](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/functions/#wrapinner)
+- [addCssClass](api-reference-7x/easydata-packages/ui-package/functions#addcssclass)
+- [addElement](api-reference-7x/easydata-packages/ui-package/functions#addelement)
+- [createBrowserEvent](api-reference-7x/easydata-packages/ui-package/functions#createbrowserevent)
+- [domel](api-reference-7x/easydata-packages/ui-package/functions#domel)
+- [getDocSize](api-reference-7x/easydata-packages/ui-package/functions#getdocsize)
+- [getElementAbsolutePos](api-reference-7x/easydata-packages/ui-package/functions#getelementabsolutepos)
+- [getScrollPos](api-reference-7x/easydata-packages/ui-package/functions#getscrollpos)
+- [getViewportSize](api-reference-7x/easydata-packages/ui-package/functions#getviewportsize)
+- [getWinSize](api-reference-7x/easydata-packages/ui-package/functions#getwinsize)
+- [hideElement](api-reference-7x/easydata-packages/ui-package/functions#hideelement)
+- [isVisible](api-reference-7x/easydata-packages/ui-package/functions#isvisible)
+- [mask](api-reference-7x/easydata-packages/ui-package/functions#mask)
+- [showElement](api-reference-7x/easydata-packages/ui-package/functions#showelement)
+- [slideDown](api-reference-7x/easydata-packages/ui-package/functions#slidedown)
+- [slideUp](api-reference-7x/easydata-packages/ui-package/functions#slideup)
+- [toggleVisibility](api-reference-7x/easydata-packages/ui-package/functions#togglevisibility)
+- [wrapInner](api-reference-7x/easydata-packages/ui-package/functions#wrapinner)
 
 #### addCssClass
 
@@ -74,77 +74,77 @@ Creates ands adds a new [[HTMLElement]] to "parent"
 ---
 #### domel
 
-▸ domel(tag: `"div"` | `HTMLDivElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
+▸ domel(tag: `"div"` | `HTMLDivElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
 
 #### Parameters:
 - tag: `"div"` | `HTMLDivElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;
 
-▸ domel(tag: `"span"` | `HTMLSpanElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
+▸ domel(tag: `"span"` | `HTMLSpanElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
 
 #### Parameters:
 - tag: `"span"` | `HTMLSpanElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLSpanElement`&gt;
 
-▸ domel(tag: `"a"` | `HTMLAnchorElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
+▸ domel(tag: `"a"` | `HTMLAnchorElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
 
 #### Parameters:
 - tag: `"a"` | `HTMLAnchorElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;
 
-▸ domel(tag: `"button"` | `HTMLButtonElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
+▸ domel(tag: `"button"` | `HTMLButtonElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
 
 #### Parameters:
 - tag: `"button"` | `HTMLButtonElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;
 
-▸ domel(tag: `"img"` | `HTMLImageElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
+▸ domel(tag: `"img"` | `HTMLImageElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
 
 #### Parameters:
 - tag: `"img"` | `HTMLImageElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;
 
-▸ domel(tag: `"input"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/dominputelementbuilder-class)
+▸ domel(tag: `"input"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomInputElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/dominputelementbuilder-class)
 
 #### Parameters:
 - tag: `"input"` | `HTMLInputElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/dominputelementbuilder-class)
+**Returns** [DomInputElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/dominputelementbuilder-class)
 
-▸ domel(tag: `"select"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)
+▸ domel(tag: `"select"` | `HTMLInputElement`,parent?: `HTMLElement`): [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)
 
 #### Parameters:
 - tag: `"select"` | `HTMLInputElement`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)
+**Returns** [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)
 
-▸ domel(tag: `string`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
+▸ domel(tag: `string`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
 
 #### Parameters:
 - tag: `string`
 - parent: `HTMLElement`, *Optional* 
 
 
-**Returns** [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
+**Returns** [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;
 
 
 

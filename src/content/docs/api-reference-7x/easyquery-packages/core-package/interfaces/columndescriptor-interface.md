@@ -9,19 +9,19 @@ sidebar:
 The type of the parameter for addColumn method
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#properties-1)
-- [aggrFuncId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#aggrfuncid)
-- [attribute](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#attribute)
-- [attributeId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#attributeid)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#caption)
-- [column](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#column)
-- [cusomtSql](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#cusomtsql)
-- [enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#enabled)
-- [index](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#index)
-- [justsorted](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#justsorted)
-- [readonly](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#readonly)
-- [sortIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#sortindex)
-- [sorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/columndescriptor-interface/#sorting)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#properties-1)
+- [aggrFuncId](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#aggrfuncid)
+- [attribute](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#attribute)
+- [attributeId](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#attributeid)
+- [caption](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#caption)
+- [column](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#column)
+- [cusomtSql](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#cusomtsql)
+- [enabled](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#enabled)
+- [index](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#index)
+- [justsorted](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#justsorted)
+- [readonly](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#readonly)
+- [sortIndex](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#sortindex)
+- [sorting](api-reference-7x/easyquery-packages/core-package/interfaces/columndescriptor-interface#sorting)
 
 
 
@@ -35,7 +35,7 @@ The type of the parameter for addColumn method
 ---
 ### attribute
 
-● attribute?: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+● attribute?: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 ---
 ### attributeId
@@ -50,7 +50,7 @@ The type of the parameter for addColumn method
 ---
 ### column
 
-● column?: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+● column?: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 ---
 ### cusomtSql
@@ -85,6 +85,6 @@ The type of the parameter for addColumn method
 ---
 ### sorting
 
-● sorting?: [SortDirection](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/sortdirection-enum)
+● sorting?: [SortDirection](api-reference-7x/easyquery-packages/core-package/enumerations/sortdirection-enum)
 
 ---

@@ -6,31 +6,31 @@ sidebar:
 ---
 
 ## Extends
-[BaseElementRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/baseelementrenderer-class)
+[BaseElementRenderer](api-reference-old/api-reference-6x/ui-package/classes/baseelementrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#protected-properties-1)
-- [displayedTextElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#displayedtextelement)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#element)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#protected-properties-1)
+- [displayedTextElement](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#displayedtextelement)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#element)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#public-methods-1)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#protected-methods-1)
-- [appear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#appear)
-- [disappear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#disappear)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#getclassestoadd)
-- [getDisplayedElementText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#getdisplayedelementtext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#getemptytext)
-- [getMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#getmenu)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#iseditable)
-- [itemSelected](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#itemselected)
-- [renderDisplayedText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#renderdisplayedtext)
-- [renderEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class/#rendereditor)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#protected-methods-1)
+- [appear](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#appear)
+- [disappear](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#disappear)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#getclassestoadd)
+- [getDisplayedElementText](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#getdisplayedelementtext)
+- [getEmptyText](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#getemptytext)
+- [getMenu](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#getmenu)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#iseditable)
+- [itemSelected](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#itemselected)
+- [renderDisplayedText](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#renderdisplayedtext)
+- [renderEditor](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class#rendereditor)
 
 
 ## Constructors
@@ -38,7 +38,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DropDownRenderer(slot?: `HTMLDivElement`): [DropDownRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dropdownrenderer-class)
+⊕ new DropDownRenderer(slot?: `HTMLDivElement`): [DropDownRenderer](api-reference-old/api-reference-6x/ui-package/classes/dropdownrenderer-class)
 
 #### Parameters:
 - slot: `HTMLDivElement`, *Optional* 
@@ -138,10 +138,10 @@ sidebar:
 
 ---
 ### getMenu
-▸ getMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getMenu(): [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 
 ---

@@ -7,20 +7,20 @@ sidebar:
 ---
 
 ## Extends
-[NewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/newqueryoptions-interface)
+[NewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/newqueryoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#properties-1)
-- [clearQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#clearquery)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#modelid)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#name)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#query)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#queryid)
-- [silent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#silent)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#success)
-- [useStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface/#usestorage)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#properties-1)
+- [clearQuery](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#clearquery)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#modelid)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#name)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#query)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#queryid)
+- [silent](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#silent)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#success)
+- [useStorage](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface#usestorage)
 
 
 
@@ -54,7 +54,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### queryId

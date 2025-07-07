@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunkdescriptor-interface/#properties-1)
-- [limit](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunkdescriptor-interface/#limit)
-- [needTotal](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunkdescriptor-interface/#needtotal)
-- [offset](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunkdescriptor-interface/#offset)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/datachunkdescriptor-interface#properties-1)
+- [limit](api-reference-7x/easydata-packages/core-package/interfaces/datachunkdescriptor-interface#limit)
+- [needTotal](api-reference-7x/easydata-packages/core-package/interfaces/datachunkdescriptor-interface#needtotal)
+- [offset](api-reference-7x/easydata-packages/core-package/interfaces/datachunkdescriptor-interface#offset)
 
 
 

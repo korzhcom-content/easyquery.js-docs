@@ -6,14 +6,14 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#public-methods-1)
-- [abort](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#abort)
-- [getData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#getdata)
-- [getXMLHttpRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#getxmlhttprequest)
-- [setHeader](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class/#setheader)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#public-methods-1)
+- [abort](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#abort)
+- [getData](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#getdata)
+- [getXMLHttpRequest](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#getxmlhttprequest)
+- [setHeader](api-reference-old/api-reference-6x/core-package/classeshttprequest-class#setheader)
 
 
 ## Constructors
@@ -21,7 +21,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new HttpRequest(xhr: `XMLHttpRequest`,data?: `any`): [HttpRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classeshttprequest-class)
+⊕ new HttpRequest(xhr: `XMLHttpRequest`,data?: `any`): [HttpRequest](api-reference-old/api-reference-6x/core-package/classeshttprequest-class)
 
 #### Parameters:
 - xhr: `XMLHttpRequest`

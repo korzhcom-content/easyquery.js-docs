@@ -8,8 +8,8 @@ sidebar:
 EasyQuery representation of GUID.
 
 ## Index
-### [Static Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqguid-class/#static-methods-1)
-- [newGuid](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqguid-class/#newguid)
+### [Static Methods](api-reference-old/api-reference-6x/core-package/classes/eqguid-class#static-methods-1)
+- [newGuid](api-reference-old/api-reference-6x/core-package/classes/eqguid-class#newguid)
 
 
 

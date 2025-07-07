@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Extends
-[GridEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface)
+[GridEvent](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface/#properties-1)
-- [sourceEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface/#sourceevent)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface/#type)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface#properties-1)
+- [sourceEvent](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface#sourceevent)
+- [type](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface#type)
 
 
 

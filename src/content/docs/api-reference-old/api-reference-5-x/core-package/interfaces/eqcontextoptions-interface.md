@@ -9,18 +9,18 @@ sidebar:
 Defines the structure of context options.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#attrclassname)
-- [broker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#broker)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#defaultqueryid)
-- [handlers](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#handlers)
-- [initialQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#initialquery)
-- [listCache](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#listcache)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#loadqueryonstart)
-- [locale](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#locale)
-- [widgets](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontextoptions-interface/#widgets)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#properties-1)
+- [attrClassName](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#attrclassname)
+- [broker](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#broker)
+- [defaultModelId](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#defaultmodelid)
+- [defaultQueryId](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#defaultqueryid)
+- [handlers](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#handlers)
+- [initialQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#initialquery)
+- [listCache](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#listcache)
+- [loadModelOnStart](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#loadmodelonstart)
+- [loadQueryOnStart](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#loadqueryonstart)
+- [locale](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#locale)
+- [widgets](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontextoptions-interface#widgets)
 
 
 
@@ -34,7 +34,7 @@ Defines the structure of context options.
 ---
 ### broker
 
-● broker?: [EqBrokerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbrokeroptions-interface)
+● broker?: [EqBrokerOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqbrokeroptions-interface)
 
 ---
 ### defaultModelId
@@ -49,17 +49,17 @@ Defines the structure of context options.
 ---
 ### handlers
 
-● handlers?: [EqContextHandlerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface)
+● handlers?: [EqContextHandlerOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface)
 
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface)
 
 ---
 ### listCache
 
-● listCache?: [ExternalListCache](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/externallistcache-interface)
+● listCache?: [ExternalListCache](api-reference-old/api-reference-5-x/core-package/interfaces/externallistcache-interface)
 
 ---
 ### loadModelOnStart

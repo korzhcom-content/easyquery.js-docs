@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/extensions/eqcontext-extensions/#methods-1)
-- [getODataVersion](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/extensions/eqcontext-extensions/#getodataversion)
-- [loadModelFromEdmx](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/extensions/eqcontext-extensions/#loadmodelfromedmx)
-- [loadModelFromEdmxType](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/extensions/eqcontext-extensions/#loadmodelfromedmxtype)
-- [useOData](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/extensions/eqcontext-extensions/#useodata)
+### [Methods](api-reference-7x/easyquery-packages/odata-package/extensions/eqcontext-extensions#methods-1)
+- [getODataVersion](api-reference-7x/easyquery-packages/odata-package/extensions/eqcontext-extensions#getodataversion)
+- [loadModelFromEdmx](api-reference-7x/easyquery-packages/odata-package/extensions/eqcontext-extensions#loadmodelfromedmx)
+- [loadModelFromEdmxType](api-reference-7x/easyquery-packages/odata-package/extensions/eqcontext-extensions#loadmodelfromedmxtype)
+- [useOData](api-reference-7x/easyquery-packages/odata-package/extensions/eqcontext-extensions#useodata)
 
 
 
@@ -19,18 +19,18 @@ sidebar:
 
 ---
 ### getODataVersion
-▸ getODataVersion(): [ODataVersion](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/enumerations/odataversion-enum)
+▸ getODataVersion(): [ODataVersion](api-reference-7x/easyquery-packages/odata-package/enumerations/odataversion-enum)
 
 
-**Returns** [ODataVersion](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/enumerations/odataversion-enum)
+**Returns** [ODataVersion](api-reference-7x/easyquery-packages/odata-package/enumerations/odataversion-enum)
 
 
 ---
 ### loadModelFromEdmx
-▸ loadModelFromEdmx(this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),edmString: `string`): `any`
+▸ loadModelFromEdmx(this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),edmString: `string`): `any`
 
 #### Parameters:
-- this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 - edmString: `string`
 
 
@@ -39,10 +39,10 @@ sidebar:
 
 ---
 ### loadModelFromEdmxType
-▸ loadModelFromEdmxType(this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),typeName: `string`,depth: `number`,edmString: `string`): `any`
+▸ loadModelFromEdmxType(this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),typeName: `string`,depth: `number`,edmString: `string`): `any`
 
 #### Parameters:
-- this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 - typeName: `string`
 - depth: `number`
 - edmString: `string`
@@ -53,14 +53,14 @@ sidebar:
 
 ---
 ### useOData
-▸ useOData(this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [ODataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/odataoptions-interface)): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ useOData(this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [ODataOptions](api-reference-7x/easyquery-packages/odata-package/interfaces/odataoptions-interface)): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 #### Parameters:
-- this: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
-- options: [ODataOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/odataoptions-interface), *Optional* 
+- this: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
+- options: [ODataOptions](api-reference-7x/easyquery-packages/odata-package/interfaces/odataoptions-interface), *Optional* 
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---

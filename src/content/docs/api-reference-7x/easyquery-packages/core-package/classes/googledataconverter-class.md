@@ -9,24 +9,24 @@ sidebar:
 Represents Google data table class
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#public-methods-1)
-- [convertTo](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#convertto)
-- [getColumnId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getcolumnid)
-- [getColumnLabel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getcolumnlabel)
-- [getColumnObject](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getcolumnobject)
-- [getColumnProperties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getcolumnproperties)
-- [getColumnType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getcolumntype)
-- [getNumberOfColumns](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getnumberofcolumns)
-- [getNumberOfRows](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getnumberofrows)
-- [getObject](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getobject)
-- [getRow](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getrow)
-- [getValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#getvalue)
-- [isEmpty](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#isempty)
-- [loadFromJSON](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#loadfromjson)
-- [toJSON](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class/#tojson)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#public-methods-1)
+- [convertTo](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#convertto)
+- [getColumnId](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getcolumnid)
+- [getColumnLabel](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getcolumnlabel)
+- [getColumnObject](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getcolumnobject)
+- [getColumnProperties](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getcolumnproperties)
+- [getColumnType](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getcolumntype)
+- [getNumberOfColumns](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getnumberofcolumns)
+- [getNumberOfRows](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getnumberofrows)
+- [getObject](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getobject)
+- [getRow](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getrow)
+- [getValue](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#getvalue)
+- [isEmpty](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#isempty)
+- [loadFromJSON](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#loadfromjson)
+- [toJSON](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class#tojson)
 
 
 ## Constructors
@@ -35,7 +35,7 @@ Represents Google data table class
 #### constructor
 
 The default constructor.
-⊕ new GoogleDataConverter(data?: `any`): [GoogleDataConverter](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/googledataconverter-class)
+⊕ new GoogleDataConverter(data?: `any`): [GoogleDataConverter](api-reference-7x/easyquery-packages/core-package/classes/googledataconverter-class)
 
 #### Parameters:
 - data: `any`, *Optional*  - The table instance or its JSON representation.

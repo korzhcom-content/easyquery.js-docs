@@ -9,117 +9,117 @@ sidebar:
 The EasyQuery client-side view that represents the UI for advanced search page
 
 ## Extends
-[View](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/view-class)
+[View](api-reference-7x/easyquery-packages/ui-package/classes/view-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#protected-properties-1)
-- [chartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#chartwidget)
-- [clearQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#clearquerybutton)
-- [columnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#columnsbarwidget)
-- [columnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#columnspanelwidget)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#context)
-- [copyQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#copyquerybutton)
-- [disabledClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#disabledclass)
-- [domRoots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#domroots)
-- [dropdownButtonClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#dropdownbuttonclass)
-- [dropdownContainerClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#dropdowncontainerclass)
-- [dropdownContentClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#dropdowncontentclass)
-- [dropdownShowClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#dropdownshowclass)
-- [enableExport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#enableexport)
-- [entitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#entitiespanelwidget)
-- [exportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#exportbuttons)
-- [exportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#exportwidget)
-- [fetchDataButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#fetchdatabutton)
-- [filterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#filterbarwidget)
-- [loadQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadquerybutton)
-- [loadQueryFromFileButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadqueryfromfilebutton)
-- [loadQueryFromFileInput](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadqueryfromfileinput)
-- [localeWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#localewidget)
-- [newQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#newquerybutton)
-- [processWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#processwidget)
-- [queryListPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#querylistpanel)
-- [queryListSelector](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#querylistselector)
-- [queryNameLabel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#querynamelabel)
-- [queryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#querynamewidget)
-- [queryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#querypanelwidget)
-- [removeQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#removequerybutton)
-- [resultCountSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resultcountslot)
-- [resultFacetPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resultfacetpanelwidget)
-- [resultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resultgridwidget)
-- [resultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resultoptions)
-- [resultPanelSlot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resultpanelslot)
-- [saveQueryButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savequerybutton)
-- [saveQueryToFileButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savequerytofilebutton)
-- [sortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#sortingbarwidget)
-- [statementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#statementpanelwidget)
-- [statementWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#statementwidget)
-- [storageDropButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#storagedropbutton)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#protected-properties-1)
+- [chartWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#chartwidget)
+- [clearQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#clearquerybutton)
+- [columnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#columnsbarwidget)
+- [columnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#columnspanelwidget)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#context)
+- [copyQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#copyquerybutton)
+- [disabledClass](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#disabledclass)
+- [domRoots](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#domroots)
+- [dropdownButtonClass](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#dropdownbuttonclass)
+- [dropdownContainerClass](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#dropdowncontainerclass)
+- [dropdownContentClass](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#dropdowncontentclass)
+- [dropdownShowClass](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#dropdownshowclass)
+- [enableExport](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#enableexport)
+- [entitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#entitiespanelwidget)
+- [exportButtons](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#exportbuttons)
+- [exportWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#exportwidget)
+- [fetchDataButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#fetchdatabutton)
+- [filterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#filterbarwidget)
+- [loadQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadquerybutton)
+- [loadQueryFromFileButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadqueryfromfilebutton)
+- [loadQueryFromFileInput](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadqueryfromfileinput)
+- [localeWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#localewidget)
+- [newQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#newquerybutton)
+- [processWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#processwidget)
+- [queryListPanel](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#querylistpanel)
+- [queryListSelector](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#querylistselector)
+- [queryNameLabel](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#querynamelabel)
+- [queryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#querynamewidget)
+- [queryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#querypanelwidget)
+- [removeQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#removequerybutton)
+- [resultCountSlot](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resultcountslot)
+- [resultFacetPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resultfacetpanelwidget)
+- [resultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resultgridwidget)
+- [resultOptions](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resultoptions)
+- [resultPanelSlot](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resultpanelslot)
+- [saveQueryButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savequerybutton)
+- [saveQueryToFileButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savequerytofilebutton)
+- [sortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#sortingbarwidget)
+- [statementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#statementpanelwidget)
+- [statementWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#statementwidget)
+- [storageDropButton](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#storagedropbutton)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#public-methods-1)
-- [checkIfQueryModified](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#checkifquerymodified)
-- [detach](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#detach)
-- [executeQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#executequery)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#fetchdata)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#init)
-- [loadQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadquery)
-- [setDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#setdialogservice)
-- [showLoadQueryFromFileDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showloadqueryfromfiledialog)
-- [syncQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#syncquery)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#public-methods-1)
+- [checkIfQueryModified](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#checkifquerymodified)
+- [detach](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#detach)
+- [executeQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#executequery)
+- [fetchData](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#fetchdata)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#getcontext)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#init)
+- [loadQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadquery)
+- [setDialogService](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#setdialogservice)
+- [showLoadQueryFromFileDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showloadqueryfromfiledialog)
+- [syncQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#syncquery)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#protected-methods-1)
-- [clearQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#clearquerybuttonclick)
-- [copyQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#copyquerybuttonclick)
-- [createChartWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createchartwidget)
-- [createColumnsBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createcolumnsbarwidget)
-- [createColumnsPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createcolumnspanelwidget)
-- [createEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createentitiespanelwidget)
-- [createExportWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createexportwidget)
-- [createFilterBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createfilterbarwidget)
-- [createLocaleWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createlocalewidget)
-- [createNewQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createnewquery)
-- [createProcessWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createprocesswidget)
-- [createQueryNameWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createquerynamewidget)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createquerypanelwidget)
-- [createResultFacetsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createresultfacetspanel)
-- [createResultGridWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createresultgridwidget)
-- [createSortingBarWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createsortingbarwidget)
-- [createStatementPanelWidget](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#createstatementpanelwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#enableexportbuttons)
-- [fetchDataButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#fetchdatabuttonclick)
-- [fillLoadQueryButtonMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#fillloadquerybuttonmenu)
-- [hideExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#hideexportbuttons)
-- [hideResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#hideresultspinner)
-- [initDone](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#initdone)
-- [initOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#initoptions)
-- [initWidgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#initwidgets)
-- [loadQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadquerybuttonclick)
-- [loadQueryFromFileButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadqueryfromfilebuttonclick)
-- [loadQueryFromFileInputSelect](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#loadqueryfromfileinputselect)
-- [newQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#newquerybuttonclick)
-- [refreshQueryList](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#refreshquerylist)
-- [removeCurrentQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#removecurrentquery)
-- [removeQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#removequerybuttonclick)
-- [renderSaveToFileDialogBody](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#rendersavetofiledialogbody)
-- [resolveElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resolveelement)
-- [resolveElementsByClassName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#resolveelementsbyclassname)
-- [saveCurrentQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savecurrentquery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savequery)
-- [saveQueryButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savequerybuttonclick)
-- [saveQueryToFileButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#savequerytofilebuttonclick)
-- [showNewQueryDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#shownewquerydialog)
-- [showQueryChangedDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showquerychangeddialog)
-- [showRemoveQueryDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showremovequerydialog)
-- [showResultSpinner](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showresultspinner)
-- [showSaveQueryDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showsavequerydialog)
-- [showSaveQueryToFileDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#showsavequerytofiledialog)
-- [storageDropButtonClick](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#storagedropbuttonclick)
-- [toggleExportButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class/#toggleexportbuttons)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#protected-methods-1)
+- [clearQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#clearquerybuttonclick)
+- [copyQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#copyquerybuttonclick)
+- [createChartWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createchartwidget)
+- [createColumnsBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createcolumnsbarwidget)
+- [createColumnsPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createcolumnspanelwidget)
+- [createEntitiesPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createentitiespanelwidget)
+- [createExportWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createexportwidget)
+- [createFilterBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createfilterbarwidget)
+- [createLocaleWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createlocalewidget)
+- [createNewQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createnewquery)
+- [createProcessWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createprocesswidget)
+- [createQueryNameWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createquerynamewidget)
+- [createQueryPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createquerypanelwidget)
+- [createResultFacetsPanel](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createresultfacetspanel)
+- [createResultGridWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createresultgridwidget)
+- [createSortingBarWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createsortingbarwidget)
+- [createStatementPanelWidget](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#createstatementpanelwidget)
+- [disableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#displayrecordscount)
+- [enableExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#enableexportbuttons)
+- [fetchDataButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#fetchdatabuttonclick)
+- [fillLoadQueryButtonMenu](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#fillloadquerybuttonmenu)
+- [hideExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#hideexportbuttons)
+- [hideResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#hideresultspinner)
+- [initDone](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#initdone)
+- [initOptions](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#initoptions)
+- [initWidgets](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#initwidgets)
+- [loadQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadquerybuttonclick)
+- [loadQueryFromFileButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadqueryfromfilebuttonclick)
+- [loadQueryFromFileInputSelect](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#loadqueryfromfileinputselect)
+- [newQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#newquerybuttonclick)
+- [refreshQueryList](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#refreshquerylist)
+- [removeCurrentQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#removecurrentquery)
+- [removeQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#removequerybuttonclick)
+- [renderSaveToFileDialogBody](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#rendersavetofiledialogbody)
+- [resolveElement](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resolveelement)
+- [resolveElementsByClassName](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#resolveelementsbyclassname)
+- [saveCurrentQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savecurrentquery)
+- [saveQuery](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savequery)
+- [saveQueryButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savequerybuttonclick)
+- [saveQueryToFileButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#savequerytofilebuttonclick)
+- [showNewQueryDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#shownewquerydialog)
+- [showQueryChangedDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showquerychangeddialog)
+- [showRemoveQueryDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showremovequerydialog)
+- [showResultSpinner](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showresultspinner)
+- [showSaveQueryDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showsavequerydialog)
+- [showSaveQueryToFileDialog](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#showsavequerytofiledialog)
+- [storageDropButtonClick](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#storagedropbuttonclick)
+- [toggleExportButtons](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class#toggleexportbuttons)
 
 
 ## Constructors
@@ -127,7 +127,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 #### constructor
 
-⊕ new AdvancedSearchView(): [AdvancedSearchView](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/advancedsearchview-class)
+⊕ new AdvancedSearchView(): [AdvancedSearchView](api-reference-7x/easyquery-packages/ui-package/classes/advancedsearchview-class)
 
 
 ---
@@ -137,7 +137,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### chartWidget
 
-● chartWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● chartWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### clearQueryButton
@@ -147,17 +147,17 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### columnsBarWidget
 
-● columnsBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### columnsPanelWidget
 
-● columnsPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● columnsPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### copyQueryButton
@@ -202,7 +202,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### entitiesPanelWidget
 
-● entitiesPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● entitiesPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### exportButtons
@@ -212,7 +212,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### exportWidget
 
-● exportWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● exportWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### fetchDataButton
@@ -222,7 +222,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### filterBarWidget
 
-● filterBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● filterBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### loadQueryButton
@@ -242,7 +242,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### localeWidget
 
-● localeWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● localeWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### newQueryButton
@@ -252,7 +252,7 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### processWidget
 
-● processWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● processWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryListPanel
@@ -272,12 +272,12 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### queryNameWidget
 
-● queryNameWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryNameWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### queryPanelWidget
 
-● queryPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● queryPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### removeQueryButton
@@ -292,17 +292,17 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### resultFacetPanelWidget
 
-● resultFacetPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultFacetPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultGridWidget
 
-● resultGridWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● resultGridWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### resultOptions
 
-● resultOptions: [EqResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● resultOptions: [EqResultOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### resultPanelSlot
@@ -322,17 +322,17 @@ The EasyQuery client-side view that represents the UI for advanced search page
 ---
 ### sortingBarWidget
 
-● sortingBarWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● sortingBarWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementPanelWidget
 
-● statementPanelWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementPanelWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### statementWidget
 
-● statementWidget?: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+● statementWidget?: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ---
 ### storageDropButton
@@ -388,18 +388,18 @@ Fetches the data according to the query and other options defined in the context
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### init
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -471,13 +471,13 @@ Sends current query to the backend.
 ### createChartWidget
 Creates the widget that represents Chart Widget.
 
-▸ createChartWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createChartWidget(slotElement: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -485,13 +485,13 @@ Creates the widget that represents Chart Widget.
 ### createColumnsBarWidget
 Creates the widget that represents Columns Bar.
 
-▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -499,13 +499,13 @@ Creates the widget that represents Columns Bar.
 ### createColumnsPanelWidget
 Creates the widget that represents Columns Panel.
 
-▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -513,13 +513,13 @@ Creates the widget that represents Columns Panel.
 ### createEntitiesPanelWidget
 Creates the widget that represents Entity Panel.
 
-▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createEntitiesPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -527,27 +527,27 @@ Creates the widget that represents Entity Panel.
 ### createExportWidget
 Creates the widget that represents Export funcionality.
 
-▸ createExportWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createExportWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createFilterBarWidget
 Creates the widget that represents Filter Bar.
 
-▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createFilterBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -555,38 +555,38 @@ Creates the widget that represents Filter Bar.
 ### createLocaleWidget
 Creates the widget that represents Locale Widget.
 
-▸ createLocaleWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createLocaleWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
 ---
 ### createNewQuery
-▸ createNewQuery(options?: [ContextNewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface)): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ createNewQuery(options?: [ContextNewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface)): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 #### Parameters:
-- options: [ContextNewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextnewqueryoptions-interface), *Optional* 
+- options: [ContextNewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/contextnewqueryoptions-interface), *Optional* 
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
 ### createProcessWidget
 Creates the widget that represents Process Widget.
 
-▸ createProcessWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createProcessWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -594,13 +594,13 @@ Creates the widget that represents Process Widget.
 ### createQueryNameWidget
 Creates the widget that represents Query Name Widget.
 
-▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryNameWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -608,13 +608,13 @@ Creates the widget that represents Query Name Widget.
 ### createQueryPanelWidget
 Creates the widget that represents Query Panel.
 
-▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -622,27 +622,27 @@ Creates the widget that represents Query Panel.
 ### createResultFacetsPanel
 Creates the widget that represents Result Facets Panel Widget.
 
-▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultFacetsPanel(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
 ### createResultGridWidget
 Creates the widget that represents Grid Widget.
 
-▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createResultGridWidget(slotElement: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slotElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -650,13 +650,13 @@ Creates the widget that represents Grid Widget.
 ### createSortingBarWidget
 Creates the widget that represents Sorting Bar.
 
-▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createSortingBarWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The HTMLElement to place the created widget in.
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) - the created Widget object.
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) - the created Widget object.
 
 
 
@@ -664,14 +664,14 @@ Creates the widget that represents Sorting Bar.
 ### createStatementPanelWidget
 Creates the widget that represents Statement Panel Widget.
 
-▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+▸ createStatementPanelWidget(slot: `HTMLElement`): [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - 
 
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 
 ---
@@ -755,21 +755,21 @@ Hides export buttons.
 
 ---
 ### initOptions
-▸ initOptions(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+▸ initOptions(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
-**Returns** [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+**Returns** [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)
 
 
 ---
 ### initWidgets
-▸ initWidgets(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ initWidgets(options?: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional* 
+- options: [EqViewOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface), *Optional* 
 
 
 **Returns** `void`

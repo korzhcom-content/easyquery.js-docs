@@ -8,42 +8,42 @@ sidebar:
 The widget responsed for rendering EasyChart
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#context)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#group)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#belongstogroup)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#clear)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#destroy)
-- [drawChart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#drawchart)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#getcontext)
-- [hasColumnsForChart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#hascolumnsforchart)
-- [hasData](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#hasdata)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#init)
-- [initSettingsDiv](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#initsettingsdiv)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#onprocessstart)
-- [prepareChartData](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#preparechartdata)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#refresh)
-- [setChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#setchartprovider)
-- [toggleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#togglesettings)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#belongstogroup)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#clear)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#destroy)
+- [drawChart](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#drawchart)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#getcontext)
+- [hasColumnsForChart](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#hascolumnsforchart)
+- [hasData](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#hasdata)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#init)
+- [initSettingsDiv](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#initsettingsdiv)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#onprocessstart)
+- [prepareChartData](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#preparechartdata)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#refresh)
+- [setChartProvider](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#setchartprovider)
+- [toggleSettings](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#togglesettings)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#protected-methods-1)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#destroycore)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class#refreshcore)
 
 
 ## Constructors
@@ -52,11 +52,11 @@ The widget responsed for rendering EasyChart
 #### constructor
 
 The default constructor.
-⊕ new EasyChartWidget(slot: `HTMLElement`,provider?: [ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface)): [EasyChartWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/easychartwidget-class)
+⊕ new EasyChartWidget(slot: `HTMLElement`,provider?: [ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface)): [EasyChartWidget](api-reference-old/api-reference-6x/ui-package/classes/easychartwidget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
-- provider: [ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface), *Optional*  - The provider.
+- provider: [ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface), *Optional*  - The provider.
 
 
 
@@ -75,12 +75,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -94,10 +94,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -136,10 +136,10 @@ Draws chart with delay.
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### hasColumnsForChart
@@ -165,11 +165,11 @@ Checks, if widget has data.
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: [ChartPanelOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartpaneloptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: [ChartPanelOptions](api-reference-old/api-reference-6x/ui-package/interfaces/chartpaneloptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [ChartPanelOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartpaneloptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) - The context.
+- options: [ChartPanelOptions](api-reference-old/api-reference-6x/ui-package/interfaces/chartpaneloptions-interface), *Optional*  - The options.
 
 
 
@@ -228,10 +228,10 @@ Refreshes the widget's content
 ### setChartProvider
 Sets chart provider.
 
-▸ setChartProvider(provider: [ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface)): `void`
+▸ setChartProvider(provider: [ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface)): `void`
 
 #### Parameters:
-- provider: [ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface) - The provider.
+- provider: [ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface) - The provider.
 
 
 

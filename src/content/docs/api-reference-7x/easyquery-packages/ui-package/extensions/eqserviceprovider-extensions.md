@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/extensions/eqserviceprovider-extensions/#methods-1)
-- [getDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/extensions/eqserviceprovider-extensions/#getdialogservice)
-- [registerDialogServiceResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/extensions/eqserviceprovider-extensions/#registerdialogserviceresolver)
+### [Methods](api-reference-7x/easyquery-packages/ui-package/extensions/eqserviceprovider-extensions#methods-1)
+- [getDialogService](api-reference-7x/easyquery-packages/ui-package/extensions/eqserviceprovider-extensions#getdialogservice)
+- [registerDialogServiceResolver](api-reference-7x/easyquery-packages/ui-package/extensions/eqserviceprovider-extensions#registerdialogserviceresolver)
 
 
 
@@ -17,10 +17,10 @@ sidebar:
 
 ---
 ### getDialogService
-▸ getDialogService(this: [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)): `DialogService`
+▸ getDialogService(this: [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)): `DialogService`
 
 #### Parameters:
-- this: [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)
+- this: [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)
 
 
 **Returns** `DialogService`
@@ -28,10 +28,10 @@ sidebar:
 
 ---
 ### registerDialogServiceResolver
-▸ registerDialogServiceResolver(this: [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class),resolver: () => `DialogService`): `any`
+▸ registerDialogServiceResolver(this: [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class),resolver: () => `DialogService`): `any`
 
 #### Parameters:
-- this: [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)
+- this: [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)
 - resolver: () => `DialogService`
 
 

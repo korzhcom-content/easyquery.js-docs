@@ -8,19 +8,19 @@ sidebar:
 Represents one operand in some operator's expression
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/operand-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/operand-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#public-properties-1)
-- [dataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#datatype)
-- [defText](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#deftext)
-- [defValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#defvalue)
-- [editor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#editor)
-- [kind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#kind)
+### [Public Properties](api-reference-old/api-reference-6x/core-package/classes/operand-class#public-properties-1)
+- [dataType](api-reference-old/api-reference-6x/core-package/classes/operand-class#datatype)
+- [defText](api-reference-old/api-reference-6x/core-package/classes/operand-class#deftext)
+- [defValue](api-reference-old/api-reference-6x/core-package/classes/operand-class#defvalue)
+- [editor](api-reference-old/api-reference-6x/core-package/classes/operand-class#editor)
+- [kind](api-reference-old/api-reference-6x/core-package/classes/operand-class#kind)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#public-methods-1)
-- [copyFrom](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#copyfrom)
-- [loadFromData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class/#loadfromdata)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/operand-class#public-methods-1)
+- [copyFrom](api-reference-old/api-reference-6x/core-package/classes/operand-class#copyfrom)
+- [loadFromData](api-reference-old/api-reference-6x/core-package/classes/operand-class#loadfromdata)
 
 
 ## Constructors
@@ -29,7 +29,7 @@ Represents one operand in some operator's expression
 #### constructor
 
 The default constructor.
-⊕ new Operand(): [Operand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class)
+⊕ new Operand(): [Operand](api-reference-old/api-reference-6x/core-package/classes/operand-class)
 
 
 ---
@@ -41,7 +41,7 @@ The default constructor.
 
 The type of the data.
 
-● dataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+● dataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 ---
 ### defText
@@ -62,14 +62,14 @@ The default value for this operand.
 
 The value editor associated with this operand.
 
-● editor: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)
+● editor: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)
 
 ---
 ### kind
 
 The kind of operand (`scalar`, `list`, etc)
 
-● kind: [DataKind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datakind-enum)
+● kind: [DataKind](api-reference-old/api-reference-6x/core-package/enumerations/datakind-enum)
 
 ---
 ## Public Methods
@@ -78,10 +78,10 @@ The kind of operand (`scalar`, `list`, etc)
 ### copyFrom
 Copies operand from other operand.
 
-▸ copyFrom(src: [Operand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class)): `void`
+▸ copyFrom(src: [Operand](api-reference-old/api-reference-6x/core-package/classes/operand-class)): `void`
 
 #### Parameters:
-- src: [Operand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class)
+- src: [Operand](api-reference-old/api-reference-6x/core-package/classes/operand-class)
 
 
 **Returns** `void`
@@ -91,11 +91,11 @@ Copies operand from other operand.
 ### loadFromData
 Loads operand from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class),operand: [OperandData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/operanddata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class),operand: [OperandData](api-reference-old/api-reference-6x/core-package/interfaces/operanddata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- operand: [OperandData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/operanddata-interface)
+- model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class) - The Data Model.
+- operand: [OperandData](api-reference-old/api-reference-6x/core-package/interfaces/operanddata-interface)
 
 
 **Returns** `void`

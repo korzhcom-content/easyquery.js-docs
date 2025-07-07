@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface/#properties-1)
-- [message](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface/#message)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface/#success)
-- [value](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface/#value)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface#properties-1)
+- [message](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface#message)
+- [success](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface#success)
+- [value](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface#value)
 
 
 

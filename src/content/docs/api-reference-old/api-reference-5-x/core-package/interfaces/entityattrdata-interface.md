@@ -9,20 +9,20 @@ sidebar:
 Entity attribute JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#properties-1)
-- [cptn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#cptn)
-- [defOperator](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#defoperator)
-- [desc](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#desc)
-- [dtype](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#dtype)
-- [edtr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#edtr)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#id)
-- [lookupAttr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#lookupattr)
-- [ops](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#ops)
-- [size](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#size)
-- [sqlExpr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#sqlexpr)
-- [uic](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#uic)
-- [uir](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#uir)
-- [uis](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entityattrdata-interface/#uis)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#properties-1)
+- [cptn](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#cptn)
+- [defOperator](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#defoperator)
+- [desc](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#desc)
+- [dtype](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#dtype)
+- [edtr](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#edtr)
+- [id](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#id)
+- [lookupAttr](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#lookupattr)
+- [ops](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#ops)
+- [size](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#size)
+- [sqlExpr](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#sqlexpr)
+- [uic](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#uic)
+- [uir](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#uir)
+- [uis](api-reference-old/api-reference-5-x/core-package/interfaces/entityattrdata-interface#uis)
 
 
 
@@ -54,7 +54,7 @@ The description.
 
 The data type.
 
-● dtype: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum)
+● dtype: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum)
 
 ---
 ### edtr

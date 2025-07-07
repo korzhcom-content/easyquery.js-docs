@@ -8,70 +8,70 @@ sidebar:
 Represents a data model
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#public-properties-1)
-- [aggrFunctions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#aggrfunctions)
-- [editors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#editors)
-- [eqlcns](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#eqlcns)
-- [id](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#id)
-- [links](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#links)
-- [name](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#name)
-- [operators](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#operators)
-- [rootEntity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#rootentity)
-- [version](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#version)
+### [Public Properties](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#public-properties-1)
+- [aggrFunctions](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#aggrfunctions)
+- [editors](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#editors)
+- [eqlcns](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#eqlcns)
+- [id](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#id)
+- [links](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#links)
+- [name](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#name)
+- [operators](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#operators)
+- [rootEntity](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#rootentity)
+- [version](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#version)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#protected-properties-1)
-- [mainEntity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#mainentity)
+### [Protected Properties](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#protected-properties-1)
+- [mainEntity](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#mainentity)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#public-methods-1)
-- [addDefaultValueEditors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#adddefaultvalueeditors)
-- [addOrUpdateOperator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#addorupdateoperator)
-- [addOrUpdateValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#addorupdatevalueeditor)
-- [buildQueryPath](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#buildquerypath)
-- [checkAttrProperty](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#checkattrproperty)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#clear)
-- [createQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#createquery)
-- [findLink](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#findlink)
-- [findOperatorById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#findoperatorbyid)
-- [getAggrFunctionCaption](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getaggrfunctioncaption)
-- [getAggrFunctionFormat](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getaggrfunctionformat)
-- [getAggrFunctions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getaggrfunctions)
-- [getAttributeById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getattributebyid)
-- [getAttributeText](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getattributetext)
-- [getDateMacroValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getdatemacrovalue)
-- [getDateOrMacroValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getdateormacrovalue)
-- [getDefaultOperatorForAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getdefaultoperatorforattr)
-- [getDefaultOperatorIdForAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getdefaultoperatoridforattr)
-- [getEditorById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#geteditorbyid)
-- [getEntitiesInQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getentitiesinquery)
-- [getEntitiesTree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getentitiestree)
-- [getEntitiesTreeWithFilter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getentitiestreewithfilter)
-- [getEntityAttrById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getentityattrbyid)
-- [getEntityPathByAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getentitypathbyattr)
-- [getFirstAttributeByFilter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getfirstattributebyfilter)
-- [getFirstUICAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getfirstuicattr)
-- [getFullEntityPathByAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getfullentitypathbyattr)
-- [getId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getid)
-- [getLinksByEntity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getlinksbyentity)
-- [getMainEntity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getmainentity)
-- [getName](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getname)
-- [getObject](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getobject)
-- [getOperand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getoperand)
-- [getOperatorById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getoperatorbyid)
-- [getOperatorIdsByDataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getoperatoridsbydatatype)
-- [getRootEntity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#getrootentity)
-- [getTimeMacroValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#gettimemacrovalue)
-- [getTimeOrMacroValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#gettimeormacrovalue)
-- [isDateMacro](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#isdatemacro)
-- [isEmpty](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#isempty)
-- [isTimeMacro](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#istimemacro)
-- [loadFromData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#loadfromdata)
-- [loadFromJSON](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#loadfromjson)
-- [rgdlce](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#rgdlce)
-- [runThroughEntities](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#runthroughentities)
-- [setData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class/#setdata)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#public-methods-1)
+- [addDefaultValueEditors](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#adddefaultvalueeditors)
+- [addOrUpdateOperator](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#addorupdateoperator)
+- [addOrUpdateValueEditor](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#addorupdatevalueeditor)
+- [buildQueryPath](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#buildquerypath)
+- [checkAttrProperty](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#checkattrproperty)
+- [clear](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#clear)
+- [createQuery](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#createquery)
+- [findLink](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#findlink)
+- [findOperatorById](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#findoperatorbyid)
+- [getAggrFunctionCaption](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getaggrfunctioncaption)
+- [getAggrFunctionFormat](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getaggrfunctionformat)
+- [getAggrFunctions](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getaggrfunctions)
+- [getAttributeById](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getattributebyid)
+- [getAttributeText](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getattributetext)
+- [getDateMacroValue](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getdatemacrovalue)
+- [getDateOrMacroValue](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getdateormacrovalue)
+- [getDefaultOperatorForAttr](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getdefaultoperatorforattr)
+- [getDefaultOperatorIdForAttr](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getdefaultoperatoridforattr)
+- [getEditorById](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#geteditorbyid)
+- [getEntitiesInQuery](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getentitiesinquery)
+- [getEntitiesTree](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getentitiestree)
+- [getEntitiesTreeWithFilter](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getentitiestreewithfilter)
+- [getEntityAttrById](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getentityattrbyid)
+- [getEntityPathByAttr](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getentitypathbyattr)
+- [getFirstAttributeByFilter](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getfirstattributebyfilter)
+- [getFirstUICAttr](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getfirstuicattr)
+- [getFullEntityPathByAttr](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getfullentitypathbyattr)
+- [getId](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getid)
+- [getLinksByEntity](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getlinksbyentity)
+- [getMainEntity](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getmainentity)
+- [getName](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getname)
+- [getObject](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getobject)
+- [getOperand](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getoperand)
+- [getOperatorById](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getoperatorbyid)
+- [getOperatorIdsByDataType](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getoperatoridsbydatatype)
+- [getRootEntity](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#getrootentity)
+- [getTimeMacroValue](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#gettimemacrovalue)
+- [getTimeOrMacroValue](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#gettimeormacrovalue)
+- [isDateMacro](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#isdatemacro)
+- [isEmpty](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#isempty)
+- [isTimeMacro](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#istimemacro)
+- [loadFromData](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#loadfromdata)
+- [loadFromJSON](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#loadfromjson)
+- [rgdlce](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#rgdlce)
+- [runThroughEntities](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#runthroughentities)
+- [setData](api-reference-old/api-reference-6x/core-package/classes/datamodel-class#setdata)
 
 
 ## Constructors
@@ -80,7 +80,7 @@ Represents a data model
 #### constructor
 
 The default constructor.
-⊕ new DataModel(): [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)
+⊕ new DataModel(): [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)
 
 
 ---
@@ -92,14 +92,14 @@ The default constructor.
 
 The list of aggregate functions.
 
-● aggrFunctions: [AggrFunction](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/aggrfunction-class)[]
+● aggrFunctions: [AggrFunction](api-reference-old/api-reference-6x/core-package/classes/aggrfunction-class)[]
 
 ---
 ### editors
 
 The list of value editors.
 
-● editors: [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)[]
+● editors: [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)[]
 
 ---
 ### eqlcns
@@ -120,7 +120,7 @@ The ID of the data mode.
 
 The list of links. It is used in odata broker.
 
-● links: [Link](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/link-interface)[]
+● links: [Link](api-reference-old/api-reference-6x/core-package/interfaces/link-interface)[]
 
 ---
 ### name
@@ -134,14 +134,14 @@ The name of the data model.
 
 The list of operators.
 
-● operators: [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class)[]
+● operators: [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class)[]
 
 ---
 ### rootEntity
 
 The root entity.
 
-● rootEntity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)
+● rootEntity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)
 
 ---
 ### version
@@ -156,7 +156,7 @@ The version of the data model.
 ---
 ### mainEntity
 
-● mainEntity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) | `null` = ` null`
+● mainEntity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) | `null` = ` null`
 
 ---
 ## Public Methods
@@ -175,17 +175,17 @@ Add default value editors.
 ### addOrUpdateOperator
 Add or update an operator.
 
-▸ addOrUpdateOperator(id: `string`,caption: `string`,expr: `string`,format: `string`,kind?: [DataKind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datakind-enum)): [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class)
+▸ addOrUpdateOperator(id: `string`,caption: `string`,expr: `string`,format: `string`,kind?: [DataKind](api-reference-old/api-reference-6x/core-package/enumerations/datakind-enum)): [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class)
 
 #### Parameters:
 - id: `string` - The id.
 - caption: `string` - The caption.
 - expr: `string` - The epxrpession.
 - format: `string` - The display format.
-- kind: [DataKind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datakind-enum), *Default value* = ` DataKind.Scalar` - The def operand's kind.
+- kind: [DataKind](api-reference-old/api-reference-6x/core-package/enumerations/datakind-enum), *Default value* = ` DataKind.Scalar` - The def operand's kind.
 
 
-**Returns** [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) - The operator.
+**Returns** [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) - The operator.
 
 
 
@@ -193,15 +193,15 @@ Add or update an operator.
 ### addOrUpdateValueEditor
 Add or update a value editor.
 
-▸ addOrUpdateValueEditor(id: `string`,tag: [EditorTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/editortag-enum),resType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class)
+▸ addOrUpdateValueEditor(id: `string`,tag: [EditorTag](api-reference-old/api-reference-6x/core-package/enumerations/editortag-enum),resType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class)
 
 #### Parameters:
 - id: `string` - The id.
-- tag: [EditorTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/editortag-enum) - The tag.
-- resType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum) - The result type.
+- tag: [EditorTag](api-reference-old/api-reference-6x/core-package/enumerations/editortag-enum) - The tag.
+- resType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum) - The result type.
 
 
-**Returns** [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class) - The value editor.
+**Returns** [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class) - The value editor.
 
 
 
@@ -209,14 +209,14 @@ Add or update a value editor.
 ### buildQueryPath
 Builds entities tree used in query.
 
-▸ buildQueryPath(query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)): [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;[Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)&gt;
+▸ buildQueryPath(query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)): [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;[Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)&gt;
 
 #### Parameters:
-- query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class) - The query.
+- query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class) - The query.
 
 
 
-**Returns** [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;[Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)&gt;
+**Returns** [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;[Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)&gt;
 
 
 ---
@@ -248,10 +248,10 @@ Clears data model.
 ### createQuery
 Creates query.
 
-▸ createQuery(): [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+▸ createQuery(): [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class) - The Query.
+**Returns** [Query](api-reference-old/api-reference-6x/core-package/classes/query-class) - The Query.
 
 
 
@@ -259,14 +259,14 @@ Creates query.
 ### findLink
 Finds link between two entities.
 
-▸ findLink(entityFrom: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class),entityTo: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)): [Link](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/link-interface) | `null`
+▸ findLink(entityFrom: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class),entityTo: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)): [Link](api-reference-old/api-reference-6x/core-package/interfaces/link-interface) | `null`
 
 #### Parameters:
-- entityFrom: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The entity `from`.
-- entityTo: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The entity `to`.
+- entityFrom: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The entity `from`.
+- entityTo: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The entity `to`.
 
 
-**Returns** [Link](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/link-interface) | `null` - The link.
+**Returns** [Link](api-reference-old/api-reference-6x/core-package/interfaces/link-interface) | `null` - The link.
 
 
 
@@ -275,13 +275,13 @@ Finds link between two entities.
 Finds operator in model by its ID.
 This function runs through all operators inside specified model and returns the one with specified ID.
 
-▸ findOperatorById(operatorId: `string`): [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) | `null`
+▸ findOperatorById(operatorId: `string`): [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) | `null`
 
 #### Parameters:
 - operatorId: `string` - An operator ID.
 
 
-**Returns** [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) | `null` - The operator or `null`.
+**Returns** [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) | `null` - The operator or `null`.
 
 
 
@@ -317,10 +317,10 @@ Gets format of the aggregate function.
 ### getAggrFunctions
 Gets the list of aggegate functions.
 
-▸ getAggrFunctions(): [AggrFunction](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/aggrfunction-class)[]
+▸ getAggrFunctions(): [AggrFunction](api-reference-old/api-reference-6x/core-package/classes/aggrfunction-class)[]
 
 
-**Returns** [AggrFunction](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/aggrfunction-class)[] - AN array of aggregate functions.
+**Returns** [AggrFunction](api-reference-old/api-reference-6x/core-package/classes/aggrfunction-class)[] - AN array of aggregate functions.
 
 
 
@@ -329,13 +329,13 @@ Gets the list of aggegate functions.
 Gets entity attribute by its ID.
 This function runs through all attributes inside specified model (it's root entity and all its sub-entities).
 
-▸ getAttributeById(attrId: `string`): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) | `null`
+▸ getAttributeById(attrId: `string`): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) | `null`
 
 #### Parameters:
 - attrId: `string` - The attribute ID.
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) | `null` - The attribute or `null`.
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) | `null` - The attribute or `null`.
 
 
 
@@ -343,10 +343,10 @@ This function runs through all attributes inside specified model (it's root enti
 ### getAttributeText
 Gets the attribute text.
 
-▸ getAttributeText(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class),format: `string`): `string`
+▸ getAttributeText(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class),format: `string`): `string`
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) - The attribute.
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) - The attribute.
 - format: `string` - The format.
 
 
@@ -386,22 +386,22 @@ Gets date  or macro by macro value.
 ### getDefaultOperatorForAttr
 Gets default operator for an attribute.
 
-▸ getDefaultOperatorForAttr(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class)
+▸ getDefaultOperatorForAttr(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class)
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) - The attribute.
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) - The attribute.
 
 
-**Returns** [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) - The operator.
+**Returns** [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) - The operator.
 
 
 
 ---
 ### getDefaultOperatorIdForAttr
-▸ getDefaultOperatorIdForAttr(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getDefaultOperatorIdForAttr(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 **Returns** `string`
@@ -411,13 +411,13 @@ Gets default operator for an attribute.
 ### getEditorById
 Finds editor by its ID.
 
-▸ getEditorById(editorId: `string`): [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class) | `null`
+▸ getEditorById(editorId: `string`): [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class) | `null`
 
 #### Parameters:
 - editorId: `string` - The editor ID.
 
 
-**Returns** [ValueEditor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/valueeditor-class) | `null` - The value editor or `null`.
+**Returns** [ValueEditor](api-reference-old/api-reference-6x/core-package/classes/valueeditor-class) | `null` - The value editor or `null`.
 
 
 
@@ -425,25 +425,25 @@ Finds editor by its ID.
 ### getEntitiesInQuery
 Get Entities used in query.
 
-▸ getEntitiesInQuery(query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)): [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)[]
+▸ getEntitiesInQuery(query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)): [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)[]
 
 #### Parameters:
-- query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class) - The query.
+- query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class) - The query.
 
 
 
-**Returns** [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)[]
+**Returns** [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)[]
 
 
 ---
 ### getEntitiesTree
 Gets entities tree.
 
-▸ getEntitiesTree(opts: `any`,filterFunc?: (ent: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class), attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)) => `boolean`): `any`
+▸ getEntitiesTree(opts: `any`,filterFunc?: (ent: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class), attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)) => `boolean`): `any`
 
 #### Parameters:
 - opts: `any` - The options.
-- filterFunc: (ent: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class), attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)) => `boolean`, *Optional*  - The filter function.
+- filterFunc: (ent: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class), attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)) => `boolean`, *Optional*  - The filter function.
 Takes two parameters, Entity and EntityAttr (second parameter will be null for entities), and returns boolean (true if the corresponding entity or attribute).
 
 
@@ -455,14 +455,14 @@ Takes two parameters, Entity and EntityAttr (second parameter will be null for e
 ### getEntitiesTreeWithFilter
 Gets entities tree due to filter.
 
-▸ getEntitiesTreeWithFilter(filterFunc: `any`): [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)[]
+▸ getEntitiesTreeWithFilter(filterFunc: `any`): [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)[]
 
 #### Parameters:
 - filterFunc: `any` - The filter function.
 Takes two parameters, Entity and EntityAttr (second parameter will be null for entities), and returns boolean (true if the corresponding entity or attribute).
 
 
-**Returns** [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)[] - The tree of the entities and their attributes according to the filter function
+**Returns** [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)[] - The tree of the entities and their attributes according to the filter function
 
 
 
@@ -471,14 +471,14 @@ Takes two parameters, Entity and EntityAttr (second parameter will be null for e
 Gets entity attribute by its ID.
 This function runs through all attributes inside specified entity and all its sub-entities.
 
-▸ getEntityAttrById(entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class),attrId: `string`): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) | `null`
+▸ getEntityAttrById(entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class),attrId: `string`): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) | `null`
 
 #### Parameters:
-- entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)
+- entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)
 - attrId: `string`
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) | `null` - The attribute or `null`.
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) | `null` - The attribute or `null`.
 
 
 
@@ -486,10 +486,10 @@ This function runs through all attributes inside specified entity and all its su
 ### getEntityPathByAttr
 Finds entity path by attribute
 
-▸ getEntityPathByAttr(entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class),attrId: `string`,sep: `string`,root: `boolean`): `string`
+▸ getEntityPathByAttr(entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class),attrId: `string`,sep: `string`,root: `boolean`): `string`
 
 #### Parameters:
-- entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The entity.
+- entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The entity.
 - attrId: `string` - The attribute id.
 - sep: `string` - The separator.
 - root: `boolean` - The root option.
@@ -503,22 +503,22 @@ Finds entity path by attribute
 ### getFirstAttributeByFilter
 Finds first attribute by filter.
 
-▸ getFirstAttributeByFilter(filterFunc: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)) => `boolean`): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+▸ getFirstAttributeByFilter(filterFunc: (attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)) => `boolean`): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 #### Parameters:
-- filterFunc: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)) => `boolean` - The filter function. Takes EntityAttr object in parameter and returns boolean
+- filterFunc: (attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)) => `boolean` - The filter function. Takes EntityAttr object in parameter and returns boolean
 
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 ---
 ### getFirstUICAttr
-▸ getFirstUICAttr(): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+▸ getFirstUICAttr(): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 ---
@@ -551,13 +551,13 @@ Gets ID of the data model.
 ### getLinksByEntity
 Get links with the entity.
 
-▸ getLinksByEntity(entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)): [Link](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/link-interface)[]
+▸ getLinksByEntity(entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)): [Link](api-reference-old/api-reference-6x/core-package/interfaces/link-interface)[]
 
 #### Parameters:
-- entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The entity.
+- entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The entity.
 
 
-**Returns** [Link](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/link-interface)[] - The link.
+**Returns** [Link](api-reference-old/api-reference-6x/core-package/interfaces/link-interface)[] - The link.
 
 
 
@@ -565,10 +565,10 @@ Get links with the entity.
 ### getMainEntity
 Gets the main entity of model
 
-▸ getMainEntity(): [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)
+▸ getMainEntity(): [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)
 
 
-**Returns** [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The main entity.
+**Returns** [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The main entity.
 
 
 
@@ -587,10 +587,10 @@ Gets name of the data model.
 ### getObject
 Gets the data model object.
 
-▸ getObject(): [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)
+▸ getObject(): [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class) - Tha data model.
+**Returns** [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class) - Tha data model.
 
 
 
@@ -598,15 +598,15 @@ Gets the data model object.
 ### getOperand
 Gets operand.
 
-▸ getOperand(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class),operator: [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class),index: `number`): [Operand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class)
+▸ getOperand(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class),operator: [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class),index: `number`): [Operand](api-reference-old/api-reference-6x/core-package/classes/operand-class)
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class) - The attribute.
-- operator: [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) - The operator.
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class) - The attribute.
+- operator: [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) - The operator.
 - index: `number` - The index.
 
 
-**Returns** [Operand](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operand-class) - The operand.
+**Returns** [Operand](api-reference-old/api-reference-6x/core-package/classes/operand-class) - The operand.
 
 
 
@@ -615,13 +615,13 @@ Gets operand.
 Finds operator in model by its ID.
 his function runs through all operators inside specified model and returns the one with specified ID.
 
-▸ getOperatorById(operatorId: `string`): [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class)
+▸ getOperatorById(operatorId: `string`): [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class)
 
 #### Parameters:
 - operatorId: `string` - Operator ID.
 
 
-**Returns** [Operator](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/operator-class) - The operator or special `NullOperator` object if operator is not found.
+**Returns** [Operator](api-reference-old/api-reference-6x/core-package/classes/operator-class) - The operator or special `NullOperator` object if operator is not found.
 
 
 
@@ -629,10 +629,10 @@ his function runs through all operators inside specified model and returns the o
 ### getOperatorIdsByDataType
 Get operators for data type.
 
-▸ getOperatorIdsByDataType(type: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `string`[]
+▸ getOperatorIdsByDataType(type: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `string`[]
 
 #### Parameters:
-- type: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum) - The data type
+- type: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum) - The data type
 
 
 **Returns** `string`[] - The array of operator ids.
@@ -643,10 +643,10 @@ Get operators for data type.
 ### getRootEntity
 Gets root entity of the data model.
 
-▸ getRootEntity(): [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)
+▸ getRootEntity(): [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)
 
 
-**Returns** [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class) - The root entity.
+**Returns** [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class) - The root entity.
 
 
 
@@ -719,10 +719,10 @@ Checks wether macro value is time.
 ### loadFromData
 Loads data model from its JSON representation object.
 
-▸ loadFromData(data: [ModelPlainData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/modelplaindata-interface)): `void`
+▸ loadFromData(data: [ModelPlainData](api-reference-old/api-reference-6x/core-package/interfaces/modelplaindata-interface)): `void`
 
 #### Parameters:
-- data: [ModelPlainData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/modelplaindata-interface) - The JSON representation object.
+- data: [ModelPlainData](api-reference-old/api-reference-6x/core-package/interfaces/modelplaindata-interface) - The JSON representation object.
 
 
 
@@ -758,12 +758,12 @@ Gets license.
 ### runThroughEntities
 Scans model's entity tree and calls the callback functions for each attribute and entity.
 
-▸ runThroughEntities(processAttribute: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class), opts: `any`) => `void`,processEntity: (entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class), opts: `any`) => `void`): `void`
+▸ runThroughEntities(processAttribute: (attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class), opts: `any`) => `void`,processEntity: (entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class), opts: `any`) => `void`): `void`
 
 #### Parameters:
-- processAttribute: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class), opts: `any`) => `void` - The callback function which is called for each attribute in model's entity tree.
+- processAttribute: (attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class), opts: `any`) => `void` - The callback function which is called for each attribute in model's entity tree.
 The processed attribute is passed in the first function parameter.
-- processEntity: (entity: [Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class), opts: `any`) => `void` - The callback function which is called for each entity in tree.
+- processEntity: (entity: [Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class), opts: `any`) => `void` - The callback function which is called for each entity in tree.
 The processed entity is passed in the first function parameter.
 
 
@@ -775,10 +775,10 @@ The processed entity is passed in the first function parameter.
 ### setData
 Sets data to data model.
 
-▸ setData(model: [ModelPlainData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/modelplaindata-interface) | `string`): `void`
+▸ setData(model: [ModelPlainData](api-reference-old/api-reference-6x/core-package/interfaces/modelplaindata-interface) | `string`): `void`
 
 #### Parameters:
-- model: [ModelPlainData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/modelplaindata-interface) | `string` - Its JSON representation object or JSON string.
+- model: [ModelPlainData](api-reference-old/api-reference-6x/core-package/interfaces/modelplaindata-interface) | `string` - Its JSON representation object or JSON string.
 
 
 

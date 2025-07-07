@@ -7,45 +7,45 @@ sidebar:
 ---
 
 ## Extends
-[ExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/expressionrenderer-class)
+[ExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/expressionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#element)
-- [expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#expression)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#labelelement)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#panel)
-- [valueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#valueeditor)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#protected-properties-1)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#element)
+- [expression](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#expression)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#labelelement)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#panel)
+- [valueEditor](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#valueeditor)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#public-methods-1)
-- [adjustWidth](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#adjustwidth)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#public-methods-1)
+- [adjustWidth](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#adjustwidth)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#protected-methods-1)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#closeeditor)
-- [convertFromInternalFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#convertfrominternalformat)
-- [convertToInternalFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#converttointernalformat)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#getclassestoadd)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#getcontext)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#getlabeltext)
-- [getValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#getvalue)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#iseditable)
-- [isEmptyValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#isemptyvalue)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#isreadonly)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#renderlabelelement)
-- [setValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#setvalue)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#showeditor)
-- [showValidationError](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#showvalidationerror)
-- [validateInput](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class/#validateinput)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#protected-methods-1)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#closeeditor)
+- [convertFromInternalFormat](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#convertfrominternalformat)
+- [convertToInternalFormat](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#converttointernalformat)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#getclassestoadd)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#getcontext)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#getlabeltext)
+- [getValue](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#getvalue)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#iseditable)
+- [isEmptyValue](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#isemptyvalue)
+- [isReadOnly](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#isreadonly)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#renderlabelelement)
+- [setValue](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#setvalue)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#showeditor)
+- [showValidationError](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#showvalidationerror)
+- [validateInput](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class#validateinput)
 
 
 ## Constructors
@@ -53,12 +53,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DateTimeExpressionRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [DateTimeExpressionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datetimeexpressionrenderer-class)
+⊕ new DateTimeExpressionRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class),slot?: `HTMLDivElement`): [DateTimeExpressionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/datetimeexpressionrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
-- valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
+- valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -74,7 +74,7 @@ sidebar:
 ---
 ### expression
 
-● expression: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+● expression: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 ---
 ### labelElement
@@ -84,12 +84,12 @@ sidebar:
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ### valueEditor
 
-● valueEditor: [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+● valueEditor: [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 
 ---
 ## Protected Accessors
@@ -175,10 +175,10 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -279,13 +279,13 @@ sidebar:
 
 ---
 ### validateInput
-▸ validateInput(value: `string`): [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+▸ validateInput(value: `string`): [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 #### Parameters:
 - value: `string`
 
 
-**Returns** [ValidationResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/validationresult-interface)
+**Returns** [ValidationResult](api-reference-7x/easyquery-packages/ui-package/interfaces/validationresult-interface)
 
 
 ---

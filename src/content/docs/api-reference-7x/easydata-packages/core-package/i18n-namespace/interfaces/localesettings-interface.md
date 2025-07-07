@@ -7,19 +7,19 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#properties-1)
-- [currency](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#currency)
-- [decimalSeparator](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#decimalseparator)
-- [editDateFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#editdateformat)
-- [editTimeFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#edittimeformat)
-- [longDateFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#longdateformat)
-- [longMonthNames](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#longmonthnames)
-- [longTimeFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#longtimeformat)
-- [longWeekDayNames](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#longweekdaynames)
-- [shortDateFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#shortdateformat)
-- [shortMonthNames](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#shortmonthnames)
-- [shortTimeFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#shorttimeformat)
-- [shortWeekDayNames](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface/#shortweekdaynames)
+### [Properties](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#properties-1)
+- [currency](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#currency)
+- [decimalSeparator](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#decimalseparator)
+- [editDateFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#editdateformat)
+- [editTimeFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#edittimeformat)
+- [longDateFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#longdateformat)
+- [longMonthNames](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#longmonthnames)
+- [longTimeFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#longtimeformat)
+- [longWeekDayNames](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#longweekdaynames)
+- [shortDateFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#shortdateformat)
+- [shortMonthNames](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#shortmonthnames)
+- [shortTimeFormat](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#shorttimeformat)
+- [shortWeekDayNames](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface#shortweekdaynames)
 
 
 

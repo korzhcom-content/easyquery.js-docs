@@ -7,16 +7,16 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#properties-1)
-- [beforeShow](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#beforeshow)
-- [onApply](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#onapply)
-- [onCancel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#oncancel)
-- [onDateTimeChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#ondatetimechanged)
-- [oneClickDateSelection](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#oneclickdateselection)
-- [showCalendar](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#showcalendar)
-- [showDateTimeInput](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#showdatetimeinput)
-- [showTimePicker](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#showtimepicker)
-- [yearRange](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/datetimepickeroptions-interface/#yearrange)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#properties-1)
+- [beforeShow](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#beforeshow)
+- [onApply](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#onapply)
+- [onCancel](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#oncancel)
+- [onDateTimeChanged](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#ondatetimechanged)
+- [oneClickDateSelection](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#oneclickdateselection)
+- [showCalendar](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#showcalendar)
+- [showDateTimeInput](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#showdatetimeinput)
+- [showTimePicker](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#showtimepicker)
+- [yearRange](api-reference-7x/easydata-packages/ui-package/interfaces/datetimepickeroptions-interface#yearrange)
 
 
 

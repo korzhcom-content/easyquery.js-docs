@@ -6,36 +6,36 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#element)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#protected-properties-1)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#element)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#public-methods-1)
-- [addChild](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#addchild)
-- [addChildElement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#addchildelement)
-- [addClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#addclass)
-- [addHtml](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#addhtml)
-- [addText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#addtext)
-- [appendTo](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#appendto)
-- [attr](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#attr)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#clear)
-- [data](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#data)
-- [hide](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#hide)
-- [html](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#html)
-- [id](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#id)
-- [isVisible](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#isvisible)
-- [off](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#off)
-- [on](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#on)
-- [removeClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#removeclass)
-- [removeStyle](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#removestyle)
-- [setStyle](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#setstyle)
-- [show](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#show)
-- [text](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#text)
-- [title](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#title)
-- [toDOM](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#todom)
-- [toggleClass](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class/#toggleclass)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#public-methods-1)
+- [addChild](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#addchild)
+- [addChildElement](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#addchildelement)
+- [addClass](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#addclass)
+- [addHtml](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#addhtml)
+- [addText](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#addtext)
+- [appendTo](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#appendto)
+- [attr](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#attr)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#clear)
+- [data](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#data)
+- [hide](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#hide)
+- [html](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#html)
+- [id](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#id)
+- [isVisible](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#isvisible)
+- [off](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#off)
+- [on](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#on)
+- [removeClass](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#removeclass)
+- [removeStyle](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#removestyle)
+- [setStyle](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#setstyle)
+- [show](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#show)
+- [text](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#text)
+- [title](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#title)
+- [toDOM](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#todom)
+- [toggleClass](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class#toggleclass)
 
 
 ## Constructors
@@ -43,7 +43,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DomElementBuilder(tag: `string` | `TElement`,parent?: `HTMLElement`): [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)
+⊕ new DomElementBuilder(tag: `string` | `TElement`,parent?: `HTMLElement`): [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)
 
 #### Parameters:
 - tag: `string` | `TElement`
@@ -72,65 +72,65 @@ sidebar:
 
 ---
 ### addChild
-▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"div"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"button"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"a"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"img"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"input"`
-- childBuilder: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomInputElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"dropdown"`,childBuilder?: (builder: [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"dropdown"`,childBuilder?: (builder: [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"dropdown"`
-- childBuilder: (builder: [DomDropDownElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domdropdownelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomDropDownElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domdropdownelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
+▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `string`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-old/api-reference-6x/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`

@@ -6,21 +6,21 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#constructor)
 
-### [Public Accessors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#public-accessors-1)
-- [count](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#count)
+### [Public Accessors](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#public-accessors-1)
+- [count](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#count)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#public-methods-1)
-- [add](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#add)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#clear)
-- [get](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#get)
-- [getItems](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#getitems)
-- [move](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#move)
-- [put](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#put)
-- [removeAt](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#removeat)
-- [sync](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class/#sync)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#public-methods-1)
+- [add](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#add)
+- [clear](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#clear)
+- [get](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#get)
+- [getItems](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#getitems)
+- [move](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#move)
+- [put](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#put)
+- [removeAt](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#removeat)
+- [sync](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class#sync)
 
 
 ## Constructors
@@ -28,11 +28,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new GridColumnList(columnList: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class),grid: [EasyGrid](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class)): [GridColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class)
+⊕ new GridColumnList(columnList: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class),grid: [EasyGrid](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class)): [GridColumnList](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class)
 
 #### Parameters:
-- columnList: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
-- grid: [EasyGrid](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class)
+- columnList: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
+- grid: [EasyGrid](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class)
 
 
 ---
@@ -52,10 +52,10 @@ sidebar:
 
 ---
 ### add
-▸ add(col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)): `number`
+▸ add(col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)): `number`
 
 #### Parameters:
-- col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+- col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 
 
 **Returns** `number`
@@ -71,29 +71,29 @@ sidebar:
 
 ---
 ### get
-▸ get(index: `number`): [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+▸ get(index: `number`): [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 
 #### Parameters:
 - index: `number`
 
 
-**Returns** [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+**Returns** [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 
 
 ---
 ### getItems
-▸ getItems(): [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)[]
+▸ getItems(): [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)[]
 
 
-**Returns** [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)[]
+**Returns** [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)[]
 
 
 ---
 ### move
-▸ move(col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class),newIndex: `number`): `void`
+▸ move(col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class),newIndex: `number`): `void`
 
 #### Parameters:
-- col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+- col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 - newIndex: `number`
 
 
@@ -102,11 +102,11 @@ sidebar:
 
 ---
 ### put
-▸ put(index: `number`,col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)): `void`
+▸ put(index: `number`,col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)): `void`
 
 #### Parameters:
 - index: `number`
-- col: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+- col: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 
 
 **Returns** `void`
@@ -125,10 +125,10 @@ sidebar:
 
 ---
 ### sync
-▸ sync(columnList: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class),hasRowNumCol?: `boolean`): `void`
+▸ sync(columnList: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class),hasRowNumCol?: `boolean`): `void`
 
 #### Parameters:
-- columnList: [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
+- columnList: [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
 - hasRowNumCol: `boolean`, *Default value* = `true`
 
 
