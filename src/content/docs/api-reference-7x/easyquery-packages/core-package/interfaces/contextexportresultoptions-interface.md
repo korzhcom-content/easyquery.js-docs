@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Extends
-[ExportOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/exportoptions-interface)
+[ExportOptions](api-reference-7x/easyquery-packages/core-package/interfaces/exportoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#properties-1)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#error)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#query)
-- [settings](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#settings)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#success)
-- [totals](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextexportresultoptions-interface/#totals)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#properties-1)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#error)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#query)
+- [settings](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#settings)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#success)
+- [totals](api-reference-7x/easyquery-packages/core-package/interfaces/contextexportresultoptions-interface#totals)
 
 
 
@@ -29,7 +29,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### settings

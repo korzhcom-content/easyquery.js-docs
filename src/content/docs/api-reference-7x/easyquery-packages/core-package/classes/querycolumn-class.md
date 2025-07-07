@@ -8,37 +8,37 @@ sidebar:
 Represents some column which will be queried
 
 ## Implements
-[ExpressionParent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface)
+[ExpressionParent](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#public-properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#blockid)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#caption)
-- [enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#enabled)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#expr)
-- [params](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#params)
-- [sortIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#sortindex)
-- [sorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#sorting)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#public-properties-1)
+- [blockId](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#blockid)
+- [caption](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#caption)
+- [enabled](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#enabled)
+- [expr](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#expr)
+- [params](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#params)
+- [sortIndex](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#sortindex)
+- [sorting](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#sorting)
 
-### [Public Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#public-accessors-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#id)
+### [Public Accessors](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#public-accessors-1)
+- [id](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#id)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#public-methods-1)
-- [expressionChanged](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#expressionchanged)
-- [fireChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#firechangedevent)
-- [getExpressionIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#getexpressionindex)
-- [getModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#getmodel)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#getquery)
-- [isHidden](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#ishidden)
-- [isJustSorted](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#isjustsorted)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#isreadonly)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#loadfromdata)
-- [saveToData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#savetodata)
-- [setHidden](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#sethidden)
-- [setReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class/#setreadonly)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#public-methods-1)
+- [expressionChanged](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#expressionchanged)
+- [fireChangedEvent](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#firechangedevent)
+- [getExpressionIndex](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#getexpressionindex)
+- [getModel](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#getmodel)
+- [getQuery](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#getquery)
+- [isHidden](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#ishidden)
+- [isJustSorted](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#isjustsorted)
+- [isReadOnly](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#isreadonly)
+- [loadFromData](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#loadfromdata)
+- [saveToData](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#savetodata)
+- [setHidden](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#sethidden)
+- [setReadOnly](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class#setreadonly)
 
 
 ## Constructors
@@ -47,10 +47,10 @@ Represents some column which will be queried
 #### constructor
 
 the default constructor.
-⊕ new QueryColumn(query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class),justsorted?: `boolean`): [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+⊕ new QueryColumn(query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class),justsorted?: `boolean`): [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 #### Parameters:
-- query: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+- query: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 - justsorted: `boolean`, *Default value* = `false`
 
 
@@ -84,14 +84,14 @@ Column is enabled
 
 The column expression.
 
-● expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+● expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 ---
 ### params
 
 The parameters associated with this column
 
-● params: [QueryParam](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface)[] = ` []`
+● params: [QueryParam](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface)[] = ` []`
 
 ---
 ### sortIndex
@@ -105,7 +105,7 @@ The index of the column in the sorting list.
 
 Column sorting direction
 
-● sorting: [SortDirection](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/sortdirection-enum)
+● sorting: [SortDirection](api-reference-7x/easyquery-packages/core-package/enumerations/sortdirection-enum)
 
 ---
 ## Public Accessors
@@ -123,10 +123,10 @@ Column sorting direction
 
 ---
 ### expressionChanged
-▸ expressionChanged(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),oldValue: `string`): `void`
+▸ expressionChanged(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),oldValue: `string`): `void`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 - oldValue: `string`
 
 
@@ -143,10 +143,10 @@ Column sorting direction
 
 ---
 ### getExpressionIndex
-▸ getExpressionIndex(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)): `number`
+▸ getExpressionIndex(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)): `number`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 
 **Returns** `number`
@@ -154,18 +154,18 @@ Column sorting direction
 
 ---
 ### getModel
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -202,11 +202,11 @@ Indicates whether this column is read-only
 ### loadFromData
 Loads column from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class),colData: [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class),colData: [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- colData: [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class) - The Data Model.
+- colData: [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface) - The JSON representation object.
 
 
 
@@ -217,10 +217,10 @@ Loads column from its JSON representation object.
 ### saveToData
 Saves the column to a data transfer object (ready for sending to the server-side) .
 
-▸ saveToData(): [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface)
+▸ saveToData(): [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface)
 
 
-**Returns** [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface) - An plain object that represents the column.
+**Returns** [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface) - An plain object that represents the column.
 
 
 

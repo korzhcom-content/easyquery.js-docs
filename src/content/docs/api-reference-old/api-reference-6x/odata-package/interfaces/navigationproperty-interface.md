@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#properties-1)
-- [isNullable](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#isnullable)
-- [name](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#name)
-- [propertyName](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#propertyname)
-- [refPropertyName](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#refpropertyname)
-- [type](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigationproperty-interface/#type)
+### [Properties](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#properties-1)
+- [isNullable](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#isnullable)
+- [name](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#name)
+- [propertyName](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#propertyname)
+- [refPropertyName](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#refpropertyname)
+- [type](api-reference-old/api-reference-6x/odata-package/interfaces/navigationproperty-interface#type)
 
 
 

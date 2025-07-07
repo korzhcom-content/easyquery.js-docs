@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/enumtype-interface/#properties-1)
-- [members](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/enumtype-interface/#members)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/enumtype-interface/#name)
+### [Properties](api-reference-7x/easyquery-packages/odata-package/interfaces/enumtype-interface#properties-1)
+- [members](api-reference-7x/easyquery-packages/odata-package/interfaces/enumtype-interface#members)
+- [name](api-reference-7x/easyquery-packages/odata-package/interfaces/enumtype-interface#name)
 
 
 

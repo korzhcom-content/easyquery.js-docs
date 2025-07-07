@@ -7,22 +7,22 @@ sidebar:
 ---
 
 ## Implements
-[QueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querystorage-interface)
+[QueryStorage](api-reference-7x/easyquery-packages/core-package/interfaces/querystorage-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#public-methods-1)
-- [getQueryList](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#getquerylist)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#init)
-- [loadQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#loadquery)
-- [newQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#newquery)
-- [removeQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#removequery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class/#savequery)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#public-methods-1)
+- [getQueryList](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#getquerylist)
+- [init](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#init)
+- [loadQuery](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#loadquery)
+- [newQuery](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#newquery)
+- [removeQuery](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#removequery)
+- [saveQuery](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class#savequery)
 
 
 ## Constructors
@@ -30,10 +30,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new BrowserQueryStorage(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [BrowserQueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/browserquerystorage-class)
+⊕ new BrowserQueryStorage(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [BrowserQueryStorage](api-reference-7x/easyquery-packages/core-package/classes/browserquerystorage-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -43,28 +43,28 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods
 
 ---
 ### getQueryList
-▸ getQueryList(options?: [GetQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getquerylistoptions-interface)): `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+▸ getQueryList(options?: [GetQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getquerylistoptions-interface)): `Promise`&lt;[QueryListItem](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface)[]&gt;
 
 #### Parameters:
-- options: [GetQueryListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getquerylistoptions-interface), *Optional* 
+- options: [GetQueryListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getquerylistoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+**Returns** `Promise`&lt;[QueryListItem](api-reference-7x/easyquery-packages/core-package/interfaces/querylistitem-interface)[]&gt;
 
 
 ---
 ### init
-▸ init(options?: [BrowserQueryStorageOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/browserquerystorageoptions-interface)): `void`
+▸ init(options?: [BrowserQueryStorageOptions](api-reference-7x/easyquery-packages/core-package/interfaces/browserquerystorageoptions-interface)): `void`
 
 #### Parameters:
-- options: [BrowserQueryStorageOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/browserquerystorageoptions-interface), *Optional* 
+- options: [BrowserQueryStorageOptions](api-reference-7x/easyquery-packages/core-package/interfaces/browserquerystorageoptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -72,21 +72,21 @@ sidebar:
 
 ---
 ### loadQuery
-▸ loadQuery(options?: [LoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface)): `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+▸ loadQuery(options?: [LoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface)): `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 #### Parameters:
-- options: [LoadQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface), *Optional* 
+- options: [LoadQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+**Returns** `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 
 ---
 ### newQuery
-▸ newQuery(options?: [NewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/newqueryoptions-interface)): `Promise`&lt;`any`&gt;
+▸ newQuery(options?: [NewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/newqueryoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [NewQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/newqueryoptions-interface), *Optional* 
+- options: [NewQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/newqueryoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`any`&gt;
@@ -94,10 +94,10 @@ sidebar:
 
 ---
 ### removeQuery
-▸ removeQuery(options?: [RemoveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/removequeryoptions-interface)): `Promise`&lt;`void`&gt;
+▸ removeQuery(options?: [RemoveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/removequeryoptions-interface)): `Promise`&lt;`void`&gt;
 
 #### Parameters:
-- options: [RemoveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/removequeryoptions-interface), *Optional* 
+- options: [RemoveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/removequeryoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`void`&gt;
@@ -105,13 +105,13 @@ sidebar:
 
 ---
 ### saveQuery
-▸ saveQuery(options?: [SaveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface)): `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+▸ saveQuery(options?: [SaveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface)): `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 #### Parameters:
-- options: [SaveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface), *Optional* 
+- options: [SaveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+**Returns** `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 
 ---

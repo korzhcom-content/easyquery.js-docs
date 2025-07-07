@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#properties-1)
-- [adjustEntitiesMenuHeight](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#adjustentitiesmenuheight)
-- [attrElementFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#attrelementformat)
-- [columnRenderedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#columnrenderedcallback)
-- [domWriteItemsId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#domwriteitemsid)
-- [menuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#menuoptions)
-- [showAddRow](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#showaddrow)
-- [titleElementFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface/#titleelementformat)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#properties-1)
+- [adjustEntitiesMenuHeight](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#adjustentitiesmenuheight)
+- [attrElementFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#attrelementformat)
+- [columnRenderedCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#columnrenderedcallback)
+- [domWriteItemsId](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#domwriteitemsid)
+- [menuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#menuoptions)
+- [showAddRow](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#showaddrow)
+- [titleElementFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface#titleelementformat)
 
 
 
@@ -60,7 +60,7 @@ columnRenderedCallbackHandler: function (columnDiv) {
 
 Contains different options for popup menu that appears for selecting attributes in columns.
 
-● menuOptions?: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)
+● menuOptions?: [PopupMenuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface)
 
 ---
 ### showAddRow

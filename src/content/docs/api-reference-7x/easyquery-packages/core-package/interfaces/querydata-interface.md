@@ -9,18 +9,18 @@ sidebar:
 Query JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#properties-1)
-- [cols](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#cols)
-- [dds](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#dds)
-- [desc](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#desc)
-- [extraData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#extradata)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#id)
-- [innerData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#innerdata)
-- [justsortcols](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#justsortcols)
-- [locale](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#locale)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#name)
-- [root](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#root)
-- [timezoneOffset](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface/#timezoneoffset)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#properties-1)
+- [cols](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#cols)
+- [dds](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#dds)
+- [desc](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#desc)
+- [extraData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#extradata)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#id)
+- [innerData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#innerdata)
+- [justsortcols](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#justsortcols)
+- [locale](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#locale)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#name)
+- [root](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#root)
+- [timezoneOffset](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface#timezoneoffset)
 
 
 
@@ -31,14 +31,14 @@ Query JSON representation object.
 
 The columns.
 
-● cols?: [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface)[]
+● cols?: [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface)[]
 
 ---
 ### dds
 
 Drill down queries
 
-● dds?: `Array`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+● dds?: `Array`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 ---
 ### desc
@@ -71,7 +71,7 @@ The id.
 
 The just sorted columns.
 
-● justsortcols: [QueryColumnData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querycolumndata-interface)[]
+● justsortcols: [QueryColumnData](api-reference-7x/easyquery-packages/core-package/interfaces/querycolumndata-interface)[]
 
 ---
 ### locale
@@ -90,7 +90,7 @@ The name
 
 The root.
 
-● root: [ConditionData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/conditiondata-interface)
+● root: [ConditionData](api-reference-7x/easyquery-packages/core-package/interfaces/conditiondata-interface)
 
 ---
 ### timezoneOffset

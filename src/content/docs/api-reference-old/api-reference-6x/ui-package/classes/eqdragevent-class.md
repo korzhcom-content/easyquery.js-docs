@@ -6,17 +6,17 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#public-properties-1)
-- [data](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#data)
-- [dragImage](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#dragimage)
-- [dropEffect](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#dropeffect)
-- [item](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#item)
-- [pageX](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#pagex)
-- [pageY](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#pagey)
-- [sourceEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class/#sourceevent)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#public-properties-1)
+- [data](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#data)
+- [dragImage](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#dragimage)
+- [dropEffect](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#dropeffect)
+- [item](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#item)
+- [pageX](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#pagex)
+- [pageY](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#pagey)
+- [sourceEvent](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class#sourceevent)
 
 
 ## Constructors
@@ -24,10 +24,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqDragEvent(item: [EqDragItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqdragitem-interface),dragImage: `HTMLDivElement`,sourceEvent: `MouseEvent` | `TouchEvent`): [EqDragEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/eqdragevent-class)
+⊕ new EqDragEvent(item: [EqDragItem](api-reference-old/api-reference-6x/ui-package/interfaces/eqdragitem-interface),dragImage: `HTMLDivElement`,sourceEvent: `MouseEvent` | `TouchEvent`): [EqDragEvent](api-reference-old/api-reference-6x/ui-package/classes/eqdragevent-class)
 
 #### Parameters:
-- item: [EqDragItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqdragitem-interface)
+- item: [EqDragItem](api-reference-old/api-reference-6x/ui-package/interfaces/eqdragitem-interface)
 - dragImage: `HTMLDivElement`
 - sourceEvent: `MouseEvent` | `TouchEvent`
 
@@ -49,12 +49,12 @@ sidebar:
 ---
 ### dropEffect
 
-● dropEffect: [DropEffect](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/dropeffect-enum) = ` DropEffect.Copy`
+● dropEffect: [DropEffect](api-reference-old/api-reference-6x/ui-package/enumerations/dropeffect-enum) = ` DropEffect.Copy`
 
 ---
 ### item
 
-● item: [EqDragItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqdragitem-interface)
+● item: [EqDragItem](api-reference-old/api-reference-6x/ui-package/interfaces/eqdragitem-interface)
 
 ---
 ### pageX

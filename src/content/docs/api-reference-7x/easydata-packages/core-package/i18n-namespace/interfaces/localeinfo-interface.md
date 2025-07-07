@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#properties-1)
-- [displayName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#displayname)
-- [englishName](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#englishname)
-- [localeId](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#localeid)
-- [settings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#settings)
-- [texts](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localeinfo-interface/#texts)
+### [Properties](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#properties-1)
+- [displayName](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#displayname)
+- [englishName](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#englishname)
+- [localeId](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#localeid)
+- [settings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#settings)
+- [texts](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localeinfo-interface#texts)
 
 
 
@@ -36,11 +36,11 @@ sidebar:
 ---
 ### settings
 
-● settings?: [LocaleSettings](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/localesettings-interface)
+● settings?: [LocaleSettings](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/localesettings-interface)
 
 ---
 ### texts
 
-● texts?: [TextResources](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/i18n-namespace/interfaces/textresources-interface)
+● texts?: [TextResources](api-reference-7x/easydata-packages/core-package/i18n-namespace/interfaces/textresources-interface)
 
 ---

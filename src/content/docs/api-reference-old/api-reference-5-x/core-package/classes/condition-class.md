@@ -8,25 +8,25 @@ sidebar:
 Represents some condition.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/condition-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/condition-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#public-properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#blockid)
-- [conditions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#conditions)
-- [enabled](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#enabled)
-- [expressions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#expressions)
-- [inJoin](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#injoin)
-- [justAdded](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#justadded)
-- [linkType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#linktype)
-- [operatorID](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#operatorid)
-- [parameterized](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#parameterized)
-- [readOnly](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#readonly)
-- [tag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#tag)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/condition-class#public-properties-1)
+- [blockId](api-reference-old/api-reference-5-x/core-package/classes/condition-class#blockid)
+- [conditions](api-reference-old/api-reference-5-x/core-package/classes/condition-class#conditions)
+- [enabled](api-reference-old/api-reference-5-x/core-package/classes/condition-class#enabled)
+- [expressions](api-reference-old/api-reference-5-x/core-package/classes/condition-class#expressions)
+- [inJoin](api-reference-old/api-reference-5-x/core-package/classes/condition-class#injoin)
+- [justAdded](api-reference-old/api-reference-5-x/core-package/classes/condition-class#justadded)
+- [linkType](api-reference-old/api-reference-5-x/core-package/classes/condition-class#linktype)
+- [operatorID](api-reference-old/api-reference-5-x/core-package/classes/condition-class#operatorid)
+- [parameterized](api-reference-old/api-reference-5-x/core-package/classes/condition-class#parameterized)
+- [readOnly](api-reference-old/api-reference-5-x/core-package/classes/condition-class#readonly)
+- [tag](api-reference-old/api-reference-5-x/core-package/classes/condition-class#tag)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#loadfromdata)
-- [saveToData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class/#savetodata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/condition-class#public-methods-1)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/condition-class#loadfromdata)
+- [saveToData](api-reference-old/api-reference-5-x/core-package/classes/condition-class#savetodata)
 
 
 ## Constructors
@@ -35,10 +35,10 @@ Represents some condition.
 #### constructor
 
 The default constructor.
-⊕ new Condition(tag?: [CondTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/condtag-enum)): [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)
+⊕ new Condition(tag?: [CondTag](api-reference-old/api-reference-5-x/core-package/enumerations/condtag-enum)): [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)
 
 #### Parameters:
-- tag: [CondTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/condtag-enum), *Optional*  - The condition tag
+- tag: [CondTag](api-reference-old/api-reference-5-x/core-package/enumerations/condtag-enum), *Optional*  - The condition tag
 
 
 
@@ -58,7 +58,7 @@ The block id.
 
 The list of conditions.
 
-● conditions: [Condition](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/condition-class)[]
+● conditions: [Condition](api-reference-old/api-reference-5-x/core-package/classes/condition-class)[]
 
 ---
 ### enabled
@@ -72,7 +72,7 @@ The value indicating whether this Condition is enabled.
 
 The list of expression.
 
-● expressions: [Expression](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/expression-class)[]
+● expressions: [Expression](api-reference-old/api-reference-5-x/core-package/classes/expression-class)[]
 
 ---
 ### inJoin
@@ -93,7 +93,7 @@ Condition enabled option.
 
  The linking type.
 
-● linkType: [LinkType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/linktype-enum) = ` LinkType.All`
+● linkType: [LinkType](api-reference-old/api-reference-5-x/core-package/enumerations/linktype-enum) = ` LinkType.All`
 
 ---
 ### operatorID
@@ -121,7 +121,7 @@ The value indicating whether this condition is read-only.
 
 The condition tag.
 
-● tag: [CondTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/condtag-enum)
+● tag: [CondTag](api-reference-old/api-reference-5-x/core-package/enumerations/condtag-enum)
 
 ---
 ## Public Methods
@@ -130,11 +130,11 @@ The condition tag.
 ### loadFromData
 Loads condtion from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class),data: [ConditionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/conditiondata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class),data: [ConditionData](api-reference-old/api-reference-5-x/core-package/interfaces/conditiondata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [ConditionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/conditiondata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class) - The Data Model.
+- data: [ConditionData](api-reference-old/api-reference-5-x/core-package/interfaces/conditiondata-interface) - The JSON representation object.
 
 
 
@@ -144,10 +144,10 @@ Loads condtion from its JSON representation object.
 ### saveToData
 Saves condition to JSON representation object.
 
-▸ saveToData(): [ConditionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/conditiondata-interface)
+▸ saveToData(): [ConditionData](api-reference-old/api-reference-5-x/core-package/interfaces/conditiondata-interface)
 
 
-**Returns** [ConditionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/conditiondata-interface) - The JSON representation object.
+**Returns** [ConditionData](api-reference-old/api-reference-5-x/core-package/interfaces/conditiondata-interface) - The JSON representation object.
 
 
 ---

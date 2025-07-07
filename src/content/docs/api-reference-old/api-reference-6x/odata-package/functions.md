@@ -6,17 +6,17 @@ sidebar:
 ---
 
 ## Index
-- [getDataTypeByEdmType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/functions/#getdatatypebyedmtype)
+- [getDataTypeByEdmType](api-reference-old/api-reference-6x/odata-package/functions#getdatatypebyedmtype)
 
 #### getDataTypeByEdmType
 
-▸ getDataTypeByEdmType(edmType: [EdmxDataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/enumerations/edmxdatatype-enum) | `string`): [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+▸ getDataTypeByEdmType(edmType: [EdmxDataType](api-reference-old/api-reference-6x/odata-package/enumerations/edmxdatatype-enum) | `string`): [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 #### Parameters:
-- edmType: [EdmxDataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/enumerations/edmxdatatype-enum) | `string`
+- edmType: [EdmxDataType](api-reference-old/api-reference-6x/odata-package/enumerations/edmxdatatype-enum) | `string`
 
 
-**Returns** [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+**Returns** [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 
 ---

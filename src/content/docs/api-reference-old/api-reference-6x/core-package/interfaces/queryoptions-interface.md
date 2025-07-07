@@ -9,10 +9,10 @@ sidebar:
 Represents query options.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryoptions-interface/#properties-1)
-- [attrTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryoptions-interface/#attrtag)
-- [clientListRequestHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryoptions-interface/#clientlistrequesthandler)
-- [serverListRequestHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryoptions-interface/#serverlistrequesthandler)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/queryoptions-interface#properties-1)
+- [attrTag](api-reference-old/api-reference-6x/core-package/interfaces/queryoptions-interface#attrtag)
+- [clientListRequestHandler](api-reference-old/api-reference-6x/core-package/interfaces/queryoptions-interface#clientlistrequesthandler)
+- [serverListRequestHandler](api-reference-old/api-reference-6x/core-package/interfaces/queryoptions-interface#serverlistrequesthandler)
 
 
 
@@ -21,7 +21,7 @@ Represents query options.
 ---
 ### attrTag
 
-● attrTag?: [ExprTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/exprtag-enum)
+● attrTag?: [ExprTag](api-reference-old/api-reference-6x/core-package/enumerations/exprtag-enum)
 
 ---
 ### clientListRequestHandler

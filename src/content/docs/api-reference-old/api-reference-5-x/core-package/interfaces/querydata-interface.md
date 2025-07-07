@@ -9,13 +9,13 @@ sidebar:
 Query JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#properties-1)
-- [cols](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#cols)
-- [desc](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#desc)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#id)
-- [justsortcols](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#justsortcols)
-- [name](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#name)
-- [root](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/querydata-interface/#root)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#properties-1)
+- [cols](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#cols)
+- [desc](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#desc)
+- [id](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#id)
+- [justsortcols](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#justsortcols)
+- [name](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#name)
+- [root](api-reference-old/api-reference-5-x/core-package/interfaces/querydata-interface#root)
 
 
 
@@ -26,7 +26,7 @@ Query JSON representation object.
 
 The columns.
 
-● cols?: [ColumnData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/columndata-interface)[]
+● cols?: [ColumnData](api-reference-old/api-reference-5-x/core-package/interfaces/columndata-interface)[]
 
 ---
 ### desc
@@ -61,6 +61,6 @@ The name
 
 The root.
 
-● root: [ConditionData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/conditiondata-interface)
+● root: [ConditionData](api-reference-old/api-reference-5-x/core-package/interfaces/conditiondata-interface)
 
 ---

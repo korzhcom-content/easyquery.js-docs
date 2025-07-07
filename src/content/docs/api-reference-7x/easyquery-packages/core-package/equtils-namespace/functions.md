@@ -6,11 +6,11 @@ sidebar:
 ---
 
 ## Index
-- [combinePath](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/equtils-namespace/functions/#combinepath)
-- [convertValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/equtils-namespace/functions/#convertvalue)
-- [linkTypeToStr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/equtils-namespace/functions/#linktypetostr)
-- [parseOperatorFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/equtils-namespace/functions/#parseoperatorformat)
-- [strToLinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/equtils-namespace/functions/#strtolinktype)
+- [combinePath](api-reference-7x/easyquery-packages/core-package/equtils-namespace/functions#combinepath)
+- [convertValue](api-reference-7x/easyquery-packages/core-package/equtils-namespace/functions#convertvalue)
+- [linkTypeToStr](api-reference-7x/easyquery-packages/core-package/equtils-namespace/functions#linktypetostr)
+- [parseOperatorFormat](api-reference-7x/easyquery-packages/core-package/equtils-namespace/functions#parseoperatorformat)
+- [strToLinkType](api-reference-7x/easyquery-packages/core-package/equtils-namespace/functions#strtolinktype)
 
 #### combinePath
 
@@ -52,10 +52,10 @@ Converts a value from one DataType to another
 
 Converts a `LinkType` value to a string
 
-▸ linkTypeToStr(type: [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum)): `string`
+▸ linkTypeToStr(type: [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum)): `string`
 
 #### Parameters:
-- type: [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum) - 
+- type: [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum) - 
 
 
 
@@ -68,14 +68,14 @@ Converts a `LinkType` value to a string
 
 Parses the operator's format string and returns a list of tokens
 
-▸ parseOperatorFormat(operator: `any`): [FormatToken](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/formattoken-interface)[]
+▸ parseOperatorFormat(operator: `any`): [FormatToken](api-reference-7x/easyquery-packages/core-package/interfaces/formattoken-interface)[]
 
 #### Parameters:
 - operator: `any` - 
 
 
 
-**Returns** [FormatToken](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/formattoken-interface)[]
+**Returns** [FormatToken](api-reference-7x/easyquery-packages/core-package/interfaces/formattoken-interface)[]
 
 
 
@@ -84,14 +84,14 @@ Parses the operator's format string and returns a list of tokens
 
 Converts a string to a `LinkType` value
 
-▸ strToLinkType(str: `string`): [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum)
+▸ strToLinkType(str: `string`): [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum)
 
 #### Parameters:
 - str: `string` - 
 
 
 
-**Returns** [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum)
+**Returns** [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum)
 
 
 

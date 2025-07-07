@@ -7,18 +7,18 @@ sidebar:
 ---
 
 ## Implements
-[QueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface)
+[QueryFileLoader](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#public-methods-1)
-- [getQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#getqueryfile)
-- [uploadQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class/#uploadqueryfile)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#public-methods-1)
+- [getQueryFile](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#getqueryfile)
+- [uploadQueryFile](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class#uploadqueryfile)
 
 
 ## Constructors
@@ -26,10 +26,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqQueryFileLoader(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqQueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqqueryfileloader-class)
+⊕ new EqQueryFileLoader(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqQueryFileLoader](api-reference-7x/easyquery-packages/core-package/classes/eqqueryfileloader-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -39,17 +39,17 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods
 
 ---
 ### getQueryFile
-▸ getQueryFile(options?: [GetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface)): `Promise`&lt;`void`&gt;
+▸ getQueryFile(options?: [GetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface)): `Promise`&lt;`void`&gt;
 
 #### Parameters:
-- options: [GetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface), *Optional* 
+- options: [GetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`void`&gt;
@@ -57,13 +57,13 @@ sidebar:
 
 ---
 ### uploadQueryFile
-▸ uploadQueryFile(options?: [UploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface)): `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+▸ uploadQueryFile(options?: [UploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface)): `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 #### Parameters:
-- options: [UploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface), *Optional* 
+- options: [UploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+**Returns** `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 
 ---

@@ -11,23 +11,23 @@ Represents a value editor.
 `ValueEditor`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#public-properties-1)
-- [defValue](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#defvalue)
-- [extraParams](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#extraparams)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#name)
-- [processValues](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#processvalues)
-- [resType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#restype)
-- [statement](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#statement)
-- [tag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#tag)
-- [values](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#values)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#public-properties-1)
+- [defValue](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#defvalue)
+- [extraParams](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#extraparams)
+- [id](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#id)
+- [name](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#name)
+- [processValues](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#processvalues)
+- [resType](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#restype)
+- [statement](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#statement)
+- [tag](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#tag)
+- [values](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#values)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#public-methods-1)
-- [getValueText](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#getvaluetext)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class/#loadfromdata)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#public-methods-1)
+- [getValueText](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#getvaluetext)
+- [loadFromData](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class#loadfromdata)
 
 
 ## Constructors
@@ -36,7 +36,7 @@ Represents a value editor.
 #### constructor
 
 The default constructor.
-⊕ new EqValueEditor(): [EqValueEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqvalueeditor-class)
+⊕ new EqValueEditor(): [EqValueEditor](api-reference-7x/easyquery-packages/core-package/classes/eqvalueeditor-class)
 
 
 ---
@@ -120,10 +120,10 @@ The values.
 ### loadFromData
 Loads value editor from its JSON representation object.
 
-▸ loadFromData(data: [ValueEditorData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface)): `void`
+▸ loadFromData(data: [ValueEditorData](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface)): `void`
 
 #### Parameters:
-- data: [ValueEditorData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface) - The JSON representation object.
+- data: [ValueEditorData](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface) - The JSON representation object.
 
 
 

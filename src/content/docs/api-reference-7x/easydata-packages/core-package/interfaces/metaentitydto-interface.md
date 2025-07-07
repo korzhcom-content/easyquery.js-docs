@@ -9,13 +9,13 @@ sidebar:
 Entity JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#properties-1)
-- [attrs](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#attrs)
-- [desc](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#desc)
-- [ents](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#ents)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#name)
-- [namePlur](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface/#nameplur)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#properties-1)
+- [attrs](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#attrs)
+- [desc](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#desc)
+- [ents](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#ents)
+- [id](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#id)
+- [name](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#name)
+- [namePlur](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface#nameplur)
 
 
 
@@ -26,7 +26,7 @@ Entity JSON representation object.
 
 List of attributes.
 
-● attrs?: [MetaEntityAttrDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface)[]
+● attrs?: [MetaEntityAttrDTO](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface)[]
 
 ---
 ### desc
@@ -40,7 +40,7 @@ The description.
 
 List of sub-entities.
 
-● ents?: [MetaEntityDTO](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentitydto-interface)[]
+● ents?: [MetaEntityDTO](api-reference-7x/easydata-packages/core-package/interfaces/metaentitydto-interface)[]
 
 ---
 ### id

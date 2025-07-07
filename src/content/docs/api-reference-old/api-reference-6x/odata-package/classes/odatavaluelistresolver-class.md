@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[EqValueListResolver](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)
+[EqValueListResolver](api-reference-old/api-reference-6x/core-package/interfaces/eqvaluelistresolver-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odatavaluelistresolver-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odatavaluelistresolver-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/odata-package/classes/odatavaluelistresolver-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/odata-package/classes/odatavaluelistresolver-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odatavaluelistresolver-class/#public-methods-1)
-- [loadValueList](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odatavaluelistresolver-class/#loadvaluelist)
+### [Public Methods](api-reference-old/api-reference-6x/odata-package/classes/odatavaluelistresolver-class#public-methods-1)
+- [loadValueList](api-reference-old/api-reference-6x/odata-package/classes/odatavaluelistresolver-class#loadvaluelist)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataValueListResolver(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [ODataValueListResolver](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odatavaluelistresolver-class)
+⊕ new ODataValueListResolver(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [ODataValueListResolver](api-reference-old/api-reference-6x/odata-package/classes/odatavaluelistresolver-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---

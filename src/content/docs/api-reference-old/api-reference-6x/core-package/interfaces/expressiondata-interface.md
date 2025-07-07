@@ -9,19 +9,19 @@ sidebar:
 Expression JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#properties-1)
-- [args](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#args)
-- [baseAttrId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#baseattrid)
-- [distinct](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#distinct)
-- [dtype](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#dtype)
-- [func](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#func)
-- [id](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#id)
-- [kind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#kind)
-- [query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#query)
-- [sql](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#sql)
-- [tag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#tag)
-- [txt](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#txt)
-- [val](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface/#val)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#properties-1)
+- [args](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#args)
+- [baseAttrId](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#baseattrid)
+- [distinct](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#distinct)
+- [dtype](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#dtype)
+- [func](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#func)
+- [id](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#id)
+- [kind](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#kind)
+- [query](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#query)
+- [sql](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#sql)
+- [tag](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#tag)
+- [txt](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#txt)
+- [val](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface#val)
 
 
 
@@ -32,7 +32,7 @@ Expression JSON representation object.
 
 List of arguments
 
-● args?: [ExpressionData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressiondata-interface)[]
+● args?: [ExpressionData](api-reference-old/api-reference-6x/core-package/interfaces/expressiondata-interface)[]
 
 ---
 ### baseAttrId
@@ -53,7 +53,7 @@ The select distinct.
 
 The data type.
 
-● dtype?: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+● dtype?: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 ---
 ### func
@@ -74,14 +74,14 @@ The id.
 
 The data kind.
 
-● kind?: [DataKind](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datakind-enum)
+● kind?: [DataKind](api-reference-old/api-reference-6x/core-package/enumerations/datakind-enum)
 
 ---
 ### query
 
 The uery.
 
-● query?: [QueryData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querydata-interface)
+● query?: [QueryData](api-reference-old/api-reference-6x/core-package/interfaces/querydata-interface)
 
 ---
 ### sql
@@ -95,7 +95,7 @@ The sql expression.
 
 The tag.
 
-● tag: [ExprTag](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/exprtag-enum)
+● tag: [ExprTag](api-reference-old/api-reference-6x/core-package/enumerations/exprtag-enum)
 
 ---
 ### txt

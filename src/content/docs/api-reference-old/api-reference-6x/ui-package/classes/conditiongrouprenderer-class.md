@@ -7,32 +7,32 @@ sidebar:
 ---
 
 ## Extends
-[ConditionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditionrenderer-class)
+[ConditionRenderer](api-reference-old/api-reference-6x/ui-package/classes/conditionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-properties-1)
-- [condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#condition)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#element)
-- [linkTypeMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#linktypemenu)
-- [panel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#panel)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#protected-properties-1)
+- [condition](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#condition)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#element)
+- [linkTypeMenu](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#linktypemenu)
+- [panel](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#panel)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#public-methods-1)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#clear)
-- [coreRender](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#corerender)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#getclassestoadd)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#iseditable)
-- [renderConditions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#renderconditions)
-- [renderGroupRow](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#rendergrouprow)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#protected-methods-1)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#clear)
+- [coreRender](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#corerender)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#getclassestoadd)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#iseditable)
+- [renderConditions](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#renderconditions)
+- [renderGroupRow](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class#rendergrouprow)
 
 
 ## Constructors
@@ -40,12 +40,12 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ConditionGroupRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class),condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class),linkTypeMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [ConditionGroupRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditiongrouprenderer-class)
+⊕ new ConditionGroupRenderer(panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class),condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class),linkTypeMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [ConditionGroupRenderer](api-reference-old/api-reference-6x/ui-package/classes/conditiongrouprenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
-- condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class)
-- linkTypeMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+- panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
+- condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class)
+- linkTypeMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -56,7 +56,7 @@ sidebar:
 ---
 ### condition
 
-● condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class)
+● condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class)
 
 ---
 ### element
@@ -66,12 +66,12 @@ sidebar:
 ---
 ### linkTypeMenu
 
-● linkTypeMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+● linkTypeMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-old/api-reference-6x/ui-package/classes/querypanel-class)
 
 ---
 ## Protected Accessors

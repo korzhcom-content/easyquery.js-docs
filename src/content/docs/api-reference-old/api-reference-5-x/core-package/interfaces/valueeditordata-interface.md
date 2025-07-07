@@ -9,14 +9,14 @@ sidebar:
 Value editor JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#properties-1)
-- [defval](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#defval)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#name)
-- [rtype](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#rtype)
-- [sql](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#sql)
-- [subType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#subtype)
-- [tag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface/#tag)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#properties-1)
+- [defval](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#defval)
+- [id](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#id)
+- [name](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#name)
+- [rtype](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#rtype)
+- [sql](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#sql)
+- [subType](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#subtype)
+- [tag](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface#tag)
 
 
 
@@ -48,7 +48,7 @@ The name.
 
 The result type.
 
-● rtype: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum)
+● rtype: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum)
 
 ---
 ### sql
@@ -62,13 +62,13 @@ The sql.
 
 The sub type.
 
-● subType?: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum)
+● subType?: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum)
 
 ---
 ### tag
 
 The tag.
 
-● tag: [EditorTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/editortag-enum)
+● tag: [EditorTag](api-reference-old/api-reference-5-x/core-package/enumerations/editortag-enum)
 
 ---

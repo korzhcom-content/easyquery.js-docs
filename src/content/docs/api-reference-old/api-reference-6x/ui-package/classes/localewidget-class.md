@@ -6,34 +6,34 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#context)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#group)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#belongstogroup)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#destroy)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#getcontext)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#init)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#protected-methods-1)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#destroycore)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class#refreshcore)
 
 
 ## Constructors
@@ -42,7 +42,7 @@ sidebar:
 #### constructor
 
 The default constructor.
-⊕ new LocaleWidget(slot: `HTMLElement`): [LocaleWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/localewidget-class)
+⊕ new LocaleWidget(slot: `HTMLElement`): [LocaleWidget](api-reference-old/api-reference-6x/ui-package/classes/localewidget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -64,12 +64,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -83,10 +83,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -103,19 +103,19 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### init
 Initializes the widget and assign it to some context
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 - options: `any`, *Optional*  - 
 
 

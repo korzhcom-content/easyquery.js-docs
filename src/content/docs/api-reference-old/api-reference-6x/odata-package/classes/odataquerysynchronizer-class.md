@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[QuerySynchronizer](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+[QuerySynchronizer](api-reference-old/api-reference-6x/core-package/interfaces/querysynchronizer-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/odata-package/classes/odataquerysynchronizer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/odata-package/classes/odataquerysynchronizer-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#public-methods-1)
-- [syncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerysynchronizer-class/#syncquery)
+### [Public Methods](api-reference-old/api-reference-6x/odata-package/classes/odataquerysynchronizer-class#public-methods-1)
+- [syncQuery](api-reference-old/api-reference-6x/odata-package/classes/odataquerysynchronizer-class#syncquery)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataQuerySynchronizer(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [ODataQuerySynchronizer](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerysynchronizer-class)
+⊕ new ODataQuerySynchronizer(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [ODataQuerySynchronizer](api-reference-old/api-reference-6x/odata-package/classes/odataquerysynchronizer-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---

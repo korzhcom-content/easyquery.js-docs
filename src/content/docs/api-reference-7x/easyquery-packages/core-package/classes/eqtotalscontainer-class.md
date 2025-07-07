@@ -10,16 +10,16 @@ sidebar:
 `TotalsContainer`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#public-methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#clear)
-- [fillTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#filltotals)
-- [setTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class/#settotals)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#public-methods-1)
+- [clear](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#clear)
+- [fillTotals](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#filltotals)
+- [setTotals](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class#settotals)
 
 
 ## Constructors
@@ -27,10 +27,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqTotalsContainer(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqTotalsContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqtotalscontainer-class)
+⊕ new EqTotalsContainer(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqTotalsContainer](api-reference-7x/easyquery-packages/core-package/classes/eqtotalscontainer-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -40,7 +40,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods

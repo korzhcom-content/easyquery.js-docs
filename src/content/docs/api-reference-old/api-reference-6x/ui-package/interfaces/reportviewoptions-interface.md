@@ -9,28 +9,28 @@ sidebar:
 Options of [[ReportView]]
 
 ## Extends
-[EqContextOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontextoptions-interface)
+[EqContextOptions](api-reference-old/api-reference-6x/core-package/interfaces/eqcontextoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#attrclassname)
-- [broker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#broker)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#defaultqueryid)
-- [enableExport](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#enableexport)
-- [endpoint](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#endpoint)
-- [handlers](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#handlers)
-- [initialQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#initialquery)
-- [listCache](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#listcache)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#loadqueryonstart)
-- [locale](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#locale)
-- [result](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#result)
-- [slots](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#slots)
-- [syncReportOnChange](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#syncreportonchange)
-- [useDefaultExporters](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#usedefaultexporters)
-- [useReportCache](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#usereportcache)
-- [widgets](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewoptions-interface/#widgets)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#properties-1)
+- [attrClassName](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#attrclassname)
+- [broker](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#broker)
+- [defaultModelId](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#defaultmodelid)
+- [defaultQueryId](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#defaultqueryid)
+- [enableExport](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#enableexport)
+- [endpoint](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#endpoint)
+- [handlers](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#handlers)
+- [initialQuery](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#initialquery)
+- [listCache](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#listcache)
+- [loadModelOnStart](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#loadmodelonstart)
+- [loadQueryOnStart](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#loadqueryonstart)
+- [locale](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#locale)
+- [result](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#result)
+- [slots](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#slots)
+- [syncReportOnChange](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#syncreportonchange)
+- [useDefaultExporters](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#usedefaultexporters)
+- [useReportCache](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#usereportcache)
+- [widgets](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewoptions-interface#widgets)
 
 
 
@@ -46,7 +46,7 @@ Options of [[ReportView]]
 
 Obsolete!!!!!. Left for backward compatibilty only
 
-● broker?: [EqBrokerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface)
+● broker?: [EqBrokerOptions](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface)
 
 ---
 ### defaultModelId
@@ -71,17 +71,17 @@ Obsolete!!!!!. Left for backward compatibilty only
 ---
 ### handlers
 
-● handlers?: [EqContextHandlers](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface)
+● handlers?: [EqContextHandlers](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface)
 
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-old/api-reference-6x/core-package/interfaces/querydata-interface)
 
 ---
 ### listCache
 
-● listCache?: [ExternalListCache](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/externallistcache-interface)
+● listCache?: [ExternalListCache](api-reference-old/api-reference-6x/core-package/interfaces/externallistcache-interface)
 
 ---
 ### loadModelOnStart
@@ -101,12 +101,12 @@ Obsolete!!!!!. Left for backward compatibilty only
 ---
 ### result
 
-● result?: [EqResultOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● result?: [EqResultOptions](api-reference-old/api-reference-6x/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### slots
 
-● slots?: [ReportViewSlots](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/reportviewslots-interface)
+● slots?: [ReportViewSlots](api-reference-old/api-reference-6x/ui-package/interfaces/reportviewslots-interface)
 
 ---
 ### syncReportOnChange

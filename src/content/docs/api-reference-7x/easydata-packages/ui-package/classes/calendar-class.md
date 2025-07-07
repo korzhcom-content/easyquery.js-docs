@@ -6,24 +6,24 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#protected-properties-1)
-- [currentDate](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#currentdate)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#options)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#slot)
+### [Protected Properties](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#protected-properties-1)
+- [currentDate](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#currentdate)
+- [options](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#options)
+- [slot](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#public-methods-1)
-- [getDate](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#getdate)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#render)
-- [setDate](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#setdate)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#public-methods-1)
+- [getDate](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#getdate)
+- [render](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#render)
+- [setDate](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#setdate)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#protected-methods-1)
-- [dateChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class/#datechanged)
+### [Protected Methods](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#protected-methods-1)
+- [dateChanged](api-reference-7x/easydata-packages/ui-package/classes/calendar-class#datechanged)
 
 
 ## Constructors
@@ -31,11 +31,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new Calendar(slot: `HTMLElement`,options?: [CalendarOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface)): [Calendar](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/calendar-class)
+⊕ new Calendar(slot: `HTMLElement`,options?: [CalendarOptions](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface)): [Calendar](api-reference-7x/easydata-packages/ui-package/classes/calendar-class)
 
 #### Parameters:
 - slot: `HTMLElement`
-- options: [CalendarOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface), *Optional* 
+- options: [CalendarOptions](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface), *Optional* 
 
 
 ---
@@ -50,7 +50,7 @@ sidebar:
 ---
 ### options
 
-● options: [CalendarOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface)
+● options: [CalendarOptions](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface)
 
 ---
 ### slot

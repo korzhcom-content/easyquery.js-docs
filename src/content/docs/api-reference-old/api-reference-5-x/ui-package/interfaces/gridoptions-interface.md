@@ -9,13 +9,13 @@ sidebar:
 Grid options type.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#properties-1)
-- [beforeTableRendering](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#beforetablerendering)
-- [formatColumnHeader](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#formatcolumnheader)
-- [formatGridCell](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#formatgridcell)
-- [maxButtonCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#maxbuttoncount)
-- [pageItemCssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#pageitemcssclass)
-- [tableClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface/#tableclass)
+### [Properties](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#properties-1)
+- [beforeTableRendering](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#beforetablerendering)
+- [formatColumnHeader](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#formatcolumnheader)
+- [formatGridCell](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#formatgridcell)
+- [maxButtonCount](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#maxbuttoncount)
+- [pageItemCssClass](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#pageitemcssclass)
+- [tableClass](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface#tableclass)
 
 
 
@@ -26,21 +26,21 @@ Grid options type.
 
 Function called before rendering
 
-● beforeTableRendering?: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class)) => `void`
+● beforeTableRendering?: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class)) => `void`
 
 ---
 ### formatColumnHeader
 
 Function thart formats column header
 
-● formatColumnHeader?: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class), index: `number`, colLabel: `string`) => `string`
+● formatColumnHeader?: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class), index: `number`, colLabel: `string`) => `string`
 
 ---
 ### formatGridCell
 
 Function thart formats cell
 
-● formatGridCell?: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class), i: `number`, j: `number`, value: `string`) => `string`
+● formatGridCell?: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class), i: `number`, j: `number`, value: `string`) => `string`
 
 ---
 ### maxButtonCount

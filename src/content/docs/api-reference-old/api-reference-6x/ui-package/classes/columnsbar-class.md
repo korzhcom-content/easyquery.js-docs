@@ -6,49 +6,49 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#public-properties-1)
-- [moveMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#movemenu)
-- [sortMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#sortmenu)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#public-properties-1)
+- [moveMenu](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#movemenu)
+- [sortMenu](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#sortmenu)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#context)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#group)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#public-methods-1)
-- [addColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#addcolumn)
-- [addNewColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#addnewcolumn)
-- [areCustomExpressionsAllowed](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#arecustomexpressionsallowed)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#destroy)
-- [getColumnsBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#getcolumnsblock)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#getcontext)
-- [hideLandingSlot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#hidelandingslot)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#init)
-- [moveColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#movecolumn)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#refresh)
-- [showEntitiesMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#showentitiesmenu)
-- [showLandingSlot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#showlandingslot)
-- [toggleColumnPicked](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#togglecolumnpicked)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#public-methods-1)
+- [addColumn](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#addcolumn)
+- [addNewColumn](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#addnewcolumn)
+- [areCustomExpressionsAllowed](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#arecustomexpressionsallowed)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#belongstogroup)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#destroy)
+- [getColumnsBlock](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#getcolumnsblock)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#getcontext)
+- [hideLandingSlot](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#hidelandingslot)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#init)
+- [moveColumn](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#movecolumn)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#refresh)
+- [showEntitiesMenu](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#showentitiesmenu)
+- [showLandingSlot](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#showlandingslot)
+- [toggleColumnPicked](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#togglecolumnpicked)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#destroycore)
-- [getQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#getquery)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#protected-methods-1)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#destroycore)
+- [getQuery](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#getquery)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class#refreshcore)
 
 
 ## Constructors
@@ -56,7 +56,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ColumnsBar(slot: `HTMLElement`): [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class)
+⊕ new ColumnsBar(slot: `HTMLElement`): [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class)
 
 #### Parameters:
 - slot: `HTMLElement`
@@ -69,12 +69,12 @@ sidebar:
 ---
 ### moveMenu
 
-● moveMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+● moveMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### sortMenu
 
-● sortMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+● sortMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 ---
 ### widgetType
@@ -87,12 +87,12 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -115,10 +115,10 @@ sidebar:
 
 ---
 ### addColumn
-▸ addColumn(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class) | [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)[],index?: `number`): `void`
+▸ addColumn(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class) | [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)[],index?: `number`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class) | [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)[]
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class) | [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)[]
 - index: `number`, *Optional* 
 
 
@@ -127,23 +127,23 @@ sidebar:
 
 ---
 ### addNewColumn
-▸ addNewColumn(attrId: `string`,index?: `number`): [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+▸ addNewColumn(attrId: `string`,index?: `number`): [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 #### Parameters:
 - attrId: `string`
 - index: `number`, *Optional* 
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+**Returns** [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
-▸ addNewColumn(attrId: `string`[],index?: `number`): [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)[]
+▸ addNewColumn(attrId: `string`[],index?: `number`): [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)[]
 
 #### Parameters:
 - attrId: `string`[]
 - index: `number`, *Optional* 
 
 
-**Returns** [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)[]
+**Returns** [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)[]
 
 
 ---
@@ -158,10 +158,10 @@ sidebar:
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -188,10 +188,10 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -204,11 +204,11 @@ Returns current context (the one this widget belongs to)
 
 ---
 ### init
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: [ColumnsBarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/columnsbaroptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: [ColumnsBarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/columnsbaroptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
-- options: [ColumnsBarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/columnsbaroptions-interface), *Optional* 
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
+- options: [ColumnsBarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/columnsbaroptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -216,10 +216,10 @@ Returns current context (the one this widget belongs to)
 
 ---
 ### moveColumn
-▸ moveColumn(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),direction: `string`): `void`
+▸ moveColumn(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),direction: `string`): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - direction: `string`
 
 
@@ -285,10 +285,10 @@ Refreshes the widget's content
 
 ---
 ### toggleColumnPicked
-▸ toggleColumnPicked(column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)): `void`
+▸ toggleColumnPicked(column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)): `void`
 
 #### Parameters:
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 
 **Returns** `void`
@@ -307,10 +307,10 @@ Refreshes the widget's content
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
 ---

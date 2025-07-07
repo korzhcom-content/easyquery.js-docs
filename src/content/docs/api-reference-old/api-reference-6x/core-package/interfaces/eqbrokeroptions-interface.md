@@ -9,15 +9,15 @@ sidebar:
 Obsolete!!!!!. Left for backward compatibilty only
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#properties-1)
-- [endpoint](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#endpoint)
-- [onExecuteQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onexecutequery)
-- [onExportResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onexportresult)
-- [onLoadModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onloadmodel)
-- [onLoadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onloadquery)
-- [onRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onrequest)
-- [onSyncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#onsyncquery)
-- [serviceUrl](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqbrokeroptions-interface/#serviceurl)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#properties-1)
+- [endpoint](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#endpoint)
+- [onExecuteQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onexecutequery)
+- [onExportResult](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onexportresult)
+- [onLoadModel](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onloadmodel)
+- [onLoadQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onloadquery)
+- [onRequest](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onrequest)
+- [onSyncQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#onsyncquery)
+- [serviceUrl](api-reference-old/api-reference-6x/core-package/interfaces/eqbrokeroptions-interface#serviceurl)
 
 
 

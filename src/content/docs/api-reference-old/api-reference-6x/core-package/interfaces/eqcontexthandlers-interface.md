@@ -9,20 +9,20 @@ sidebar:
 Defines interface for all context event handlers
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#properties-1)
-- [beforeExecuteQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeexecutequery)
-- [beforeExportResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeexportresult)
-- [beforeLoadModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeloadmodel)
-- [beforeLoadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforeloadquery)
-- [beforeSyncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#beforesyncquery)
-- [listRequestHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#listrequesthandler)
-- [onError](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onerror)
-- [onInit](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#oninit)
-- [onInitialModelLoad](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#oninitialmodelload)
-- [onLoadModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onloadmodel)
-- [onLoadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onloadquery)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqcontexthandlers-interface/#onprocessstart)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#properties-1)
+- [beforeExecuteQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#beforeexecutequery)
+- [beforeExportResult](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#beforeexportresult)
+- [beforeLoadModel](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#beforeloadmodel)
+- [beforeLoadQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#beforeloadquery)
+- [beforeSyncQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#beforesyncquery)
+- [listRequestHandler](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#listrequesthandler)
+- [onError](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#onerror)
+- [onInit](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#oninit)
+- [onInitialModelLoad](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#oninitialmodelload)
+- [onLoadModel](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#onloadmodel)
+- [onLoadQuery](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#onloadquery)
+- [onProcessEnd](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/core-package/interfaces/eqcontexthandlers-interface#onprocessstart)
 
 
 
@@ -64,7 +64,7 @@ Each tuner is a function which are called before sending a request to the server
 ---
 ### onError
 
-● onError?: (message: [StatusMessage](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface)) => `void`
+● onError?: (message: [StatusMessage](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface)) => `void`
 
 ---
 ### onInit
@@ -74,26 +74,26 @@ Each tuner is a function which are called before sending a request to the server
 ---
 ### onInitialModelLoad
 
-● onInitialModelLoad?: (model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)) => `void`
+● onInitialModelLoad?: (model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)) => `void`
 
 ---
 ### onLoadModel
 
-● onLoadModel?: (model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)) => `void`
+● onLoadModel?: (model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)) => `void`
 
 ---
 ### onLoadQuery
 
-● onLoadQuery?: (query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)) => `void`
+● onLoadQuery?: (query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)) => `void`
 
 ---
 ### onProcessEnd
 
-● onProcessEnd?: (message: [StatusMessage](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface)) => `void`
+● onProcessEnd?: (message: [StatusMessage](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface)) => `void`
 
 ---
 ### onProcessStart
 
-● onProcessStart?: (message: [StatusMessage](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface)) => `void`
+● onProcessStart?: (message: [StatusMessage](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface)) => `void`
 
 ---

@@ -9,10 +9,10 @@ sidebar:
 Used in options.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/useinoptions-interface/#properties-1)
-- [useInConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/useinoptions-interface/#useinconditions)
-- [useInResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/useinoptions-interface/#useinresult)
-- [useInSorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/useinoptions-interface/#useinsorting)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/useinoptions-interface#properties-1)
+- [useInConditions](api-reference-7x/easyquery-packages/ui-package/interfaces/useinoptions-interface#useinconditions)
+- [useInResult](api-reference-7x/easyquery-packages/ui-package/interfaces/useinoptions-interface#useinresult)
+- [useInSorting](api-reference-7x/easyquery-packages/ui-package/interfaces/useinoptions-interface#useinsorting)
 
 
 

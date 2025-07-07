@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/browserquerystorageoptions-interface/#properties-1)
-- [keyPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/browserquerystorageoptions-interface/#keyprefix)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/browserquerystorageoptions-interface#properties-1)
+- [keyPrefix](api-reference-7x/easyquery-packages/core-package/interfaces/browserquerystorageoptions-interface#keyprefix)
 
 
 

@@ -10,11 +10,11 @@ sidebar:
 `DataLoader`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class/#public-methods-1)
-- [loadChunk](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class/#loadchunk)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class#public-methods-1)
+- [loadChunk](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class#loadchunk)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EasyQueryDataLoader(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EasyQueryDataLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/easyquerydataloader-class)
+⊕ new EasyQueryDataLoader(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EasyQueryDataLoader](api-reference-7x/easyquery-packages/core-package/classes/easyquerydataloader-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---

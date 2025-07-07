@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#properties-1)
-- [enabled](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#enabled)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#properties-1)
+- [enabled](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#enabled)
 
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#methods-1)
-- [expressionChanged](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#expressionchanged)
-- [fireChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#firechangedevent)
-- [getExpressionIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#getexpressionindex)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#getquery)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/expressionparent-interface/#isreadonly)
+### [Methods](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#methods-1)
+- [expressionChanged](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#expressionchanged)
+- [fireChangedEvent](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#firechangedevent)
+- [getExpressionIndex](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#getexpressionindex)
+- [getQuery](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#getquery)
+- [isReadOnly](api-reference-7x/easyquery-packages/core-package/interfaces/expressionparent-interface#isreadonly)
 
 
 
@@ -31,10 +31,10 @@ sidebar:
 
 ---
 ### expressionChanged
-▸ expressionChanged(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class),oldValue: `string`): `void`
+▸ expressionChanged(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class),oldValue: `string`): `void`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 - oldValue: `string`
 
 
@@ -43,10 +43,10 @@ sidebar:
 
 ---
 ### fireChangedEvent
-▸ fireChangedEvent(condPart?: [ConditionPart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/conditionpart-enum)): `void`
+▸ fireChangedEvent(condPart?: [ConditionPart](api-reference-7x/easyquery-packages/core-package/enumerations/conditionpart-enum)): `void`
 
 #### Parameters:
-- condPart: [ConditionPart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/conditionpart-enum), *Optional* 
+- condPart: [ConditionPart](api-reference-7x/easyquery-packages/core-package/enumerations/conditionpart-enum), *Optional* 
 
 
 **Returns** `void`
@@ -54,10 +54,10 @@ sidebar:
 
 ---
 ### getExpressionIndex
-▸ getExpressionIndex(expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)): `number`
+▸ getExpressionIndex(expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)): `number`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-7x/easyquery-packages/core-package/classes/expression-class)
 
 
 **Returns** `number`
@@ -65,10 +65,10 @@ sidebar:
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---

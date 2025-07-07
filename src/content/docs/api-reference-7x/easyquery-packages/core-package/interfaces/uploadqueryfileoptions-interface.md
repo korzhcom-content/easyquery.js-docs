@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface/#data)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface/#query)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface#data)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface#query)
 
 
 
@@ -23,6 +23,6 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---

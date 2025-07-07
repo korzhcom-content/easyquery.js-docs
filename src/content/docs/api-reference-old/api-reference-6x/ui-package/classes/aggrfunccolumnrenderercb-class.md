@@ -7,63 +7,63 @@ sidebar:
 ---
 
 ## Extends
-[SimpleColumnRendererCB](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/simplecolumnrenderercb-class)
+[SimpleColumnRendererCB](api-reference-old/api-reference-6x/ui-package/classes/simplecolumnrenderercb-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#public-properties-1)
-- [onHideButtonsMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#onhidebuttonsmobile)
-- [onShowButtonsMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#onshowbuttonsmobile)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#public-properties-1)
+- [onHideButtonsMobile](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#onhidebuttonsmobile)
+- [onShowButtonsMobile](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#onshowbuttonsmobile)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#protected-properties-1)
-- [bar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#bar)
-- [baseAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#baseattr)
-- [column](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#column)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#element)
-- [functionMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#functionmenu)
-- [isMouseOverBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#ismouseoverblock)
-- [keepShowingButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#keepshowingbuttons)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#protected-properties-1)
+- [bar](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#bar)
+- [baseAttr](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#baseattr)
+- [column](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#column)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#element)
+- [functionMenu](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#functionmenu)
+- [isMouseOverBlock](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#ismouseoverblock)
+- [keepShowingButtons](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#keepshowingbuttons)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#public-methods-1)
-- [buttonDeleteClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#buttondeleteclickhandler)
-- [buttonSortingClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#buttonsortingclickhandler)
-- [buttonTypeClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#buttontypeclickhandler)
-- [changeTypeToSimple](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#changetypetosimple)
-- [fireColumnChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#firecolumnchanged)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#public-methods-1)
+- [buttonDeleteClickHandler](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#buttondeleteclickhandler)
+- [buttonSortingClickHandler](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#buttonsortingclickhandler)
+- [buttonTypeClickHandler](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#buttontypeclickhandler)
+- [changeTypeToSimple](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#changetypetosimple)
+- [fireColumnChanged](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#firecolumnchanged)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#protected-methods-1)
-- [adjustButtonsVisibility](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#adjustbuttonsvisibility)
-- [baseExpressionItemSelectedCallback](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#baseexpressionitemselectedcallback)
-- [changeTypeHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#changetypehandler)
-- [changeTypeToAggr](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#changetypetoaggr)
-- [changeTypeToCustomSql](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#changetypetocustomsql)
-- [createFunctionMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#createfunctionmenu)
-- [enterButtonBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#enterbuttonblock)
-- [getAttribute](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#getattribute)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#getclassestoadd)
-- [getDefaultCaption](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#getdefaultcaption)
-- [getDefaultTitleText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#getdefaulttitletext)
-- [getUIS](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#getuis)
-- [hideButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#hidebuttons)
-- [isColumnActive](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#iscolumnactive)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#iseditable)
-- [leaveButtonBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#leavebuttonblock)
-- [renderButtonsBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#renderbuttonsblock)
-- [renderButtonsBlockMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#renderbuttonsblockmobile)
-- [renderCaptionBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#rendercaptionblock)
-- [renderCaptionEditorMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#rendercaptioneditormobile)
-- [renderColumnTypeButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#rendercolumntypebutton)
-- [renderDeleteButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#renderdeletebutton)
-- [renderSortingButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#rendersortingbutton)
-- [renderSortingImage](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#rendersortingimage)
-- [showButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class/#showbuttons)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#protected-methods-1)
+- [adjustButtonsVisibility](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#adjustbuttonsvisibility)
+- [baseExpressionItemSelectedCallback](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#baseexpressionitemselectedcallback)
+- [changeTypeHandler](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#changetypehandler)
+- [changeTypeToAggr](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#changetypetoaggr)
+- [changeTypeToCustomSql](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#changetypetocustomsql)
+- [createFunctionMenu](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#createfunctionmenu)
+- [enterButtonBlock](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#enterbuttonblock)
+- [getAttribute](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#getattribute)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#getclassestoadd)
+- [getDefaultCaption](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#getdefaultcaption)
+- [getDefaultTitleText](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#getdefaulttitletext)
+- [getUIS](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#getuis)
+- [hideButtons](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#hidebuttons)
+- [isColumnActive](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#iscolumnactive)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#iseditable)
+- [leaveButtonBlock](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#leavebuttonblock)
+- [renderButtonsBlock](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#renderbuttonsblock)
+- [renderButtonsBlockMobile](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#renderbuttonsblockmobile)
+- [renderCaptionBlock](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#rendercaptionblock)
+- [renderCaptionEditorMobile](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#rendercaptioneditormobile)
+- [renderColumnTypeButton](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#rendercolumntypebutton)
+- [renderDeleteButton](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#renderdeletebutton)
+- [renderSortingButton](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#rendersortingbutton)
+- [renderSortingImage](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#rendersortingimage)
+- [showButtons](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class#showbuttons)
 
 
 ## Constructors
@@ -71,11 +71,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new AggrFuncColumnRendererCB(panel: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class),column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),slot?: `HTMLDivElement`): [AggrFuncColumnRendererCB](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/aggrfunccolumnrenderercb-class)
+⊕ new AggrFuncColumnRendererCB(panel: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class),column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),slot?: `HTMLDivElement`): [AggrFuncColumnRendererCB](api-reference-old/api-reference-6x/ui-package/classes/aggrfunccolumnrenderercb-class)
 
 #### Parameters:
-- panel: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class)
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- panel: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -99,17 +99,17 @@ sidebar:
 ---
 ### bar
 
-● bar: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class)
+● bar: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class)
 
 ---
 ### baseAttr
 
-● baseAttr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+● baseAttr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 ---
 ### column
 
-● column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+● column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 ---
 ### element
@@ -119,7 +119,7 @@ sidebar:
 ---
 ### functionMenu
 
-● functionMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class) = ` null`
+● functionMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class) = ` null`
 
 ---
 ### isMouseOverBlock
@@ -282,10 +282,10 @@ sidebar:
 
 ---
 ### getAttribute
-▸ getAttribute(): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+▸ getAttribute(): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 ---
@@ -306,10 +306,10 @@ sidebar:
 
 ---
 ### getDefaultTitleText
-▸ getDefaultTitleText(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getDefaultTitleText(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 **Returns** `string`

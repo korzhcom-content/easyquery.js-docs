@@ -6,59 +6,59 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#protected-properties-1)
-- [chartDiv](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#chartdiv)
-- [chartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#charttype)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#context)
-- [dataColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#datacolumns)
-- [dataTable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#datatable)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#element)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#group)
-- [labelColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#labelcolumn)
-- [potentialDataColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#potentialdatacolumns)
-- [potentialLabelColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#potentiallabelcolumns)
-- [settingsDiv](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#settingsdiv)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#slot)
-- [supportedChartTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#supportedcharttypes)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#protected-properties-1)
+- [chartDiv](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#chartdiv)
+- [chartType](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#charttype)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#context)
+- [dataColumns](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#datacolumns)
+- [dataTable](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#datatable)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#element)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#group)
+- [labelColumn](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#labelcolumn)
+- [potentialDataColumns](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#potentialdatacolumns)
+- [potentialLabelColumns](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#potentiallabelcolumns)
+- [settingsDiv](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#settingsdiv)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#slot)
+- [supportedChartTypes](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#supportedcharttypes)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#belongstogroup)
-- [clear](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#clear)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#destroy)
-- [drawChart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#drawchart)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#getcontext)
-- [hasColumnsForChart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#hascolumnsforchart)
-- [hasData](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#hasdata)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#init)
-- [initSettingsDiv](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#initsettingsdiv)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#onprocessstart)
-- [prepareChartData](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#preparechartdata)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#refresh)
-- [toggleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#togglesettings)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#belongstogroup)
+- [clear](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#clear)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#destroy)
+- [drawChart](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#drawchart)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#getcontext)
+- [hasColumnsForChart](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#hascolumnsforchart)
+- [hasData](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#hasdata)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#init)
+- [initSettingsDiv](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#initsettingsdiv)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#onprocessstart)
+- [prepareChartData](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#preparechartdata)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#refresh)
+- [toggleSettings](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#togglesettings)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#protected-methods-1)
-- [canDraw](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#candraw)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#destroycore)
-- [drawCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#drawcore)
-- [getSupportedChartTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#getsupportedcharttypes)
-- [initChart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#initchart)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#refreshcore)
-- [updateChartColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class/#updatechartcolumns)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#protected-methods-1)
+- [canDraw](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#candraw)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#destroycore)
+- [drawCore](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#drawcore)
+- [getSupportedChartTypes](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#getsupportedcharttypes)
+- [initChart](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#initchart)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#refreshcore)
+- [updateChartColumns](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class#updatechartcolumns)
 
 
 ## Constructors
@@ -67,7 +67,7 @@ sidebar:
 #### constructor
 
 The default constructor.
-⊕ new ChartWidget(slot: `HTMLElement`): [ChartWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartwidget-class)
+⊕ new ChartWidget(slot: `HTMLElement`): [ChartWidget](api-reference-old/api-reference-6x/ui-package/classes/chartwidget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -93,12 +93,12 @@ The default constructor.
 ---
 ### chartType
 
-● chartType: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum) = ` ChartType.Pie`
+● chartType: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum) = ` ChartType.Pie`
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### dataColumns
@@ -108,7 +108,7 @@ The default constructor.
 ---
 ### dataTable
 
-● dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class) = ` null`
+● dataTable: [EqDataTable](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class) = ` null`
 
 ---
 ### element
@@ -118,7 +118,7 @@ The default constructor.
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### labelColumn
@@ -128,12 +128,12 @@ The default constructor.
 ---
 ### potentialDataColumns
 
-● potentialDataColumns: [ChartColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartcolumn-interface)[] = ` []`
+● potentialDataColumns: [ChartColumn](api-reference-old/api-reference-6x/ui-package/interfaces/chartcolumn-interface)[] = ` []`
 
 ---
 ### potentialLabelColumns
 
-● potentialLabelColumns: [ChartColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartcolumn-interface)[] = ` []`
+● potentialLabelColumns: [ChartColumn](api-reference-old/api-reference-6x/ui-package/interfaces/chartcolumn-interface)[] = ` []`
 
 ---
 ### settingsDiv
@@ -148,7 +148,7 @@ The default constructor.
 ---
 ### supportedChartTypes
 
-● supportedChartTypes: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)[] = ` []`
+● supportedChartTypes: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)[] = ` []`
 
 ---
 ## Protected Accessors
@@ -168,10 +168,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -214,10 +214,10 @@ Draws chart with delay.
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -246,11 +246,11 @@ Checks, if widget has data.
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: [ChartWidgetOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: [ChartWidgetOptions](api-reference-old/api-reference-6x/ui-package/interfaces/chartwidgetoptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [ChartWidgetOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class) - The context.
+- options: [ChartWidgetOptions](api-reference-old/api-reference-6x/ui-package/interfaces/chartwidgetoptions-interface), *Optional*  - The options.
 
 
 
@@ -354,10 +354,10 @@ Toggles settings.
 
 ---
 ### getSupportedChartTypes
-▸ getSupportedChartTypes(): [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)[]
+▸ getSupportedChartTypes(): [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)[]
 
 
-**Returns** [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)[]
+**Returns** [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)[]
 
 
 ---

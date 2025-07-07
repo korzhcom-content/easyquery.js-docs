@@ -7,33 +7,33 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#public-methods-1)
-- [createDataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#createdatamodel)
-- [createQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#createquery)
-- [getDataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getdatafetcher)
-- [getHttpClient](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#gethttpclient)
-- [getModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getmodelloader)
-- [getQueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getqueryfileloader)
-- [getQueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getquerystorage)
-- [getQuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getquerysynchronizer)
-- [getTotalCalculator](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#gettotalcalculator)
-- [getValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#getvaluelistresolver)
-- [registerDataFetcherResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerdatafetcherresolver)
-- [registerDataModelResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerdatamodelresolver)
-- [registerModelLoaderResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registermodelloaderresolver)
-- [registerQueryFileLoaderResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerqueryfileloaderresolver)
-- [registerQueryResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerqueryresolver)
-- [registerQueryStorageResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerquerystorageresolver)
-- [registerQuerySyncronizerResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registerquerysyncronizerresolver)
-- [registerTotalCalculator](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registertotalcalculator)
-- [registerValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#registervaluelistresolver)
-- [reset](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class/#reset)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#public-methods-1)
+- [createDataModel](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#createdatamodel)
+- [createQuery](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#createquery)
+- [getDataFetcher](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getdatafetcher)
+- [getHttpClient](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#gethttpclient)
+- [getModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getmodelloader)
+- [getQueryFileLoader](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getqueryfileloader)
+- [getQueryStorage](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getquerystorage)
+- [getQuerySynchronizer](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getquerysynchronizer)
+- [getTotalCalculator](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#gettotalcalculator)
+- [getValueListResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#getvaluelistresolver)
+- [registerDataFetcherResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerdatafetcherresolver)
+- [registerDataModelResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerdatamodelresolver)
+- [registerModelLoaderResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registermodelloaderresolver)
+- [registerQueryFileLoaderResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerqueryfileloaderresolver)
+- [registerQueryResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerqueryresolver)
+- [registerQueryStorageResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerquerystorageresolver)
+- [registerQuerySyncronizerResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registerquerysyncronizerresolver)
+- [registerTotalCalculator](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registertotalcalculator)
+- [registerValueListResolver](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#registervaluelistresolver)
+- [reset](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class#reset)
 
 
 ## Constructors
@@ -41,10 +41,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServiceProvider(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqServiceProvider](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqserviceprovider-class)
+⊕ new EqServiceProvider(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqServiceProvider](api-reference-7x/easyquery-packages/core-package/classes/eqserviceprovider-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -54,33 +54,33 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods
 
 ---
 ### createDataModel
-▸ createDataModel(): [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+▸ createDataModel(): [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 ---
 ### createQuery
-▸ createQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ createQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
 ### getDataFetcher
-▸ getDataFetcher(): [DataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface)
+▸ getDataFetcher(): [DataFetcher](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface)
 
 
-**Returns** [DataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface)
+**Returns** [DataFetcher](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface)
 
 
 ---
@@ -93,34 +93,34 @@ sidebar:
 
 ---
 ### getModelLoader
-▸ getModelLoader(): [EqModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqmodelloader-class)
+▸ getModelLoader(): [EqModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqmodelloader-class)
 
 
-**Returns** [EqModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqmodelloader-class)
+**Returns** [EqModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqmodelloader-class)
 
 
 ---
 ### getQueryFileLoader
-▸ getQueryFileLoader(): [QueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface)
+▸ getQueryFileLoader(): [QueryFileLoader](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface)
 
 
-**Returns** [QueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface)
+**Returns** [QueryFileLoader](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface)
 
 
 ---
 ### getQueryStorage
-▸ getQueryStorage(): [QueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querystorage-interface)
+▸ getQueryStorage(): [QueryStorage](api-reference-7x/easyquery-packages/core-package/interfaces/querystorage-interface)
 
 
-**Returns** [QueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querystorage-interface)
+**Returns** [QueryStorage](api-reference-7x/easyquery-packages/core-package/interfaces/querystorage-interface)
 
 
 ---
 ### getQuerySynchronizer
-▸ getQuerySynchronizer(): [QuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+▸ getQuerySynchronizer(): [QuerySynchronizer](api-reference-7x/easyquery-packages/core-package/interfaces/querysynchronizer-interface)
 
 
-**Returns** [QuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+**Returns** [QuerySynchronizer](api-reference-7x/easyquery-packages/core-package/interfaces/querysynchronizer-interface)
 
 
 ---
@@ -133,18 +133,18 @@ sidebar:
 
 ---
 ### getValueListResolver
-▸ getValueListResolver(): [EqValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)
+▸ getValueListResolver(): [EqValueListResolver](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface)
 
 
-**Returns** [EqValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)
+**Returns** [EqValueListResolver](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface)
 
 
 ---
 ### registerDataFetcherResolver
-▸ registerDataFetcherResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [DataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface)): `void`
+▸ registerDataFetcherResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [DataFetcher](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [DataFetcher](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [DataFetcher](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface)
 
 
 **Returns** `void`
@@ -152,10 +152,10 @@ sidebar:
 
 ---
 ### registerDataModelResolver
-▸ registerDataModelResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)): `void`
+▸ registerDataModelResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)
 
 
 **Returns** `void`
@@ -163,10 +163,10 @@ sidebar:
 
 ---
 ### registerModelLoaderResolver
-▸ registerModelLoaderResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [EqModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqmodelloader-class)): `void`
+▸ registerModelLoaderResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [EqModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqmodelloader-class)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [EqModelLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqmodelloader-class)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [EqModelLoader](api-reference-7x/easyquery-packages/core-package/classes/eqmodelloader-class)
 
 
 **Returns** `void`
@@ -174,10 +174,10 @@ sidebar:
 
 ---
 ### registerQueryFileLoaderResolver
-▸ registerQueryFileLoaderResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface)): `void`
+▸ registerQueryFileLoaderResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QueryFileLoader](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QueryFileLoader](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QueryFileLoader](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface)
 
 
 **Returns** `void`
@@ -185,10 +185,10 @@ sidebar:
 
 ---
 ### registerQueryResolver
-▸ registerQueryResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)): `void`
+▸ registerQueryResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 **Returns** `void`
@@ -196,10 +196,10 @@ sidebar:
 
 ---
 ### registerQueryStorageResolver
-▸ registerQueryStorageResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querystorage-interface)): `void`
+▸ registerQueryStorageResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QueryStorage](api-reference-7x/easyquery-packages/core-package/interfaces/querystorage-interface)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QueryStorage](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querystorage-interface)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QueryStorage](api-reference-7x/easyquery-packages/core-package/interfaces/querystorage-interface)
 
 
 **Returns** `void`
@@ -207,10 +207,10 @@ sidebar:
 
 ---
 ### registerQuerySyncronizerResolver
-▸ registerQuerySyncronizerResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querysynchronizer-interface)): `void`
+▸ registerQuerySyncronizerResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QuerySynchronizer](api-reference-7x/easyquery-packages/core-package/interfaces/querysynchronizer-interface)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [QuerySynchronizer](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [QuerySynchronizer](api-reference-7x/easyquery-packages/core-package/interfaces/querysynchronizer-interface)
 
 
 **Returns** `void`
@@ -218,10 +218,10 @@ sidebar:
 
 ---
 ### registerTotalCalculator
-▸ registerTotalCalculator(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `TotalsCalculator`): `void`
+▸ registerTotalCalculator(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `TotalsCalculator`): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => `TotalsCalculator`
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => `TotalsCalculator`
 
 
 **Returns** `void`
@@ -229,10 +229,10 @@ sidebar:
 
 ---
 ### registerValueListResolver
-▸ registerValueListResolver(resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [EqValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)): `void`
+▸ registerValueListResolver(resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [EqValueListResolver](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface)): `void`
 
 #### Parameters:
-- resolver: (context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)) => [EqValueListResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface)
+- resolver: (context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)) => [EqValueListResolver](api-reference-7x/easyquery-packages/core-package/interfaces/eqvaluelistresolver-interface)
 
 
 **Returns** `void`

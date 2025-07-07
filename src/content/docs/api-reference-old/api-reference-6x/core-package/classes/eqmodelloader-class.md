@@ -6,24 +6,24 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#protected-properties-1)
-- [modelLoadingRejectFunc](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#modelloadingrejectfunc)
-- [modelLoadingResolveFunc](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#modelloadingresolvefunc)
-- [modelNeverLoaded](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#modelneverloaded)
-- [modelPromise](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#modelpromise)
+### [Protected Properties](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#protected-properties-1)
+- [modelLoadingRejectFunc](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#modelloadingrejectfunc)
+- [modelLoadingResolveFunc](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#modelloadingresolvefunc)
+- [modelNeverLoaded](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#modelneverloaded)
+- [modelPromise](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#modelpromise)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#public-methods-1)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#getcontext)
-- [getModelPromise](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#getmodelpromise)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#init)
-- [startModelLoading](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#startmodelloading)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#public-methods-1)
+- [getContext](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#getcontext)
+- [getModelPromise](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#getmodelpromise)
+- [init](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#init)
+- [startModelLoading](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#startmodelloading)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#protected-methods-1)
-- [createModelLoadingPromise](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#createmodelloadingpromise)
-- [sendLoadModelRequest](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class/#sendloadmodelrequest)
+### [Protected Methods](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#protected-methods-1)
+- [createModelLoadingPromise](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#createmodelloadingpromise)
+- [sendLoadModelRequest](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class#sendloadmodelrequest)
 
 
 ## Constructors
@@ -31,10 +31,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqModelLoader(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [EqModelLoader](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqmodelloader-class)
+⊕ new EqModelLoader(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [EqModelLoader](api-reference-old/api-reference-6x/core-package/classes/eqmodelloader-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -49,7 +49,7 @@ sidebar:
 ---
 ### modelLoadingResolveFunc
 
-● modelLoadingResolveFunc: (value?: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class) | `PromiseLike`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt;) => `void`
+● modelLoadingResolveFunc: (value?: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class) | `PromiseLike`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt;) => `void`
 
 ---
 ### modelNeverLoaded
@@ -59,27 +59,27 @@ sidebar:
 ---
 ### modelPromise
 
-● modelPromise: `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt; | `null` = ` null`
+● modelPromise: `Promise`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt; | `null` = ` null`
 
 ---
 ## Public Methods
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
 ### getModelPromise
 Returns the `Promise` of the model loading process
 
-▸ getModelPromise(): `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt;
+▸ getModelPromise(): `Promise`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt;
 
 
-**Returns** `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt;
+**Returns** `Promise`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt;
 
 
 ---
@@ -95,13 +95,13 @@ Returns the `Promise` of the model loading process
 
 ---
 ### startModelLoading
-▸ startModelLoading(options: `any`): `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt;
+▸ startModelLoading(options: `any`): `Promise`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt;
 
 #### Parameters:
 - options: `any`
 
 
-**Returns** `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)&gt;
+**Returns** `Promise`&lt;[DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)&gt;
 
 
 ---

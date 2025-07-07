@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/odataoptions-interface/#properties-1)
-- [endpoint](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/odataoptions-interface/#endpoint)
-- [fromType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/odataoptions-interface/#fromtype)
-- [version](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/odataoptions-interface/#version)
+### [Properties](api-reference-old/api-reference-6x/odata-package/interfaces/odataoptions-interface#properties-1)
+- [endpoint](api-reference-old/api-reference-6x/odata-package/interfaces/odataoptions-interface#endpoint)
+- [fromType](api-reference-old/api-reference-6x/odata-package/interfaces/odataoptions-interface#fromtype)
+- [version](api-reference-old/api-reference-6x/odata-package/interfaces/odataoptions-interface#version)
 
 
 
@@ -29,6 +29,6 @@ sidebar:
 ---
 ### version
 
-● version?: [ODataVersion](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/enumerations/odataversion-enum)
+● version?: [ODataVersion](api-reference-old/api-reference-6x/odata-package/enumerations/odataversion-enum)
 
 ---

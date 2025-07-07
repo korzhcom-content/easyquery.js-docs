@@ -6,63 +6,63 @@ sidebar:
 ---
 
 ## Extends
-[FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class)
+[FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#protected-properties-1)
-- [activeFacetIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#activefacetindex)
-- [addMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#addmenu)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#context)
-- [facets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#facets)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#protected-properties-1)
+- [activeFacetIndex](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#activefacetindex)
+- [addMenu](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#addmenu)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#context)
+- [facets](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#facets)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#belongstogroup)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#clear)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#getcontext)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#getquery)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#refresh)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#public-methods-1)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#belongstogroup)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#clear)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#getcontext)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#getquery)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#protected-methods-1)
-- [attachQueryObserver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#attachqueryobserver)
-- [createAddMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#createaddmenu)
-- [createDefaultFacetIfNotExist](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#createdefaultfacetifnotexist)
-- [createFacetTab](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#createfacettab)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#destroycore)
-- [exportHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#exporthandler)
-- [getDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#getdialogservice)
-- [loadFacets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#loadfacets)
-- [maximizeHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#maximizehandler)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#refreshcore)
-- [refreshHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#refreshhandler)
-- [removeFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#removefacet)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#render)
-- [renderActiveFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#renderactivefacet)
-- [renderFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#renderfacet)
-- [renderFacetBody](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#renderfacetbody)
-- [renderFacetTab](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#renderfacettab)
-- [saveFacets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#savefacets)
-- [setActiveFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#setactivefacet)
-- [setOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#setoptions)
-- [updateTotalRecords](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#updatetotalrecords)
-- [validateAddFacetButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class/#validateaddfacetbutton)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#protected-methods-1)
+- [attachQueryObserver](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#attachqueryobserver)
+- [createAddMenu](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#createaddmenu)
+- [createDefaultFacetIfNotExist](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#createdefaultfacetifnotexist)
+- [createFacetTab](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#createfacettab)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#destroycore)
+- [exportHandler](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#exporthandler)
+- [getDialogService](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#getdialogservice)
+- [loadFacets](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#loadfacets)
+- [maximizeHandler](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#maximizehandler)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#refreshcore)
+- [refreshHandler](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#refreshhandler)
+- [removeFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#removefacet)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#render)
+- [renderActiveFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#renderactivefacet)
+- [renderFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#renderfacet)
+- [renderFacetBody](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#renderfacetbody)
+- [renderFacetTab](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#renderfacettab)
+- [saveFacets](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#savefacets)
+- [setActiveFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#setactivefacet)
+- [setOptions](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#setoptions)
+- [updateTotalRecords](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#updatetotalrecords)
+- [validateAddFacetButton](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class#validateaddfacetbutton)
 
 
 ## Constructors
@@ -70,7 +70,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ResultFacetsPanel(slot: `HTMLElement`): [ResultFacetsPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacetspanel-class)
+⊕ new ResultFacetsPanel(slot: `HTMLElement`): [ResultFacetsPanel](api-reference-7x/easyquery-packages/ui-package/classes/resultfacetspanel-class)
 
 #### Parameters:
 - slot: `HTMLElement`
@@ -96,22 +96,22 @@ sidebar:
 ---
 ### addMenu
 
-● addMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● addMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### facets
 
-● facets: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)[] = ` []`
+● facets: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)[] = ` []`
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -136,10 +136,10 @@ sidebar:
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -166,18 +166,18 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -192,11 +192,11 @@ Returns current context (the one this widget belongs to)
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [ResultFacetsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [ResultFacetsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [ResultFacetsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class) - The context.
+- options: [ResultFacetsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface), *Optional*  - The options.
 
 
 
@@ -266,13 +266,13 @@ Refreshes the widget's content
 
 ---
 ### createFacetTab
-▸ createFacetTab(type: [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)): [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+▸ createFacetTab(type: [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)): [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 #### Parameters:
-- type: [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)
+- type: [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)
 
 
-**Returns** [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+**Returns** [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 
 ---
@@ -352,10 +352,10 @@ Refreshes the widget's content
 
 ---
 ### removeFacet
-▸ removeFacet(facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)): `void`
+▸ removeFacet(facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)): `void`
 
 #### Parameters:
-- facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+- facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 
 **Returns** `void`
@@ -382,10 +382,10 @@ Refreshes the widget's content
 
 ---
 ### renderFacet
-▸ renderFacet(facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)): `void`
+▸ renderFacet(facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)): `void`
 
 #### Parameters:
-- facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+- facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 
 **Returns** `void`
@@ -404,10 +404,10 @@ Refreshes the widget's content
 
 ---
 ### renderFacetTab
-▸ renderFacetTab(facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)): `HTMLElement`
+▸ renderFacetTab(facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)): `HTMLElement`
 
 #### Parameters:
-- facet: [ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+- facet: [ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 
 **Returns** `HTMLElement`
@@ -437,10 +437,10 @@ Refreshes the widget's content
 
 ---
 ### setOptions
-▸ setOptions(options?: [ResultFacetsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface)): `void`
+▸ setOptions(options?: [ResultFacetsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface)): `void`
 
 #### Parameters:
-- options: [ResultFacetsPanelOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface), *Optional* 
+- options: [ResultFacetsPanelOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface), *Optional* 
 
 
 **Returns** `void`

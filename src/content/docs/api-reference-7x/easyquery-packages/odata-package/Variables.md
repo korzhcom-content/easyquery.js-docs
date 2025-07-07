@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## Index
-- [edmxModelString](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/variables/#edmxmodelstring)
+- [edmxModelString](api-reference-7x/easyquery-packages/odata-package/variables#edmxmodelstring)
 
 ### `const` edmxModelString
 

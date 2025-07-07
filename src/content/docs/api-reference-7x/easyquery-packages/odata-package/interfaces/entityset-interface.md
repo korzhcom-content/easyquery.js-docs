@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/entityset-interface/#properties-1)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/entityset-interface/#name)
-- [navigations](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/entityset-interface/#navigations)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/entityset-interface/#type)
+### [Properties](api-reference-7x/easyquery-packages/odata-package/interfaces/entityset-interface#properties-1)
+- [name](api-reference-7x/easyquery-packages/odata-package/interfaces/entityset-interface#name)
+- [navigations](api-reference-7x/easyquery-packages/odata-package/interfaces/entityset-interface#navigations)
+- [type](api-reference-7x/easyquery-packages/odata-package/interfaces/entityset-interface#type)
 
 
 
@@ -24,7 +24,7 @@ sidebar:
 ---
 ### navigations
 
-● navigations: [Navigation](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/interfaces/navigation-interface)[]
+● navigations: [Navigation](api-reference-7x/easyquery-packages/odata-package/interfaces/navigation-interface)[]
 
 ---
 ### type

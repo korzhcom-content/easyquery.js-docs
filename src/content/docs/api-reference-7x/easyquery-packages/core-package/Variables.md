@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## Index
-- [versionInfo](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/variables/#versioninfo)
+- [versionInfo](api-reference-7x/easyquery-packages/core-package/variables#versioninfo)
 
 ### `const` versionInfo
 

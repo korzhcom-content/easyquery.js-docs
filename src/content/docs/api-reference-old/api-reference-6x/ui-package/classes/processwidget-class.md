@@ -8,34 +8,34 @@ sidebar:
 The widget responsed for rendering process bar.
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#slot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#protected-properties-1)
+- [context](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#context)
+- [group](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#group)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#belongstogroup)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#destroy)
+- [getContext](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#getcontext)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#init)
+- [onProcessEnd](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class/#refreshcore)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#protected-methods-1)
+- [destroyCore](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#destroycore)
+- [onProcessEndCore](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class#refreshcore)
 
 
 ## Constructors
@@ -44,7 +44,7 @@ The widget responsed for rendering process bar.
 #### constructor
 
 The default constructor.
-⊕ new ProcessWidget(slot: `HTMLElement`): [ProcessWidget](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/processwidget-class)
+⊕ new ProcessWidget(slot: `HTMLElement`): [ProcessWidget](api-reference-old/api-reference-6x/ui-package/classes/processwidget-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -66,12 +66,12 @@ The default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -85,10 +85,10 @@ The default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-6x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -105,19 +105,19 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 ---
 ### init
 Initializes the widget and assign it to some context
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 - options: `any`, *Optional*  - 
 
 

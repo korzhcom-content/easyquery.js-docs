@@ -6,10 +6,10 @@ sidebar:
 ---
 
 ## Index
-- [combinePath](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/functions/#combinepath)
-- [repeatString](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/functions/#repeatstring)
-- [reverseString](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/functions/#reversestring)
-- [strEndsWith](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/functions/#strendswith)
+- [combinePath](api-reference-7x/easydata-packages/core-package/functions#combinepath)
+- [repeatString](api-reference-7x/easydata-packages/core-package/functions#repeatstring)
+- [reverseString](api-reference-7x/easydata-packages/core-package/functions#reversestring)
+- [strEndsWith](api-reference-7x/easydata-packages/core-package/functions#strendswith)
 
 #### combinePath
 

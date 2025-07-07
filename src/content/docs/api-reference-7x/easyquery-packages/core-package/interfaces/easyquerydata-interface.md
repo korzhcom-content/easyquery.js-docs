@@ -9,9 +9,9 @@ sidebar:
 EasyQuery License JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/easyquerydata-interface/#properties-1)
-- [token](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/easyquerydata-interface/#token)
-- [version](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/easyquerydata-interface/#version)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/easyquerydata-interface#properties-1)
+- [token](api-reference-7x/easyquery-packages/core-package/interfaces/easyquerydata-interface#token)
+- [version](api-reference-7x/easyquery-packages/core-package/interfaces/easyquerydata-interface#version)
 
 
 

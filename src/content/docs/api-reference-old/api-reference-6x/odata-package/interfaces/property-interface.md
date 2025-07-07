@@ -6,11 +6,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/property-interface/#properties-1)
-- [isKey](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/property-interface/#iskey)
-- [isNullable](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/property-interface/#isnullable)
-- [name](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/property-interface/#name)
-- [type](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/property-interface/#type)
+### [Properties](api-reference-old/api-reference-6x/odata-package/interfaces/property-interface#properties-1)
+- [isKey](api-reference-old/api-reference-6x/odata-package/interfaces/property-interface#iskey)
+- [isNullable](api-reference-old/api-reference-6x/odata-package/interfaces/property-interface#isnullable)
+- [name](api-reference-old/api-reference-6x/odata-package/interfaces/property-interface#name)
+- [type](api-reference-old/api-reference-6x/odata-package/interfaces/property-interface#type)
 
 
 
@@ -34,6 +34,6 @@ sidebar:
 ---
 ### type
 
-● type: [EdmxDataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/enumerations/edmxdatatype-enum) | `string`
+● type: [EdmxDataType](api-reference-old/api-reference-6x/odata-package/enumerations/edmxdatatype-enum) | `string`
 
 ---

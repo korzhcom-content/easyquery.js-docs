@@ -9,14 +9,14 @@ sidebar:
 Grid options type.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#properties-1)
-- [allowDragDrop](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#allowdragdrop)
-- [beforeTableRendering](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#beforetablerendering)
-- [formatColumnHeader](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#formatcolumnheader)
-- [formatGridCell](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#formatgridcell)
-- [maxButtonCount](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#maxbuttoncount)
-- [pageItemCssClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#pageitemcssclass)
-- [tableClass](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/gridoptions-interface/#tableclass)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#properties-1)
+- [allowDragDrop](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#allowdragdrop)
+- [beforeTableRendering](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#beforetablerendering)
+- [formatColumnHeader](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#formatcolumnheader)
+- [formatGridCell](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#formatgridcell)
+- [maxButtonCount](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#maxbuttoncount)
+- [pageItemCssClass](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#pageitemcssclass)
+- [tableClass](api-reference-7x/easyquery-packages/ui-package/interfaces/gridoptions-interface#tableclass)
 
 
 

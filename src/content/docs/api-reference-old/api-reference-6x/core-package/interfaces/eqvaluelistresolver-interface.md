@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface/#methods-1)
-- [loadValueList](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqvaluelistresolver-interface/#loadvaluelist)
+### [Methods](api-reference-old/api-reference-6x/core-package/interfaces/eqvaluelistresolver-interface#methods-1)
+- [loadValueList](api-reference-old/api-reference-6x/core-package/interfaces/eqvaluelistresolver-interface#loadvaluelist)
 
 
 

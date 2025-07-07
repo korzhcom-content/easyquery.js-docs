@@ -9,10 +9,10 @@ sidebar:
 Represents a constant with some default value
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface/#properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface/#id)
-- [isDefault](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface/#isdefault)
-- [key](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface/#key)
+### [Properties](api-reference-7x/easyquery-packages/core-package/eqconsts-namespace/interfaces/constvalue-interface#properties-1)
+- [id](api-reference-7x/easyquery-packages/core-package/eqconsts-namespace/interfaces/constvalue-interface#id)
+- [isDefault](api-reference-7x/easyquery-packages/core-package/eqconsts-namespace/interfaces/constvalue-interface#isdefault)
+- [key](api-reference-7x/easyquery-packages/core-package/eqconsts-namespace/interfaces/constvalue-interface#key)
 
 
 

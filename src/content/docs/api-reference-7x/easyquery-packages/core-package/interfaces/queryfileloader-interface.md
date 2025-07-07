@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface/#methods-1)
-- [getQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface/#getqueryfile)
-- [uploadQueryFile](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryfileloader-interface/#uploadqueryfile)
+### [Methods](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface#methods-1)
+- [getQueryFile](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface#getqueryfile)
+- [uploadQueryFile](api-reference-7x/easyquery-packages/core-package/interfaces/queryfileloader-interface#uploadqueryfile)
 
 
 
@@ -17,10 +17,10 @@ sidebar:
 
 ---
 ### getQueryFile
-▸ getQueryFile(options?: [GetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface)): `Promise`&lt;`void`&gt;
+▸ getQueryFile(options?: [GetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface)): `Promise`&lt;`void`&gt;
 
 #### Parameters:
-- options: [GetQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface), *Optional* 
+- options: [GetQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`void`&gt;
@@ -28,13 +28,13 @@ sidebar:
 
 ---
 ### uploadQueryFile
-▸ uploadQueryFile(options?: [UploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface)): `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+▸ uploadQueryFile(options?: [UploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface)): `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 #### Parameters:
-- options: [UploadQueryFileOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/uploadqueryfileoptions-interface), *Optional* 
+- options: [UploadQueryFileOptions](api-reference-7x/easyquery-packages/core-package/interfaces/uploadqueryfileoptions-interface), *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)&gt;
+**Returns** `Promise`&lt;[QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)&gt;
 
 
 ---

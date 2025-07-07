@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/classes/constlists-class/#public-properties-1)
-- [BooleanValues](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/classes/constlists-class/#booleanvalues)
-- [SpecDateValues](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/classes/constlists-class/#specdatevalues)
-- [SpecTimeValues](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/classes/constlists-class/#spectimevalues)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/classes/constlists-class#public-properties-1)
+- [BooleanValues](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/classes/constlists-class#booleanvalues)
+- [SpecDateValues](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/classes/constlists-class#specdatevalues)
+- [SpecTimeValues](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/classes/constlists-class#spectimevalues)
 
 
 
@@ -18,14 +18,14 @@ sidebar:
 
 ---
 #### BooleanValues
-● BooleanValues: `Array`&lt;[ConstValue](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = `[
+● BooleanValues: `Array`&lt;[ConstValue](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = `[
                 { id: '${false}', key: 'False' },
                 { id: '${true}', key: 'True', isDefault: true }
         ]`
 
 ---
 #### SpecDateValues
-● SpecDateValues: `Array`&lt;[ConstValue](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
+● SpecDateValues: `Array`&lt;[ConstValue](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
             { id: '${Today}', key: 'Today', isDefault: true },
             { id: '${Yesterday}', key: 'Yesterday' },
             { id: '${Tomorrow}', key: 'Tomorrow' },
@@ -35,7 +35,7 @@ sidebar:
 
 ---
 #### SpecTimeValues
-● SpecTimeValues: `Array`&lt;[ConstValue](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
+● SpecTimeValues: `Array`&lt;[ConstValue](api-reference-old/api-reference-5-x/core-package/eqconsts-namespace/interfaces/constvalue-interface)&gt; = ` [
             { id: '${Now}', key: 'Now', isDefault: true },
             { id: '${HourStart}', key: 'HourStart' },
             { id: '${Midnight}', key: 'Midnight' },

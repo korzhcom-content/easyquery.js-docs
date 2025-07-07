@@ -8,19 +8,19 @@ sidebar:
 Represents a value editor.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#public-properties-1)
-- [defValue](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#defvalue)
-- [id](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#id)
-- [name](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#name)
-- [resType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#restype)
-- [sql](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#sql)
-- [tag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#tag)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#public-properties-1)
+- [defValue](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#defvalue)
+- [id](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#id)
+- [name](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#name)
+- [resType](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#restype)
+- [sql](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#sql)
+- [tag](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#tag)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class/#loadfromdata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#public-methods-1)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class#loadfromdata)
 
 
 ## Constructors
@@ -29,7 +29,7 @@ Represents a value editor.
 #### constructor
 
 The default constructor.
-⊕ new ValueEditor(): [ValueEditor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/valueeditor-class)
+⊕ new ValueEditor(): [ValueEditor](api-reference-old/api-reference-5-x/core-package/classes/valueeditor-class)
 
 
 ---
@@ -62,7 +62,7 @@ The name of the value editor.
 
 The type of the result.
 
-● resType: [DataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/datatype-enum)
+● resType: [DataType](api-reference-old/api-reference-5-x/core-package/enumerations/datatype-enum)
 
 ---
 ### sql
@@ -76,7 +76,7 @@ The sql expression.
 
 The tag.
 
-● tag: [EditorTag](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/editortag-enum)
+● tag: [EditorTag](api-reference-old/api-reference-5-x/core-package/enumerations/editortag-enum)
 
 ---
 ## Public Methods
@@ -85,10 +85,10 @@ The tag.
 ### loadFromData
 Loads value editor from its JSON representation object.
 
-▸ loadFromData(data: [ValueEditorData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface)): `void`
+▸ loadFromData(data: [ValueEditorData](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface)): `void`
 
 #### Parameters:
-- data: [ValueEditorData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/valueeditordata-interface) - The JSON representation object.
+- data: [ValueEditorData](api-reference-old/api-reference-5-x/core-package/interfaces/valueeditordata-interface) - The JSON representation object.
 
 
 

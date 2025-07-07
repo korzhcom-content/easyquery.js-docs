@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#properties-1)
-- [gridResolver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#gridresolver)
-- [showExportButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#showexportbutton)
-- [showProcessIndicator](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#showprocessindicator)
-- [showRefreshButton](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#showrefreshbutton)
-- [supportedChartTypes](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/resultfacetspaneloptions-interface/#supportedcharttypes)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#properties-1)
+- [gridResolver](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#gridresolver)
+- [showExportButton](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#showexportbutton)
+- [showProcessIndicator](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#showprocessindicator)
+- [showRefreshButton](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#showrefreshbutton)
+- [supportedChartTypes](api-reference-7x/easyquery-packages/ui-package/interfaces/resultfacetspaneloptions-interface#supportedcharttypes)
 
 
 
@@ -21,7 +21,7 @@ sidebar:
 ---
 ### gridResolver
 
-● gridResolver?: (slot: `HTMLElement`, facetType: [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)) => [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) | `null` | `undefined`
+● gridResolver?: (slot: `HTMLElement`, facetType: [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)) => [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) | `null` | `undefined`
 
 ---
 ### showExportButton
@@ -41,6 +41,6 @@ sidebar:
 ---
 ### supportedChartTypes
 
-● supportedChartTypes?: [ChartType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/charttype-enum)[]
+● supportedChartTypes?: [ChartType](api-reference-7x/easyquery-packages/ui-package/enumerations/charttype-enum)[]
 
 ---

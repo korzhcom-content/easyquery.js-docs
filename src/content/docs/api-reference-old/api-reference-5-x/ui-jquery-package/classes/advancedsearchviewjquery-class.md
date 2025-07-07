@@ -7,34 +7,34 @@ sidebar:
 ---
 
 ## Extends
-[AdvancedSearchView](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/advancedsearchview-class)
+[AdvancedSearchView](api-reference-old/api-reference-5-x/ui-package/classes/advancedsearchview-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#public-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#context)
+### [Public Properties](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#public-properties-1)
+- [context](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#context)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#protected-properties-1)
-- [disabledClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#disabledclass)
+### [Protected Properties](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#protected-properties-1)
+- [disabledClass](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#disabledclass)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#public-methods-1)
-- [buildAndExecute](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#buildandexecute)
-- [getContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#init)
-- [syncQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#syncquery)
+### [Public Methods](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#public-methods-1)
+- [buildAndExecute](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#buildandexecute)
+- [getContext](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#getcontext)
+- [init](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#init)
+- [syncQuery](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#syncquery)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#protected-methods-1)
-- [createColumnsPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#createcolumnspanelwidget)
-- [createDefaultBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#createdefaultbroker)
-- [createDefaultChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#createdefaultchartprovider)
-- [createEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#createentitiespanelwidget)
-- [createQueryPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#createquerypanelwidget)
-- [disableExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#disableexportbuttons)
-- [displayRecordsCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#displayrecordscount)
-- [enableExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#enableexportbuttons)
-- [hideExportButtons](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class/#hideexportbuttons)
+### [Protected Methods](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#protected-methods-1)
+- [createColumnsPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#createcolumnspanelwidget)
+- [createDefaultBroker](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#createdefaultbroker)
+- [createDefaultChartProvider](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#createdefaultchartprovider)
+- [createEntitiesPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#createentitiespanelwidget)
+- [createQueryPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#createquerypanelwidget)
+- [disableExportButtons](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#disableexportbuttons)
+- [displayRecordsCount](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#displayrecordscount)
+- [enableExportButtons](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#enableexportbuttons)
+- [hideExportButtons](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class#hideexportbuttons)
 
 
 ## Constructors
@@ -42,7 +42,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new AdvancedSearchViewJQuery(): [AdvancedSearchViewJQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/classes/advancedsearchviewjquery-class)
+⊕ new AdvancedSearchViewJQuery(): [AdvancedSearchViewJQuery](api-reference-old/api-reference-5-x/ui-jquery-package/classes/advancedsearchviewjquery-class)
 
 
 ---
@@ -52,7 +52,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 ---
 ## Protected Properties
@@ -84,20 +84,20 @@ Builds and executes current query.
 ### getContext
 Returns the context.
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class) - [[EqContext]] object.
+**Returns** [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class) - [[EqContext]] object.
 
 
 ---
 ### init
 Initializes the view.
 
-▸ init(options?: [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): `void`
+▸ init(options?: [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface)): `void`
 
 #### Parameters:
-- options: [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
+- options: [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface), *Optional*  - The [[EqViewOptions]] object.
 
 
 
@@ -117,53 +117,53 @@ Sends current query to back-end.
 
 ---
 ### createColumnsPanelWidget
-▸ createColumnsPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+▸ createColumnsPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 ---
 ### createDefaultBroker
-▸ createDefaultBroker(context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)): [EqBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface)
+▸ createDefaultBroker(context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)): [EqBroker](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface)
+**Returns** [EqBroker](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface)
 
 ---
 ### createDefaultChartProvider
 Creates the default chart provider for the view.
 
-▸ createDefaultChartProvider(): [ChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface)
+▸ createDefaultChartProvider(): [ChartProvider](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface)
 
 
-**Returns** [ChartProvider](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface) - the created [[ChartProvider]] object.
+**Returns** [ChartProvider](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface) - the created [[ChartProvider]] object.
 
 
 ---
 ### createEntitiesPanelWidget
-▸ createEntitiesPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+▸ createEntitiesPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 ---
 ### createQueryPanelWidget
-▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+▸ createQueryPanelWidget(placeholderElement: `HTMLElement`): [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 #### Parameters:
 - placeholderElement: `HTMLElement`
 
 
-**Returns** [Widget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/widget-class)
+**Returns** [Widget](api-reference-old/api-reference-5-x/core-package/classes/widget-class)
 
 ---
 ### disableExportButtons

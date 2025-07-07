@@ -7,40 +7,40 @@ sidebar:
 ---
 
 ## Implements
-[Dialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialog-interface), [PorgressDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/porgressdialog-interface)
+[Dialog](api-reference-7x/easydata-packages/ui-package/interfaces/dialog-interface), [PorgressDialog](api-reference-7x/easydata-packages/ui-package/interfaces/porgressdialog-interface)
 
 ## Extends
-[DefaultDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class)
+[DefaultDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#protected-properties-1)
-- [alertElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#alertelement)
-- [bodyElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#bodyelement)
-- [contentElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#contentelement)
-- [footerElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#footerelement)
-- [headerElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#headerelement)
-- [progressElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#progresselement)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#slot)
-- [windowElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#windowelement)
+### [Protected Properties](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#protected-properties-1)
+- [alertElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#alertelement)
+- [bodyElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#bodyelement)
+- [contentElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#contentelement)
+- [footerElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#footerelement)
+- [headerElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#headerelement)
+- [progressElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#progresselement)
+- [slot](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#slot)
+- [windowElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#windowelement)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#public-methods-1)
-- [cancel](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#cancel)
-- [clearAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#clearalert)
-- [close](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#close)
-- [disableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#disablebuttons)
-- [enableButtons](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#enablebuttons)
-- [getRootElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#getrootelement)
-- [open](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#open)
-- [showAlert](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#showalert)
-- [submit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#submit)
-- [updateContent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#updatecontent)
-- [updateProgress](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#updateprogress)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#public-methods-1)
+- [cancel](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#cancel)
+- [clearAlert](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#clearalert)
+- [close](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#close)
+- [disableButtons](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#disablebuttons)
+- [enableButtons](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#enablebuttons)
+- [getRootElement](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#getrootelement)
+- [open](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#open)
+- [showAlert](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#showalert)
+- [submit](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#submit)
+- [updateContent](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#updatecontent)
+- [updateProgress](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#updateprogress)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#protected-methods-1)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class/#destroy)
+### [Protected Methods](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#protected-methods-1)
+- [destroy](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class#destroy)
 
 
 ## Constructors
@@ -48,10 +48,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DefaultProgressDialog(options: [ProgressDialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface)): [DefaultProgressDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class)
+⊕ new DefaultProgressDialog(options: [ProgressDialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface)): [DefaultProgressDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class)
 
 #### Parameters:
-- options: [ProgressDialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface)
+- options: [ProgressDialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface)
 
 
 ---

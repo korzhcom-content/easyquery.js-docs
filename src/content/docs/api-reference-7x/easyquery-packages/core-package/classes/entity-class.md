@@ -11,26 +11,26 @@ Represents one entity.
 `MetaEntity`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/entity-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/entity-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#public-properties-1)
-- [attributes](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#attributes)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#caption)
-- [captionPlural](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#captionplural)
-- [description](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#description)
-- [endpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#endpoint)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#name)
-- [parent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#parent)
-- [subEntities](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#subentities)
-- [useInConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#useinconditions)
-- [useInResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#useinresult)
-- [useInSorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#useinsorting)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/entity-class#public-properties-1)
+- [attributes](api-reference-7x/easyquery-packages/core-package/classes/entity-class#attributes)
+- [caption](api-reference-7x/easyquery-packages/core-package/classes/entity-class#caption)
+- [captionPlural](api-reference-7x/easyquery-packages/core-package/classes/entity-class#captionplural)
+- [description](api-reference-7x/easyquery-packages/core-package/classes/entity-class#description)
+- [endpoint](api-reference-7x/easyquery-packages/core-package/classes/entity-class#endpoint)
+- [id](api-reference-7x/easyquery-packages/core-package/classes/entity-class#id)
+- [name](api-reference-7x/easyquery-packages/core-package/classes/entity-class#name)
+- [parent](api-reference-7x/easyquery-packages/core-package/classes/entity-class#parent)
+- [subEntities](api-reference-7x/easyquery-packages/core-package/classes/entity-class#subentities)
+- [useInConditions](api-reference-7x/easyquery-packages/core-package/classes/entity-class#useinconditions)
+- [useInResult](api-reference-7x/easyquery-packages/core-package/classes/entity-class#useinresult)
+- [useInSorting](api-reference-7x/easyquery-packages/core-package/classes/entity-class#useinsorting)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#loadfromdata)
-- [scan](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class/#scan)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/entity-class#public-methods-1)
+- [loadFromData](api-reference-7x/easyquery-packages/core-package/classes/entity-class#loadfromdata)
+- [scan](api-reference-7x/easyquery-packages/core-package/classes/entity-class#scan)
 
 
 ## Constructors
@@ -39,10 +39,10 @@ Represents one entity.
 #### constructor
 
 The default constructor.
-⊕ new Entity(parent?: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)): [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)
+⊕ new Entity(parent?: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)): [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)
 
 #### Parameters:
-- parent: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class), *Optional* 
+- parent: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class), *Optional* 
 
 
 ---
@@ -52,7 +52,7 @@ The default constructor.
 ---
 ### attributes
 
-● attributes: `Array`&lt;[EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)&gt;
+● attributes: `Array`&lt;[EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)&gt;
 
 ---
 ### caption
@@ -106,7 +106,7 @@ The parent.
 ---
 ### subEntities
 
-● subEntities: `Array`&lt;[Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)&gt;
+● subEntities: `Array`&lt;[Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)&gt;
 
 ---
 ### useInConditions
@@ -136,11 +136,11 @@ The value indicating whether the attribute can be used in sorting.
 ### loadFromData
 Loads entity from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class),data: [EntityData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class),data: [EntityData](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [EntityData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class) - The Data Model.
+- data: [EntityData](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface) - The JSON representation object.
 
 
 
@@ -149,11 +149,11 @@ Loads entity from its JSON representation object.
 
 ---
 ### scan
-▸ scan(processAttribute?: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class), opts: `any`) => `void`,processEntity?: (entity: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class), opts: `any`) => `void`): `void`
+▸ scan(processAttribute?: (attr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class), opts: `any`) => `void`,processEntity?: (entity: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class), opts: `any`) => `void`): `void`
 
 #### Parameters:
-- processAttribute: (attr: [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class), opts: `any`) => `void`, *Optional* 
-- processEntity: (entity: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class), opts: `any`) => `void`, *Optional* 
+- processAttribute: (attr: [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class), opts: `any`) => `void`, *Optional* 
+- processEntity: (entity: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class), opts: `any`) => `void`, *Optional* 
 
 
 **Returns** `void`

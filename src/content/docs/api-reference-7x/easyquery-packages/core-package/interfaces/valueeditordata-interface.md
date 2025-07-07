@@ -12,16 +12,16 @@ Value editor JSON representation object.
 `ValueEditorDTO`
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#properties-1)
-- [defval](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#defval)
-- [extraParams](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#extraparams)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#name)
-- [rtype](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#rtype)
-- [sql](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#sql)
-- [subType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#subtype)
-- [tag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#tag)
-- [values](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valueeditordata-interface/#values)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#properties-1)
+- [defval](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#defval)
+- [extraParams](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#extraparams)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#id)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#name)
+- [rtype](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#rtype)
+- [sql](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#sql)
+- [subType](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#subtype)
+- [tag](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#tag)
+- [values](api-reference-7x/easyquery-packages/core-package/interfaces/valueeditordata-interface#values)
 
 
 

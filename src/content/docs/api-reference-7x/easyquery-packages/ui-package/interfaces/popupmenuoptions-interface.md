@@ -7,31 +7,31 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#properties-1)
-- [activateOnMouseOver](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#activateonmouseover)
-- [adjustHeight](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#adjustheight)
-- [anchor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#anchor)
-- [buttons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#buttons)
-- [container](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#container)
-- [domWriteItemsId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#domwriteitemsid)
-- [hideButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#hidebuttons)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#id)
-- [isSubQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#issubquery)
-- [itemFilterCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#itemfiltercallback)
-- [itemRenderedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#itemrenderedcallback)
-- [itemSelectedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#itemselectedcallback)
-- [items](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#items)
-- [menuClosedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#menuclosedcallback)
-- [multiselect](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#multiselect)
-- [onMenuItemSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#onmenuitemselected)
-- [searchBoxAlwaysShown](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#searchboxalwaysshown)
-- [searchBoxAutoFocus](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#searchboxautofocus)
-- [selectedIds](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#selectedids)
-- [showSearchBoxAfter](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#showsearchboxafter)
-- [showSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#showselected)
-- [submitOnBlur](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#submitonblur)
-- [useDefaultStyles](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#usedefaultstyles)
-- [zIndex](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface/#zindex)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#properties-1)
+- [activateOnMouseOver](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#activateonmouseover)
+- [adjustHeight](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#adjustheight)
+- [anchor](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#anchor)
+- [buttons](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#buttons)
+- [container](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#container)
+- [domWriteItemsId](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#domwriteitemsid)
+- [hideButtons](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#hidebuttons)
+- [id](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#id)
+- [isSubQuery](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#issubquery)
+- [itemFilterCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#itemfiltercallback)
+- [itemRenderedCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#itemrenderedcallback)
+- [itemSelectedCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#itemselectedcallback)
+- [items](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#items)
+- [menuClosedCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#menuclosedcallback)
+- [multiselect](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#multiselect)
+- [onMenuItemSelected](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#onmenuitemselected)
+- [searchBoxAlwaysShown](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#searchboxalwaysshown)
+- [searchBoxAutoFocus](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#searchboxautofocus)
+- [selectedIds](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#selectedids)
+- [showSearchBoxAfter](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#showsearchboxafter)
+- [showSelected](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#showselected)
+- [submitOnBlur](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#submitonblur)
+- [useDefaultStyles](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#usedefaultstyles)
+- [zIndex](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface#zindex)
 
 
 
@@ -100,7 +100,7 @@ sidebar:
 ---
 ### items
 
-● items?: [MenuItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/menuitem-interface)[]
+● items?: [MenuItem](api-reference-7x/easyquery-packages/ui-package/interfaces/menuitem-interface)[]
 
 ---
 ### menuClosedCallback

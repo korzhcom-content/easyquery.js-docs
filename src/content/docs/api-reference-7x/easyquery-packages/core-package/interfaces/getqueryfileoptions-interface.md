@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface/#properties-1)
-- [fileName](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface/#filename)
-- [format](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface/#format)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/getqueryfileoptions-interface/#query)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface#properties-1)
+- [fileName](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface#filename)
+- [format](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface#format)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/getqueryfileoptions-interface#query)
 
 
 
@@ -29,6 +29,6 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---

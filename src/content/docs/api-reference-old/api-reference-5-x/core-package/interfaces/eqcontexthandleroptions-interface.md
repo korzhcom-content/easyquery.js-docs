@@ -9,15 +9,15 @@ sidebar:
 Defines interface for all context event handlers
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#properties-1)
-- [listRequestHandler](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#listrequesthandler)
-- [onError](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#onerror)
-- [onInit](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#oninit)
-- [onInitialModelLoad](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#oninitialmodelload)
-- [onLoadModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#onloadmodel)
-- [onLoadQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#onloadquery)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqcontexthandleroptions-interface/#onprocessstart)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#properties-1)
+- [listRequestHandler](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#listrequesthandler)
+- [onError](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#onerror)
+- [onInit](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#oninit)
+- [onInitialModelLoad](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#oninitialmodelload)
+- [onLoadModel](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#onloadmodel)
+- [onLoadQuery](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#onloadquery)
+- [onProcessEnd](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-5-x/core-package/interfaces/eqcontexthandleroptions-interface#onprocessstart)
 
 
 
@@ -31,7 +31,7 @@ Defines interface for all context event handlers
 ---
 ### onError
 
-● onError?: (message: [ErrorMessage](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/errormessage-interface)) => `void`
+● onError?: (message: [ErrorMessage](api-reference-old/api-reference-5-x/core-package/interfaces/errormessage-interface)) => `void`
 
 ---
 ### onInit
@@ -41,26 +41,26 @@ Defines interface for all context event handlers
 ---
 ### onInitialModelLoad
 
-● onInitialModelLoad?: (model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)) => `void`
+● onInitialModelLoad?: (model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)) => `void`
 
 ---
 ### onLoadModel
 
-● onLoadModel?: (model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)) => `void`
+● onLoadModel?: (model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)) => `void`
 
 ---
 ### onLoadQuery
 
-● onLoadQuery?: (query: [Query](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/query-class)) => `void`
+● onLoadQuery?: (query: [Query](api-reference-old/api-reference-5-x/core-package/classes/query-class)) => `void`
 
 ---
 ### onProcessEnd
 
-● onProcessEnd?: (message: [Message](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/message-interface)) => `void`
+● onProcessEnd?: (message: [Message](api-reference-old/api-reference-5-x/core-package/interfaces/message-interface)) => `void`
 
 ---
 ### onProcessStart
 
-● onProcessStart?: (message: [Message](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/message-interface)) => `void`
+● onProcessStart?: (message: [Message](api-reference-old/api-reference-5-x/core-package/interfaces/message-interface)) => `void`
 
 ---

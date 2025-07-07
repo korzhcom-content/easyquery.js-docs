@@ -6,33 +6,33 @@ sidebar:
 ---
 
 ## Index
-- [areCompatibleDataTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#arecompatibledatatypes)
-- [assign](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#assign)
-- [assignDeep](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#assigndeep)
-- [combinePath](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#combinepath)
-- [convertValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#convertvalue)
-- [copyArrayTo](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#copyarrayto)
-- [createArrayFrom](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#createarrayfrom)
-- [dateTimeToStr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#datetimetostr)
-- [fillArray](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#fillarray)
-- [findItemById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#finditembyid)
-- [findItemIndexById](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#finditemindexbyid)
-- [generateId](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#generateid)
-- [getIfDefined](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#getifdefined)
-- [indexOfArrayItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#indexofarrayitem)
-- [isIntType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#isinttype)
-- [isNumeric](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#isnumeric)
-- [isNumericType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#isnumerictype)
-- [isObject](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#isobject)
-- [isPropSet](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#ispropset)
-- [linkTypeToStr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#linktypetostr)
-- [moveArrayItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#movearrayitem)
-- [numberToStr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#numbertostr)
-- [parseOperatorFormat](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#parseoperatorformat)
-- [removeArrayItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#removearrayitem)
-- [shiftToFitWindow](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#shifttofitwindow)
-- [strToDate](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#strtodate)
-- [strToLinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/equtils-namespace/functions/#strtolinktype)
+- [areCompatibleDataTypes](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#arecompatibledatatypes)
+- [assign](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#assign)
+- [assignDeep](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#assigndeep)
+- [combinePath](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#combinepath)
+- [convertValue](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#convertvalue)
+- [copyArrayTo](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#copyarrayto)
+- [createArrayFrom](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#createarrayfrom)
+- [dateTimeToStr](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#datetimetostr)
+- [fillArray](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#fillarray)
+- [findItemById](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#finditembyid)
+- [findItemIndexById](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#finditemindexbyid)
+- [generateId](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#generateid)
+- [getIfDefined](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#getifdefined)
+- [indexOfArrayItem](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#indexofarrayitem)
+- [isIntType](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#isinttype)
+- [isNumeric](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#isnumeric)
+- [isNumericType](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#isnumerictype)
+- [isObject](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#isobject)
+- [isPropSet](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#ispropset)
+- [linkTypeToStr](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#linktypetostr)
+- [moveArrayItem](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#movearrayitem)
+- [numberToStr](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#numbertostr)
+- [parseOperatorFormat](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#parseoperatorformat)
+- [removeArrayItem](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#removearrayitem)
+- [shiftToFitWindow](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#shifttofitwindow)
+- [strToDate](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#strtodate)
+- [strToLinkType](api-reference-old/api-reference-6x/core-package/equtils-namespace/functions#strtolinktype)
 
 #### areCompatibleDataTypes
 
@@ -40,11 +40,11 @@ Returns `true` if two data types  passed in parameters
 are compatible - so it's safe to copy the values between
 two expressions with these two types
 
-▸ areCompatibleDataTypes(type1: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum),type2: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `boolean`
+▸ areCompatibleDataTypes(type1: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum),type2: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- type1: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
-- type2: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum) - 
+- type1: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
+- type2: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum) - 
 
 
 
@@ -114,12 +114,12 @@ Correctly processes leading and trailing slashes
 ---
 #### convertValue
 
-▸ convertValue(value: `string`,fromDataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum),toDataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `string`
+▸ convertValue(value: `string`,fromDataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum),toDataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `string`
 
 #### Parameters:
 - value: `string`
-- fromDataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
-- toDataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+- fromDataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
+- toDataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 
 **Returns** `string`
@@ -267,10 +267,10 @@ Returs the index of the found element, or -1 if nothing was found.
 Returns `true` if the `DataType` value passed in the parameter
 represents some numeric type
 
-▸ isIntType(dtype: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `boolean`
+▸ isIntType(dtype: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- dtype: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum) - 
+- dtype: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum) - 
 
 
 
@@ -300,10 +300,10 @@ Returns `true` if the value passed in the parameter is an a numeric value
 Returns `true` if the `DataType` value passed in the parameter
 represents some numeric type
 
-▸ isNumericType(dtype: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `boolean`
+▸ isNumericType(dtype: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `boolean`
 
 #### Parameters:
-- dtype: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum) - 
+- dtype: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum) - 
 
 
 
@@ -350,10 +350,10 @@ in the object `obj` has some value
 
 Converts a `LinkType` value to a string
 
-▸ linkTypeToStr(type: [LinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/linktype-enum)): `string`
+▸ linkTypeToStr(type: [LinkType](api-reference-old/api-reference-6x/core-package/enumerations/linktype-enum)): `string`
 
 #### Parameters:
-- type: [LinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/linktype-enum) - 
+- type: [LinkType](api-reference-old/api-reference-6x/core-package/enumerations/linktype-enum) - 
 
 
 
@@ -398,14 +398,14 @@ Moves an item in some array to a new position
 
 Parses the operator's format string and returns a list of tokens
 
-▸ parseOperatorFormat(operator: `any`): [FormatToken](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/formattoken-interface)[]
+▸ parseOperatorFormat(operator: `any`): [FormatToken](api-reference-old/api-reference-6x/core-package/interfaces/formattoken-interface)[]
 
 #### Parameters:
 - operator: `any` - 
 
 
 
-**Returns** [FormatToken](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/formattoken-interface)[]
+**Returns** [FormatToken](api-reference-old/api-reference-6x/core-package/interfaces/formattoken-interface)[]
 
 
 
@@ -463,14 +463,14 @@ to find current window
 
 Converts a string to a `LinkType` value
 
-▸ strToLinkType(str: `string`): [LinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/linktype-enum)
+▸ strToLinkType(str: `string`): [LinkType](api-reference-old/api-reference-6x/core-package/enumerations/linktype-enum)
 
 #### Parameters:
 - str: `string` - 
 
 
 
-**Returns** [LinkType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/linktype-enum)
+**Returns** [LinkType](api-reference-old/api-reference-6x/core-package/enumerations/linktype-enum)
 
 
 

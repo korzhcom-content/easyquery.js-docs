@@ -6,10 +6,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunk-interface/#properties-1)
-- [hasNext](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunk-interface/#hasnext)
-- [table](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunk-interface/#table)
-- [total](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datachunk-interface/#total)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/datachunk-interface#properties-1)
+- [hasNext](api-reference-7x/easydata-packages/core-package/interfaces/datachunk-interface#hasnext)
+- [table](api-reference-7x/easydata-packages/core-package/interfaces/datachunk-interface#table)
+- [total](api-reference-7x/easydata-packages/core-package/interfaces/datachunk-interface#total)
 
 
 
@@ -23,7 +23,7 @@ sidebar:
 ---
 ### table
 
-● table: [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+● table: [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 ---
 ### total

@@ -9,8 +9,8 @@ sidebar:
 Represents any object which hs `id` property
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/interfaces/itemwithid-interface/#properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/utils-namespace/interfaces/itemwithid-interface/#id)
+### [Properties](api-reference-7x/easydata-packages/core-package/utils-namespace/interfaces/itemwithid-interface#properties-1)
+- [id](api-reference-7x/easydata-packages/core-package/utils-namespace/interfaces/itemwithid-interface#id)
 
 
 

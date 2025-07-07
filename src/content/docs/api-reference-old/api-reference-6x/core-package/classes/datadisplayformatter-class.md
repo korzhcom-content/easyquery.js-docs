@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class/#public-methods-1)
-- [dateTimeToStr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class/#datetimetostr)
-- [numberToStr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class/#numbertostr)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class#public-methods-1)
+- [dateTimeToStr](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class#datetimetostr)
+- [numberToStr](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class#numbertostr)
 
 
 ## Constructors
@@ -20,10 +20,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DataDisplayFormatter(options?: [DataDisplayFormatterOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/datadisplayformatteroptions-interface)): [DataDisplayFormatter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datadisplayformatter-class)
+⊕ new DataDisplayFormatter(options?: [DataDisplayFormatterOptions](api-reference-old/api-reference-6x/core-package/interfaces/datadisplayformatteroptions-interface)): [DataDisplayFormatter](api-reference-old/api-reference-6x/core-package/classes/datadisplayformatter-class)
 
 #### Parameters:
-- options: [DataDisplayFormatterOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/datadisplayformatteroptions-interface), *Optional* 
+- options: [DataDisplayFormatterOptions](api-reference-old/api-reference-6x/core-package/interfaces/datadisplayformatteroptions-interface), *Optional* 
 
 
 ---
@@ -32,11 +32,11 @@ sidebar:
 
 ---
 ### dateTimeToStr
-▸ dateTimeToStr(dateTime: `Date`,dataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)): `string`
+▸ dateTimeToStr(dateTime: `Date`,dataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)): `string`
 
 #### Parameters:
 - dateTime: `Date`
-- dataType: [DataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/datatype-enum)
+- dataType: [DataType](api-reference-old/api-reference-6x/core-package/enumerations/datatype-enum)
 
 
 **Returns** `string`

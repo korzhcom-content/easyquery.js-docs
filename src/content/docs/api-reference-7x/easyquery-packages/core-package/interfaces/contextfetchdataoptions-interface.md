@@ -7,16 +7,16 @@ sidebar:
 ---
 
 ## Extends
-[FetchOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface)
+[FetchOptions](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#properties-1)
-- [chunk](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#chunk)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#error)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#options)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#query)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextfetchdataoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#properties-1)
+- [chunk](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#chunk)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#error)
+- [options](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#options)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#query)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextfetchdataoptions-interface#success)
 
 
 
@@ -45,7 +45,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### success

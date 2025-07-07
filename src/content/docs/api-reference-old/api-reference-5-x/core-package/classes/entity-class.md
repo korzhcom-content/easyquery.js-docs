@@ -8,21 +8,21 @@ sidebar:
 Represents one entity.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/core-package/classes/entity-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/core-package/classes/entity-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#public-properties-1)
-- [attributes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#attributes)
-- [caption](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#caption)
-- [description](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#description)
-- [name](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#name)
-- [subEntities](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#subentities)
-- [useInConditions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#useinconditions)
-- [useInResult](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#useinresult)
-- [useInSorting](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#useinsorting)
+### [Public Properties](api-reference-old/api-reference-5-x/core-package/classes/entity-class#public-properties-1)
+- [attributes](api-reference-old/api-reference-5-x/core-package/classes/entity-class#attributes)
+- [caption](api-reference-old/api-reference-5-x/core-package/classes/entity-class#caption)
+- [description](api-reference-old/api-reference-5-x/core-package/classes/entity-class#description)
+- [name](api-reference-old/api-reference-5-x/core-package/classes/entity-class#name)
+- [subEntities](api-reference-old/api-reference-5-x/core-package/classes/entity-class#subentities)
+- [useInConditions](api-reference-old/api-reference-5-x/core-package/classes/entity-class#useinconditions)
+- [useInResult](api-reference-old/api-reference-5-x/core-package/classes/entity-class#useinresult)
+- [useInSorting](api-reference-old/api-reference-5-x/core-package/classes/entity-class#useinsorting)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class/#loadfromdata)
+### [Public Methods](api-reference-old/api-reference-5-x/core-package/classes/entity-class#public-methods-1)
+- [loadFromData](api-reference-old/api-reference-5-x/core-package/classes/entity-class#loadfromdata)
 
 
 ## Constructors
@@ -31,7 +31,7 @@ Represents one entity.
 #### constructor
 
 The default constructor.
-⊕ new Entity(): [Entity](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class)
+⊕ new Entity(): [Entity](api-reference-old/api-reference-5-x/core-package/classes/entity-class)
 
 
 ---
@@ -43,7 +43,7 @@ The default constructor.
 
 List of Attributes that belong to this entity.
 
-● attributes: [EntityAttr](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entityattr-class)[]
+● attributes: [EntityAttr](api-reference-old/api-reference-5-x/core-package/classes/entityattr-class)[]
 
 ---
 ### caption
@@ -71,7 +71,7 @@ The name of entity.
 
 List of sub entities that belong to this entity.
 
-● subEntities: [Entity](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/entity-class)[]
+● subEntities: [Entity](api-reference-old/api-reference-5-x/core-package/classes/entity-class)[]
 
 ---
 ### useInConditions
@@ -101,11 +101,11 @@ The value indicating whether the attribute can be used in sorting.
 ### loadFromData
 Loads entity from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class),data: [EntityData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entitydata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class),data: [EntityData](api-reference-old/api-reference-5-x/core-package/interfaces/entitydata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [EntityData](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/entitydata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class) - The Data Model.
+- data: [EntityData](api-reference-old/api-reference-5-x/core-package/interfaces/entitydata-interface) - The JSON representation object.
 
 
 

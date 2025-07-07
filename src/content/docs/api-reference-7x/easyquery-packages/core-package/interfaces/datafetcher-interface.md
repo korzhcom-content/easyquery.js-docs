@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface/#methods-1)
-- [fetchData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/datafetcher-interface/#fetchdata)
+### [Methods](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface#methods-1)
+- [fetchData](api-reference-7x/easyquery-packages/core-package/interfaces/datafetcher-interface#fetchdata)
 
 
 
@@ -16,10 +16,10 @@ sidebar:
 
 ---
 ### fetchData
-▸ fetchData(options?: [FetchOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface)): `Promise`&lt;`any`&gt;
+▸ fetchData(options?: [FetchOptions](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface)): `Promise`&lt;`any`&gt;
 
 #### Parameters:
-- options: [FetchOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface), *Optional* 
+- options: [FetchOptions](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface), *Optional* 
 
 
 **Returns** `Promise`&lt;`any`&gt;

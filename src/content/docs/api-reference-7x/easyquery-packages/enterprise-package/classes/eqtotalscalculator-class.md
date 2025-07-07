@@ -10,15 +10,15 @@ sidebar:
 `TotalsCalculator`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#public-methods-1)
-- [calculate](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#calculate)
-- [getTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class/#gettotals)
+### [Public Methods](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#public-methods-1)
+- [calculate](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#calculate)
+- [getTotals](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class#gettotals)
 
 
 ## Constructors
@@ -26,10 +26,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqTotalsCalculator(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [EqTotalsCalculator](//easyquery/javascript/docs/api-reference-7x/@easyquery/enterprise-package/classes/eqtotalscalculator-class)
+⊕ new EqTotalsCalculator(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [EqTotalsCalculator](api-reference-7x/easyquery-packages/enterprise-package/classes/eqtotalscalculator-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -39,7 +39,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods

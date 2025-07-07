@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Extends
-[ModelLoadOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/modelloadoptions-interface)
+[ModelLoadOptions](api-reference-7x/easyquery-packages/core-package/interfaces/modelloadoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface/#properties-1)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface/#modelid)
-- [silent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface/#silent)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadmodeloptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface#properties-1)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface#modelid)
+- [silent](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface#silent)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadmodeloptions-interface#success)
 
 
 
@@ -38,6 +38,6 @@ sidebar:
 ---
 ### success
 
-● success?: (model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class)) => `void`
+● success?: (model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class)) => `void`
 
 ---

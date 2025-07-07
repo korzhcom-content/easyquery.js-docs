@@ -6,49 +6,49 @@ sidebar:
 ---
 
 ## Extends
-[ResultFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/resultfacet-class)
+[ResultFacet](api-reference-7x/easyquery-packages/ui-package/classes/resultfacet-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#public-properties-1)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#title)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#public-properties-1)
+- [title](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#title)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#protected-properties-1)
-- [canDisplayFlag](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#candisplayflag)
-- [container](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#container)
-- [contentDiv](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#contentdiv)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#cssprefix)
-- [dialogTitle](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#dialogtitle)
-- [grid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#grid)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#options)
-- [settings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#settings)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#protected-properties-1)
+- [canDisplayFlag](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#candisplayflag)
+- [container](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#container)
+- [contentDiv](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#contentdiv)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#cssprefix)
+- [dialogTitle](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#dialogtitle)
+- [grid](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#grid)
+- [options](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#options)
+- [settings](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#settings)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#public-methods-1)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#getcontext)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#getquery)
-- [getSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#getsettings)
-- [getType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#gettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#init)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#loadfromdata)
-- [onResize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#onresize)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#refresh)
-- [saveToData](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#savetodata)
-- [showSettingsDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#showsettingsdialog)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#public-methods-1)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#getcontext)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#getquery)
+- [getSettings](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#getsettings)
+- [getType](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#gettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#init)
+- [loadFromData](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#loadfromdata)
+- [onResize](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#onresize)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#refresh)
+- [saveToData](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#savetodata)
+- [showSettingsDialog](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#showsettingsdialog)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#protected-methods-1)
-- [canDisplay](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#candisplay)
-- [getDialogService](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#getdialogservice)
-- [hideUnableDisplayMessage](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#hideunabledisplaymessage)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#refreshcore)
-- [reinitGrid](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#reinitgrid)
-- [renderDialogContent](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#renderdialogcontent)
-- [renderFormFields](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#renderformfields)
-- [showUnableDisplayMessage](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#showunabledisplaymessage)
-- [submitSettingsDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class/#submitsettingsdialog)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#protected-methods-1)
+- [canDisplay](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#candisplay)
+- [getDialogService](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#getdialogservice)
+- [hideUnableDisplayMessage](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#hideunabledisplaymessage)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#refreshcore)
+- [reinitGrid](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#reinitgrid)
+- [renderDialogContent](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#renderdialogcontent)
+- [renderFormFields](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#renderformfields)
+- [showUnableDisplayMessage](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#showunabledisplaymessage)
+- [submitSettingsDialog](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class#submitsettingsdialog)
 
 
 ## Constructors
@@ -56,10 +56,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DataTableFacet(container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class),options?: `any`): [DataTableFacet](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/datatablefacet-class)
+⊕ new DataTableFacet(container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class),options?: `any`): [DataTableFacet](api-reference-7x/easyquery-packages/ui-package/classes/datatablefacet-class)
 
 #### Parameters:
-- container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class)
+- container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class)
 - options: `any`, *Optional* 
 
 
@@ -83,7 +83,7 @@ sidebar:
 ---
 ### container
 
-● container: [FacetContainer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/facetcontainer-class)
+● container: [FacetContainer](api-reference-7x/easyquery-packages/ui-package/classes/facetcontainer-class)
 
 ---
 ### contentDiv
@@ -103,7 +103,7 @@ sidebar:
 ---
 ### grid
 
-● grid: [Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class) = ` null`
+● grid: [Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class) = ` null`
 
 ---
 ### options
@@ -133,18 +133,18 @@ sidebar:
 
 ---
 ### getContext
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---
@@ -157,10 +157,10 @@ sidebar:
 
 ---
 ### getType
-▸ getType(): [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)
+▸ getType(): [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)
 
 
-**Returns** [FacetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/enumerations/facettype-enum)
+**Returns** [FacetType](api-reference-7x/easyquery-packages/ui-package/enumerations/facettype-enum)
 
 
 ---

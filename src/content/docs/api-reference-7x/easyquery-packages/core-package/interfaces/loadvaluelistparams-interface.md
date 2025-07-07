@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistparams-interface/#properties-1)
-- [editorId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistparams-interface/#editorid)
-- [listName](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistparams-interface/#listname)
-- [queryParams](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistparams-interface/#queryparams)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistparams-interface#properties-1)
+- [editorId](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistparams-interface#editorid)
+- [listName](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistparams-interface#listname)
+- [queryParams](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistparams-interface#queryparams)
 
 
 

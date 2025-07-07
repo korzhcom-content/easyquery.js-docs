@@ -9,10 +9,10 @@ sidebar:
 Defines interface for external list cache
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface/#methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface/#clear)
-- [get](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface/#get)
-- [set](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface/#set)
+### [Methods](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface#methods-1)
+- [clear](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface#clear)
+- [get](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface#get)
+- [set](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface#set)
 
 
 

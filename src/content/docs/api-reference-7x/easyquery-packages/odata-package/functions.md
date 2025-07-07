@@ -6,14 +6,14 @@ sidebar:
 ---
 
 ## Index
-- [getDataTypeByEdmType](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/functions/#getdatatypebyedmtype)
+- [getDataTypeByEdmType](api-reference-7x/easyquery-packages/odata-package/functions#getdatatypebyedmtype)
 
 #### getDataTypeByEdmType
 
-▸ getDataTypeByEdmType(edmType: [EdmxDataType](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/enumerations/edmxdatatype-enum) | `string`): `DataType`
+▸ getDataTypeByEdmType(edmType: [EdmxDataType](api-reference-7x/easyquery-packages/odata-package/enumerations/edmxdatatype-enum) | `string`): `DataType`
 
 #### Parameters:
-- edmType: [EdmxDataType](//easyquery/javascript/docs/api-reference-7x/@easyquery/odata-package/enumerations/edmxdatatype-enum) | `string`
+- edmType: [EdmxDataType](api-reference-7x/easyquery-packages/odata-package/enumerations/edmxdatatype-enum) | `string`
 
 
 **Returns** `DataType`

@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/displayformatparser-class/#public-methods-1)
-- [getToken](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/displayformatparser-class/#gettoken)
-- [getTokenText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/displayformatparser-class/#gettokentext)
-- [next](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/displayformatparser-class/#next)
-- [start](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/displayformatparser-class/#start)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/displayformatparser-class#public-methods-1)
+- [getToken](api-reference-old/api-reference-6x/ui-package/classes/displayformatparser-class#gettoken)
+- [getTokenText](api-reference-old/api-reference-6x/ui-package/classes/displayformatparser-class#gettokentext)
+- [next](api-reference-old/api-reference-6x/ui-package/classes/displayformatparser-class#next)
+- [start](api-reference-old/api-reference-6x/ui-package/classes/displayformatparser-class#start)
 
 
 

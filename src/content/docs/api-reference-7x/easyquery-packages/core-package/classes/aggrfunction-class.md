@@ -8,19 +8,19 @@ sidebar:
 Represents an aggregate function
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#public-properties-1)
-- [appliedTypes](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#appliedtypes)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#caption)
-- [displayFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#displayformat)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#id)
-- [sqlExpr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#sqlexpr)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#public-properties-1)
+- [appliedTypes](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#appliedtypes)
+- [caption](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#caption)
+- [displayFormat](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#displayformat)
+- [id](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#id)
+- [sqlExpr](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#sqlexpr)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#public-methods-1)
-- [getAppliedTypesOrDefault](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#getappliedtypesordefault)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class/#loadfromdata)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#public-methods-1)
+- [getAppliedTypesOrDefault](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#getappliedtypesordefault)
+- [loadFromData](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class#loadfromdata)
 
 
 ## Constructors
@@ -29,7 +29,7 @@ Represents an aggregate function
 #### constructor
 
 The default constructor.
-⊕ new AggrFunction(): [AggrFunction](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/aggrfunction-class)
+⊕ new AggrFunction(): [AggrFunction](api-reference-7x/easyquery-packages/core-package/classes/aggrfunction-class)
 
 
 ---
@@ -85,10 +85,10 @@ The SQL expression
 ### loadFromData
 Loads an aggregate function from its JSON representation object
 
-▸ loadFromData(aggrFunction: [AggrFuncData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface)): `void`
+▸ loadFromData(aggrFunction: [AggrFuncData](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface)): `void`
 
 #### Parameters:
-- aggrFunction: [AggrFuncData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/aggrfuncdata-interface) - The JSON representation object
+- aggrFunction: [AggrFuncData](api-reference-7x/easyquery-packages/core-package/interfaces/aggrfuncdata-interface) - The JSON representation object
 
 
 

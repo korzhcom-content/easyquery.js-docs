@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface/#properties-1)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface/#modelid)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadqueryoptions-interface/#queryid)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface#properties-1)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface#modelid)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/loadqueryoptions-interface#queryid)
 
 
 

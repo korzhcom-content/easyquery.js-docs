@@ -9,15 +9,15 @@ sidebar:
 Represents chart provider.
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#methods-1)
-- [draw](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#draw)
-- [getProviderType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#getprovidertype)
-- [getSupportedChartTypes](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#getsupportedcharttypes)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#init)
-- [setChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#setcharttype)
-- [setDataColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#setdatacolumns)
-- [setLabelColumn](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#setlabelcolumn)
-- [updateChartColumns](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/chartprovider-interface/#updatechartcolumns)
+### [Methods](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#methods-1)
+- [draw](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#draw)
+- [getProviderType](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#getprovidertype)
+- [getSupportedChartTypes](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#getsupportedcharttypes)
+- [init](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#init)
+- [setChartType](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#setcharttype)
+- [setDataColumns](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#setdatacolumns)
+- [setLabelColumn](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#setlabelcolumn)
+- [updateChartColumns](api-reference-old/api-reference-5-x/ui-package/interfaces/chartprovider-interface#updatechartcolumns)
 
 
 
@@ -42,18 +42,18 @@ Represents chart provider.
 
 ---
 ### getSupportedChartTypes
-▸ getSupportedChartTypes(): [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum)[]
+▸ getSupportedChartTypes(): [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum)[]
 
 
-**Returns** [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum)[]
+**Returns** [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum)[]
 
 ---
 ### init
-▸ init(dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class),defaultType: [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum),labelColumnIndex: `number`,dataColumnIndexes: `number`[]): `any`
+▸ init(dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class),defaultType: [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum),labelColumnIndex: `number`,dataColumnIndexes: `number`[]): `any`
 
 #### Parameters:
-- dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class)
-- defaultType: [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum)
+- dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class)
+- defaultType: [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum)
 - labelColumnIndex: `number`
 - dataColumnIndexes: `number`[]
 
@@ -62,10 +62,10 @@ Represents chart provider.
 
 ---
 ### setChartType
-▸ setChartType(newChartType: [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum)): `void`
+▸ setChartType(newChartType: [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum)): `void`
 
 #### Parameters:
-- newChartType: [ChartType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/enumerations/charttype-enum)
+- newChartType: [ChartType](api-reference-old/api-reference-5-x/ui-package/enumerations/charttype-enum)
 
 
 **Returns** `void`

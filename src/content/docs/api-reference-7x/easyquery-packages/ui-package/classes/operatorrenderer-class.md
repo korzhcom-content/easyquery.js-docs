@@ -6,38 +6,38 @@ sidebar:
 ---
 
 ## Extends
-[DropDownRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/dropdownrenderer-class)
+[DropDownRenderer](api-reference-7x/easyquery-packages/ui-package/classes/dropdownrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#protected-properties-1)
-- [condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#condition)
-- [displayedText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#displayedtext)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#element)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#labelelement)
-- [menu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#menu)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#panel)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#protected-properties-1)
+- [condition](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#condition)
+- [displayedText](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#displayedtext)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#element)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#labelelement)
+- [menu](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#menu)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#panel)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#protected-methods-1)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#closeeditor)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#getclassestoadd)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#getlabeltext)
-- [getMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#getmenu)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#iseditable)
-- [itemSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#itemselected)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#renderlabelelement)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class/#showeditor)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#protected-methods-1)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#closeeditor)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#getclassestoadd)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#getlabeltext)
+- [getMenu](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#getmenu)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#iseditable)
+- [itemSelected](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#itemselected)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#renderlabelelement)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class#showeditor)
 
 
 ## Constructors
@@ -45,11 +45,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new OperatorRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),text: `string`,slot?: `HTMLDivElement`): [OperatorRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/operatorrenderer-class)
+⊕ new OperatorRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),text: `string`,slot?: `HTMLDivElement`): [OperatorRenderer](api-reference-7x/easyquery-packages/ui-package/classes/operatorrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - text: `string`
 - slot: `HTMLDivElement`, *Optional* 
 
@@ -61,7 +61,7 @@ sidebar:
 ---
 ### condition
 
-● condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+● condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ---
 ### displayedText
@@ -81,12 +81,12 @@ sidebar:
 ---
 ### menu
 
-● menu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● menu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ## Protected Accessors
@@ -158,10 +158,10 @@ sidebar:
 
 ---
 ### getMenu
-▸ getMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---

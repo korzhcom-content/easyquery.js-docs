@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#properties-1)
-- [onDateChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#ondatechanged)
-- [oneClickDateSelection](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#oneclickdateselection)
-- [showDateTimeInput](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#showdatetimeinput)
-- [timePickerIsUsed](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#timepickerisused)
-- [yearRange](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/calendaroptions-interface/#yearrange)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#properties-1)
+- [onDateChanged](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#ondatechanged)
+- [oneClickDateSelection](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#oneclickdateselection)
+- [showDateTimeInput](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#showdatetimeinput)
+- [timePickerIsUsed](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#timepickerisused)
+- [yearRange](api-reference-7x/easydata-packages/ui-package/interfaces/calendaroptions-interface#yearrange)
 
 
 

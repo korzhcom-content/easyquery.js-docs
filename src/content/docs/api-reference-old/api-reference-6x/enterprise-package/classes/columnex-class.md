@@ -6,35 +6,35 @@ sidebar:
 ---
 
 ## Implements
-[ExpressionParent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/expressionparent-interface)
+[ExpressionParent](api-reference-old/api-reference-6x/core-package/interfaces/expressionparent-interface)
 
 ## Extends
-[Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+[Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#public-properties-1)
-- [blockId](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#blockid)
-- [caption](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#caption)
-- [enabled](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#enabled)
-- [expr](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#expr)
-- [id](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#id)
-- [params](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#params)
-- [sortIndex](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#sortindex)
-- [sorting](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#sorting)
+### [Public Properties](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#public-properties-1)
+- [blockId](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#blockid)
+- [caption](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#caption)
+- [enabled](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#enabled)
+- [expr](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#expr)
+- [id](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#id)
+- [params](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#params)
+- [sortIndex](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#sortindex)
+- [sorting](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#sorting)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#public-methods-1)
-- [expressionChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#expressionchanged)
-- [fireChangedEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#firechangedevent)
-- [getExpressionIndex](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#getexpressionindex)
-- [getModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#getmodel)
-- [getQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#getquery)
-- [isReadOnly](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#isreadonly)
-- [loadFromData](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#loadfromdata)
-- [saveToData](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#savetodata)
-- [setReadOnly](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class/#setreadonly)
+### [Public Methods](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#public-methods-1)
+- [expressionChanged](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#expressionchanged)
+- [fireChangedEvent](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#firechangedevent)
+- [getExpressionIndex](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#getexpressionindex)
+- [getModel](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#getmodel)
+- [getQuery](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#getquery)
+- [isReadOnly](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#isreadonly)
+- [loadFromData](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#loadfromdata)
+- [saveToData](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#savetodata)
+- [setReadOnly](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class#setreadonly)
 
 
 ## Constructors
@@ -43,10 +43,10 @@ sidebar:
 #### constructor
 
 the default constructor.
-⊕ new ColumnEx(query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)): [ColumnEx](//easyquery/javascript/docs/api-reference-6x/@easyquery/enterprise-package/classes/columnex-class)
+⊕ new ColumnEx(query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)): [ColumnEx](api-reference-old/api-reference-6x/enterprise-package/classes/columnex-class)
 
 #### Parameters:
-- query: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+- query: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
 ---
@@ -79,7 +79,7 @@ Column is enabled
 
 The column expression.
 
-● expr: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
+● expr: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
 
 ---
 ### id
@@ -91,7 +91,7 @@ The column expression.
 
 The parameters associated with this column
 
-● params: [QueryParam](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryparam-interface)[]
+● params: [QueryParam](api-reference-old/api-reference-6x/core-package/interfaces/queryparam-interface)[]
 
 ---
 ### sortIndex
@@ -105,17 +105,17 @@ The index of the column in the sorting list.
 
 Column sorting direction
 
-● sorting: [SortDirection](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/sortdirection-enum)
+● sorting: [SortDirection](api-reference-old/api-reference-6x/core-package/enumerations/sortdirection-enum)
 
 ---
 ## Public Methods
 
 ---
 ### expressionChanged
-▸ expressionChanged(expr: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class),oldValue: `string`): `void`
+▸ expressionChanged(expr: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class),oldValue: `string`): `void`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
 - oldValue: `string`
 
 
@@ -132,10 +132,10 @@ Column sorting direction
 
 ---
 ### getExpressionIndex
-▸ getExpressionIndex(expr: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)): `number`
+▸ getExpressionIndex(expr: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)): `number`
 
 #### Parameters:
-- expr: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class)
+- expr: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class)
 
 
 **Returns** `number`
@@ -143,18 +143,18 @@ Column sorting direction
 
 ---
 ### getModel
-▸ getModel(): [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)
+▸ getModel(): [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)
 
 
-**Returns** [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class)
+**Returns** [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class)
 
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 
 ---
@@ -169,10 +169,10 @@ Column sorting direction
 ### loadFromData
 Loads column from its JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class),colData: `any`): `void`
+▸ loadFromData(model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class),colData: `any`): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
+- model: [DataModel](api-reference-old/api-reference-6x/core-package/classes/datamodel-class) - The Data Model.
 - colData: `any` - The JSON representation object.
 
 

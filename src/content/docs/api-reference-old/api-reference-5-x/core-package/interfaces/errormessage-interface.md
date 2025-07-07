@@ -10,12 +10,12 @@ Represents an error message.
 In addition to message text contans also a string value which represents the `type` of the error.
 
 ## Extends
-[Message](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/message-interface)
+[Message](api-reference-old/api-reference-5-x/core-package/interfaces/message-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/errormessage-interface/#properties-1)
-- [text](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/errormessage-interface/#text)
-- [type](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/errormessage-interface/#type)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/errormessage-interface#properties-1)
+- [text](api-reference-old/api-reference-5-x/core-package/interfaces/errormessage-interface#text)
+- [type](api-reference-old/api-reference-5-x/core-package/interfaces/errormessage-interface#type)
 
 
 

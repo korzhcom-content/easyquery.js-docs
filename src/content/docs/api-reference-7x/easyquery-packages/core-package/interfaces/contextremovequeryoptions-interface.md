@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Extends
-[RemoveQueryOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/removequeryoptions-interface)
+[RemoveQueryOptions](api-reference-7x/easyquery-packages/core-package/interfaces/removequeryoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#modelid)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#queryid)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextremovequeryoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#modelid)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#queryid)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextremovequeryoptions-interface#success)
 
 
 

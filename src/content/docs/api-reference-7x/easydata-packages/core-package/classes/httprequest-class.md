@@ -6,21 +6,21 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#public-properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#data)
-- [method](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#method)
-- [url](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#url)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#public-properties-1)
+- [data](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#data)
+- [method](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#method)
+- [url](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#url)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#public-methods-1)
-- [abort](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#abort)
-- [getResponseHeaders](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#getresponseheaders)
-- [getXMLHttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#getxmlhttprequest)
-- [open](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#open)
-- [setHeader](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#setheader)
-- [setQueryParam](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class/#setqueryparam)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#public-methods-1)
+- [abort](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#abort)
+- [getResponseHeaders](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#getresponseheaders)
+- [getXMLHttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#getxmlhttprequest)
+- [open](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#open)
+- [setHeader](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#setheader)
+- [setQueryParam](api-reference-7x/easydata-packages/core-package/classeshttprequest-class#setqueryparam)
 
 
 ## Constructors
@@ -28,11 +28,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new HttpRequest(xhr: `XMLHttpRequest`,descriptor: [HttpRequestDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestdescriptor-interface)): [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)
+⊕ new HttpRequest(xhr: `XMLHttpRequest`,descriptor: [HttpRequestDescriptor](api-reference-7x/easydata-packages/core-package/interfaceshttprequestdescriptor-interface)): [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)
 
 #### Parameters:
 - xhr: `XMLHttpRequest`
-- descriptor: [HttpRequestDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttprequestdescriptor-interface)
+- descriptor: [HttpRequestDescriptor](api-reference-7x/easydata-packages/core-package/interfaceshttprequestdescriptor-interface)
 
 
 ---
@@ -47,7 +47,7 @@ sidebar:
 ---
 ### method
 
-● method: [HttpMethod](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerationshttpmethod-enum)
+● method: [HttpMethod](api-reference-7x/easydata-packages/core-package/enumerationshttpmethod-enum)
 
 ---
 ### url
@@ -67,10 +67,10 @@ sidebar:
 
 ---
 ### getResponseHeaders
-▸ getResponseHeaders(): [HttpHeaders](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttpheaders-interface)
+▸ getResponseHeaders(): [HttpHeaders](api-reference-7x/easydata-packages/core-package/interfaceshttpheaders-interface)
 
 
-**Returns** [HttpHeaders](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaceshttpheaders-interface)
+**Returns** [HttpHeaders](api-reference-7x/easydata-packages/core-package/interfaceshttpheaders-interface)
 
 
 ---

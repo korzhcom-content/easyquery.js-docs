@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryexecutor-interface/#methods-1)
-- [executeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryexecutor-interface/#executequery)
+### [Methods](api-reference-old/api-reference-6x/core-package/interfaces/queryexecutor-interface#methods-1)
+- [executeQuery](api-reference-old/api-reference-6x/core-package/interfaces/queryexecutor-interface#executequery)
 
 
 

@@ -6,66 +6,66 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#public-properties-1)
-- [cellRendererStore](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#cellrendererstore)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#options)
+### [Public Properties](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#public-properties-1)
+- [cellRendererStore](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#cellrendererstore)
+- [options](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#options)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#protected-properties-1)
-- [bodyCellContainerDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#bodycellcontainerdiv)
-- [bodyDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#bodydiv)
-- [bodyViewportDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#bodyviewportdiv)
-- [columns](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#columns)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#cssprefix)
-- [dataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#datatable)
-- [eventEmitter](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#eventemitter)
-- [footerDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#footerdiv)
-- [footerPaginateDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#footerpaginatediv)
-- [headerCellContainerDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#headercellcontainerdiv)
-- [headerDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#headerdiv)
-- [headerRowDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#headerrowdiv)
-- [headerViewportDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#headerviewportdiv)
-- [rootDiv](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#rootdiv)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#slot)
-- [tableCss](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#tablecss)
+### [Protected Properties](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#protected-properties-1)
+- [bodyCellContainerDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#bodycellcontainerdiv)
+- [bodyDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#bodydiv)
+- [bodyViewportDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#bodyviewportdiv)
+- [columns](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#columns)
+- [cssPrefix](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#cssprefix)
+- [dataTable](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#datatable)
+- [eventEmitter](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#eventemitter)
+- [footerDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#footerdiv)
+- [footerPaginateDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#footerpaginatediv)
+- [headerCellContainerDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#headercellcontainerdiv)
+- [headerDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#headerdiv)
+- [headerRowDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#headerrowdiv)
+- [headerViewportDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#headerviewportdiv)
+- [rootDiv](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#rootdiv)
+- [slot](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#slot)
+- [tableCss](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#tablecss)
 
-### [Public Accessors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#public-accessors-1)
-- [activeRowIndex](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#activerowindex)
+### [Public Accessors](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#public-accessors-1)
+- [activeRowIndex](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#activerowindex)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#public-methods-1)
-- [addEventListener](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#addeventlistener)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#clear)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#destroy)
-- [ensureRowVisibility](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#ensurerowvisibility)
-- [fireEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#fireevent)
-- [focus](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#focus)
-- [getColumns](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#getcolumns)
-- [getData](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#getdata)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#refresh)
-- [removeEventListener](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#removeeventlistener)
-- [setData](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#setdata)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#public-methods-1)
+- [addEventListener](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#addeventlistener)
+- [clear](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#clear)
+- [destroy](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#destroy)
+- [ensureRowVisibility](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#ensurerowvisibility)
+- [fireEvent](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#fireevent)
+- [focus](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#focus)
+- [getColumns](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#getcolumns)
+- [getData](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#getdata)
+- [refresh](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#refresh)
+- [removeEventListener](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#removeeventlistener)
+- [setData](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#setdata)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#protected-methods-1)
-- [clearDOM](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#cleardom)
-- [getGlobalIndexByLocal](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#getglobalindexbylocal)
-- [getLocalIndexByGlobal](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#getlocalindexbyglobal)
-- [hasData](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#hasdata)
-- [hideProgress](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#hideprogress)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#init)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#render)
-- [renderAddColumnButton](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderaddcolumnbutton)
-- [renderBody](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderbody)
-- [renderCell](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#rendercell)
-- [renderColumnHeader](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#rendercolumnheader)
-- [renderFooter](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderfooter)
-- [renderHeader](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderheader)
-- [renderPageInfoBlock](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderpageinfoblock)
-- [renderPageNavigator](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderpagenavigator)
-- [renderRow](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#renderrow)
-- [showProgress](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#showprogress)
-- [updateHeight](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class/#updateheight)
+### [Protected Methods](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#protected-methods-1)
+- [clearDOM](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#cleardom)
+- [getGlobalIndexByLocal](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#getglobalindexbylocal)
+- [getLocalIndexByGlobal](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#getlocalindexbyglobal)
+- [hasData](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#hasdata)
+- [hideProgress](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#hideprogress)
+- [init](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#init)
+- [render](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#render)
+- [renderAddColumnButton](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderaddcolumnbutton)
+- [renderBody](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderbody)
+- [renderCell](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#rendercell)
+- [renderColumnHeader](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#rendercolumnheader)
+- [renderFooter](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderfooter)
+- [renderHeader](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderheader)
+- [renderPageInfoBlock](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderpageinfoblock)
+- [renderPageNavigator](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderpagenavigator)
+- [renderRow](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#renderrow)
+- [showProgress](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#showprogress)
+- [updateHeight](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class#updateheight)
 
 
 ## Constructors
@@ -73,10 +73,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EasyGrid(options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)): [EasyGrid](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/easygrid-class)
+⊕ new EasyGrid(options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)): [EasyGrid](api-reference-7x/easydata-packages/ui-package/classes/easygrid-class)
 
 #### Parameters:
-- options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)
+- options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)
 
 
 ---
@@ -86,12 +86,12 @@ sidebar:
 ---
 ### cellRendererStore
 
-● cellRendererStore: [GridCellRendererStore](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcellrendererstore-class)
+● cellRendererStore: [GridCellRendererStore](api-reference-7x/easydata-packages/ui-package/classes/gridcellrendererstore-class)
 
 ---
 ### options
 
-● options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)
+● options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)
 
 ---
 ## Protected Properties
@@ -114,7 +114,7 @@ sidebar:
 ---
 ### columns
 
-● columns: [GridColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class)
+● columns: [GridColumnList](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class)
 
 ---
 ### cssPrefix
@@ -124,12 +124,12 @@ sidebar:
 ---
 ### dataTable
 
-● dataTable: [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+● dataTable: [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 ---
 ### eventEmitter
 
-● eventEmitter: [EventEmitter](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/eventemitter-class)
+● eventEmitter: [EventEmitter](api-reference-7x/easydata-packages/core-package/classes/eventemitter-class)
 
 ---
 ### footerDiv
@@ -211,74 +211,74 @@ sidebar:
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"rowClick"`,handler: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"rowClick"`,handler: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"rowClick"`
-- handler: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`
+- handler: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"rowDbClick"`,handler: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"rowDbClick"`,handler: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"rowDbClick"`
-- handler: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`
+- handler: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"pageChanged"`,handler: (ev: [PageChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/pagechangedevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"pageChanged"`,handler: (ev: [PageChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/pagechangedevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"pageChanged"`
-- handler: (ev: [PageChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/pagechangedevent-interface)) => `void`
+- handler: (ev: [PageChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/pagechangedevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"addColumnClick"`,handler: (ev: [AddColumnClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"addColumnClick"`,handler: (ev: [AddColumnClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"addColumnClick"`
-- handler: (ev: [AddColumnClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface)) => `void`
+- handler: (ev: [AddColumnClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"columnChanged"`,handler: (ev: [ColumnChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnchangedevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"columnChanged"`,handler: (ev: [ColumnChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnchangedevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"columnChanged"`
-- handler: (ev: [ColumnChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnchangedevent-interface)) => `void`
+- handler: (ev: [ColumnChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnchangedevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"columnMoved"`,handler: (ev: [ColumnMovedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnmovedevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"columnMoved"`,handler: (ev: [ColumnMovedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnmovedevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"columnMoved"`
-- handler: (ev: [ColumnMovedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnmovedevent-interface)) => `void`
+- handler: (ev: [ColumnMovedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnmovedevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"columnDeleted"`,handler: (ev: [ColumnDeletedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columndeletedevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"columnDeleted"`,handler: (ev: [ColumnDeletedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columndeletedevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"columnDeleted"`
-- handler: (ev: [ColumnDeletedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columndeletedevent-interface)) => `void`
+- handler: (ev: [ColumnDeletedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columndeletedevent-interface)) => `void`
 
 
 **Returns** `string`
 
-▸ addEventListener(eventType: `"activeRowChanged"`,handler: (ev: [ActiveRowChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface)) => `void`): `string`
+▸ addEventListener(eventType: `"activeRowChanged"`,handler: (ev: [ActiveRowChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `"activeRowChanged"`
-- handler: (ev: [ActiveRowChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface)) => `void`
+- handler: (ev: [ActiveRowChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface)) => `void`
 
 
 **Returns** `string`
@@ -313,10 +313,10 @@ sidebar:
 
 ---
 ### fireEvent
-▸ fireEvent(event: [GridEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface) | `GridEventType`): `void`
+▸ fireEvent(event: [GridEvent](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface) | `GridEventType`): `void`
 
 #### Parameters:
-- event: [GridEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface) | `GridEventType`
+- event: [GridEvent](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface) | `GridEventType`
 
 
 **Returns** `void`
@@ -332,18 +332,18 @@ sidebar:
 
 ---
 ### getColumns
-▸ getColumns(): [GridColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class)
+▸ getColumns(): [GridColumnList](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class)
 
 
-**Returns** [GridColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumnlist-class)
+**Returns** [GridColumnList](api-reference-7x/easydata-packages/ui-package/classes/gridcolumnlist-class)
 
 
 ---
 ### getData
-▸ getData(): [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+▸ getData(): [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 
-**Returns** [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+**Returns** [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 
 ---
@@ -368,10 +368,10 @@ sidebar:
 
 ---
 ### setData
-▸ setData(data: [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)): `void`
+▸ setData(data: [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)): `void`
 
 #### Parameters:
-- data: [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+- data: [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 
 **Returns** `void`
@@ -428,10 +428,10 @@ sidebar:
 
 ---
 ### init
-▸ init(options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)): `void`
+▸ init(options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)): `void`
 
 #### Parameters:
-- options: [EasyGridOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface)
+- options: [EasyGridOptions](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface)
 
 
 **Returns** `void`
@@ -463,10 +463,10 @@ sidebar:
 
 ---
 ### renderCell
-▸ renderCell(column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class),colIndex: `number`,value: `any`,rowElement: `HTMLElement`): `HTMLDivElement`
+▸ renderCell(column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class),colIndex: `number`,value: `any`,rowElement: `HTMLElement`): `HTMLDivElement`
 
 #### Parameters:
-- column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+- column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 - colIndex: `number`
 - value: `any`
 - rowElement: `HTMLElement`
@@ -477,10 +477,10 @@ sidebar:
 
 ---
 ### renderColumnHeader
-▸ renderColumnHeader(column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class),index: `number`): `HTMLElement`
+▸ renderColumnHeader(column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class),index: `number`): `HTMLElement`
 
 #### Parameters:
-- column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)
+- column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)
 - index: `number`
 
 
@@ -521,10 +521,10 @@ sidebar:
 
 ---
 ### renderRow
-▸ renderRow(row: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class),index: `number`): `HTMLDivElement`
+▸ renderRow(row: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class),index: `number`): `HTMLDivElement`
 
 #### Parameters:
-- row: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+- row: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 - index: `number`
 
 

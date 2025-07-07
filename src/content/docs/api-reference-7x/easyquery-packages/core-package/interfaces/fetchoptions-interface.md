@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface/#properties-1)
-- [chunk](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface/#chunk)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface/#data)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface/#options)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/fetchoptions-interface/#query)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface#properties-1)
+- [chunk](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface#chunk)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface#data)
+- [options](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface#options)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/fetchoptions-interface#query)
 
 
 
@@ -35,6 +35,6 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---

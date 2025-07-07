@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface/#properties-1)
-- [onDateChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface/#ondatechanged)
-- [yearRange](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface/#yearrange)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface#properties-1)
+- [onDateChanged](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface#ondatechanged)
+- [yearRange](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface#yearrange)
 
 
 

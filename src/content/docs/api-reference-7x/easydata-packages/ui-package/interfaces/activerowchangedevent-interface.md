@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Extends
-[GridEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/gridevent-interface)
+[GridEvent](api-reference-7x/easydata-packages/ui-package/interfaces/gridevent-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface/#properties-1)
-- [newValue](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface/#newvalue)
-- [oldValue](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface/#oldvalue)
-- [rowIndex](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface/#rowindex)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface/#type)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface#properties-1)
+- [newValue](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface#newvalue)
+- [oldValue](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface#oldvalue)
+- [rowIndex](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface#rowindex)
+- [type](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface#type)
 
 
 

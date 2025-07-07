@@ -6,56 +6,56 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#public-properties-1)
-- [onHideButtonsMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#onhidebuttonsmobile)
-- [onShowButtonsMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#onshowbuttonsmobile)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#public-properties-1)
+- [onHideButtonsMobile](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#onhidebuttonsmobile)
+- [onShowButtonsMobile](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#onshowbuttonsmobile)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#protected-properties-1)
-- [bar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#bar)
-- [baseAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#baseattr)
-- [column](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#column)
-- [element](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#element)
-- [functionMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#functionmenu)
-- [isMouseOverBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#ismouseoverblock)
-- [keepShowingButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#keepshowingbuttons)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#protected-properties-1)
+- [bar](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#bar)
+- [baseAttr](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#baseattr)
+- [column](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#column)
+- [element](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#element)
+- [functionMenu](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#functionmenu)
+- [isMouseOverBlock](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#ismouseoverblock)
+- [keepShowingButtons](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#keepshowingbuttons)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#public-methods-1)
-- [buttonDeleteClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#buttondeleteclickhandler)
-- [buttonSortingClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#buttonsortingclickhandler)
-- [buttonTypeClickHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#buttontypeclickhandler)
-- [fireColumnChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#firecolumnchanged)
-- [refresh](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#render)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#public-methods-1)
+- [buttonDeleteClickHandler](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#buttondeleteclickhandler)
+- [buttonSortingClickHandler](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#buttonsortingclickhandler)
+- [buttonTypeClickHandler](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#buttontypeclickhandler)
+- [fireColumnChanged](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#firecolumnchanged)
+- [refresh](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#refresh)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#protected-methods-1)
-- [adjustButtonsVisibility](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#adjustbuttonsvisibility)
-- [changeTypeHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#changetypehandler)
-- [createFunctionMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#createfunctionmenu)
-- [enterButtonBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#enterbuttonblock)
-- [getAttribute](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#getattribute)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#getclassestoadd)
-- [getDefaultCaption](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#getdefaultcaption)
-- [getDefaultTitleText](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#getdefaulttitletext)
-- [getUIS](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#getuis)
-- [hideButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#hidebuttons)
-- [isColumnActive](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#iscolumnactive)
-- [isEditable](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#iseditable)
-- [leaveButtonBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#leavebuttonblock)
-- [renderButtonsBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#renderbuttonsblock)
-- [renderButtonsBlockMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#renderbuttonsblockmobile)
-- [renderCaptionBlock](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#rendercaptionblock)
-- [renderCaptionEditorMobile](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#rendercaptioneditormobile)
-- [renderColumnTypeButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#rendercolumntypebutton)
-- [renderDeleteButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#renderdeletebutton)
-- [renderSortingButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#rendersortingbutton)
-- [renderSortingImage](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#rendersortingimage)
-- [showButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class/#showbuttons)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#protected-methods-1)
+- [adjustButtonsVisibility](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#adjustbuttonsvisibility)
+- [changeTypeHandler](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#changetypehandler)
+- [createFunctionMenu](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#createfunctionmenu)
+- [enterButtonBlock](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#enterbuttonblock)
+- [getAttribute](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#getattribute)
+- [getClassesToAdd](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#getclassestoadd)
+- [getDefaultCaption](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#getdefaultcaption)
+- [getDefaultTitleText](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#getdefaulttitletext)
+- [getUIS](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#getuis)
+- [hideButtons](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#hidebuttons)
+- [isColumnActive](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#iscolumnactive)
+- [isEditable](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#iseditable)
+- [leaveButtonBlock](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#leavebuttonblock)
+- [renderButtonsBlock](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#renderbuttonsblock)
+- [renderButtonsBlockMobile](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#renderbuttonsblockmobile)
+- [renderCaptionBlock](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#rendercaptionblock)
+- [renderCaptionEditorMobile](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#rendercaptioneditormobile)
+- [renderColumnTypeButton](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#rendercolumntypebutton)
+- [renderDeleteButton](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#renderdeletebutton)
+- [renderSortingButton](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#rendersortingbutton)
+- [renderSortingImage](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#rendersortingimage)
+- [showButtons](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class#showbuttons)
 
 
 ## Constructors
@@ -63,11 +63,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ColumnRendererCB(panel: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class),column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class),slot?: `HTMLDivElement`): [ColumnRendererCB](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnrenderercb-class)
+⊕ new ColumnRendererCB(panel: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class),column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class),slot?: `HTMLDivElement`): [ColumnRendererCB](api-reference-old/api-reference-6x/ui-package/classes/columnrenderercb-class)
 
 #### Parameters:
-- panel: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class)
-- column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+- panel: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class)
+- column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -91,17 +91,17 @@ sidebar:
 ---
 ### bar
 
-● bar: [ColumnsBar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/columnsbar-class)
+● bar: [ColumnsBar](api-reference-old/api-reference-6x/ui-package/classes/columnsbar-class)
 
 ---
 ### baseAttr
 
-● baseAttr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+● baseAttr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 ---
 ### column
 
-● column: [Column](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/column-class)
+● column: [Column](api-reference-old/api-reference-6x/core-package/classes/column-class)
 
 ---
 ### element
@@ -111,7 +111,7 @@ sidebar:
 ---
 ### functionMenu
 
-● functionMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class) = ` null`
+● functionMenu: [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class) = ` null`
 
 ---
 ### isMouseOverBlock
@@ -235,10 +235,10 @@ sidebar:
 
 ---
 ### getAttribute
-▸ getAttribute(): [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+▸ getAttribute(): [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
-**Returns** [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+**Returns** [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 ---
@@ -259,10 +259,10 @@ sidebar:
 
 ---
 ### getDefaultTitleText
-▸ getDefaultTitleText(attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): `string`
+▸ getDefaultTitleText(attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): `string`
 
 #### Parameters:
-- attr: [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+- attr: [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 **Returns** `string`

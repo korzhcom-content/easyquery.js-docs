@@ -6,30 +6,30 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#id)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#public-properties-1)
+- [id](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#id)
 
-### [Public Accessors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#public-accessors-1)
-- [chunkSize](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#chunksize)
-- [columns](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#columns)
+### [Public Accessors](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#public-accessors-1)
+- [chunkSize](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#chunksize)
+- [columns](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#columns)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#public-methods-1)
-- [addRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#addrow)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#clear)
-- [getCachedChunks](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#getcachedchunks)
-- [getCachedCount](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#getcachedcount)
-- [getCachedRows](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#getcachedrows)
-- [getRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#getrow)
-- [getRows](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#getrows)
-- [getTotal](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#gettotal)
-- [setTotal](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#settotal)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#public-methods-1)
+- [addRow](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#addrow)
+- [clear](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#clear)
+- [getCachedChunks](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#getcachedchunks)
+- [getCachedCount](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#getcachedcount)
+- [getCachedRows](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#getcachedrows)
+- [getRow](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#getrow)
+- [getRows](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#getrows)
+- [getTotal](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#gettotal)
+- [setTotal](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#settotal)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#protected-methods-1)
-- [createChunk](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#createchunk)
-- [createRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class/#createrow)
+### [Protected Methods](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#protected-methods-1)
+- [createChunk](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#createchunk)
+- [createRow](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class#createrow)
 
 
 ## Constructors
@@ -37,10 +37,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EasyDataTable(options?: [EasyDataTableOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface)): [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+⊕ new EasyDataTable(options?: [EasyDataTableOptions](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface)): [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 #### Parameters:
-- options: [EasyDataTableOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface), *Optional* 
+- options: [EasyDataTableOptions](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface), *Optional* 
 
 
 ---
@@ -75,10 +75,10 @@ sidebar:
 
 ---
 ### columns
-⇄ get columns(): [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
+⇄ get columns(): [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
 
 
-**Returns** [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
+**Returns** [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
 
 
 ---
@@ -86,13 +86,13 @@ sidebar:
 
 ---
 ### addRow
-▸ addRow(rowOrValue: `any`[] | [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)): [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+▸ addRow(rowOrValue: `any`[] | [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)): [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 #### Parameters:
-- rowOrValue: `any`[] | [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+- rowOrValue: `any`[] | [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 
-**Returns** [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+**Returns** [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 
 ---
@@ -121,32 +121,32 @@ sidebar:
 
 ---
 ### getCachedRows
-▸ getCachedRows(): [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)[]
+▸ getCachedRows(): [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)[]
 
 
-**Returns** [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)[]
+**Returns** [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)[]
 
 
 ---
 ### getRow
-▸ getRow(index: `number`): `Promise`&lt;[DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class) | `null`&gt;
+▸ getRow(index: `number`): `Promise`&lt;[DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class) | `null`&gt;
 
 #### Parameters:
 - index: `number`
 
 
-**Returns** `Promise`&lt;[DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class) | `null`&gt;
+**Returns** `Promise`&lt;[DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class) | `null`&gt;
 
 
 ---
 ### getRows
-▸ getRows(params?: `GetRowsParams`): `Promise`&lt;`Array`&lt;[DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)&gt;&gt;
+▸ getRows(params?: `GetRowsParams`): `Promise`&lt;`Array`&lt;[DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)&gt;&gt;
 
 #### Parameters:
 - params: `GetRowsParams`, *Optional* 
 
 
-**Returns** `Promise`&lt;`Array`&lt;[DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)&gt;&gt;
+**Returns** `Promise`&lt;`Array`&lt;[DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)&gt;&gt;
 
 
 ---
@@ -184,13 +184,13 @@ sidebar:
 
 ---
 ### createRow
-▸ createRow(dataOrRow?: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class) | `any`): [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+▸ createRow(dataOrRow?: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class) | `any`): [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 #### Parameters:
-- dataOrRow: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class) | `any`, *Optional* 
+- dataOrRow: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class) | `any`, *Optional* 
 
 
-**Returns** [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+**Returns** [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 
 ---

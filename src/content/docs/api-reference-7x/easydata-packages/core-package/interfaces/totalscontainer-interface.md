@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscontainer-interface/#methods-1)
-- [fillTotals](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscontainer-interface/#filltotals)
-- [setTotals](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/totalscontainer-interface/#settotals)
+### [Methods](api-reference-7x/easydata-packages/core-package/interfaces/totalscontainer-interface#methods-1)
+- [fillTotals](api-reference-7x/easydata-packages/core-package/interfaces/totalscontainer-interface#filltotals)
+- [setTotals](api-reference-7x/easydata-packages/core-package/interfaces/totalscontainer-interface#settotals)
 
 
 
@@ -17,11 +17,11 @@ sidebar:
 
 ---
 ### fillTotals
-▸ fillTotals(level: `number`,row: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)): `Promise`&lt;`void`&gt;
+▸ fillTotals(level: `number`,row: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)): `Promise`&lt;`void`&gt;
 
 #### Parameters:
 - level: `number`
-- row: [DataRow](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datarow-class)
+- row: [DataRow](api-reference-7x/easydata-packages/core-package/classes/datarow-class)
 
 
 **Returns** `Promise`&lt;`void`&gt;

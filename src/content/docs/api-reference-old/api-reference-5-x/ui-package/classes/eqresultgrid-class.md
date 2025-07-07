@@ -8,41 +8,41 @@ sidebar:
 The widget responsed for rendering GRID.
 
 ## Extends
-[Grid](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/grid-class)
+[Grid](api-reference-old/api-reference-5-x/ui-package/classes/grid-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#public-properties-1)
-- [widgetType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#widgettype)
+### [Public Properties](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#public-properties-1)
+- [widgetType](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#widgettype)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#protected-properties-1)
-- [beforeTableRendering](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#beforetablerendering)
-- [context](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#context)
-- [formatColumnHeader](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#formatcolumnheader)
-- [formatGridCell](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#formatgridcell)
-- [group](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#group)
-- [maxButtonCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#maxbuttoncount)
-- [pageItemCssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#pageitemcssclass)
-- [slot](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#slot)
-- [tableClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#tableclass)
+### [Protected Properties](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#protected-properties-1)
+- [beforeTableRendering](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#beforetablerendering)
+- [context](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#context)
+- [formatColumnHeader](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#formatcolumnheader)
+- [formatGridCell](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#formatgridcell)
+- [group](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#group)
+- [maxButtonCount](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#maxbuttoncount)
+- [pageItemCssClass](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#pageitemcssclass)
+- [slot](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#slot)
+- [tableClass](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#tableclass)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#belongstogroup)
-- [getContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#getcontext)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#refresh)
+### [Public Methods](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#public-methods-1)
+- [belongsToGroup](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#belongstogroup)
+- [getContext](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#getcontext)
+- [init](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#init)
+- [onProcessEnd](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#onprocessend)
+- [onProcessStart](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#onprocessstart)
+- [refresh](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#protected-methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#clear)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#refreshcore)
-- [render](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#render)
-- [renderPageNavigator](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class/#renderpagenavigator)
+### [Protected Methods](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#protected-methods-1)
+- [clear](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#clear)
+- [onProcessEndCore](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#onprocessendcore)
+- [onProcessStartCore](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#onprocessstartcore)
+- [refreshCore](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#refreshcore)
+- [render](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#render)
+- [renderPageNavigator](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class#renderpagenavigator)
 
 
 ## Constructors
@@ -51,7 +51,7 @@ The widget responsed for rendering GRID.
 #### constructor
 
 The default constructor.
-⊕ new EqResultGrid(slot: `HTMLElement`): [EqResultGrid](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/classes/eqresultgrid-class)
+⊕ new EqResultGrid(slot: `HTMLElement`): [EqResultGrid](api-reference-old/api-reference-5-x/ui-package/classes/eqresultgrid-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -75,31 +75,31 @@ The default constructor.
 
 Function called before rendering
 
-● beforeTableRendering: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class)) => `void`
+● beforeTableRendering: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class)) => `void`
 
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 ---
 ### formatColumnHeader
 
 Function thart formats column header
 
-● formatColumnHeader: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class), index: `number`, colLabel: `string`) => `string`
+● formatColumnHeader: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class), index: `number`, colLabel: `string`) => `string`
 
 ---
 ### formatGridCell
 
 Function thart formats cell
 
-● formatGridCell: (dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqdatatable-class), i: `number`, j: `number`, value: `string`) => `string`
+● formatGridCell: (dataTable: [EqDataTable](api-reference-old/api-reference-5-x/core-package/classes/eqdatatable-class), i: `number`, j: `number`, value: `string`) => `string`
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### maxButtonCount
@@ -136,10 +136,10 @@ table class
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-old/api-reference-5-x/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -149,20 +149,20 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)
 
 ---
 ### init
 Initialize widget.
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class),options?: [GridOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class),options?: [GridOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class) - The context.
-- options: [GridOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/gridoptions-interface), *Optional*  - The options.
+- context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class) - The context.
+- options: [GridOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/gridoptions-interface), *Optional*  - The options.
 
 
 

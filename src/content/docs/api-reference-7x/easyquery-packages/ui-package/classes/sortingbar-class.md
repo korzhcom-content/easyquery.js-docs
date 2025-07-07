@@ -6,43 +6,43 @@ sidebar:
 ---
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#id)
-- [sortMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#sortmenu)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#id)
+- [sortMenu](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#sortmenu)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#slot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#public-methods-1)
-- [addColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#addcolumn)
-- [addNewColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#addnewcolumn)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#getcontext)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#refresh)
-- [showEntitiesMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#showentitiesmenu)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#public-methods-1)
+- [addColumn](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#addcolumn)
+- [addNewColumn](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#addnewcolumn)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#belongstogroup)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#getcontext)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#refresh)
+- [showEntitiesMenu](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#showentitiesmenu)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#destroycore)
-- [getQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#getquery)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class/#refreshcore)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#protected-methods-1)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#destroycore)
+- [getQuery](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#getquery)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class#refreshcore)
 
 
 ## Constructors
@@ -50,7 +50,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new SortingBar(slot: `HTMLElement`): [SortingBar](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/sortingbar-class)
+⊕ new SortingBar(slot: `HTMLElement`): [SortingBar](api-reference-7x/easyquery-packages/ui-package/classes/sortingbar-class)
 
 #### Parameters:
 - slot: `HTMLElement`
@@ -68,7 +68,7 @@ sidebar:
 ---
 ### sortMenu
 
-● sortMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● sortMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ## Protected Properties
@@ -76,12 +76,12 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -104,34 +104,34 @@ sidebar:
 
 ---
 ### addColumn
-▸ addColumn(column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)): [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+▸ addColumn(column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)): [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 #### Parameters:
-- column: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+- column: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
-**Returns** [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+**Returns** [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
 ---
 ### addNewColumn
-▸ addNewColumn(attrId: `string`): [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+▸ addNewColumn(attrId: `string`): [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 #### Parameters:
 - attrId: `string`
 
 
-**Returns** [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)
+**Returns** [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)
 
 
 ---
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -150,10 +150,10 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -166,11 +166,11 @@ Returns current context (the one this widget belongs to)
 
 ---
 ### init
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: [SortingBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface)): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: [SortingBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface)): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
-- options: [SortingBarOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/sortingbaroptions-interface), *Optional* 
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
+- options: [SortingBarOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/sortingbaroptions-interface), *Optional* 
 
 
 **Returns** `void`
@@ -234,10 +234,10 @@ Refreshes the widget's content
 
 ---
 ### getQuery
-▸ getQuery(): [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+▸ getQuery(): [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
-**Returns** [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+**Returns** [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 
 ---

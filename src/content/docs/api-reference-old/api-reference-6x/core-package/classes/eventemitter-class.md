@@ -8,20 +8,20 @@ sidebar:
 The representation of event emitter.
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#protected-properties-1)
-- [events](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#events)
-- [source](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#source)
+### [Protected Properties](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#protected-properties-1)
+- [events](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#events)
+- [source](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#source)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#public-methods-1)
-- [enterSilentMode](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#entersilentmode)
-- [exitSilentMode](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#exitsilentmode)
-- [fire](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#fire)
-- [isSilent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#issilent)
-- [subscribe](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#subscribe)
-- [unsubscribe](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class/#unsubscribe)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#public-methods-1)
+- [enterSilentMode](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#entersilentmode)
+- [exitSilentMode](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#exitsilentmode)
+- [fire](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#fire)
+- [isSilent](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#issilent)
+- [subscribe](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#subscribe)
+- [unsubscribe](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class#unsubscribe)
 
 
 ## Constructors
@@ -30,7 +30,7 @@ The representation of event emitter.
 #### constructor
 
 The default constructor.
-⊕ new EventEmitter(source: `any`): [EventEmitter](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eventemitter-class)
+⊕ new EventEmitter(source: `any`): [EventEmitter](api-reference-old/api-reference-6x/core-package/classes/eventemitter-class)
 
 #### Parameters:
 - source: `any` - The source.
@@ -110,11 +110,11 @@ Checks if emitter is in silent mode.
 ### subscribe
 Subscries to the event.
 
-▸ subscribe(eventType: `string`,callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface)) => `void`): `string`
+▸ subscribe(eventType: `string`,callback: (event: [EqEvent](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface)) => `void`): `string`
 
 #### Parameters:
 - eventType: `string` - The event type.
-- callback: (event: [EqEvent](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/eqevent-interface)) => `void` - The callback.
+- callback: (event: [EqEvent](api-reference-old/api-reference-6x/core-package/interfaces/eqevent-interface)) => `void` - The callback.
 
 
 **Returns** `string` - The subscribtion ID.

@@ -7,11 +7,11 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface/#properties-1)
-- [chunkSize](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface/#chunksize)
-- [columns](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface/#columns)
-- [loader](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface/#loader)
-- [rows](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/easydatatableoptions-interface/#rows)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface#properties-1)
+- [chunkSize](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface#chunksize)
+- [columns](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface#columns)
+- [loader](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface#loader)
+- [rows](api-reference-7x/easydata-packages/core-package/interfaces/easydatatableoptions-interface#rows)
 
 
 
@@ -25,12 +25,12 @@ sidebar:
 ---
 ### columns
 
-● columns?: [DataColumnDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface)[]
+● columns?: [DataColumnDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface)[]
 
 ---
 ### loader
 
-● loader?: [DataLoader](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/dataloader-interface)
+● loader?: [DataLoader](api-reference-7x/easydata-packages/core-package/interfaces/dataloader-interface)
 
 ---
 ### rows

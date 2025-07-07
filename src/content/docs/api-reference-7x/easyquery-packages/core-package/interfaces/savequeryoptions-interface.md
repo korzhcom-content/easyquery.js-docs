@@ -7,12 +7,12 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#data)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#modelid)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#name)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#query)
-- [queryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/savequeryoptions-interface/#queryid)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#data)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#modelid)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#name)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#query)
+- [queryId](api-reference-7x/easyquery-packages/core-package/interfaces/savequeryoptions-interface#queryid)
 
 
 
@@ -36,7 +36,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### queryId

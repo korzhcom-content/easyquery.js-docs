@@ -9,11 +9,11 @@ sidebar:
 Represents query options.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryoptions-interface/#properties-1)
-- [attrTag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryoptions-interface/#attrtag)
-- [clientListRequestHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryoptions-interface/#clientlistrequesthandler)
-- [parent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryoptions-interface/#parent)
-- [serverListRequestHandler](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryoptions-interface/#serverlistrequesthandler)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/queryoptions-interface#properties-1)
+- [attrTag](api-reference-7x/easyquery-packages/core-package/interfaces/queryoptions-interface#attrtag)
+- [clientListRequestHandler](api-reference-7x/easyquery-packages/core-package/interfaces/queryoptions-interface#clientlistrequesthandler)
+- [parent](api-reference-7x/easyquery-packages/core-package/interfaces/queryoptions-interface#parent)
+- [serverListRequestHandler](api-reference-7x/easyquery-packages/core-package/interfaces/queryoptions-interface#serverlistrequesthandler)
 
 
 
@@ -22,7 +22,7 @@ Represents query options.
 ---
 ### attrTag
 
-● attrTag?: [ExprTag](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/exprtag-enum)
+● attrTag?: [ExprTag](api-reference-7x/easyquery-packages/core-package/enumerations/exprtag-enum)
 
 ---
 ### clientListRequestHandler
@@ -32,7 +32,7 @@ Represents query options.
 ---
 ### parent
 
-● parent?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● parent?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### serverListRequestHandler

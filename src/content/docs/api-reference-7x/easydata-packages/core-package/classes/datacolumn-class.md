@@ -6,17 +6,17 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#public-properties-1)
-- [displayFormat](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#displayformat)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#id)
-- [isAggr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#isaggr)
-- [label](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#label)
-- [originAttrId](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#originattrid)
-- [style](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#style)
-- [type](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class/#type)
+### [Public Properties](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#public-properties-1)
+- [displayFormat](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#displayformat)
+- [id](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#id)
+- [isAggr](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#isaggr)
+- [label](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#label)
+- [originAttrId](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#originattrid)
+- [style](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#style)
+- [type](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class#type)
 
 
 ## Constructors
@@ -24,10 +24,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DataColumn(desc: [DataColumnDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface)): [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)
+⊕ new DataColumn(desc: [DataColumnDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface)): [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)
 
 #### Parameters:
-- desc: [DataColumnDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface)
+- desc: [DataColumnDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface)
 
 
 ---
@@ -62,11 +62,11 @@ sidebar:
 ---
 ### style
 
-● style?: [DataColumnStyle](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumnstyle-interface)
+● style?: [DataColumnStyle](api-reference-7x/easydata-packages/core-package/interfaces/datacolumnstyle-interface)
 
 ---
 ### type
 
-● type: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+● type: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 ---

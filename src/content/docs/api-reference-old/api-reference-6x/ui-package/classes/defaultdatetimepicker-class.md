@@ -7,40 +7,40 @@ sidebar:
 ---
 
 ## Extends
-[DateTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/datetimepicker-class)
+[DateTimePicker](api-reference-old/api-reference-6x/ui-package/classes/datetimepicker-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#protected-properties-1)
-- [calendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#calendar)
-- [calendarSlot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#calendarslot)
-- [currentDateTime](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#currentdatetime)
-- [nowButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#nowbutton)
-- [options](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#options)
-- [slot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#slot)
-- [submitButton](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#submitbutton)
-- [timePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#timepicker)
-- [timePickerSlot](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#timepickerslot)
+### [Protected Properties](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#protected-properties-1)
+- [calendar](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#calendar)
+- [calendarSlot](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#calendarslot)
+- [currentDateTime](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#currentdatetime)
+- [nowButton](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#nowbutton)
+- [options](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#options)
+- [slot](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#slot)
+- [submitButton](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#submitbutton)
+- [timePicker](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#timepicker)
+- [timePickerSlot](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#timepickerslot)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#cssprefix)
+### [Protected Accessors](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#protected-accessors-1)
+- [cssPrefix](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#public-methods-1)
-- [apply](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#apply)
-- [cancel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#cancel)
-- [getDateTime](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#getdatetime)
-- [setDateTime](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#setdatetime)
-- [show](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#show)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#public-methods-1)
+- [apply](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#apply)
+- [cancel](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#cancel)
+- [getDateTime](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#getdatetime)
+- [setDateTime](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#setdatetime)
+- [show](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#show)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#protected-methods-1)
-- [createCalendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#createcalendar)
-- [createTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#createtimepicker)
-- [dateTimeChanged](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#datetimechanged)
-- [destroy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#destroy)
-- [render](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#render)
-- [renderButtons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class/#renderbuttons)
+### [Protected Methods](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#protected-methods-1)
+- [createCalendar](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#createcalendar)
+- [createTimePicker](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#createtimepicker)
+- [dateTimeChanged](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#datetimechanged)
+- [destroy](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#destroy)
+- [render](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#render)
+- [renderButtons](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class#renderbuttons)
 
 
 ## Constructors
@@ -48,10 +48,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DefaultDateTimePicker(options?: [DateTimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface)): [DefaultDateTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultdatetimepicker-class)
+⊕ new DefaultDateTimePicker(options?: [DateTimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface)): [DefaultDateTimePicker](api-reference-old/api-reference-6x/ui-package/classes/defaultdatetimepicker-class)
 
 #### Parameters:
-- options: [DateTimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface), *Optional* 
+- options: [DateTimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface), *Optional* 
 
 
 ---
@@ -61,7 +61,7 @@ sidebar:
 ---
 ### calendar
 
-● calendar: [Calendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/calendar-class) | `null` = ` null`
+● calendar: [Calendar](api-reference-old/api-reference-6x/ui-package/classes/calendar-class) | `null` = ` null`
 
 ---
 ### calendarSlot
@@ -81,7 +81,7 @@ sidebar:
 ---
 ### options
 
-● options: [DateTimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface)
+● options: [DateTimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface)
 
 ---
 ### slot
@@ -96,7 +96,7 @@ sidebar:
 ---
 ### timePicker
 
-● timePicker: [TimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/timepicker-class) | `null` = ` null`
+● timePicker: [TimePicker](api-reference-old/api-reference-6x/ui-package/classes/timepicker-class) | `null` = ` null`
 
 ---
 ### timePickerSlot
@@ -109,7 +109,7 @@ sidebar:
 ---
 ### calendar
 
-● calendar: [Calendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/calendar-class) | `null` = ` null`
+● calendar: [Calendar](api-reference-old/api-reference-6x/ui-package/classes/calendar-class) | `null` = ` null`
 
 ---
 ### calendarSlot
@@ -129,7 +129,7 @@ sidebar:
 ---
 ### options
 
-● options: [DateTimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/datetimepickeroptions-interface)
+● options: [DateTimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/datetimepickeroptions-interface)
 
 ---
 ### slot
@@ -144,7 +144,7 @@ sidebar:
 ---
 ### timePicker
 
-● timePicker: [TimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/timepicker-class) | `null` = ` null`
+● timePicker: [TimePicker](api-reference-old/api-reference-6x/ui-package/classes/timepicker-class) | `null` = ` null`
 
 ---
 ### timePickerSlot
@@ -208,24 +208,24 @@ sidebar:
 
 ---
 ### createCalendar
-▸ createCalendar(options: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface)): [DefaultCalendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class)
+▸ createCalendar(options: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface)): [DefaultCalendar](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class)
 
 #### Parameters:
-- options: [CalendarOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/calendaroptions-interface)
+- options: [CalendarOptions](api-reference-old/api-reference-6x/ui-package/interfaces/calendaroptions-interface)
 
 
-**Returns** [DefaultCalendar](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaultcalendar-class)
+**Returns** [DefaultCalendar](api-reference-old/api-reference-6x/ui-package/classes/defaultcalendar-class)
 
 
 ---
 ### createTimePicker
-▸ createTimePicker(options: [TimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/timepickeroptions-interface)): [DefaultTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaulttimepicker-class)
+▸ createTimePicker(options: [TimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/timepickeroptions-interface)): [DefaultTimePicker](api-reference-old/api-reference-6x/ui-package/classes/defaulttimepicker-class)
 
 #### Parameters:
-- options: [TimePickerOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/timepickeroptions-interface)
+- options: [TimePickerOptions](api-reference-old/api-reference-6x/ui-package/interfaces/timepickeroptions-interface)
 
 
-**Returns** [DefaultTimePicker](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/defaulttimepicker-class)
+**Returns** [DefaultTimePicker](api-reference-old/api-reference-6x/ui-package/classes/defaulttimepicker-class)
 
 
 ---

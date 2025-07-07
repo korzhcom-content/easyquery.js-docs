@@ -9,21 +9,21 @@ sidebar:
 The information about DOM elements to place EasyQuery widgets in.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#properties-1)
-- [clearQueryButtonId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#clearquerybuttonid)
-- [columnsBarId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#columnsbarid)
-- [columnsPanelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#columnspanelid)
-- [entitiesPanelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#entitiespanelid)
-- [executeQueryButtonId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#executequerybuttonid)
-- [exportButtonsId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#exportbuttonsid)
-- [exportClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#exportclass)
-- [filterBarId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#filterbarid)
-- [processBarId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#processbarid)
-- [queryContentInputId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#querycontentinputid)
-- [queryPanelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#querypanelid)
-- [resultCountSpanId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#resultcountspanid)
-- [resultPanelId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#resultpanelid)
-- [sortingBarId](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewslots-interface/#sortingbarid)
+### [Properties](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#properties-1)
+- [clearQueryButtonId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#clearquerybuttonid)
+- [columnsBarId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#columnsbarid)
+- [columnsPanelId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#columnspanelid)
+- [entitiesPanelId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#entitiespanelid)
+- [executeQueryButtonId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#executequerybuttonid)
+- [exportButtonsId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#exportbuttonsid)
+- [exportClass](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#exportclass)
+- [filterBarId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#filterbarid)
+- [processBarId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#processbarid)
+- [queryContentInputId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#querycontentinputid)
+- [queryPanelId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#querypanelid)
+- [resultCountSpanId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#resultcountspanid)
+- [resultPanelId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#resultpanelid)
+- [sortingBarId](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewslots-interface#sortingbarid)
 
 
 

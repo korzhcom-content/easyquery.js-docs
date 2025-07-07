@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[QueryExecutor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/queryexecutor-interface)
+[QueryExecutor](api-reference-old/api-reference-6x/core-package/interfaces/queryexecutor-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverqueryexecutor-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverqueryexecutor-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eqserverqueryexecutor-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eqserverqueryexecutor-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverqueryexecutor-class/#public-methods-1)
-- [executeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverqueryexecutor-class/#executequery)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eqserverqueryexecutor-class#public-methods-1)
+- [executeQuery](api-reference-old/api-reference-6x/core-package/classes/eqserverqueryexecutor-class#executequery)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerQueryExecutor(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [EqServerQueryExecutor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverqueryexecutor-class)
+⊕ new EqServerQueryExecutor(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [EqServerQueryExecutor](api-reference-old/api-reference-6x/core-package/classes/eqserverqueryexecutor-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---

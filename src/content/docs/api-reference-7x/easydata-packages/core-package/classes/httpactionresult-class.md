@@ -6,15 +6,15 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#public-methods-1)
-- [catch](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#catch)
-- [finally](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#finally)
-- [getPromise](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#getpromise)
-- [getRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#getrequest)
-- [then](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class/#then)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#public-methods-1)
+- [catch](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#catch)
+- [finally](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#finally)
+- [getPromise](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#getpromise)
+- [getRequest](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#getrequest)
+- [then](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class#then)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new HttpActionResult(request: [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class),promise: `Promise`&lt;`T`&gt;): [HttpActionResult](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttpactionresult-class)
+⊕ new HttpActionResult(request: [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class),promise: `Promise`&lt;`T`&gt;): [HttpActionResult](api-reference-7x/easydata-packages/core-package/classeshttpactionresult-class)
 
 #### Parameters:
-- request: [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)
+- request: [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)
 - promise: `Promise`&lt;`T`&gt;
 
 
@@ -65,10 +65,10 @@ sidebar:
 
 ---
 ### getRequest
-▸ getRequest(): [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)
+▸ getRequest(): [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)
 
 
-**Returns** [HttpRequest](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classeshttprequest-class)
+**Returns** [HttpRequest](api-reference-7x/easydata-packages/core-package/classeshttprequest-class)
 
 
 ---

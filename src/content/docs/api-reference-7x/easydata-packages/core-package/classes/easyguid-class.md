@@ -8,8 +8,8 @@ sidebar:
 EasyData representation of GUID.
 
 ## Index
-### [Static Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easyguid-class/#static-methods-1)
-- [newGuid](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easyguid-class/#newguid)
+### [Static Methods](api-reference-7x/easydata-packages/core-package/classes/easyguid-class#static-methods-1)
+- [newGuid](api-reference-7x/easydata-packages/core-package/classes/easyguid-class#newguid)
 
 
 

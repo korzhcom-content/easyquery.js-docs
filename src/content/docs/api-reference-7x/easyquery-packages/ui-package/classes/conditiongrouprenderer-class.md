@@ -7,31 +7,31 @@ sidebar:
 ---
 
 ## Extends
-[ConditionRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditionrenderer-class)
+[ConditionRenderer](api-reference-7x/easyquery-packages/ui-package/classes/conditionrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-properties-1)
-- [condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#condition)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#element)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#panel)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#protected-properties-1)
+- [condition](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#condition)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#element)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#panel)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#protected-methods-1)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#clear)
-- [coreRender](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#corerender)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#getclassestoadd)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#iseditable)
-- [renderConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#renderconditions)
-- [renderGroupRow](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class/#rendergrouprow)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#protected-methods-1)
+- [clear](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#clear)
+- [coreRender](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#corerender)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#getclassestoadd)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#iseditable)
+- [renderConditions](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#renderconditions)
+- [renderGroupRow](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class#rendergrouprow)
 
 
 ## Constructors
@@ -39,11 +39,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ConditionGroupRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class),slot?: `HTMLDivElement`): [ConditionGroupRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/conditiongrouprenderer-class)
+⊕ new ConditionGroupRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class),slot?: `HTMLDivElement`): [ConditionGroupRenderer](api-reference-7x/easyquery-packages/ui-package/classes/conditiongrouprenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -54,7 +54,7 @@ sidebar:
 ---
 ### condition
 
-● condition: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+● condition: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ---
 ### element
@@ -64,7 +64,7 @@ sidebar:
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ## Protected Accessors

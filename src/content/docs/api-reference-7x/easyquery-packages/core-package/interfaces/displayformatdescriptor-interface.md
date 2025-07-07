@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/displayformatdescriptor-interface/#properties-1)
-- [format](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/displayformatdescriptor-interface/#format)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/displayformatdescriptor-interface/#name)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/displayformatdescriptor-interface#properties-1)
+- [format](api-reference-7x/easyquery-packages/core-package/interfaces/displayformatdescriptor-interface#format)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/displayformatdescriptor-interface#name)
 
 
 

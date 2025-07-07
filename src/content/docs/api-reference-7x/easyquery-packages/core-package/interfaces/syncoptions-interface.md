@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface/#data)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface/#options)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface/#query)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface#data)
+- [options](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface#options)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface#query)
 
 
 
@@ -29,6 +29,6 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---

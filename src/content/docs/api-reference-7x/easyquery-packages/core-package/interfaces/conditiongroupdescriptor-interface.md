@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/conditiongroupdescriptor-interface/#properties-1)
-- [linking](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/conditiongroupdescriptor-interface/#linking)
-- [parent](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/conditiongroupdescriptor-interface/#parent)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/conditiongroupdescriptor-interface#properties-1)
+- [linking](api-reference-7x/easyquery-packages/core-package/interfaces/conditiongroupdescriptor-interface#linking)
+- [parent](api-reference-7x/easyquery-packages/core-package/interfaces/conditiongroupdescriptor-interface#parent)
 
 
 
@@ -18,11 +18,11 @@ sidebar:
 ---
 ### linking
 
-● linking?: [LinkType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/linktype-enum)
+● linking?: [LinkType](api-reference-7x/easyquery-packages/core-package/enumerations/linktype-enum)
 
 ---
 ### parent
 
-● parent?: [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)
+● parent?: [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)
 
 ---

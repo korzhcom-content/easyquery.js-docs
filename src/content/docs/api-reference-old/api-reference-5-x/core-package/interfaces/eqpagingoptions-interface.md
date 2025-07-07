@@ -9,15 +9,15 @@ sidebar:
 Defines the structure of paging options
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#properties-1)
-- [cssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#cssclass)
-- [enabled](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#enabled)
-- [maxButtonCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#maxbuttoncount)
-- [pageCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#pagecount)
-- [pageIndex](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#pageindex)
-- [pageItemCssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#pageitemcssclass)
-- [pageSelectedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#pageselectedcallback)
-- [useBootstrap](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface/#usebootstrap)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#properties-1)
+- [cssClass](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#cssclass)
+- [enabled](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#enabled)
+- [maxButtonCount](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#maxbuttoncount)
+- [pageCount](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#pagecount)
+- [pageIndex](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#pageindex)
+- [pageItemCssClass](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#pageitemcssclass)
+- [pageSelectedCallback](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#pageselectedcallback)
+- [useBootstrap](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface#usebootstrap)
 
 
 

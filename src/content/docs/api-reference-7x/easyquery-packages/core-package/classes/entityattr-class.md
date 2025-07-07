@@ -11,43 +11,43 @@ Represents entity attribute.
 `MetaEntityAttr`
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#public-properties-1)
-- [caption](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#caption)
-- [captionPlural](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#captionplural)
-- [dataAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#dataattr)
-- [dataType](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#datatype)
-- [defaultEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#defaulteditor)
-- [defaultOperator](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#defaultoperator)
-- [description](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#description)
-- [displayFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#displayformat)
-- [entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#entity)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#expr)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#id)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#iseditable)
-- [isForeignKey](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#isforeignkey)
-- [isNullable](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#isnullable)
-- [isPrimaryKey](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#isprimarykey)
-- [kind](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#kind)
-- [lookupAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#lookupattr)
-- [lookupDataAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#lookupdataattr)
-- [lookupEntity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#lookupentity)
-- [operators](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#operators)
-- [params](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#params)
-- [showInLookup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#showinlookup)
-- [showOnCreate](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#showoncreate)
-- [showOnEdit](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#showonedit)
-- [showOnView](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#showonview)
-- [size](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#size)
-- [useInConditions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#useinconditions)
-- [useInResult](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#useinresult)
-- [useInSorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#useinsorting)
-- [userData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#userdata)
+### [Public Properties](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#public-properties-1)
+- [caption](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#caption)
+- [captionPlural](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#captionplural)
+- [dataAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#dataattr)
+- [dataType](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#datatype)
+- [defaultEditor](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#defaulteditor)
+- [defaultOperator](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#defaultoperator)
+- [description](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#description)
+- [displayFormat](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#displayformat)
+- [entity](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#entity)
+- [expr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#expr)
+- [id](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#id)
+- [isEditable](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#iseditable)
+- [isForeignKey](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#isforeignkey)
+- [isNullable](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#isnullable)
+- [isPrimaryKey](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#isprimarykey)
+- [kind](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#kind)
+- [lookupAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#lookupattr)
+- [lookupDataAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#lookupdataattr)
+- [lookupEntity](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#lookupentity)
+- [operators](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#operators)
+- [params](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#params)
+- [showInLookup](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#showinlookup)
+- [showOnCreate](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#showoncreate)
+- [showOnEdit](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#showonedit)
+- [showOnView](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#showonview)
+- [size](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#size)
+- [useInConditions](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#useinconditions)
+- [useInResult](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#useinresult)
+- [useInSorting](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#useinsorting)
+- [userData](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#userdata)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#public-methods-1)
-- [loadFromData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class/#loadfromdata)
+### [Public Methods](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#public-methods-1)
+- [loadFromData](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class#loadfromdata)
 
 
 ## Constructors
@@ -56,10 +56,10 @@ Represents entity attribute.
 #### constructor
 
 The default constructor.
-⊕ new EntityAttr(entity: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)): [EntityAttr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entityattr-class)
+⊕ new EntityAttr(entity: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)): [EntityAttr](api-reference-7x/easyquery-packages/core-package/classes/entityattr-class)
 
 #### Parameters:
-- entity: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)
+- entity: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)
 
 
 ---
@@ -123,7 +123,7 @@ The display format for the attribute
 
 The parent
 
-● entity: [Entity](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/entity-class)
+● entity: [Entity](api-reference-7x/easyquery-packages/core-package/classes/entity-class)
 
 ---
 ### expr
@@ -203,7 +203,7 @@ The list of operators which can be applied for this attribute.
 
 The parameters associated with this entity attribute
 
-● params: [QueryParam](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/queryparam-interface)[] = ` []`
+● params: [QueryParam](api-reference-7x/easyquery-packages/core-package/interfaces/queryparam-interface)[] = ` []`
 
 ---
 ### showInLookup
@@ -273,11 +273,11 @@ User data
 ### loadFromData
 Loads entity attribute from JSON representation object.
 
-▸ loadFromData(model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class),data: [EntityAttrData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entityattrdata-interface)): `void`
+▸ loadFromData(model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class),data: [EntityAttrData](api-reference-7x/easyquery-packages/core-package/interfaces/entityattrdata-interface)): `void`
 
 #### Parameters:
-- model: [DataModel](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/datamodel-class) - The Data Model.
-- data: [EntityAttrData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entityattrdata-interface) - The JSON representation object.
+- model: [DataModel](api-reference-7x/easyquery-packages/core-package/classes/datamodel-class) - The Data Model.
+- data: [EntityAttrData](api-reference-7x/easyquery-packages/core-package/interfaces/entityattrdata-interface) - The JSON representation object.
 
 
 

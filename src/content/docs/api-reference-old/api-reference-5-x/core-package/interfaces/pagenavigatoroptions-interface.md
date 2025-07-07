@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#properties-1)
-- [cssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#cssclass)
-- [enabled](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#enabled)
-- [maxButtonCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#maxbuttoncount)
-- [pageCount](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#pagecount)
-- [pageIndex](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#pageindex)
-- [pageItemCssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#pageitemcssclass)
-- [pageSelectedCallback](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#pageselectedcallback)
-- [useBootstrap](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/pagenavigatoroptions-interface/#usebootstrap)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#properties-1)
+- [cssClass](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#cssclass)
+- [enabled](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#enabled)
+- [maxButtonCount](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#maxbuttoncount)
+- [pageCount](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#pagecount)
+- [pageIndex](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#pageindex)
+- [pageItemCssClass](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#pageitemcssclass)
+- [pageSelectedCallback](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#pageselectedcallback)
+- [useBootstrap](api-reference-old/api-reference-5-x/core-package/interfaces/pagenavigatoroptions-interface#usebootstrap)
 
 
 ## Properties

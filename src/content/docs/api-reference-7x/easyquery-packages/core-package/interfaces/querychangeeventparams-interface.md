@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Extends
-[QueryChangeEventData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventdata-interface)
+[QueryChangeEventData](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventdata-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#properties-1)
-- [action](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#action)
-- [changee](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#changee)
-- [part](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#part)
-- [postpone](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#postpone)
-- [wasModified](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querychangeeventparams-interface/#wasmodified)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#properties-1)
+- [action](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#action)
+- [changee](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#changee)
+- [part](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#part)
+- [postpone](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#postpone)
+- [wasModified](api-reference-7x/easyquery-packages/core-package/interfaces/querychangeeventparams-interface#wasmodified)
 
 
 
@@ -24,17 +24,17 @@ sidebar:
 ---
 ### action
 
-● action?: [QueryChangeAction](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/querychangeaction-enum)
+● action?: [QueryChangeAction](api-reference-7x/easyquery-packages/core-package/enumerations/querychangeaction-enum)
 
 ---
 ### changee
 
-● changee?: [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class) | [QueryColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/querycolumn-class)[] | [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class) | [Condition](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/condition-class)[]
+● changee?: [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class) | [QueryColumn](api-reference-7x/easyquery-packages/core-package/classes/querycolumn-class)[] | [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class) | [Condition](api-reference-7x/easyquery-packages/core-package/classes/condition-class)[]
 
 ---
 ### part
 
-● part: [QueryChangePart](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/querychangepart-enum)
+● part: [QueryChangePart](api-reference-7x/easyquery-packages/core-package/enumerations/querychangepart-enum)
 
 ---
 ### postpone

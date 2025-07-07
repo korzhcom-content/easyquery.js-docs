@@ -9,59 +9,59 @@ sidebar:
 Query panel options
 
 ## Extends
-[DataDisplayFormatterOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/datadisplayformatteroptions-interface)
+[DataDisplayFormatterOptions](api-reference-old/api-reference-6x/core-package/interfaces/datadisplayformatteroptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#properties-1)
-- [accentActiveCondition](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#accentactivecondition)
-- [activateRootOnStart](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#activaterootonstart)
-- [activeCondition](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#activecondition)
-- [adjustEntitiesMenuHeight](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#adjustentitiesmenuheight)
-- [allowDragDrop](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#allowdragdrop)
-- [allowInJoinConditions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#allowinjoinconditions)
-- [allowParameterization](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#allowparameterization)
-- [alwaysShowButtonsInConditions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#alwaysshowbuttonsinconditions)
-- [alwaysShowButtonsInGroups](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#alwaysshowbuttonsingroups)
-- [attrElementFormat](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#attrelementformat)
-- [attrPlacement](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#attrplacement)
-- [autoEditNewCondition](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#autoeditnewcondition)
-- [buttons](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#buttons)
-- [dateFormatDisplay](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#dateformatdisplay)
-- [dateFormatValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#dateformatvalue)
-- [defaultQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#defaultquery)
-- [dialogZIndex](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#dialogzindex)
-- [domWriteItemsId](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#domwriteitemsid)
-- [emptyTextAttribute](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#emptytextattribute)
-- [emptyTextList](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#emptytextlist)
-- [emptyTextOperator](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#emptytextoperator)
-- [emptyTextValue](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#emptytextvalue)
-- [entitiesListFilter](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#entitieslistfilter)
-- [entitiesPopupHandler](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#entitiespopuphandler)
-- [isSubQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#issubquery)
-- [localeId](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#localeid)
-- [localeSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#localesettings)
-- [menuContainer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#menucontainer)
-- [menuOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#menuoptions)
-- [numberDecimalSeparatorDisplay](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#numberdecimalseparatordisplay)
-- [numberListSeparators](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#numberlistseparators)
-- [onConditionRendered](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#onconditionrendered)
-- [onExpressionRendered](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#onexpressionrendered)
-- [onGetAddRowRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#ongetaddrowrenderer)
-- [onGetConditionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#ongetconditionrenderer)
-- [onGetExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#ongetexpressionrenderer)
-- [onGetOperatorRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#ongetoperatorrenderer)
-- [onOperatorRendered](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#onoperatorrendered)
-- [oneClickDateSelection](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#oneclickdateselection)
-- [showAddRow](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#showaddrow)
-- [showCheckboxes](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#showcheckboxes)
-- [showConjunctions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#showconjunctions)
-- [showPoweredBy](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#showpoweredby)
-- [showRootRow](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#showrootrow)
-- [sortEntities](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#sortentities)
-- [subQueryDialogHeight](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#subquerydialogheight)
-- [subQueryDialogWidth](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#subquerydialogwidth)
-- [useCustomLocaleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#usecustomlocalesettings)
-- [yearRange](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/querypaneloptions-interface/#yearrange)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#properties-1)
+- [accentActiveCondition](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#accentactivecondition)
+- [activateRootOnStart](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#activaterootonstart)
+- [activeCondition](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#activecondition)
+- [adjustEntitiesMenuHeight](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#adjustentitiesmenuheight)
+- [allowDragDrop](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#allowdragdrop)
+- [allowInJoinConditions](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#allowinjoinconditions)
+- [allowParameterization](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#allowparameterization)
+- [alwaysShowButtonsInConditions](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#alwaysshowbuttonsinconditions)
+- [alwaysShowButtonsInGroups](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#alwaysshowbuttonsingroups)
+- [attrElementFormat](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#attrelementformat)
+- [attrPlacement](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#attrplacement)
+- [autoEditNewCondition](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#autoeditnewcondition)
+- [buttons](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#buttons)
+- [dateFormatDisplay](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#dateformatdisplay)
+- [dateFormatValue](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#dateformatvalue)
+- [defaultQuery](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#defaultquery)
+- [dialogZIndex](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#dialogzindex)
+- [domWriteItemsId](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#domwriteitemsid)
+- [emptyTextAttribute](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#emptytextattribute)
+- [emptyTextList](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#emptytextlist)
+- [emptyTextOperator](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#emptytextoperator)
+- [emptyTextValue](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#emptytextvalue)
+- [entitiesListFilter](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#entitieslistfilter)
+- [entitiesPopupHandler](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#entitiespopuphandler)
+- [isSubQuery](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#issubquery)
+- [localeId](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#localeid)
+- [localeSettings](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#localesettings)
+- [menuContainer](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#menucontainer)
+- [menuOptions](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#menuoptions)
+- [numberDecimalSeparatorDisplay](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#numberdecimalseparatordisplay)
+- [numberListSeparators](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#numberlistseparators)
+- [onConditionRendered](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#onconditionrendered)
+- [onExpressionRendered](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#onexpressionrendered)
+- [onGetAddRowRenderer](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#ongetaddrowrenderer)
+- [onGetConditionRenderer](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#ongetconditionrenderer)
+- [onGetExpressionRenderer](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#ongetexpressionrenderer)
+- [onGetOperatorRenderer](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#ongetoperatorrenderer)
+- [onOperatorRendered](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#onoperatorrendered)
+- [oneClickDateSelection](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#oneclickdateselection)
+- [showAddRow](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#showaddrow)
+- [showCheckboxes](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#showcheckboxes)
+- [showConjunctions](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#showconjunctions)
+- [showPoweredBy](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#showpoweredby)
+- [showRootRow](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#showrootrow)
+- [sortEntities](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#sortentities)
+- [subQueryDialogHeight](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#subquerydialogheight)
+- [subQueryDialogWidth](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#subquerydialogwidth)
+- [useCustomLocaleSettings](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#usecustomlocalesettings)
+- [yearRange](api-reference-old/api-reference-6x/ui-package/interfaces/querypaneloptions-interface#yearrange)
 
 
 
@@ -190,7 +190,7 @@ A string that represents the format of date values used in date/time picker widg
 ---
 ### defaultQuery
 
-● defaultQuery?: [Query](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/query-class)
+● defaultQuery?: [Query](api-reference-old/api-reference-6x/core-package/classes/query-class)
 
 ---
 ### dialogZIndex
@@ -247,7 +247,7 @@ Sets or gets the ZIndex property of the different dialogs used in QueryPanel (in
 ---
 ### localeSettings
 
-● localeSettings?: [LocaleSettings](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/i18n-namespace/interfaces/localesettings-interface)
+● localeSettings?: [LocaleSettings](api-reference-old/api-reference-6x/core-package/i18n-namespace/interfaces/localesettings-interface)
 
 ---
 ### menuContainer
@@ -284,7 +284,7 @@ Parameters:
     condition - Condition object
     slot - HTMLDivElement object that represents the condition's div
 
-● onConditionRendered?: (condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class), slot: `HTMLDivElement`) => `void`
+● onConditionRendered?: (condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class), slot: `HTMLDivElement`) => `void`
 #### Example: 
 ```typescript
 
@@ -297,32 +297,32 @@ conditionRenderedHandler: function (condition, slot) {
 ---
 ### onExpressionRendered
 
-● onExpressionRendered?: (expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class), slot: `HTMLDivElement`) => `void`
+● onExpressionRendered?: (expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class), slot: `HTMLDivElement`) => `void`
 
 ---
 ### onGetAddRowRenderer
 
-● onGetAddRowRenderer?: (slot?: `HTMLDivElement`) => [BaseElementRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+● onGetAddRowRenderer?: (slot?: `HTMLDivElement`) => [BaseElementRenderer](api-reference-old/api-reference-6x/ui-package/classes/baseelementrenderer-class) | `null`
 
 ---
 ### onGetConditionRenderer
 
-● onGetConditionRenderer?: (condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class), slot?: `HTMLDivElement`) => [ConditionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/conditionrenderer-class) | `null`
+● onGetConditionRenderer?: (condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class), slot?: `HTMLDivElement`) => [ConditionRenderer](api-reference-old/api-reference-6x/ui-package/classes/conditionrenderer-class) | `null`
 
 ---
 ### onGetExpressionRenderer
 
-● onGetExpressionRenderer?: (expression: [Expression](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/expression-class), slot?: `HTMLDivElement`) => [ExpressionRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/expressionrenderer-class) | `null`
+● onGetExpressionRenderer?: (expression: [Expression](api-reference-old/api-reference-6x/core-package/classes/expression-class), slot?: `HTMLDivElement`) => [ExpressionRenderer](api-reference-old/api-reference-6x/ui-package/classes/expressionrenderer-class) | `null`
 
 ---
 ### onGetOperatorRenderer
 
-● onGetOperatorRenderer?: (condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class), text: `string`, slot?: `HTMLDivElement`) => [BaseElementRenderer](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/baseelementrenderer-class) | `null`
+● onGetOperatorRenderer?: (condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class), text: `string`, slot?: `HTMLDivElement`) => [BaseElementRenderer](api-reference-old/api-reference-6x/ui-package/classes/baseelementrenderer-class) | `null`
 
 ---
 ### onOperatorRendered
 
-● onOperatorRendered?: (condition: [Condition](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/condition-class), text: `string`, slot: `HTMLDivElement`) => `void`
+● onOperatorRendered?: (condition: [Condition](api-reference-old/api-reference-6x/core-package/classes/condition-class), text: `string`, slot: `HTMLDivElement`) => `void`
 
 ---
 ### oneClickDateSelection

@@ -9,35 +9,35 @@ The widget responsed for rendering statement.
 It's usually added for demonstration purposes only.
 
 ## Extends
-[Widget](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/widget-class)
+[Widget](api-reference-7x/easyquery-packages/core-package/classes/widget-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#public-properties-1)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#id)
+### [Public Properties](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#public-properties-1)
+- [id](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#id)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#context)
-- [group](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#group)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#slot)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#context)
+- [group](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#group)
+- [slot](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#slot)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#public-methods-1)
-- [belongsToGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#belongstogroup)
-- [destroy](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#destroy)
-- [getContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#getcontext)
-- [getWidgetType](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#getwidgettype)
-- [init](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#init)
-- [onProcessEnd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#onprocessend)
-- [onProcessStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#onprocessstart)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#refresh)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#public-methods-1)
+- [belongsToGroup](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#belongstogroup)
+- [destroy](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#destroy)
+- [getContext](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#getcontext)
+- [getWidgetType](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#getwidgettype)
+- [init](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#init)
+- [onProcessEnd](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#onprocessend)
+- [onProcessStart](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#onprocessstart)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#refresh)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#protected-methods-1)
-- [destroyCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#destroycore)
-- [onProcessEndCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#onprocessendcore)
-- [onProcessStartCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#onprocessstartcore)
-- [refreshCore](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class/#refreshcore)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#protected-methods-1)
+- [destroyCore](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#destroycore)
+- [onProcessEndCore](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#onprocessendcore)
+- [onProcessStartCore](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#onprocessstartcore)
+- [refreshCore](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class#refreshcore)
 
 
 ## Constructors
@@ -46,7 +46,7 @@ It's usually added for demonstration purposes only.
 #### constructor
 
 The  default constructor.
-⊕ new StatementPanel(slot: `HTMLElement`): [StatementPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/statementpanel-class)
+⊕ new StatementPanel(slot: `HTMLElement`): [StatementPanel](api-reference-7x/easyquery-packages/ui-package/classes/statementpanel-class)
 
 #### Parameters:
 - slot: `HTMLElement` - The html element.
@@ -68,12 +68,12 @@ The  default constructor.
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ### group
 
-● group: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)
+● group: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)
 
 ---
 ### slot
@@ -87,10 +87,10 @@ The  default constructor.
 ### belongsToGroup
 Returns `true` if the widget belongs to one of the groups specified in the parameter
 
-▸ belongsToGroup(groups?: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum)): `boolean`
+▸ belongsToGroup(groups?: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum)): `boolean`
 
 #### Parameters:
-- groups: [WidgetGroup](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/enumerations/widgetgroup-enum), *Optional*  - 
+- groups: [WidgetGroup](api-reference-7x/easyquery-packages/core-package/enumerations/widgetgroup-enum), *Optional*  - 
 
 
 
@@ -109,10 +109,10 @@ Returns `true` if the widget belongs to one of the groups specified in the param
 ### getContext
 Returns current context (the one this widget belongs to)
 
-▸ getContext(): [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+▸ getContext(): [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
-**Returns** [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+**Returns** [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -127,10 +127,10 @@ Returns current context (the one this widget belongs to)
 ### init
 Initializes the widget and assign it to some context
 
-▸ init(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class),options?: `any`): `void`
+▸ init(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class),options?: `any`): `void`
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 - options: `any`, *Optional*  - 
 
 

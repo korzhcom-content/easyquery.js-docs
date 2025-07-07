@@ -7,13 +7,13 @@ sidebar:
 ---
 
 ## Index
-### [Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#methods-1)
-- [getQueryList](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#getquerylist)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#init)
-- [loadQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#loadquery)
-- [newQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#newquery)
-- [removeQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#removequery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querystorage-interface/#savequery)
+### [Methods](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#methods-1)
+- [getQueryList](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#getquerylist)
+- [init](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#init)
+- [loadQuery](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#loadquery)
+- [newQuery](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#newquery)
+- [removeQuery](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#removequery)
+- [saveQuery](api-reference-old/api-reference-6x/core-package/interfaces/querystorage-interface#savequery)
 
 
 
@@ -21,13 +21,13 @@ sidebar:
 
 ---
 ### getQueryList
-▸ getQueryList(options?: `any`): `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+▸ getQueryList(options?: `any`): `Promise`&lt;[QueryListItem](api-reference-old/api-reference-6x/core-package/interfaces/querylistitem-interface)[]&gt;
 
 #### Parameters:
 - options: `any`, *Optional* 
 
 
-**Returns** `Promise`&lt;[QueryListItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querylistitem-interface)[]&gt;
+**Returns** `Promise`&lt;[QueryListItem](api-reference-old/api-reference-6x/core-package/interfaces/querylistitem-interface)[]&gt;
 
 
 ---

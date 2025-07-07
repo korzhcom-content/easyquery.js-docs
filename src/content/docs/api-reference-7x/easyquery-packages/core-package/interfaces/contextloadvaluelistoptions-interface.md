@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Extends
-[LoadValueListOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistoptions-interface)
+[LoadValueListOptions](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface/#properties-1)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface/#error)
-- [modelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface/#modelid)
-- [params](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface/#params)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextloadvaluelistoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface#properties-1)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface#error)
+- [modelId](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface#modelid)
+- [params](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface#params)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextloadvaluelistoptions-interface#success)
 
 
 
@@ -33,11 +33,11 @@ sidebar:
 ---
 ### params
 
-● params?: [LoadValueListParams](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/loadvaluelistparams-interface)
+● params?: [LoadValueListParams](api-reference-7x/easyquery-packages/core-package/interfaces/loadvaluelistparams-interface)
 
 ---
 ### success
 
-● success?: (values: [ValueListItem](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/valuelistitem-interface)[]) => `void`
+● success?: (values: [ValueListItem](api-reference-7x/easyquery-packages/core-package/interfaces/valuelistitem-interface)[]) => `void`
 
 ---

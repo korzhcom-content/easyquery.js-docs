@@ -9,29 +9,29 @@ sidebar:
 Entity attribute JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#properties-1)
-- [cptn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#cptn)
-- [dattr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#dattr)
-- [desc](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#desc)
-- [dfmt](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#dfmt)
-- [dtype](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#dtype)
-- [edtr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#edtr)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#id)
-- [ied](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#ied)
-- [ifk](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#ifk)
-- [ipk](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#ipk)
-- [ivis](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#ivis)
-- [kind](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#kind)
-- [lattr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#lattr)
-- [ldattr](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#ldattr)
-- [lent](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#lent)
-- [nul](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#nul)
-- [sil](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#sil)
-- [size](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#size)
-- [soc](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#soc)
-- [soe](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#soe)
-- [sov](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#sov)
-- [udata](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/metaentityattrdto-interface/#udata)
+### [Properties](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#properties-1)
+- [cptn](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#cptn)
+- [dattr](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#dattr)
+- [desc](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#desc)
+- [dfmt](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#dfmt)
+- [dtype](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#dtype)
+- [edtr](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#edtr)
+- [id](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#id)
+- [ied](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#ied)
+- [ifk](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#ifk)
+- [ipk](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#ipk)
+- [ivis](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#ivis)
+- [kind](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#kind)
+- [lattr](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#lattr)
+- [ldattr](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#ldattr)
+- [lent](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#lent)
+- [nul](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#nul)
+- [sil](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#sil)
+- [size](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#size)
+- [soc](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#soc)
+- [soe](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#soe)
+- [sov](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#sov)
+- [udata](api-reference-7x/easydata-packages/core-package/interfaces/metaentityattrdto-interface#udata)
 
 
 
@@ -68,7 +68,7 @@ Display format
 
 The data type.
 
-● dtype: [DataType](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/datatype-enum)
+● dtype: [DataType](api-reference-7x/easydata-packages/core-package/enumerations/datatype-enum)
 
 ---
 ### edtr
@@ -115,7 +115,7 @@ Is visible
 ---
 ### kind
 
-● kind: [EntityAttrKind](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/enumerations/entityattrkind-enum)
+● kind: [EntityAttrKind](api-reference-7x/easydata-packages/core-package/enumerations/entityattrkind-enum)
 
 ---
 ### lattr

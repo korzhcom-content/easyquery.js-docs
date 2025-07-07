@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/chartcolumn-interface/#properties-1)
-- [idx](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/chartcolumn-interface/#idx)
-- [label](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/chartcolumn-interface/#label)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/chartcolumn-interface#properties-1)
+- [idx](api-reference-7x/easyquery-packages/ui-package/interfaces/chartcolumn-interface#idx)
+- [label](api-reference-7x/easyquery-packages/ui-package/interfaces/chartcolumn-interface#label)
 
 
 

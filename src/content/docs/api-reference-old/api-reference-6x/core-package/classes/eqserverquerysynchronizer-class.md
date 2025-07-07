@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[QuerySynchronizer](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/querysynchronizer-interface)
+[QuerySynchronizer](api-reference-old/api-reference-6x/core-package/interfaces/querysynchronizer-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverquerysynchronizer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverquerysynchronizer-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/core-package/classes/eqserverquerysynchronizer-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/core-package/classes/eqserverquerysynchronizer-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverquerysynchronizer-class/#public-methods-1)
-- [syncQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverquerysynchronizer-class/#syncquery)
+### [Public Methods](api-reference-old/api-reference-6x/core-package/classes/eqserverquerysynchronizer-class#public-methods-1)
+- [syncQuery](api-reference-old/api-reference-6x/core-package/classes/eqserverquerysynchronizer-class#syncquery)
 
 
 ## Constructors
@@ -22,10 +22,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EqServerQuerySynchronizer(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [EqServerQuerySynchronizer](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqserverquerysynchronizer-class)
+⊕ new EqServerQuerySynchronizer(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [EqServerQuerySynchronizer](api-reference-old/api-reference-6x/core-package/classes/eqserverquerysynchronizer-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---

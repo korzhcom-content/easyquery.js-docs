@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigation-interface/#properties-1)
-- [path](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigation-interface/#path)
-- [target](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/navigation-interface/#target)
+### [Properties](api-reference-old/api-reference-6x/odata-package/interfaces/navigation-interface#properties-1)
+- [path](api-reference-old/api-reference-6x/odata-package/interfaces/navigation-interface#path)
+- [target](api-reference-old/api-reference-6x/odata-package/interfaces/navigation-interface#target)
 
 
 

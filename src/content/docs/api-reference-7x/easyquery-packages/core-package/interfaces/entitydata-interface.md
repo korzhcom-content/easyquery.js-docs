@@ -12,16 +12,16 @@ Entity JSON representation object.
 `MetaEntityDTO`
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#properties-1)
-- [attrs](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#attrs)
-- [desc](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#desc)
-- [ents](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#ents)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#id)
-- [name](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#name)
-- [namePlur](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#nameplur)
-- [uic](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#uic)
-- [uir](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#uir)
-- [uis](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface/#uis)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#properties-1)
+- [attrs](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#attrs)
+- [desc](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#desc)
+- [ents](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#ents)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#id)
+- [name](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#name)
+- [namePlur](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#nameplur)
+- [uic](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#uic)
+- [uir](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#uir)
+- [uis](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface#uis)
 
 
 
@@ -32,7 +32,7 @@ Entity JSON representation object.
 
 List of attributes.
 
-● attrs?: [EntityAttrData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entityattrdata-interface)[]
+● attrs?: [EntityAttrData](api-reference-7x/easyquery-packages/core-package/interfaces/entityattrdata-interface)[]
 
 ---
 ### desc
@@ -46,7 +46,7 @@ The description.
 
 List of sub-entities.
 
-● ents?: [EntityData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/entitydata-interface)[]
+● ents?: [EntityData](api-reference-7x/easyquery-packages/core-package/interfaces/entitydata-interface)[]
 
 ---
 ### id

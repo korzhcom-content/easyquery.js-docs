@@ -9,33 +9,33 @@ sidebar:
 Columns panel options
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#properties-1)
-- [accentActiveColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#accentactivecolumn)
-- [activeColumn](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#activecolumn)
-- [adjustEntitiesMenuHeight](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#adjustentitiesmenuheight)
-- [allowAggrColumns](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowaggrcolumns)
-- [allowCustomExpressions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowcustomexpressions)
-- [allowDragDrop](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowdragdrop)
-- [allowDuplicates](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowduplicates)
-- [allowHiddenColumns](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowhiddencolumns)
-- [allowInvisible](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowinvisible)
-- [allowSorting](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#allowsorting)
-- [alwaysShowButtons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#alwaysshowbuttons)
-- [attrElementFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#attrelementformat)
-- [attrPlacement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#attrplacement)
-- [buttons](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#buttons)
-- [columnRenderedCallback](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#columnrenderedcallback)
-- [customExpressionText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#customexpressiontext)
-- [domWriteItemsId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#domwriteitemsid)
-- [isSubQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#issubquery)
-- [menuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#menuoptions)
-- [menuSearchBoxAfter](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#menusearchboxafter)
-- [showAddRow](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#showaddrow)
-- [showCheckboxes](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#showcheckboxes)
-- [showColumnTitles](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#showcolumntitles)
-- [showHeader](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#showheader)
-- [sortEntities](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#sortentities)
-- [titleElementFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/columnspaneloptions-interface/#titleelementformat)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#properties-1)
+- [accentActiveColumn](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#accentactivecolumn)
+- [activeColumn](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#activecolumn)
+- [adjustEntitiesMenuHeight](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#adjustentitiesmenuheight)
+- [allowAggrColumns](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowaggrcolumns)
+- [allowCustomExpressions](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowcustomexpressions)
+- [allowDragDrop](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowdragdrop)
+- [allowDuplicates](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowduplicates)
+- [allowHiddenColumns](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowhiddencolumns)
+- [allowInvisible](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowinvisible)
+- [allowSorting](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#allowsorting)
+- [alwaysShowButtons](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#alwaysshowbuttons)
+- [attrElementFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#attrelementformat)
+- [attrPlacement](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#attrplacement)
+- [buttons](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#buttons)
+- [columnRenderedCallback](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#columnrenderedcallback)
+- [customExpressionText](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#customexpressiontext)
+- [domWriteItemsId](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#domwriteitemsid)
+- [isSubQuery](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#issubquery)
+- [menuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#menuoptions)
+- [menuSearchBoxAfter](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#menusearchboxafter)
+- [showAddRow](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#showaddrow)
+- [showCheckboxes](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#showcheckboxes)
+- [showColumnTitles](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#showcolumntitles)
+- [showHeader](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#showheader)
+- [sortEntities](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#sortentities)
+- [titleElementFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/columnspaneloptions-interface#titleelementformat)
 
 
 
@@ -185,7 +185,7 @@ Gets or sets a value which defines what text should be used for custom expressio
 
 Contains different options for popup menu that appears for selecting attributes in columns.
 
-● menuOptions?: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)
+● menuOptions?: [PopupMenuOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/popupmenuoptions-interface)
 
 ---
 ### menuSearchBoxAfter

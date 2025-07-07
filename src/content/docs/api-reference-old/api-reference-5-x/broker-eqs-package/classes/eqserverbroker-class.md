@@ -9,39 +9,39 @@ sidebar:
 EasyQuuery server implementation of EqBroker.
 
 ## Implements
-[EqBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqbroker-interface)
+[EqBroker](api-reference-old/api-reference-5-x/core-package/interfaces/eqbroker-interface)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#constructor)
+### [Constructors](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#constructors-1)
+- [constructor](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#public-properties-1)
-- [antiForgeryToken](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#antiforgerytoken)
-- [endpoint](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#endpoint)
-- [executeQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#executequeryurl)
-- [exportResultUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#exportresulturl)
-- [loadModelUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadmodelurl)
-- [loadQueryListUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadquerylisturl)
-- [loadQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadqueryurl)
-- [newQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#newqueryurl)
-- [removeQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#removequeryurl)
-- [saveQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#savequeryurl)
-- [syncQueryUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#syncqueryurl)
-- [valueListRequestUrl](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#valuelistrequesturl)
+### [Public Properties](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#public-properties-1)
+- [antiForgeryToken](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#antiforgerytoken)
+- [endpoint](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#endpoint)
+- [executeQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#executequeryurl)
+- [exportResultUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#exportresulturl)
+- [loadModelUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadmodelurl)
+- [loadQueryListUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadquerylisturl)
+- [loadQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadqueryurl)
+- [newQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#newqueryurl)
+- [removeQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#removequeryurl)
+- [saveQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#savequeryurl)
+- [syncQueryUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#syncqueryurl)
+- [valueListRequestUrl](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#valuelistrequesturl)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#public-methods-1)
-- [buildAndExecute](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#buildandexecute)
-- [exportResult](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#exportresult)
-- [getModelPromise](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#getmodelpromise)
-- [init](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#init)
-- [loadModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadmodel)
-- [loadQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadquery)
-- [loadQueryList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadquerylist)
-- [loadValueList](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#loadvaluelist)
-- [newQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#newquery)
-- [removeQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#removequery)
-- [saveQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#savequery)
-- [syncQuery](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class/#syncquery)
+### [Public Methods](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#public-methods-1)
+- [buildAndExecute](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#buildandexecute)
+- [exportResult](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#exportresult)
+- [getModelPromise](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#getmodelpromise)
+- [init](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#init)
+- [loadModel](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadmodel)
+- [loadQuery](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadquery)
+- [loadQueryList](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadquerylist)
+- [loadValueList](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#loadvaluelist)
+- [newQuery](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#newquery)
+- [removeQuery](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#removequery)
+- [saveQuery](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#savequery)
+- [syncQuery](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class#syncquery)
 
 
 ## Constructors
@@ -50,10 +50,10 @@ EasyQuuery server implementation of EqBroker.
 #### constructor
 
 The default constructon
-⊕ new EqServerBroker(context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class)): [EqServerBroker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/classes/eqserverbroker-class)
+⊕ new EqServerBroker(context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class)): [EqServerBroker](api-reference-old/api-reference-5-x/broker-eqs-package/classes/eqserverbroker-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/eqcontext-class) - The context.
+- context: [EqContext](api-reference-old/api-reference-5-x/core-package/classes/eqcontext-class) - The context.
 
 
 
@@ -177,20 +177,20 @@ Sends a `exportResult` request to the server and processes the response.
 ### getModelPromise
 Gets the loadModel promise
 
-▸ getModelPromise(): `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)&gt;
+▸ getModelPromise(): `Promise`&lt;[DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)&gt;
 
 
-**Returns** `Promise`&lt;[DataModel](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/classes/datamodel-class)&gt; - The promise.
+**Returns** `Promise`&lt;[DataModel](api-reference-old/api-reference-5-x/core-package/classes/datamodel-class)&gt; - The promise.
 
 
 ---
 ### init
 Initialize broker.
 
-▸ init(options: [EqServerBrokerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/interfaces/eqserverbrokeroptions-interface)): `void`
+▸ init(options: [EqServerBrokerOptions](api-reference-old/api-reference-5-x/broker-eqs-package/interfaces/eqserverbrokeroptions-interface)): `void`
 
 #### Parameters:
-- options: [EqServerBrokerOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/broker-eqs-package/interfaces/eqserverbrokeroptions-interface) - The options.
+- options: [EqServerBrokerOptions](api-reference-old/api-reference-5-x/broker-eqs-package/interfaces/eqserverbrokeroptions-interface) - The options.
 
 
 

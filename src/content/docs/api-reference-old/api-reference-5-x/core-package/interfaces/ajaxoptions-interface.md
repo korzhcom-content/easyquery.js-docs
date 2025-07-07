@@ -9,15 +9,15 @@ sidebar:
 Defines the structure of AJAX request
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#properties-1)
-- [beforeSend](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#beforesend)
-- [contentType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#contenttype)
-- [data](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#data)
-- [dataType](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#datatype)
-- [error](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#error)
-- [success](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#success)
-- [type](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#type)
-- [url](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/ajaxoptions-interface/#url)
+### [Properties](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#properties-1)
+- [beforeSend](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#beforesend)
+- [contentType](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#contenttype)
+- [data](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#data)
+- [dataType](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#datatype)
+- [error](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#error)
+- [success](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#success)
+- [type](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#type)
+- [url](api-reference-old/api-reference-5-x/core-package/interfaces/ajaxoptions-interface#url)
 
 
 

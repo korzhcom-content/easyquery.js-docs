@@ -6,17 +6,17 @@ sidebar:
 ---
 
 ## Index
-- [registerColumnWidgets](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registercolumnwidgets)
-- [registerColumnsBarWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registercolumnsbarwidget)
-- [registerColumnsPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registercolumnspanelwidget)
-- [registerConditionWidgets](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registerconditionwidgets)
-- [registerEntitiesPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registerentitiespanelwidget)
-- [registerEqJquiTimePicker](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registereqjquitimepicker)
-- [registerFilterBarWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registerfilterbarwidget)
-- [registerPopupMenu](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registerpopupmenu)
-- [registerQueryPanelWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registerquerypanelwidget)
-- [registerTimePickerWidget](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registertimepickerwidget)
-- [registerValueEditors](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-jquery-package/functions/#registervalueeditors)
+- [registerColumnWidgets](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registercolumnwidgets)
+- [registerColumnsBarWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registercolumnsbarwidget)
+- [registerColumnsPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registercolumnspanelwidget)
+- [registerConditionWidgets](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registerconditionwidgets)
+- [registerEntitiesPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registerentitiespanelwidget)
+- [registerEqJquiTimePicker](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registereqjquitimepicker)
+- [registerFilterBarWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registerfilterbarwidget)
+- [registerPopupMenu](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registerpopupmenu)
+- [registerQueryPanelWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registerquerypanelwidget)
+- [registerTimePickerWidget](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registertimepickerwidget)
+- [registerValueEditors](api-reference-old/api-reference-5-x/ui-jquery-package/functions#registervalueeditors)
 
 #### registerColumnWidgets
 

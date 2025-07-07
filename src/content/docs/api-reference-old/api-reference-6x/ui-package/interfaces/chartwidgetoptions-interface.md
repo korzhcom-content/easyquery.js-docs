@@ -7,9 +7,9 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface/#properties-1)
-- [chartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface/#charttype)
-- [chartWidgetResolver](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartwidgetoptions-interface/#chartwidgetresolver)
+### [Properties](api-reference-old/api-reference-6x/ui-package/interfaces/chartwidgetoptions-interface#properties-1)
+- [chartType](api-reference-old/api-reference-6x/ui-package/interfaces/chartwidgetoptions-interface#charttype)
+- [chartWidgetResolver](api-reference-old/api-reference-6x/ui-package/interfaces/chartwidgetoptions-interface#chartwidgetresolver)
 
 
 
@@ -27,6 +27,6 @@ Chart type:  3 - Column, 4 - Histogram, 5 - Bar, 6 - Combo, 7 - Area, 9 - Line, 
 
 The cart provider.
 
-● chartWidgetResolver: (slot: `HTMLDivElement`) => [Widget](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/widget-class)
+● chartWidgetResolver: (slot: `HTMLDivElement`) => [Widget](api-reference-old/api-reference-6x/core-package/classes/widget-class)
 
 ---

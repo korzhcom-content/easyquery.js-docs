@@ -6,27 +6,27 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#constructor)
 
-### [Public Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#public-properties-1)
-- [isCursorInside](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#iscursorinside)
-- [maxHeight](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#maxheight)
-- [maxItemWidth](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#maxitemwidth)
-- [minItemWidth](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#minitemwidth)
-- [style](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#style)
-- [zIndex](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#zindex)
+### [Public Properties](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#public-properties-1)
+- [isCursorInside](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#iscursorinside)
+- [maxHeight](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#maxheight)
+- [maxItemWidth](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#maxitemwidth)
+- [minItemWidth](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#minitemwidth)
+- [style](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#style)
+- [zIndex](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#zindex)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#public-methods-1)
-- [getItemFilterCallback](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#getitemfiltercallback)
-- [getItems](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#getitems)
-- [getRootLevel](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#getrootlevel)
-- [hideMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#hidemenu)
-- [knockMenuStyle](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#knockmenustyle)
-- [refreshCheckboxes](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#refreshcheckboxes)
-- [refreshItems](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#refreshitems)
-- [showMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#showmenu)
-- [submitMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class/#submitmenu)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#public-methods-1)
+- [getItemFilterCallback](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#getitemfiltercallback)
+- [getItems](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#getitems)
+- [getRootLevel](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#getrootlevel)
+- [hideMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#hidemenu)
+- [knockMenuStyle](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#knockmenustyle)
+- [refreshCheckboxes](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#refreshcheckboxes)
+- [refreshItems](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#refreshitems)
+- [showMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#showmenu)
+- [submitMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class#submitmenu)
 
 
 ## Constructors
@@ -34,10 +34,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new PopupMenu(options?: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)): [PopupMenu](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/popupmenu-class)
+⊕ new PopupMenu(options?: [PopupMenuOptions](api-reference-old/api-reference-6x/ui-package/interfaces/popupmenuoptions-interface)): [PopupMenu](api-reference-old/api-reference-6x/ui-package/classes/popupmenu-class)
 
 #### Parameters:
-- options: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/popupmenuoptions-interface), *Optional* 
+- options: [PopupMenuOptions](api-reference-old/api-reference-6x/ui-package/interfaces/popupmenuoptions-interface), *Optional* 
 
 
 ---
@@ -79,17 +79,17 @@ sidebar:
 
 ---
 ### getItemFilterCallback
-▸ getItemFilterCallback(): (item: [MenuItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/menuitem-interface)) => `boolean`
+▸ getItemFilterCallback(): (item: [MenuItem](api-reference-old/api-reference-6x/ui-package/interfaces/menuitem-interface)) => `boolean`
 
 
-**Returns** (item: [MenuItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/menuitem-interface)) => `boolean`
+**Returns** (item: [MenuItem](api-reference-old/api-reference-6x/ui-package/interfaces/menuitem-interface)) => `boolean`
 
 ---
 ### getItems
-▸ getItems(): [MenuItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/menuitem-interface)[]
+▸ getItems(): [MenuItem](api-reference-old/api-reference-6x/ui-package/interfaces/menuitem-interface)[]
 
 
-**Returns** [MenuItem](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/menuitem-interface)[]
+**Returns** [MenuItem](api-reference-old/api-reference-6x/ui-package/interfaces/menuitem-interface)[]
 
 ---
 ### getRootLevel
@@ -131,10 +131,10 @@ sidebar:
 
 ---
 ### showMenu
-▸ showMenu(options: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)): `void`
+▸ showMenu(options: [PopupMenuOptions](api-reference-old/api-reference-6x/ui-package/interfaces/popupmenuoptions-interface)): `void`
 
 #### Parameters:
-- options: [PopupMenuOptions](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/popupmenuoptions-interface)
+- options: [PopupMenuOptions](api-reference-old/api-reference-6x/ui-package/interfaces/popupmenuoptions-interface)
 
 
 **Returns** `void`

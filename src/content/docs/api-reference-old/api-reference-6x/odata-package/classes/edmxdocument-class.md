@@ -6,17 +6,17 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#protected-properties-1)
-- [document](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#document)
+### [Protected Properties](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#protected-properties-1)
+- [document](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#document)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#public-methods-1)
-- [getEntitySets](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#getentitysets)
-- [getEntityType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#getentitytype)
-- [getEnumType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#getenumtype)
-- [load](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class/#load)
+### [Public Methods](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#public-methods-1)
+- [getEntitySets](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#getentitysets)
+- [getEntityType](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#getentitytype)
+- [getEnumType](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#getenumtype)
+- [load](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class#load)
 
 
 ## Constructors
@@ -24,7 +24,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new EdmxDocument(): [EdmxDocument](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/edmxdocument-class)
+⊕ new EdmxDocument(): [EdmxDocument](api-reference-old/api-reference-6x/odata-package/classes/edmxdocument-class)
 
 
 ---
@@ -41,30 +41,30 @@ sidebar:
 
 ---
 ### getEntitySets
-▸ getEntitySets(): [EntitySet](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/entityset-interface)[]
+▸ getEntitySets(): [EntitySet](api-reference-old/api-reference-6x/odata-package/interfaces/entityset-interface)[]
 
 
-**Returns** [EntitySet](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/entityset-interface)[]
+**Returns** [EntitySet](api-reference-old/api-reference-6x/odata-package/interfaces/entityset-interface)[]
 
 ---
 ### getEntityType
-▸ getEntityType(type: `string`): [EntityType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/entitytype-interface) | `null`
+▸ getEntityType(type: `string`): [EntityType](api-reference-old/api-reference-6x/odata-package/interfaces/entitytype-interface) | `null`
 
 #### Parameters:
 - type: `string`
 
 
-**Returns** [EntityType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/entitytype-interface) | `null`
+**Returns** [EntityType](api-reference-old/api-reference-6x/odata-package/interfaces/entitytype-interface) | `null`
 
 ---
 ### getEnumType
-▸ getEnumType(type: `string`): [EnumType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/enumtype-interface) | `null`
+▸ getEnumType(type: `string`): [EnumType](api-reference-old/api-reference-6x/odata-package/interfaces/enumtype-interface) | `null`
 
 #### Parameters:
 - type: `string`
 
 
-**Returns** [EnumType](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/interfaces/enumtype-interface) | `null`
+**Returns** [EnumType](api-reference-old/api-reference-6x/odata-package/interfaces/enumtype-interface) | `null`
 
 ---
 ### load

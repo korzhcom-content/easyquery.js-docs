@@ -7,41 +7,41 @@ sidebar:
 ---
 
 ## Extends
-[DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLSelectElement`&gt;
+[DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLSelectElement`&gt;
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#element)
+### [Protected Properties](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#protected-properties-1)
+- [element](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#element)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#public-methods-1)
-- [addChild](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addchild)
-- [addChildElement](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addchildelement)
-- [addClass](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addclass)
-- [addHtml](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addhtml)
-- [addOption](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addoption)
-- [addText](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#addtext)
-- [appendTo](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#appendto)
-- [attr](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#attr)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#clear)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#data)
-- [hide](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#hide)
-- [html](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#html)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#id)
-- [isVisible](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#isvisible)
-- [off](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#off)
-- [on](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#on)
-- [removeClass](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#removeclass)
-- [removeStyle](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#removestyle)
-- [setStyle](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#setstyle)
-- [show](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#show)
-- [text](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#text)
-- [title](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#title)
-- [toDOM](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#todom)
-- [toggleClass](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#toggleclass)
-- [visible](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class/#visible)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#public-methods-1)
+- [addChild](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addchild)
+- [addChildElement](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addchildelement)
+- [addClass](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addclass)
+- [addHtml](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addhtml)
+- [addOption](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addoption)
+- [addText](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#addtext)
+- [appendTo](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#appendto)
+- [attr](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#attr)
+- [clear](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#clear)
+- [data](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#data)
+- [hide](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#hide)
+- [html](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#html)
+- [id](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#id)
+- [isVisible](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#isvisible)
+- [off](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#off)
+- [on](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#on)
+- [removeClass](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#removeclass)
+- [removeStyle](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#removestyle)
+- [setStyle](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#setstyle)
+- [show](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#show)
+- [text](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#text)
+- [title](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#title)
+- [toDOM](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#todom)
+- [toggleClass](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#toggleclass)
+- [visible](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class#visible)
 
 
 ## Constructors
@@ -49,7 +49,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DomSelectElementBuilder(element?: `HTMLSelectElement`,parent?: `HTMLElement`): [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)
+⊕ new DomSelectElementBuilder(element?: `HTMLSelectElement`,parent?: `HTMLElement`): [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)
 
 #### Parameters:
 - element: `HTMLSelectElement`, *Optional* 
@@ -70,65 +70,65 @@ sidebar:
 
 ---
 ### addChild
-▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"div"`,childBuilder?: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"div"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLDivElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"button"`,childBuilder?: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"button"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLButtonElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"a"`,childBuilder?: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"a"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLAnchorElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
+▸ addChild(tag: `"img"`,childBuilder?: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `"img"`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLImageElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"input"`,childBuilder?: (builder: [DomInputElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/dominputelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"input"`
-- childBuilder: (builder: [DomInputElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomInputElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/dominputelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `"select"`,childBuilder?: (builder: [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)) => `void`): `this`
+▸ addChild(tag: `"select"`,childBuilder?: (builder: [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)) => `void`): `this`
 
 #### Parameters:
 - tag: `"select"`
-- childBuilder: (builder: [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)) => `void`, *Optional* 
+- childBuilder: (builder: [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)) => `void`, *Optional* 
 
 
 **Returns** `this`
 
-▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
+▸ addChild(tag: `string`,childBuilder?: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`): `this`
 
 #### Parameters:
 - tag: `string`
-- childBuilder: (builder: [DomElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
+- childBuilder: (builder: [DomElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domelementbuilder-class)&lt;`HTMLElement`&gt;) => `void`, *Optional* 
 
 
 **Returns** `this`
@@ -170,13 +170,13 @@ sidebar:
 
 ---
 ### addOption
-▸ addOption(value: `any` | `string`): [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)
+▸ addOption(value: `any` | `string`): [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)
 
 #### Parameters:
 - value: `any` | `string`
 
 
-**Returns** [DomSelectElementBuilder](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/domselectelementbuilder-class)
+**Returns** [DomSelectElementBuilder](api-reference-7x/easydata-packages/ui-package/classes/domselectelementbuilder-class)
 
 
 ---

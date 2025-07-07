@@ -9,18 +9,18 @@ sidebar:
 Operator JSON representation object.
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#properties-1)
-- [caseIns](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#caseins)
-- [cptn](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#cptn)
-- [defOperand](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#defoperand)
-- [dtypes](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#dtypes)
-- [editor](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#editor)
-- [expr](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#expr)
-- [fmt](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#fmt)
-- [id](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#id)
-- [isRange](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#isrange)
-- [operands](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#operands)
-- [pcnt](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operatordata-interface/#pcnt)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#properties-1)
+- [caseIns](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#caseins)
+- [cptn](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#cptn)
+- [defOperand](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#defoperand)
+- [dtypes](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#dtypes)
+- [editor](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#editor)
+- [expr](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#expr)
+- [fmt](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#fmt)
+- [id](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#id)
+- [isRange](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#isrange)
+- [operands](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#operands)
+- [pcnt](api-reference-7x/easyquery-packages/core-package/interfaces/operatordata-interface#pcnt)
 
 
 
@@ -45,7 +45,7 @@ The caption.
 
 Default operator.
 
-● defOperand?: [OperandData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operanddata-interface)
+● defOperand?: [OperandData](api-reference-7x/easyquery-packages/core-package/interfaces/operanddata-interface)
 
 ---
 ### dtypes
@@ -94,7 +94,7 @@ Is range.
 
 The list of operands.
 
-● operands?: [OperandData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/operanddata-interface)[]
+● operands?: [OperandData](api-reference-7x/easyquery-packages/core-package/interfaces/operanddata-interface)[]
 
 ---
 ### pcnt

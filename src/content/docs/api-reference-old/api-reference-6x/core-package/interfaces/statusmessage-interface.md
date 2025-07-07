@@ -9,10 +9,10 @@ sidebar:
 Represents a status message object which is used in different events within the context
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface/#properties-1)
-- [action](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface/#action)
-- [result](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface/#result)
-- [text](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaces/statusmessage-interface/#text)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface#properties-1)
+- [action](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface#action)
+- [result](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface#result)
+- [text](api-reference-old/api-reference-6x/core-package/interfaces/statusmessage-interface#text)
 
 
 
@@ -26,7 +26,7 @@ Represents a status message object which is used in different events within the 
 ---
 ### result
 
-● result?: [EqActionResult](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/enumerations/eqactionresult-enum)
+● result?: [EqActionResult](api-reference-old/api-reference-6x/core-package/enumerations/eqactionresult-enum)
 
 ---
 ### text

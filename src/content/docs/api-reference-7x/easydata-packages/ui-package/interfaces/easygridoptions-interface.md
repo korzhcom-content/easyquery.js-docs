@@ -7,32 +7,32 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#properties-1)
-- [addColumns](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#addcolumns)
-- [addColumnsTitle](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#addcolumnstitle)
-- [allowDragDrop](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#allowdragdrop)
-- [dataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#datatable)
-- [fixHeightOnFirstRender](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#fixheightonfirstrender)
-- [header](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#header)
-- [onActiveRowChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onactiverowchanged)
-- [onAddColumnClick](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onaddcolumnclick)
-- [onColumnChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#oncolumnchanged)
-- [onColumnDeleted](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#oncolumndeleted)
-- [onColumnMoved](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#oncolumnmoved)
-- [onGetCellRenderer](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#ongetcellrenderer)
-- [onInit](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#oninit)
-- [onPageChanged](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onpagechanged)
-- [onRowClick](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onrowclick)
-- [onRowDbClick](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onrowdbclick)
-- [onSyncGridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#onsyncgridcolumn)
-- [pagination](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#pagination)
-- [paging](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#paging)
-- [showActiveRow](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#showactiverow)
-- [slot](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#slot)
-- [syncGridColumns](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#syncgridcolumns)
-- [totals](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#totals)
-- [useRowNumeration](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#userownumeration)
-- [viewportRowsCount](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/easygridoptions-interface/#viewportrowscount)
+### [Properties](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#properties-1)
+- [addColumns](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#addcolumns)
+- [addColumnsTitle](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#addcolumnstitle)
+- [allowDragDrop](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#allowdragdrop)
+- [dataTable](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#datatable)
+- [fixHeightOnFirstRender](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#fixheightonfirstrender)
+- [header](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#header)
+- [onActiveRowChanged](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onactiverowchanged)
+- [onAddColumnClick](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onaddcolumnclick)
+- [onColumnChanged](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#oncolumnchanged)
+- [onColumnDeleted](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#oncolumndeleted)
+- [onColumnMoved](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#oncolumnmoved)
+- [onGetCellRenderer](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#ongetcellrenderer)
+- [onInit](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#oninit)
+- [onPageChanged](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onpagechanged)
+- [onRowClick](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onrowclick)
+- [onRowDbClick](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onrowdbclick)
+- [onSyncGridColumn](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#onsyncgridcolumn)
+- [pagination](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#pagination)
+- [paging](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#paging)
+- [showActiveRow](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#showactiverow)
+- [slot](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#slot)
+- [syncGridColumns](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#syncgridcolumns)
+- [totals](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#totals)
+- [useRowNumeration](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#userownumeration)
+- [viewportRowsCount](api-reference-7x/easydata-packages/ui-package/interfaces/easygridoptions-interface#viewportrowscount)
 
 
 
@@ -56,7 +56,7 @@ sidebar:
 ---
 ### dataTable
 
-● dataTable: [EasyDataTable](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/easydatatable-class)
+● dataTable: [EasyDataTable](api-reference-7x/easydata-packages/core-package/classes/easydatatable-class)
 
 ---
 ### fixHeightOnFirstRender
@@ -71,32 +71,32 @@ sidebar:
 ---
 ### onActiveRowChanged
 
-● onActiveRowChanged?: (ev: [ActiveRowChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/activerowchangedevent-interface)) => `void`
+● onActiveRowChanged?: (ev: [ActiveRowChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/activerowchangedevent-interface)) => `void`
 
 ---
 ### onAddColumnClick
 
-● onAddColumnClick?: (ev: [AddColumnClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/addcolumnclickevent-interface)) => `void`
+● onAddColumnClick?: (ev: [AddColumnClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/addcolumnclickevent-interface)) => `void`
 
 ---
 ### onColumnChanged
 
-● onColumnChanged?: (ev: [ColumnChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnchangedevent-interface)) => `void`
+● onColumnChanged?: (ev: [ColumnChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnchangedevent-interface)) => `void`
 
 ---
 ### onColumnDeleted
 
-● onColumnDeleted?: (ev: [ColumnDeletedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columndeletedevent-interface)) => `void`
+● onColumnDeleted?: (ev: [ColumnDeletedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columndeletedevent-interface)) => `void`
 
 ---
 ### onColumnMoved
 
-● onColumnMoved?: (ev: [ColumnMovedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/columnmovedevent-interface)) => `void`
+● onColumnMoved?: (ev: [ColumnMovedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/columnmovedevent-interface)) => `void`
 
 ---
 ### onGetCellRenderer
 
-● onGetCellRenderer?: (column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class), defaultRenderer: `GridCellRenderer`) => `GridCellRenderer`
+● onGetCellRenderer?: (column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class), defaultRenderer: `GridCellRenderer`) => `GridCellRenderer`
 
 ---
 ### onInit
@@ -106,22 +106,22 @@ sidebar:
 ---
 ### onPageChanged
 
-● onPageChanged?: (ev: [PageChangedEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/pagechangedevent-interface)) => `void`
+● onPageChanged?: (ev: [PageChangedEvent](api-reference-7x/easydata-packages/ui-package/interfaces/pagechangedevent-interface)) => `void`
 
 ---
 ### onRowClick
 
-● onRowClick?: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`
+● onRowClick?: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`
 
 ---
 ### onRowDbClick
 
-● onRowDbClick?: (ev: [RowClickEvent](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/rowclickevent-interface)) => `void`
+● onRowDbClick?: (ev: [RowClickEvent](api-reference-7x/easydata-packages/ui-package/interfaces/rowclickevent-interface)) => `void`
 
 ---
 ### onSyncGridColumn
 
-● onSyncGridColumn?: (column: [GridColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/gridcolumn-class)) => `void`
+● onSyncGridColumn?: (column: [GridColumn](api-reference-7x/easydata-packages/ui-package/classes/gridcolumn-class)) => `void`
 
 ---
 ### pagination

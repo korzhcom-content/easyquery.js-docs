@@ -7,16 +7,16 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#constructor)
+### [Constructors](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#constructors-1)
+- [constructor](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#constructor)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#public-methods-1)
-- [buildQuery](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#buildquery)
-- [getAttrPath](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#getattrpath)
-- [getCountStatement](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#getcountstatement)
-- [getPath](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#getpath)
-- [getSkipTopStatement](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#getskiptopstatement)
-- [getStatement](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class/#getstatement)
+### [Public Methods](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#public-methods-1)
+- [buildQuery](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#buildquery)
+- [getAttrPath](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#getattrpath)
+- [getCountStatement](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#getcountstatement)
+- [getPath](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#getpath)
+- [getSkipTopStatement](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#getskiptopstatement)
+- [getStatement](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class#getstatement)
 
 
 ## Constructors
@@ -24,10 +24,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ODataQueryBuilder(context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)): [ODataQueryBuilder](//easyquery/javascript/docs/api-reference-6x/@easyquery/odata-package/classes/odataquerybuilder-class)
+⊕ new ODataQueryBuilder(context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)): [ODataQueryBuilder](api-reference-old/api-reference-6x/odata-package/classes/odataquerybuilder-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-old/api-reference-6x/core-package/classes/eqcontext-class)
 
 
 ---
@@ -43,10 +43,10 @@ sidebar:
 
 ---
 ### getAttrPath
-▸ getAttrPath(attr: `string` | [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)): `string`[]
+▸ getAttrPath(attr: `string` | [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)): `string`[]
 
 #### Parameters:
-- attr: `string` | [EntityAttr](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entityattr-class)
+- attr: `string` | [EntityAttr](api-reference-old/api-reference-6x/core-package/classes/entityattr-class)
 
 
 **Returns** `string`[]
@@ -60,10 +60,10 @@ sidebar:
 
 ---
 ### getPath
-▸ getPath(): [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;[Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)&gt;
+▸ getPath(): [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;[Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)&gt;
 
 
-**Returns** [Tree](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/tree-class)&lt;[Entity](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/entity-class)&gt;
+**Returns** [Tree](api-reference-old/api-reference-6x/core-package/classes/tree-class)&lt;[Entity](api-reference-old/api-reference-6x/core-package/classes/entity-class)&gt;
 
 ---
 ### getSkipTopStatement

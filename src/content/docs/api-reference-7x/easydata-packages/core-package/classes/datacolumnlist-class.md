@@ -6,22 +6,22 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#constructor)
+### [Constructors](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#constructors-1)
+- [constructor](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#constructor)
 
-### [Public Accessors](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#public-accessors-1)
-- [count](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#count)
+### [Public Accessors](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#public-accessors-1)
+- [count](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#count)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#public-methods-1)
-- [add](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#add)
-- [clear](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#clear)
-- [get](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#get)
-- [getDateColumnIndexes](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#getdatecolumnindexes)
-- [getIndex](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#getindex)
-- [getItems](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#getitems)
-- [move](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#move)
-- [put](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#put)
-- [removeAt](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class/#removeat)
+### [Public Methods](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#public-methods-1)
+- [add](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#add)
+- [clear](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#clear)
+- [get](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#get)
+- [getDateColumnIndexes](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#getdatecolumnindexes)
+- [getIndex](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#getindex)
+- [getItems](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#getitems)
+- [move](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#move)
+- [put](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#put)
+- [removeAt](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class#removeat)
 
 
 ## Constructors
@@ -29,7 +29,7 @@ sidebar:
 ---
 #### constructor
 
-⊕ new DataColumnList(): [DataColumnList](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumnlist-class)
+⊕ new DataColumnList(): [DataColumnList](api-reference-7x/easydata-packages/core-package/classes/datacolumnlist-class)
 
 
 ---
@@ -49,10 +49,10 @@ sidebar:
 
 ---
 ### add
-▸ add(colOrDesc: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class) | [DataColumnDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface)): `number`
+▸ add(colOrDesc: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class) | [DataColumnDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface)): `number`
 
 #### Parameters:
-- colOrDesc: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class) | [DataColumnDescriptor](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/interfaces/datacolumndescriptor-interface)
+- colOrDesc: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class) | [DataColumnDescriptor](api-reference-7x/easydata-packages/core-package/interfaces/datacolumndescriptor-interface)
 
 
 **Returns** `number`
@@ -68,13 +68,13 @@ sidebar:
 
 ---
 ### get
-▸ get(index: `number`): [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)
+▸ get(index: `number`): [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)
 
 #### Parameters:
 - index: `number`
 
 
-**Returns** [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)
+**Returns** [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)
 
 
 ---
@@ -98,18 +98,18 @@ sidebar:
 
 ---
 ### getItems
-▸ getItems(): [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)[]
+▸ getItems(): [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)[]
 
 
-**Returns** [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)[]
+**Returns** [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)[]
 
 
 ---
 ### move
-▸ move(col: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class),newIndex: `number`): `void`
+▸ move(col: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class),newIndex: `number`): `void`
 
 #### Parameters:
-- col: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)
+- col: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)
 - newIndex: `number`
 
 
@@ -118,11 +118,11 @@ sidebar:
 
 ---
 ### put
-▸ put(index: `number`,col: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)): `void`
+▸ put(index: `number`,col: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)): `void`
 
 #### Parameters:
 - index: `number`
-- col: [DataColumn](//easyquery/javascript/docs/api-reference-7x/@easydata/core-package/classes/datacolumn-class)
+- col: [DataColumn](api-reference-7x/easydata-packages/core-package/classes/datacolumn-class)
 
 
 **Returns** `void`

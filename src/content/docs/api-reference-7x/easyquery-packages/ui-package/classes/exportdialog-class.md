@@ -6,14 +6,14 @@ sidebar:
 ---
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#protected-properties-1)
-- [context](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#context)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#protected-properties-1)
+- [context](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#context)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#public-methods-1)
-- [show](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class/#show)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#public-methods-1)
+- [show](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class#show)
 
 
 ## Constructors
@@ -21,10 +21,10 @@ sidebar:
 ---
 #### constructor
 
-⊕ new ExportDialog(context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)): [ExportDialog](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/exportdialog-class)
+⊕ new ExportDialog(context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)): [ExportDialog](api-reference-7x/easyquery-packages/ui-package/classes/exportdialog-class)
 
 #### Parameters:
-- context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+- context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 
 ---
@@ -34,7 +34,7 @@ sidebar:
 ---
 ### context
 
-● context: [EqContext](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/eqcontext-class)
+● context: [EqContext](api-reference-7x/easyquery-packages/core-package/classes/eqcontext-class)
 
 ---
 ## Public Methods

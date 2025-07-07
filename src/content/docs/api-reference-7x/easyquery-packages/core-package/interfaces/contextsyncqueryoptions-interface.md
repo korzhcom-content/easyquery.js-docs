@@ -7,15 +7,15 @@ sidebar:
 ---
 
 ## Extends
-[SyncOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/syncoptions-interface)
+[SyncOptions](api-reference-7x/easyquery-packages/core-package/interfaces/syncoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#properties-1)
-- [data](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#data)
-- [error](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#error)
-- [options](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#options)
-- [query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#query)
-- [success](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/contextsyncqueryoptions-interface/#success)
+### [Properties](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#properties-1)
+- [data](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#data)
+- [error](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#error)
+- [options](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#options)
+- [query](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#query)
+- [success](api-reference-7x/easyquery-packages/core-package/interfaces/contextsyncqueryoptions-interface#success)
 
 
 
@@ -39,7 +39,7 @@ sidebar:
 ---
 ### query
 
-● query?: [Query](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/classes/query-class)
+● query?: [Query](api-reference-7x/easyquery-packages/core-package/classes/query-class)
 
 ---
 ### success

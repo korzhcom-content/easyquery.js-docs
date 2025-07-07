@@ -6,36 +6,36 @@ sidebar:
 ---
 
 ## Extends
-[DropDownRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/dropdownrenderer-class)
+[DropDownRenderer](api-reference-7x/easyquery-packages/ui-package/classes/dropdownrenderer-class)
 
 ## Index
-### [Constructors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#constructors-1)
-- [constructor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#constructor)
+### [Constructors](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#constructors-1)
+- [constructor](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#constructor)
 
-### [Protected Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#protected-properties-1)
-- [element](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#element)
-- [labelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#labelelement)
-- [menu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#menu)
-- [panel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#panel)
+### [Protected Properties](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#protected-properties-1)
+- [element](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#element)
+- [labelElement](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#labelelement)
+- [menu](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#menu)
+- [panel](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#panel)
 
-### [Protected Accessors](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#protected-accessors-1)
-- [cssPrefix](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#cssprefix)
+### [Protected Accessors](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#protected-accessors-1)
+- [cssPrefix](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#cssprefix)
 
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#public-methods-1)
-- [refresh](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#refresh)
-- [render](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#render)
+### [Public Methods](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#public-methods-1)
+- [refresh](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#refresh)
+- [render](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#render)
 
-### [Protected Methods](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#protected-methods-1)
-- [closeEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#closeeditor)
-- [getClassesToAdd](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#getclassestoadd)
-- [getEmptyText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#getemptytext)
-- [getLabelText](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#getlabeltext)
-- [getMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#getmenu)
-- [isEditable](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#iseditable)
-- [itemSelected](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#itemselected)
-- [renderEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#rendereditor)
-- [renderLabelElement](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#renderlabelelement)
-- [showEditor](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class/#showeditor)
+### [Protected Methods](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#protected-methods-1)
+- [closeEditor](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#closeeditor)
+- [getClassesToAdd](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#getclassestoadd)
+- [getEmptyText](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#getemptytext)
+- [getLabelText](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#getlabeltext)
+- [getMenu](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#getmenu)
+- [isEditable](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#iseditable)
+- [itemSelected](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#itemselected)
+- [renderEditor](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#rendereditor)
+- [renderLabelElement](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#renderlabelelement)
+- [showEditor](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class#showeditor)
 
 
 ## Constructors
@@ -43,11 +43,11 @@ sidebar:
 ---
 #### constructor
 
-⊕ new AddRowRenderer(panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class),entitiesMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [AddRowRenderer](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/addrowrenderer-class)
+⊕ new AddRowRenderer(panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class),entitiesMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class),slot?: `HTMLDivElement`): [AddRowRenderer](api-reference-7x/easyquery-packages/ui-package/classes/addrowrenderer-class)
 
 #### Parameters:
-- panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
-- entitiesMenu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+- panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
+- entitiesMenu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 - slot: `HTMLDivElement`, *Optional* 
 
 
@@ -68,12 +68,12 @@ sidebar:
 ---
 ### menu
 
-● menu: [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+● menu: [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 ---
 ### panel
 
-● panel: [QueryPanel](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/querypanel-class)
+● panel: [QueryPanel](api-reference-7x/easyquery-packages/ui-package/classes/querypanel-class)
 
 ---
 ## Protected Accessors
@@ -145,10 +145,10 @@ sidebar:
 
 ---
 ### getMenu
-▸ getMenu(): [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+▸ getMenu(): [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
-**Returns** [PopupMenu](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/classes/popupmenu-class)
+**Returns** [PopupMenu](api-reference-7x/easyquery-packages/ui-package/classes/popupmenu-class)
 
 
 ---

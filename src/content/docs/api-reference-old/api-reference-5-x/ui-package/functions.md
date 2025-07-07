@@ -6,15 +6,15 @@ sidebar:
 ---
 
 ## Index
-- [addCssClass](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#addcssclass)
-- [addElement](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#addelement)
-- [convertOldOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#convertoldoptions)
-- [hideElement](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#hideelement)
-- [isVisible](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#isvisible)
-- [renderPageNavigator](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#renderpagenavigator)
-- [showElement](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#showelement)
-- [toggleVisibility](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#togglevisibility)
-- [wrapInner](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/functions/#wrapinner)
+- [addCssClass](api-reference-old/api-reference-5-x/ui-package/functions#addcssclass)
+- [addElement](api-reference-old/api-reference-5-x/ui-package/functions#addelement)
+- [convertOldOptions](api-reference-old/api-reference-5-x/ui-package/functions#convertoldoptions)
+- [hideElement](api-reference-old/api-reference-5-x/ui-package/functions#hideelement)
+- [isVisible](api-reference-old/api-reference-5-x/ui-package/functions#isvisible)
+- [renderPageNavigator](api-reference-old/api-reference-5-x/ui-package/functions#renderpagenavigator)
+- [showElement](api-reference-old/api-reference-5-x/ui-package/functions#showelement)
+- [toggleVisibility](api-reference-old/api-reference-5-x/ui-package/functions#togglevisibility)
+- [wrapInner](api-reference-old/api-reference-5-x/ui-package/functions#wrapinner)
 
 #### addCssClass
 
@@ -51,12 +51,12 @@ Creates ands adds a new [[HTMLElement]] to "parent"
 
 Converts options from old 4.x format to [[EqViewOptions]]
 
-▸ convertOldOptions(defaultOptions: [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface)
+▸ convertOldOptions(defaultOptions: [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface)): [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface)
 
 #### Parameters:
-- defaultOptions: [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface) - The default [[EqViewOptions]] object to be extended by old options.
+- defaultOptions: [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface) - The default [[EqViewOptions]] object to be extended by old options.
 
-**Returns** [EqViewOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/ui-package/interfaces/eqviewoptions-interface) - Converted [[EqViewOptions]] object.
+**Returns** [EqViewOptions](api-reference-old/api-reference-5-x/ui-package/interfaces/eqviewoptions-interface) - Converted [[EqViewOptions]] object.
 
 
 
@@ -93,10 +93,10 @@ Checks if element is visible
 
 Creates the paging navigation element.
 
-▸ renderPageNavigator(options: [EqPagingOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface)): `HTMLElement`
+▸ renderPageNavigator(options: [EqPagingOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface)): `HTMLElement`
 
 #### Parameters:
-- options: [EqPagingOptions](//easyquery/javascript/docs/api-reference-5-x/@easyquery/core-package/interfaces/eqpagingoptions-interface) - The [[EqPagingOptions]] object.
+- options: [EqPagingOptions](api-reference-old/api-reference-5-x/core-package/interfaces/eqpagingoptions-interface) - The [[EqPagingOptions]] object.
 
 **Returns** `HTMLElement` - Created [[HTMLElement]].
 

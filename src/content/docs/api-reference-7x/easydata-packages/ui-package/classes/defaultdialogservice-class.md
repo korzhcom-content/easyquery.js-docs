@@ -7,14 +7,14 @@ sidebar:
 ---
 
 ## Implements
-[DialogService](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogservice-interface)
+[DialogService](api-reference-7x/easydata-packages/ui-package/interfaces/dialogservice-interface)
 
 ## Index
-### [Public Methods](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialogservice-class/#public-methods-1)
-- [open](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialogservice-class/#open)
-- [openConfirm](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialogservice-class/#openconfirm)
-- [openProgress](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialogservice-class/#openprogress)
-- [openPrompt](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialogservice-class/#openprompt)
+### [Public Methods](api-reference-7x/easydata-packages/ui-package/classes/defaultdialogservice-class#public-methods-1)
+- [open](api-reference-7x/easydata-packages/ui-package/classes/defaultdialogservice-class#open)
+- [openConfirm](api-reference-7x/easydata-packages/ui-package/classes/defaultdialogservice-class#openconfirm)
+- [openProgress](api-reference-7x/easydata-packages/ui-package/classes/defaultdialogservice-class#openprogress)
+- [openPrompt](api-reference-7x/easydata-packages/ui-package/classes/defaultdialogservice-class#openprompt)
 
 
 
@@ -22,13 +22,13 @@ sidebar:
 
 ---
 ### open
-▸ open(options: [DialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface)): [DefaultDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class)
+▸ open(options: [DialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface)): [DefaultDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class)
 
 #### Parameters:
-- options: [DialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/dialogoptions-interface)
+- options: [DialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/dialogoptions-interface)
 
 
-**Returns** [DefaultDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultdialog-class)
+**Returns** [DefaultDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultdialog-class)
 
 
 ---
@@ -55,13 +55,13 @@ sidebar:
 
 ---
 ### openProgress
-▸ openProgress(options: [ProgressDialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface)): [DefaultProgressDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class)
+▸ openProgress(options: [ProgressDialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface)): [DefaultProgressDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class)
 
 #### Parameters:
-- options: [ProgressDialogOptions](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/interfaces/progressdialogoptions-interface)
+- options: [ProgressDialogOptions](api-reference-7x/easydata-packages/ui-package/interfaces/progressdialogoptions-interface)
 
 
-**Returns** [DefaultProgressDialog](//easyquery/javascript/docs/api-reference-7x/@easydata/ui-package/classes/defaultprogressdialog-class)
+**Returns** [DefaultProgressDialog](api-reference-7x/easydata-packages/ui-package/classes/defaultprogressdialog-class)
 
 
 ---

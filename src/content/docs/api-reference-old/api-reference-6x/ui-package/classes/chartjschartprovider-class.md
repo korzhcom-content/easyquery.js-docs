@@ -9,21 +9,21 @@ sidebar:
 Chart provider for ChartJS library.
 
 ## Implements
-[ChartProvider](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/interfaces/chartprovider-interface)
+[ChartProvider](api-reference-old/api-reference-6x/ui-package/interfaces/chartprovider-interface)
 
 ## Index
-### [Public Methods](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#public-methods-1)
-- [canDraw](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#candraw)
-- [draw](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#draw)
-- [getChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#getcharttype)
-- [getProviderType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#getprovidertype)
-- [getSupportedChartTypes](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#getsupportedcharttypes)
-- [init](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#init)
-- [randomColor](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#randomcolor)
-- [setChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#setcharttype)
-- [setDataColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#setdatacolumns)
-- [setLabelColumn](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#setlabelcolumn)
-- [updateChartColumns](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/classes/chartjschartprovider-class/#updatechartcolumns)
+### [Public Methods](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#public-methods-1)
+- [canDraw](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#candraw)
+- [draw](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#draw)
+- [getChartType](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#getcharttype)
+- [getProviderType](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#getprovidertype)
+- [getSupportedChartTypes](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#getsupportedcharttypes)
+- [init](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#init)
+- [randomColor](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#randomcolor)
+- [setChartType](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#setcharttype)
+- [setDataColumns](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#setdatacolumns)
+- [setLabelColumn](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#setlabelcolumn)
+- [updateChartColumns](api-reference-old/api-reference-6x/ui-package/classes/chartjschartprovider-class#updatechartcolumns)
 
 
 
@@ -76,21 +76,21 @@ Returns the type of chart provider.
 ### getSupportedChartTypes
 Returns supported chart types
 
-▸ getSupportedChartTypes(): [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)[]
+▸ getSupportedChartTypes(): [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)[]
 
 
-**Returns** [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)[] - array of supported chart types.
+**Returns** [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)[] - array of supported chart types.
 
 
 ---
 ### init
 Initializes chart provider
 
-▸ init(dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class),defaultType: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum),labelColumnIndex: `number`,dataColumnIndexes: `number`[]): `void`
+▸ init(dataTable: [EqDataTable](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class),defaultType: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum),labelColumnIndex: `number`,dataColumnIndexes: `number`[]): `void`
 
 #### Parameters:
-- dataTable: [EqDataTable](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/classes/eqdatatable-class) - The [[EqDataTable]] to build chart on.
-- defaultType: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum) - The default [[ChartType]].
+- dataTable: [EqDataTable](api-reference-old/api-reference-6x/core-package/classes/eqdatatable-class) - The [[EqDataTable]] to build chart on.
+- defaultType: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum) - The default [[ChartType]].
 - labelColumnIndex: `number` - The index of the columns to be used for labels.
 - dataColumnIndexes: `number`[] - The array of column indexes to be used for chart data.
 
@@ -112,10 +112,10 @@ Returns a random color from the predefined set of colors.
 ### setChartType
 Sets the chart type
 
-▸ setChartType(newChartType: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum)): `void`
+▸ setChartType(newChartType: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum)): `void`
 
 #### Parameters:
-- newChartType: [ChartType](//easyquery/javascript/docs/api-reference-6x/@easyquery/ui-package/enumerations/charttype-enum) - The [[ChartType]].
+- newChartType: [ChartType](api-reference-old/api-reference-6x/ui-package/enumerations/charttype-enum) - The [[ChartType]].
 
 
 

@@ -9,35 +9,35 @@ sidebar:
 Options of the EasyQuery view
 
 ## Extends
-[EqContextOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontextoptions-interface)
+[EqContextOptions](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontextoptions-interface)
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#properties-1)
-- [attrClassName](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#attrclassname)
-- [calcTotals](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#calctotals)
-- [chunkSize](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#chunksize)
-- [columnTitleFormat](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#columntitleformat)
-- [defaultModelId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#defaultmodelid)
-- [defaultQueryId](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#defaultqueryid)
-- [disableConfirmationOnQueryChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#disableconfirmationonquerychange)
-- [enableExport](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#enableexport)
-- [endpoint](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#endpoint)
-- [fetchDataOnChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#fetchdataonchange)
-- [handlers](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#handlers)
-- [initialQuery](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#initialquery)
-- [listCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#listcache)
-- [loadModelOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#loadmodelonstart)
-- [loadQueryOnStart](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#loadqueryonstart)
-- [locale](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#locale)
-- [localeSettings](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#localesettings)
-- [queryFileExtensions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#queryfileextensions)
-- [result](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#result)
-- [serverExporters](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#serverexporters)
-- [shadowRoots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#shadowroots)
-- [slots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#slots)
-- [syncQueryOnChange](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#syncqueryonchange)
-- [useDefaultExporters](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#usedefaultexporters)
-- [widgets](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewoptions-interface/#widgets)
+### [Properties](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#properties-1)
+- [attrClassName](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#attrclassname)
+- [calcTotals](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#calctotals)
+- [chunkSize](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#chunksize)
+- [columnTitleFormat](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#columntitleformat)
+- [defaultModelId](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#defaultmodelid)
+- [defaultQueryId](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#defaultqueryid)
+- [disableConfirmationOnQueryChange](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#disableconfirmationonquerychange)
+- [enableExport](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#enableexport)
+- [endpoint](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#endpoint)
+- [fetchDataOnChange](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#fetchdataonchange)
+- [handlers](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#handlers)
+- [initialQuery](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#initialquery)
+- [listCache](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#listcache)
+- [loadModelOnStart](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#loadmodelonstart)
+- [loadQueryOnStart](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#loadqueryonstart)
+- [locale](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#locale)
+- [localeSettings](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#localesettings)
+- [queryFileExtensions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#queryfileextensions)
+- [result](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#result)
+- [serverExporters](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#serverexporters)
+- [shadowRoots](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#shadowroots)
+- [slots](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#slots)
+- [syncQueryOnChange](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#syncqueryonchange)
+- [useDefaultExporters](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#usedefaultexporters)
+- [widgets](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewoptions-interface#widgets)
 
 
 
@@ -96,17 +96,17 @@ Options of the EasyQuery view
 ---
 ### handlers
 
-● handlers?: [EqContextHandlers](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/eqcontexthandlers-interface)
+● handlers?: [EqContextHandlers](api-reference-7x/easyquery-packages/core-package/interfaces/eqcontexthandlers-interface)
 
 ---
 ### initialQuery
 
-● initialQuery?: [QueryData](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/querydata-interface)
+● initialQuery?: [QueryData](api-reference-7x/easyquery-packages/core-package/interfaces/querydata-interface)
 
 ---
 ### listCache
 
-● listCache?: [ExternalListCache](//easyquery/javascript/docs/api-reference-7x/@easyquery/core-package/interfaces/externallistcache-interface)
+● listCache?: [ExternalListCache](api-reference-7x/easyquery-packages/core-package/interfaces/externallistcache-interface)
 
 ---
 ### loadModelOnStart
@@ -136,7 +136,7 @@ Options of the EasyQuery view
 ---
 ### result
 
-● result?: [EqResultOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqresultoptions-interface)
+● result?: [EqResultOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/eqresultoptions-interface)
 
 ---
 ### serverExporters
@@ -151,7 +151,7 @@ Options of the EasyQuery view
 ---
 ### slots
 
-● slots?: [EqViewSlots](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/eqviewslots-interface)
+● slots?: [EqViewSlots](api-reference-7x/easyquery-packages/ui-package/interfaces/eqviewslots-interface)
 
 ---
 ### syncQueryOnChange
@@ -166,6 +166,6 @@ Options of the EasyQuery view
 ---
 ### widgets
 
-● widgets?: [WidgetSectionOptions](//easyquery/javascript/docs/api-reference-7x/@easyquery/ui-package/interfaces/widgetsectionoptions-interface)
+● widgets?: [WidgetSectionOptions](api-reference-7x/easyquery-packages/ui-package/interfaces/widgetsectionoptions-interface)
 
 ---

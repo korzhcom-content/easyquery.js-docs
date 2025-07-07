@@ -7,10 +7,10 @@ sidebar:
 ---
 
 ## Index
-### [Properties](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface/#properties-1)
-- [contentType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface/#contenttype)
-- [dataType](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface/#datatype)
-- [headers](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttprequestoptions-interface/#headers)
+### [Properties](api-reference-old/api-reference-6x/core-package/interfaceshttprequestoptions-interface#properties-1)
+- [contentType](api-reference-old/api-reference-6x/core-package/interfaceshttprequestoptions-interface#contenttype)
+- [dataType](api-reference-old/api-reference-6x/core-package/interfaceshttprequestoptions-interface#datatype)
+- [headers](api-reference-old/api-reference-6x/core-package/interfaceshttprequestoptions-interface#headers)
 
 
 
@@ -29,6 +29,6 @@ sidebar:
 ---
 ### headers
 
-● headers?: [HttpHeaders](//easyquery/javascript/docs/api-reference-6x/@easyquery/core-package/interfaceshttpheaders-interface)
+● headers?: [HttpHeaders](api-reference-old/api-reference-6x/core-package/interfaceshttpheaders-interface)
 
 ---
