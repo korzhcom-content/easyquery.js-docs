@@ -5,7 +5,7 @@ sidebar:
   order: 100
 ---
 
-> [Use this link for EasyQuery.NET changelog](https://korzh.com/easyquery/docs/easyquery/javascript/docs/).
+> [Use this link for EasyQuery.NET changelog](https://korzh.com/easyquery/docs/release-notes/changelog).
 
 
 <div id="changelog-start"></div>
@@ -13,6 +13,8 @@ sidebar:
 <div id="eq-js/7.4.1" data-released="2026-01-25"></div>
 
 ## Version 7.4.1
+
+<div class="aist-article-updated"><span>2026-01-25</span></div>
 
 - __[New]__: exportStart method in EqContext class    
 
@@ -27,21 +29,17 @@ sidebar:
 - __[Fix]__: An error in  getAggregateData function    
 
 
-
 <div id="eq-js/7.3.5" data-released="2025-03-23"></div>
 
 ## Version 7.3.5
 
+<div class="aist-article-updated"><span>2025-03-23</span></div>
+
 - __[Upd]__: Services are binded to thecontext now (EqContext class). So, to get a service you can call `context.getModelStore()`, `context.getValueListLoader()`, etc.    
 
-<!--
-<div id="eq-js/7.3.1" data-released="2024-03-04"></div>
 
-## Version 7.3.1
 
 <div id="eq-js/7.3.0" data-released="2024-02-12"></div>
--->
-
 
 ## Version 7.3.0
 
