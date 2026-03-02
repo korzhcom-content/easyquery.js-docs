@@ -137,3 +137,7 @@ code {
         width: 1em;
     }
 }
+
+.sl-markdown-content table:not(:where(.not-content *)) {
+    font-size: 0.8em;
+}
