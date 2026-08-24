@@ -5,27 +5,43 @@ sidebar:
   order: 100
 ---
 
-> The .NET version changelog is available by [this link](//easyquery/javascript/docs/easyquery/javascript/docs/).
+> [Use this link for EasyQuery.NET changelog](https://korzh.com/easyquery/docs/release-notes/changelog).
 
 
 <div id="changelog-start"></div>
-<div id="eq-js/7.3.3" data-released="2024-04-14"></div>
 
-## Version 7.3.3
+<div id="eq-js/7.4.1" data-released="2026-01-25"></div>
 
-<div class="aist-article-updated"><span>2024-04-14</span></div>
+## Version 7.4.1
+
+<div class="aist-article-updated"><span>2026-01-25</span></div>
+
+- __[New]__: exportStart method in EqContext class    
+
+- __[New]__: editMode option in ColumnsBar    
+
+- __[Fix]__: Undefined entitiesMenu in QueryPanel    
+
+- __[Fix]__: An error on query loading when the column's attribute is not recognized    
+
+- __[Fix]__: Query description was not set properly in the adhoc reporting scenario    
+
+- __[Fix]__: An error in  getAggregateData function    
 
 
-<div id="eq-js/7.3.1" data-released="2024-03-04"></div>
+<div id="eq-js/7.3.5" data-released="2025-03-23"></div>
 
-## Version 7.3.1
+## Version 7.3.5
 
-<div class="aist-article-updated"><span>2024-03-04</span></div>
+<div class="aist-article-updated"><span>2025-03-23</span></div>
+
+- __[Upd]__: Services are binded to thecontext now (EqContext class). So, to get a service you can call `context.getModelStore()`, `context.getValueListLoader()`, etc.    
+
 
 
 <div id="eq-js/7.3.0" data-released="2024-02-12"></div>
 
-## Version 7.3.0-rc02
+## Version 7.3.0
 
 <div class="aist-article-updated"><span>2024-02-12</span></div>
 

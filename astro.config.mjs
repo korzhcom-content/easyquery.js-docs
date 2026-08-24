@@ -21,7 +21,7 @@ export default defineConfig({
 		starlight({
 			title: 'EasyQuery.JS',
 			logo: {
-				dark : './src/assets/korzh-docs-white.png',
+				dark: './src/assets/korzh-docs-white.png',
 				light: './src/assets/korzh-docs-black.png',
 			},
 			favicon: '/favicon.ico',
