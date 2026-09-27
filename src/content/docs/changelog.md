@@ -10,6 +10,23 @@ sidebar:
 
 <div id="changelog-start"></div>
 
+<div id="eq-js/7.5.1" data-released="2026-09-27"></div>
+
+## Version 7.5.1
+
+<div class="aist-article-updated"><span>2026-09-27</span></div>
+
+- __[New]__: When there is no license key, the license dialog tells you if a newer EasyQuery.JS release is available. See [The version check without a license key](https://korzh.com/easyquery/javascript/docs/tutorials/version-check) for what is sent and how to turn it off    
+
+- __[New]__: setAppName and getAppName methods in EqContext class, and the appName option    
+
+- __[New]__: disableVersionCheck method in EqContext class, and the noVersionCheck option    
+
+- __[New]__: eqjsVersion and eqjsBaseVersion constants in @easyquery/core    
+
+- __[Upd]__: The x-eqjs-version request header now follows the library version (without any prerelease suffix) instead of a fixed value    
+
+
 <div id="eq-js/7.4.1" data-released="2026-01-25"></div>
 
 ## Version 7.4.1
