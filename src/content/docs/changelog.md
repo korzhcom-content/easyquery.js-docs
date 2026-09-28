@@ -71,11 +71,11 @@ sidebar:
 - __[Fix]__: Keyboard navigation: scrolling a menu, activating a row, and focus landing on disabled elements (including disabled columns in ColumnsBar)    
 
 
-<div id="eq-js/7.4.1" data-released="2026-01-25"></div>
+<div id="eq-js/7.4.1" data-released="2026-01-18"></div>
 
 ## Version 7.4.1
 
-<div class="aist-article-updated"><span>2026-01-25</span></div>
+<div class="aist-article-updated"><span>2026-01-18</span></div>
 
 - __[New]__: exportStart method in EqContext class    
 
@@ -100,11 +100,11 @@ sidebar:
 
 
 
-<div id="eq-js/7.3.0" data-released="2024-02-12"></div>
+<div id="eq-js/7.3.0" data-released="2024-02-26"></div>
 
 ## Version 7.3.0
 
-<div class="aist-article-updated"><span>2024-02-12</span></div>
+<div class="aist-article-updated"><span>2024-02-26</span></div>
 
 
 - __[New]__: nameTemplate option in QueryNameWidghet    
@@ -127,11 +127,11 @@ sidebar:
 
 - __[Fix]__: Aggregate settings were not updated on query change    
 
-<div id="eq-js/7.2.5" data-released="2024-01-09"></div>
+<div id="eq-js/7.2.5" data-released="2024-01-18"></div>
 
 ## Version 7.2.5-rc02
 
-<div class="aist-article-updated"><span>2024-01-09</span></div>
+<div class="aist-article-updated"><span>2024-01-18</span></div>
 
 
 - __[New]__: nameTemplate option in QueryNameWidghet    
@@ -339,11 +339,11 @@ sidebar:
 
 - __[Fix]__: Clear the value in a condition if the operator's kind is changed from "Scalar" to "List"  
 
-<div id="eq-js/7.0.8" data-released="2021-05-21"></div>
+<div id="eq-js/7.0.8" data-released="2021-05-20"></div>
 
 ## Version 7.0.8
 
-<div class="aist-article-updated"><span>2021-05-21</span></div>
+<div class="aist-article-updated"><span>2021-05-20</span></div>
 
 
 - __[Fix]__: Issue with FilterBar options    
@@ -519,11 +519,11 @@ sidebar:
 
 - __[Fix]__: Problem with QueryPanelwidth in subquery dialog    
 
-<div id="eq-js/6.1.3" data-released="2020-11-12"></div>
+<div id="eq-js/6.1.3" data-released="2020-10-23"></div>
 
 ## Version 6.1.3
 
-<div class="aist-article-updated"><span>2020-11-12</span></div>
+<div class="aist-article-updated"><span>2020-10-23</span></div>
 
 
 - __[Upd]__: Support string representation of `subQueryDialogHeight` and `subQueryDialogWidth` options    
@@ -673,11 +673,11 @@ This new widget allows to represent the query result set in several different vi
 <div class="aist-article-updated"><span>2020-05-29</span></div>
 
 
-<div id="eq-js/6.0.10" data-released="2020-05-18"></div>
+<div id="eq-js/6.0.10" data-released="2020-05-12"></div>
 
 ## Version 6.0.10
 
-<div class="aist-article-updated"><span>2020-05-18</span></div>
+<div class="aist-article-updated"><span>2020-05-12</span></div>
 
 
 <div id="eq-js/6.0.9" data-released="2020-04-30"></div>
@@ -705,10 +705,10 @@ This new widget allows to represent the query result set in several different vi
 - __[Fix]__: Extra parameters processing in list value editors    
 
 
-<div id="eq-js/6.0.7" data-released="2020-03-25"></div>
+<div id="eq-js/6.0.7" data-released="2020-03-26"></div>
 
 ## Version 6.0.7
-<div class="aist-article-updated"><span>2020-03-25</span></div>
+<div class="aist-article-updated"><span>2020-03-26</span></div>
 
 * Update:  **DateTimePicker styles**   
 Control's size can be changed by single font-size style of the root div.
@@ -752,20 +752,20 @@ lattr  property was not processed coreclty
 * Fix: Setting and removing aggregate function behavior in ColumsnPanel.
 * Fix: View styles for mobile representation.
 
-<div id="eq-js/6.0.4" data-released="2020-02-13"></div>
+<div id="eq-js/6.0.4" data-released="2020-02-11"></div>
 
 ## Version 6.0.4
-<div class="aist-article-updated"><span>2020-02-13</span></div>
+<div class="aist-article-updated"><span>2020-02-11</span></div>
 
 * Fix: Calendar appeared behind sub-query dialog.
 * Fix: Export all renderes (there were not visible outside).
 * Fix: Translations of menu items in QueryPanel or ColumnsPanel were not processed properly.
 * Fix: `userData` was not accessible in entity attributes (EntityAttr objects).
 
-<div id="eq-js/6.0.3" data-released="2020-01-21"></div>
+<div id="eq-js/6.0.3" data-released="2020-01-23"></div>
 
 ## Version 6.0.3
-<div class="aist-article-updated"><span>2020-01-21</span></div>
+<div class="aist-article-updated"><span>2020-01-23</span></div>
 
 * New: Make ColumnsPanel mobile-friendly.
 * New: Highlight input elements with invalid values with a red border.
@@ -792,10 +792,10 @@ lattr  property was not processed coreclty
 * Fix: Wrong event on `clear` in FilterBar
 * Fix: Drag-n-drop style in ColumnsPanel
 
-<div id="eq-js/6.0.0" data-released="2019-12-02"></div>
+<div id="eq-js/6.0.0" data-released="2019-12-18"></div>
 
 ## Version 6.0.0
-<div class="aist-article-updated"><span>2019-12-02</span></div>
+<div class="aist-article-updated"><span>2019-12-18</span></div>
 
 Despite of the version number this is an initial release of EasyQuery.JS with the new arthitecture and composition.
 
