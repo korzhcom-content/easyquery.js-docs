@@ -10,11 +10,11 @@ sidebar:
 
 <div id="changelog-start"></div>
 
-<div id="eq-js/7.5.1" data-released="2026-09-27"></div>
+<div id="eq-js/7.5.1" data-released="2026-09-28"></div>
 
 ## Version 7.5.1
 
-<div class="aist-article-updated"><span>2026-09-27</span></div>
+<div class="aist-article-updated"><span>2026-09-28</span></div>
 
 - __[New]__: When there is no license key, the license dialog tells you if a newer EasyQuery.JS release is available. See [The version check without a license key](https://korzh.com/easyquery/javascript/docs/tutorials/version-check) for what is sent and how to turn it off    
 
