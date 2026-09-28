@@ -27,6 +27,50 @@ sidebar:
 - __[Upd]__: The x-eqjs-version request header now follows the library version (without any prerelease suffix) instead of a fixed value    
 
 
+<div id="eq-js/7.5.0" data-released="2026-09-23"></div>
+
+## Version 7.5.0
+
+<div class="aist-article-updated"><span>2026-09-23</span></div>
+
+- __[New]__: Column resizing in the result grid. Column widths are remembered in the browser by default; to keep them elsewhere, implement the ColumnWidthStore interface and pass it through the columnWidthStoreResolver option (columnWidthStoreOptions sets the storage key prefix)    
+
+- __[New]__: Sorting by column headers in the result grid. When the fetch for a new sort order fails, the query's previous sorting is restored and the grid is not re-rendered    
+
+- __[New]__: autoFillColumns option in DataFilterView (on by default): an empty query is filled with the root entity's attributes once the model is loaded, so sorting and column widths work in data filtering too. Set it to false to get the previous behavior    
+
+- __[New]__: fillColumnsWithRootAttributes method in Query class    
+
+- __[New]__: ColumnsPanel, EntitiesPanel and SortingBar widgets accept a custom query in their constructor    
+
+- __[Upd]__: The ChartJS widget supports Chart.js 3.x and 4.x. Before, the Bar chart failed with "horizontalBar is not a registered controller" on anything newer than 2.x    
+
+- __[Upd]__: Requires EasyData 1.6.0 (@easydata/core and @easydata/ui)    
+
+- __[Fix]__: A popup menu scrolled the page, or jumped to the top of the viewport, when the page was scrolled    
+
+- __[Fix]__: The useMaxSpace option of popup menus was ignored below the first level, and sub-menus opened away from their item    
+
+- __[Fix]__: Changing the chart type reset the scroll position    
+
+- __[Fix]__: The Close button of the mobile menu could end up off the screen    
+
+
+<div id="eq-js/7.4.2" data-released="2026-04-10"></div>
+
+## Version 7.4.2
+
+<div class="aist-article-updated"><span>2026-04-10</span></div>
+
+- __[New]__: Dependent value lists. When a value editor has the dependsOnAttr property, its list is requested with the current value of that attribute (as parentValue), is not cached, and is reloaded when that value changes    
+
+- __[Upd]__: The default status check interval for async export is now 10 seconds    
+
+- __[Upd]__: The trial license dialog sends the application type with the license key request    
+
+- __[Fix]__: Keyboard navigation: scrolling a menu, activating a row, and focus landing on disabled elements (including disabled columns in ColumnsBar)    
+
+
 <div id="eq-js/7.4.1" data-released="2026-01-25"></div>
 
 ## Version 7.4.1
