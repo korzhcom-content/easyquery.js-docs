@@ -1,0 +1,34 @@
+---
+title: Introduction
+slug: introduction
+description: What EasyQuery.JS is, what it needs on the server, and where to go next — the live demo, a sample project, the docs.
+sidebar:
+  order: 100
+---
+
+import { LinkButton, LinkCard, CardGrid } from '@astrojs/starlight/components';
+
+**EasyQuery.JS lets your users build their own queries and reports inside your web app** — ad-hoc reporting, advanced search and data filtering, in a plain web page or a single-page app with Angular, React, Vue or Stencil.
+
+Your users get the power of SQL, even if they can't pronounce it properly: all the complexity is hidden behind a query builder that is simple to use and easy to learn.
+
+<LinkButton href="https://demo.korzh.com" icon="external">See it live</LinkButton>
+<LinkButton href="https://korzh.com/easyquery/docs/getting-started/from-sample-to-your-own-project#choose-a-sample" variant="secondary" icon="right-arrow">Run a sample</LinkButton>
+
+## How it fits together
+
+EasyQuery.JS is the browser side: the query-builder widgets, the result grid and the charts. On the server, something has to turn the user's query into SQL and run it against your database. You have two options:
+
+- **An ASP.NET Core backend:** use [EasyQuery for ASP.NET Core](https://korzh.com/easyquery/docs/introduction). It implements the [EasyQuery Web Service API](/easyquery/javascript/docs/easyquery-web-service-api) that the widgets talk to — it builds the SQL, runs it and sends the result back.
+- **A backend in any other language** (Java, PHP, Node.js, Python…): use **EasyQuery Server**, a ready-made server that comes in the EasyQuery.JS package and that you install on your own infrastructure. It keeps your data models and builds the SQL from the user's query; your own backend runs that SQL and returns the result.
+
+## Next steps
+
+<CardGrid>
+  <LinkCard title="See it live" href="https://demo.korzh.com" description="Advanced search, ad-hoc reporting and data filtering demos, running now." />
+  <LinkCard title="Run a single-page app sample" href="https://korzh.com/easyquery/docs/getting-started/from-sample-to-your-own-project#choose-a-sample" description="Angular, React, Vue and Stencil samples on GitHub, each with a quick start." />
+  <LinkCard title="Set up the server side" href="https://korzh.com/easyquery/docs/getting-started/asp-net-core" description="Getting started with EasyQuery for ASP.NET Core." />
+  <LinkCard title="Customize the widgets" href="/easyquery/javascript/docs/tutorials/replacing-datepicker-widget" description="Tutorials, starting with replacing the date picker." />
+</CardGrid>
+
+Ready to buy, or need a trial key? See [EasyQuery for single-page apps](https://korzh.com/easyquery/spa) and [licensing](https://korzh.com/easyquery#licensing).

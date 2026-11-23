@@ -10,7 +10,9 @@ sidebar:
 EasyQuery Web Service is a specification of the server-side API that handles  requests from the client-side EasyQuery widgets. 
 This API includes a few endpoints that allow you (as a developer) to implement some basic scenarios of advaced database search, data filtering or ad-hoc reporting.
 
-The only implementation of the API is available for now as a part [EasyQuery for ASP.NET Core](https://korzh.com/easyquery) library.  
+The API is implemented by the [EasyQuery for ASP.NET Core](https://korzh.com/easyquery/docs/introduction) library — use it if your backend is ASP.NET Core.
+
+If your backend is written in another language (Java, PHP, Node.js, Python…), you don't have to implement this API yourself: use **EasyQuery Server**, which comes in the EasyQuery.JS package. You install it on your own infrastructure; it keeps your data models and builds the SQL from the queries your users create, and your own backend runs that SQL and returns the result.
 
 ## Endpoints
 
